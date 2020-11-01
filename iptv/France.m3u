@@ -472,11 +472,11 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1PwWrQIGJLmlM8nMJC5U28iuXkOzE3F1qMEczg302Ylajnr+VGGYCqJ0Jg61Oj9etF5Xr7wbWBa7iO0TWJprMu4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/nrj-tv-fr-ch.png",NRJ TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Energy_TV_Logo.png",NRJ TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:KLorYI2ZqiKVrfwA120se9OHiA6cHTnkyaCSPAl6BuDC2DhJNzmA0MVONjNbORd3nuD7FkPoIxhsLVwlb0vHgqP2XgrhL54oPDgJEMicn+0=
+#EXTSEC:hBBT96Wo0rOnbepPmb2WfhIk7k4ILuXWOVL8LbhAw4AYxJy1Ol4/Uct9hxjok2xvapDeFJ+ARaR0JNe9mfqFalzJ0ECEn+0uD+qV6hrW5ky74zYXEZnemR2XOmBPBTs/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/nrj-tv-fr-ch.png",NRJ Hits TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/1200px-NRJ_Hits_2017.svg.png",NRJ Hits TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:FBr9+CWpE/ZJMDGGXtNPT9e25+Q5BKc/gJs8uxbF3qIbIMIqYnG0fxbqiBBc9itmvwEoPSC1f19//pL8duDZLRTBogmD5RaycpEr/PYfU48=
 
@@ -520,7 +520,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:yva2A486LyQCgVAB49MIWlzZxfhgMr7pSxOHBQ4ug6ZVY8+7lmiI0shXxSkdOYgA
 
-#EXTINF:-1 tvg-logo="",Generations TV
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/generations_tv.jpg",Generations TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:LmEPgduxjQa7CFxi/Fil5ueKl7iHfp/wKau/BJnt+Sm+YLKaolNHRoooOR5eL2al7b41DU+ToiFGRxTmq9gQmEGfsCLdnXvrKWm64mjaZUU=
 
@@ -540,6 +540,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:72AZ6G0AfR8x80MmY0TPAbLbBRrrUOdqrkqXa/CV1Sw=
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/HotRock.png",Hot Rock TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6KBW6BPOyiS0sDH/xlBM6c8oS9ZxdF9YNis/ih2Z9VeYZ/kCkAz2miXb/PCywdcBWE=
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png",Rock TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5df3HJ77mn46pTCUg9o6KKWTWCD56vFEQAPq81pzqxlJ5k6weTeUKOmFiokASSNGyqqSytVvAcQPVwANDTyxQA==
@@ -548,9 +552,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5DoN9sOtY21lrKW/7kx0zmObRSTD5pZTXUPhz4Y2iLxolmZs6c4YHN0UmqYsgwBRJH1rnvGiC8KX3xYuDFmXJg==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/tr/Number1.png",Number One HD
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s63639/images/logog.png",Radio Number One
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:5NWdph6noAWb5XQlbrQM1nTBBF+f3OiiBHOmU7XbVsOORc5S9cFvC8vXLc1g2k5SZepEAGqNfO/nIfQsgSTGE/5vNnRijJWQDo6e4hBglfBoyXVD6JaC9OX18j6um33iMFqf0pbU4mQKg6O2i+N/HLp9hOaC7cWVCPlKEFURccw=
+#EXTSEC:U/O6U6TKbTi6PTsc1dvAI945RQpd96zSNK/KuL28sKUMoiM8yaeSJs5KQQZgNEk6L0zh3LckYd6+18EN7cfFlVF4WYmado5AE2X7fkGGdYE=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/tr/Power.png",Power HD
 https://feedlix.net/videos/promo.mp4
