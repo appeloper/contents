@@ -1,4 +1,12 @@
-#EXTM3U
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/arte_fr.png",Arte HD (geo)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:qoDVKVmydrieqpnZ+56dO0v8EWpIPD/KH6nChdaQOaPz7DhBBi7dKiyGjG1wPRAN2OY2Iy1zs7IWJ99rJd1frd7tCECeLVbpFlQqhxx7Jz/75wfcJ/MmD6IS7c5bx3Lj
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/arte_fr.png",Arte (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:qoDVKVmydrieqpnZ+56dO0v8EWpIPD/KH6nChdaQOaPz7DhBBi7dKiyGjG1wPRANiUeWia9uyBNErVvCgMaPOd7tCECeLVbpFlQqhxx7Jz/75wfcJ/MmD6IS7c5bx3Lj
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png",TV5 Monde Info
 https://feedlix.net/videos/promo.mp4
@@ -67,10 +75,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://www.digitalstudioindia.com/public/images/2017/05/18/cpac-1.jpg",CPAC Français
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vsRcsEHUjXjZ2GmNpEVb1We+vsiiegX9YEGMeMN3vdoAbzF0jUYkpFZ/BA9nktryDzd1HPNJ7dqesjCqhCyG79IaXdetXZXIJHOENjaGXbef5ApAM9pol2/zwssHXAVh
-
-#EXTINF:-1 tvg-logo="https://static.lci.fr/assets/images/logo_lci.png",LCI
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Fn2yQRfRkeQ6YBS0TfxpEECP6dUx502Ro0hS/meCSFZN4/OKwaoZQA53kFl+u83OxgkQZpClwx7YvZWiSjBczQ==
 
 #EXTINF:-1 tvg-logo="https://static.lci.fr/assets/images/logo_lci.png",LCI
 https://feedlix.net/videos/promo.mp4
