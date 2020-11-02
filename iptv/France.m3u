@@ -727,10 +727,10 @@ http://listen.shoutcast.com/feedlix
 https://streamingv2.shoutcast.com/Feedlix
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/fm80.png",FM 80 FUNKY MUSIC (Radio)
-http://funkymusic.fm80.fr
+http://listen.radionomy.com/fm-80
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/fm80.png",FM 80 FUNKY MUSIC (Op.2)
-https://www.fm80.fr/#
+http://listen.shoutcast.com/fm-80
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0b/Nostalgie_logo_2015.png",Nostalgie (Radio)
 http://185.52.127.155/fr/30601/mp3_128.mp3
