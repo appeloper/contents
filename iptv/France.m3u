@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/arte_fr.png",Arte HD (geo)
 https://feedlix.net/videos/promo.mp4
@@ -535,6 +535,14 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/rmc.tv.png",Radio Monte Carlo TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:6iGcErIgmd4FtYrozydETyIasvZkWvq9FPETuN4imoeRexhCccemCD5fNdpUtnXU+3XDAPZbysrUM1eq+5M53vKBAF3KCgHbXjOmiSD0gEyXGOzwz6mDa9qMV+XMgiG6W9rAcb3jDTe0YztgfzCF6g==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/karibena.png",Karibeña TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SfA0J/m8//zhl7iy9Z0rsoEHslnm660JDvBivY9cMAm42Oi4ZTS7QQT0skHZgJeGlaOQVrAzRJHMjV2mt8c9xA==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/toplatino.png",Top Latino
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:mVkuoOT0N0rLZ4Iw7sgawfOQ4RRGtHHqhgHvghg35AVtLzmmJpU8LM8ncyOntvhZbvWKrKj43uS3lyJ2GrqqT41pCr6GccJAT47PaDhkcnY=
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png",One HD
 https://feedlix.net/videos/promo.mp4

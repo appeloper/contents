@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://feedlix.net/tv/es/tve1.png",La 1 HD (geo)
 https://feedlix.net/videos/promo.mp4
@@ -680,13 +680,21 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:oKWEKo9gp25IY+Y0vPedk92TOGuZSSt1ZL0sEq3CHpOtSdGO5AMveACYQ+S8Ar6RxHSyDWj8YIcHLgdWdMq3Pw==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg",Galicia Musigal
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg",TV Galicia Musigal
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:khBMbzg+JseUOaLnfZib2wI0UyYGVQw12GQwy+PmQlwEJy2HA0lZJlMb2De6j4f/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/IbizaGlobal.png",Ibiza Global TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:T1BRCSTycKucyNUdVFbibimw1BRZWSoE67fxAXCeON38iKxu3fl2snpSzqAv2hrGn+QKQDPaaJdv88LLB1wFYQ==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/karibena.png",Karibeña TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SfA0J/m8//zhl7iy9Z0rsoEHslnm660JDvBivY9cMAm42Oi4ZTS7QQT0skHZgJeGlaOQVrAzRJHMjV2mt8c9xA==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/toplatino.png",Top Latino
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:mVkuoOT0N0rLZ4Iw7sgawfOQ4RRGtHHqhgHvghg35AVtLzmmJpU8LM8ncyOntvhZbvWKrKj43uS3lyJ2GrqqT41pCr6GccJAT47PaDhkcnY=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/portal_foxmix.jpg",Portal Foxmix TV
 https://feedlix.net/videos/promo.mp4

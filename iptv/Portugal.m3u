@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPHD_monocromaticoAzul_horiz_RGB.png",RTP 1 HD (geo)
 https://feedlix.net/videos/promo.mp4
@@ -339,6 +339,14 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/mix24-7.jpg",Mix 24/7 Vintage
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:wOxw1BK9DD2rs1qSdjJh+6LszRGgs1wq5UxWb/VqZplkzcODKiveCFgXu29SG+9MoR6GmYCqt2n+nnUvQIHzZg==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/karibena.png",Karibeña TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SfA0J/m8//zhl7iy9Z0rsoEHslnm660JDvBivY9cMAm42Oi4ZTS7QQT0skHZgJeGlaOQVrAzRJHMjV2mt8c9xA==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/toplatino.png",Top Latino
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:mVkuoOT0N0rLZ4Iw7sgawfOQ4RRGtHHqhgHvghg35AVtLzmmJpU8LM8ncyOntvhZbvWKrKj43uS3lyJ2GrqqT41pCr6GccJAT47PaDhkcnY=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",Retro Music
 https://feedlix.net/videos/promo.mp4

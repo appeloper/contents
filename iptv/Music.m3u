@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/1_hd_ru.png",1 HD Music TV
 https://feedlix.net/videos/promo.mp4
@@ -368,6 +368,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:hFzBjunaSmadpQEYwVWFHqNuWlmwZN4bjSOyyPOGoujukZ1thDiSqw1C2mcM/TojZ6MOlYpQ1SD/DUHdpzOgxw==
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/karibena.png",Karibeña TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SfA0J/m8//zhl7iy9Z0rsoEHslnm660JDvBivY9cMAm42Oi4ZTS7QQT0skHZgJeGlaOQVrAzRJHMjV2mt8c9xA==
+
 #EXTINF:-1 tvg-logo="https://www.dogusgrubu.com.tr/i/assets/img/kral-new.png",Kral TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:BcmCpFfiGS2jMlgwdox77BATSA9TNCMwU3C4rGa8YpgnxKUdmR4wx1G55r6Mj4W/yqqSytVvAcQPVwANDTyxQA==
@@ -726,49 +730,13 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/toplatino.png",Top Latino
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:3VYbs8soocQ6qhh7vQO4NWzoSGQmS3bSnHaIk5a5JPtZCQWW7jkFq15vBbfMsA6cBv2JVO13A/AYvJt9DC66J+BqG6mQUtBd04aeLqd7vAc=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/trace_fr_africa.png",Trace Africa
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:goXhEpvN0xA6WqZpuBTUiM9m22qH+SRe9SDs635rRCBbZpoebH01znV5783j+GPLX2q1qjOVxjMjIWXQ3h72QpWjkFawM0SRzI1dprfHPcQ=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/TraceAyiti.fr.png",Trace Ayiti
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:gMXmyZsik4fFZnNeeFMvqaH8w/SQEKWaxw5EDbJTCOdVcue4YOVInnls22JNwknlr08u+uROvw4p/4W1Hg5kdJWjkFawM0SRzI1dprfHPcQ=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/trace_fr_gospel.png",Trace Gospel
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:gMXmyZsik4fFZnNeeFMvqaH8w/SQEKWaxw5EDbJTCOebickixPcPalxjB2c0r3Ada53DDlWqicIwGQr2VjLCD4OK4C+jreoWsJbS2kfCSuU=
-
-#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png",Trace Kitoko
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:gMXmyZsik4fFZnNeeFMvqaH8w/SQEKWaxw5EDbJTCOds6U3RKpYCT9RyGrocUbVUXsA6rSCcGVMlHUzTa8IHwIOK4C+jreoWsJbS2kfCSuU=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/TraceLatina.fr.png",Trace Latina
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:goXhEpvN0xA6WqZpuBTUiM9m22qH+SRe9SDs635rRCAzksGHotcSqu5C9Ta8j8YHX2q1qjOVxjMjIWXQ3h72QpWjkFawM0SRzI1dprfHPcQ=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/trace_fr_mziki.png",Trace Mziki
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:goXhEpvN0xA6WqZpuBTUiM9m22qH+SRe9SDs635rRCCKBOlwbRqm+4jT7nnoSAbZhfmUvjJrplLIVzZyXNiOxJ/kCkAz2miXb/PCywdcBWE=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/trace_fr_naija.png",Trace Naija
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:gMXmyZsik4fFZnNeeFMvqaH8w/SQEKWaxw5EDbJTCOdtL7DPLZC+YXhl5TeYNUj7X2q1qjOVxjMjIWXQ3h72QpWjkFawM0SRzI1dprfHPcQ=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/trace_fr_toca.png",Trace Toca
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:gMXmyZsik4fFZnNeeFMvqaH8w/SQEKWaxw5EDbJTCOffi4IdW0SaRIO01590LG4HhfmUvjJrplLIVzZyXNiOxJ/kCkAz2miXb/PCywdcBWE=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/trace_fr_tropical.png",Trace Tropical
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:goXhEpvN0xA6WqZpuBTUiM9m22qH+SRe9SDs635rRCBAnuB/0GL7z8x+2J8GXwP54yLm+xeXaRsZDm3nNAkAnO4OSN/UXYJgqyveVfJELAg=
+#EXTSEC:mVkuoOT0N0rLZ4Iw7sgawfOQ4RRGtHHqhgHvghg35AVtLzmmJpU8LM8ncyOntvhZbvWKrKj43uS3lyJ2GrqqT41pCr6GccJAT47PaDhkcnY=
 
 #EXTINF:-1 tvg-logo="https://ufa.hh.ru/employer-logo/2669786.png",Tugan Tel
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:liq4tPvn2ciJoNw6jUrZPJMCO9yibrywmXheBwIW7TuXr38s+glGer/W9wna5HiuMjm963qdw9UofIGPqP/eqJ/kCkAz2miXb/PCywdcBWE=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg",Galicia Musigal
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg",TV Galicia Musigal
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:khBMbzg+JseUOaLnfZib2wI0UyYGVQw12GQwy+PmQlwEJy2HA0lZJlMb2De6j4f/
 

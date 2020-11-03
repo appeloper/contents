@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png",NASA Public HD (geo)
 https://feedlix.net/videos/promo.mp4
@@ -888,9 +888,25 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:O3s5Zmml5bdffsPCBrftSiSYbRCBOBbNVHf3mABC2anSDrPcFxV4EN2UuUGVL4ay/6LXjuufBIvMMo8q8HqLiRDbrciKaQ9sCmqHv/17Te+PGx6q0Te9P/Ynm/GcptZW
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",Retro Music
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:hrNyxp+g3ZKeDvU3rWHd36Cnb+j/QWF1Ln9sQwt/aJZ6YBqfvWkoUEZXWP4Wc59BebAUpMCwWnqkw++zoW/TtA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/retroplus.jpg",Retro Plus
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:m4Vk91bHOM3RGb3YNfNdErkVorSSPqbgD1e3k9Syokru4X7lN7Kw7TIOmbg4NXtN27TBkBPNw+tudgSf+bhbLnyJ6l/UYgmG2tSVdYiBvhONaQq+hnHCQE+Oz2g4ZHJ2
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/lamega_mundial.png",La Mega Mundial
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:tAMGoNxOVOs6ou8BwXYLdFVpVujrAQbrODtvs1yDp6HNhPgIZLunGUKOZAvE5HgwIEIQHLyiy2h5WmQBY7XaNw==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/karibena.png",Karibeña TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SfA0J/m8//zhl7iy9Z0rsoEHslnm660JDvBivY9cMAm42Oi4ZTS7QQT0skHZgJeGlaOQVrAzRJHMjV2mt8c9xA==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/toplatino.png",Top Latino
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:mVkuoOT0N0rLZ4Iw7sgawfOQ4RRGtHHqhgHvghg35AVtLzmmJpU8LM8ncyOntvhZbvWKrKj43uS3lyJ2GrqqT41pCr6GccJAT47PaDhkcnY=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/4Music.png",4 Music
 https://feedlix.net/videos/promo.mp4
