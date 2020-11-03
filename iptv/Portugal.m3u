@@ -188,7 +188,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:afsFoKzfBiI4YPxcuPgIyUbVq72yACJJbbWOO2PDgQJ26DG2JBcX4XTvbdJGRaQa
 
-#EXTINF:-1 tvg-id="RTDoc.TV" tvg-logo="https://feedlix.net/tv/ru/RTDocEnglish.ru.png",RT Documentary HD
+#EXTINF:-1 tvg-id="RTDoc.TV" tvg-logo="https://feedlix.net/tv/ru/rt_doc_en.jpg",RT Documentary HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:KDUtT0a57FPsRWXo65sNqh4U8ixSYruoiz9O8d+UhJLn4oRveGxalJdEQ1ct0HcGlaOQVrAzRJHMjV2mt8c9xA==
 
@@ -287,6 +287,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/id_fashion_de.png",ID Fashion
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:DNgcgoyTiH+n/uQfrv8/eT2M58oxVkFsMWsOIUX5uWm4HhhdKuWjRe350C4xAapSIrxwXOVzAmaPvUdrR3TX4Xnc0/b7kMaNe2KYbzwivoY=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AHmnFAw.png",Fashion Channel
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:OBXHcF40DSP0xQmYvXEfa6J04WXRrcQbOG3JRry39FGMjBECaPoQmOWA2mSH1H8aKLn1e+RAMnETkqfpFH2daXrzzhmOlSkMp3ayPzpt26K6fYTmgu3FlQj5ShBVEXHM
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/JasminTv.us.jpg",Jasmin TV
 https://feedlix.net/videos/promo.mp4
