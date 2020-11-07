@@ -152,6 +152,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:j+ne8d2oY9KXcW66JuT/HPp25qxXtxDlcquJ7kC51uJJjLSbB5SWmh222arz8v23v7dVEd8d6ZuPSJ2g8x5UOO4OSN/UXYJgqyveVfJELAg=
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/pbs_kids.png",PBS Kids
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:fGwtDb4yPLOSy4HDvXJuRRe/roVbBC/kAjqxepX0eDnwrNskZTgOjAGWjHqrr/L7hWPxBuyww0pqErzvKYRTW8kCHBfd3xQH4r2VH1A1GEg=
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=320&height=320",Peque TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:gA+wviMAipjoR2Ph7344QW60vBotUyYOOoblgWaY4rTrO9tRhSNClK7ieKj7c63sKavsePmecLOiv92R2by1ng==
@@ -183,6 +187,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:RM/mO/46lRfU+Mz+9M8w8SYM4Db+12vsGZckev1gC8klra4+CY4txLM2Wvccm7d53cXdhbLa3/9IfcHyuWuo+cv6quKKojvynO3GjuWGcOvJcsKMa/rlkO7yR4mBwxMX
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ca/tvo_kids.png",TVO Kids
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:vsRcsEHUjXjZ2GmNpEVb1We+vsiiegX9YEGMeMN3vdoAbzF0jUYkpFZ/BA9nktrycsH4OUd8QPL9+OBa4lO/x51Uw1IJXMIZMMgEwt7siihV+A4MfUblj653VvVRg43G
 
 #EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://feedlix.net/tv/pt/ZigZag.png",Zig Zag
 https://feedlix.net/videos/promo.mp4

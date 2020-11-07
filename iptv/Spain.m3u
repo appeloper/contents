@@ -492,7 +492,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4T7TlJZnpbrQErLkUYWtIsw/UmQQAWb/oBARyVzaHBLgJVmuo5ApUQQD2pK7SNi6NfvXaElYzMLQNRmODUxrT5WjkFawM0SRzI1dprfHPcQ=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1277487496826425345/FRkZKIGE_200x200.jpg",PTV Córdoba
+#EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/ptv-cordoba.png",PTV Córdoba
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:8Zk9ZUxzJGsnvs+uBI3apzQwDB+G7Gp6dFewB3YsVLiVlOx6zRNW7wKA+c4kd290g4rgL6Ot6hawltLaR8JK5Q==
 	
@@ -695,6 +695,14 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/toplatino.png",Top Latino
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mVkuoOT0N0rLZ4Iw7sgawfOQ4RRGtHHqhgHvghg35AVtLzmmJpU8LM8ncyOntvhZbvWKrKj43uS3lyJ2GrqqT41pCr6GccJAT47PaDhkcnY=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/top_music.jpg",Top Music HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:h35gRvKXfBVZLlGdOudnkSxrpyeaBiB+8h9SZ92C0PvGEQmTV8qjSp/S97663cEFrucr2o+OCoV2CEp703RhDsdZjert8eVM3X+byrv33mWchTWhbtaP3AqA/swLYewmfjJbh3wDkZWh8RxuGCvEgA==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/latido_music.jpg",Latido Music
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:achkSdfigse+j2zAI+vIQ75YGT173zlrxFFvEyi0cGEU9MIxQAetLCzpdhtskFZbqpzxeP9W52kL+ju2vqvUpslJigVpRjkb4DY6VVTuyRuf5ApAM9pol2/zwssHXAVh
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/portal_foxmix.jpg",Portal Foxmix TV
 https://feedlix.net/videos/promo.mp4
@@ -935,10 +943,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://static1.squarespace.com/static/57e016db6b8f5bbe95acde7d/t/5b620bab352f53819eb8df27/1533152171765/2017_DSTV_Logo_Silver+2.png",Dancestar TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:YYsIWAr0BSTLgwhr/2zBdwpT+3hjn4vjgQw+GVpEs8rfVwsbxWCcG60ArsFA2pBMI3LCZFpM1Jk1ZTR92TXSJ5/kCkAz2miXb/PCywdcBWE=
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Livecam Calle Alcalá - Madrid
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:p+JRqJHM/VpaO9bW7G1XwDMlKrQXXBfSvUJSZ7ATpgDxZfsR5Opq09Isg02Z37RGWY13inGSpmfA2n0q0PEWEFLj64wAmopSu/yz5AyhvxQ=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/iss.jpg",International Space Station
 https://feedlix.net/videos/promo.mp4

@@ -664,9 +664,17 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:eXOhOXf6hSC2Bhwaxh5Y/af1Nc2EMCGOCmEAdgXzMfw4+MNAfAa5LxWXlPv2/1WnUXczIR57gr5rbgbshfLbZ3enw6HnAN1SLSK4NrGV5dKpGnP54ZW5MM6XDRTvvRzc
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://caixapreta.pt/logos/NRG-91-TV.png",NRG 91 TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/nrg91.png",NRG 91 TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Ot7bBxMLqYodXRj70dBeb+YF+wHRwvQFPidlmczEzQjMhP4srp1dhgdBp6FPP3tu
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/230-2305091_deejay-tv.png",DeeJay TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:itdayVVNYIl43OGFgZVPliUxmJ7LayZX07z9IUF/f9+KNSzCO0i8meEdTDdI1qWFPBYQ7YPxAxfTB3QsY5+HHo2tzH8siplEVUa5BFcQKBM=
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4fun-tv-logo-5EA29A36E0-seeklogo.com.png",4Fun TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:sUBanA+XO4/aktM/TQhhdamoOPnmN4thSs9OCXw9DpdsS/J1krea/r/PMi1rmI5Zn+QKQDPaaJdv88LLB1wFYQ==
 
 #EXTINF:-1 tvg-logo="http://kiwi.racer159.com/site/images/channels/beatztv.png",Beatz
 https://feedlix.net/videos/promo.mp4
