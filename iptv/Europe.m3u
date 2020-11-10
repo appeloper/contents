@@ -276,7 +276,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:iYapJ2XHvW7e4E9lfxAaXwFRmaH5ZwXbjyukdn2q32SCR5dr2rV1JkgYLFGwNCo7GFoxK0y3mnubC4FWfGCyQ97RQXRMBZ45m2ZkLtK6W4PEGbycyaWSPNKTssq8x1myzZnyNHzYjVrDpFax1rXuGg==
 
-#EXTINF:-1 tvg-logo="https:feedlix.net/tv/eur/een_tv_be.png",Een (Belgium)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/een_tv_be.png",Een (Belgium)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:iYapJ2XHvW7e4E9lfxAaXwFRmaH5ZwXbjyukdn2q32SdDHgpHjla+E5GTv0Xvl9sdQOd0u2Fl4t6yN7udp/VRnTCP5X1vUc5vtE7OfFRaU7EGbycyaWSPNKTssq8x1myzZnyNHzYjVrDpFax1rXuGg==
 
@@ -292,7 +292,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:liq4tPvn2ciJoNw6jUrZPHtGmsVRGw7iV9UV0xJ8rIUnjRNpyRarFr0d6p/CVl91hZ36alMCVzdBITZD0Y8ldrAYsqZCL6NMpmj0SYxX1C8=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rcfUiWV.jpg",Bruzz (geo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rcfUiWV.jpg",Bruzz (geo, Belgium)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:heoxeX9qpbfGj7E2bREdXG2bBjcE1z8Ru7kN4PyKqHqVceVoC1gicu3timfcI43jnLTXP/q9HVf+l0hLMPb1h1APJ6NBP4si0rFuhR3tu/2P752gX5kYLGtT6QnS0sPZr29FJY6w0uz3y1Xto4h62A==
 
@@ -336,15 +336,15 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:FBr9+CWpE/ZJMDGGXtNPT9e25+Q5BKc/gJs8uxbF3qIbIMIqYnG0fxbqiBBc9itmvwEoPSC1f19//pL8duDZLRTBogmD5RaycpEr/PYfU48=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RMjFeGE.png",Radio PROS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RMjFeGE.png",Radio PROS (Belgium)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:RfRSo3eI4XpsTt+ooXoAiyQwauZK/GvtJhzFIKPZBEkFSlB3rkvoSehPz6z/z5FpVeXV8f/rvaUrbAZ74notm69vRSWOsNLs98tV7aOIetg=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s0CZjmi.png",Q-Music
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s0CZjmi.png",Q-Music (Belgium)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ucdqwV0qpP4zmlQm7gMSAFot9j/q9De8SFUPM/VwjdJLjGD9+V6EsUxOmYmFO6+6HbXYQJvU9jlPrZ3FSjn2o+4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4jfSTKz/contact.jpg",Radio Contact Vision
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4jfSTKz/contact.jpg",Radio Contact Vision (Belgium)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:SBRpsSImASekBmrgjoZQGSSYbRCBOBbNVHf3mABC2ampEZYLCUdGv1JzHXGvmAncFtZGDBWL+ihqov6qC24AGA==
 
@@ -360,29 +360,21 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:7c2oCqgzUjOA2oxBdW+MGZp+RZb+uU2xGiLVxtyE2QYI1RIZcghPulZp3JEBimQbJH1rnvGiC8KX3xYuDFmXJg==
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/fc/BTV_BUL_Logo.png",BTV HD (Bulgaria)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:bS23cD8MIF63kd4nnC4wBCuZKU6HhrLkjYOZZKX7l3XuDkjf1F2CYKsr3lXyRCwI
-
 #EXTINF:-1 tvg-logo="https://www.pladi.bg/wp-content/uploads/Bulgaria24.jpg",България 24 (Bulgaria)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:X/0YnjAkUDaMeHXlXir3zn95HvNvILolTNz5BbKy/vhF0O1o1j15BIjIanrg60IQ
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/BNT1.png",БНТ1 World (Bulgaria)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/BNT4.png",БНТ4 (Bulgaria)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:6GQ8XFXqQm3yj6JpGxcrqoUNFXy5xRs4i5APjsiUn/60N7tuXx9VDPn7vmTinvjzV++ejjH3qP5xXgCDvziYZ0MFNyDar8JF5sqdoVOr6GHyhJ9GGdWh+oAsepJgedAHeWPhFdyn4fjHnbvgUymkGyn1kqiFnAbaruv5OPzLRVLslZbQ/YkP9Ff8y68z8ddV0qj+VLgOt0frHeJCOxibQghdIDioPWAVBSIP68pvkTe6fYTmgu3FlQj5ShBVEXHM
+#EXTSEC:6GQ8XFXqQm3yj6JpGxcrqoUNFXy5xRs4i5APjsiUn/60N7tuXx9VDPn7vmTinvjznquN3SLAF/I/aeKBidFUj2j1XiIOAXz8rIY5rkQmcqAIgzO16AA87/0jjqELZiCzh9RIU0hCYaNrvtC1kb7iVIDajn6GJl7g/yCo219Dhx7nyXIWoOGIVgI6MYWDFsuQi6CZsL6XjHTe+gCUb6G8V902Q0Oatr9QJFFmvZS7jwy6fYTmgu3FlQj5ShBVEXHM
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/tv1_bg.png",TV1 HD (Bulgaria)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:wNZKCRe3mmGJs5QYd9MKxg/uJlVWCaCsDOD9aABflMDjpWu2mSCwHrMdHvpyKettdx1Pqk8YpKzlYXFYSng7BQ==
+#EXTSEC:wBGkXgy/JWo8rG8SHdmaJ4vohKJd5LLr8ebJSZoniutzV36y6T2nIMuUB4JXLClg
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/bal/btk_bg.png",BTK Военен ТВ канал (Bulgaria)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/bal/btk_bg.png",BTK Военен ТВ (Bulgaria)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:hGYJvG7fUrLrRO+pl73yKE4GA5oeo9Sht0fVbHM0HcK7fyLoP/mnfnsM43ye3rh+nmUhogxenfBAljk7T9J+Og==
-
-#EXTINF:-1 tvg-logo="https://duma.bg/images/2020/02/28750.jpg",БСТВ (Bulgaria)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:E6OFie07LmF6ttcFmBbtFWn8I2ZArlX2Z7ZzxHdAT56oWm/DzN+OmN12Xhndu7Azk55lcWkeKLdcMxQXb7uM9g==
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bg-kanal-0.jpg",Канал 0 (Bulgaria)
 https://feedlix.net/videos/promo.mp4
@@ -390,55 +382,51 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bg-nova-tv-8982.jpg",Nova TV (Bulgaria)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:bUfKPKp1dNVgma+zMP1IHUixPIYIY30Tf/opxJdGczDrtW1G46uXSExlhFpzg2k+gGNZ4VqmMipG4U4Ydxqp1WhD4s5pQXTvdfYlylDgpAG6fYTmgu3FlQj5ShBVEXHM
+#EXTSEC:ae7WDWX9pXqVeycJXlg0ZbQN5h3dRyO3ko9oxM84vD8Ip8s8fdiX1GpwUt0SMoE3bjPJERbKK1YQaWrluQGWPWj3bPVjrbfpzDvHzEZ96b3IheAuOtPyJCEzOPrE3I8Wxcc5vGw2Cm1KRBYA9oFPsA==
 
-#EXTINF:-1 tvg-logo="https://bulgariasiti.com/wp-content/uploads/2015/04/rimextv.png",Rimex ТВ (Bulgaria)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/rimex_bg.jpg",Rimex ТВ (Bulgaria)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:cleRAzOGgu29F0psQSQayDg+nqln+UmIXDhqulEAAU5crme3Zfz8Nayg6sSJsLHSmkB6hFPySY7h6OrjvT7g1Q==
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Alfa_TV_(Bulgaria)_logo.png",Алфа ТВ (Bulgaria)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:npDHgj6ugODzKL2rasQn/9ZwpyIr3bBBGqfjP0HUZ+l02MOD2QAUDwZYH81wTeyiuGCvV48CrrOTyGJhqDtO5A==
 
 #EXTINF:-1 tvg-logo="https://www.lightchanneltv.de/img/logo.png",Light Channel (Bulgaria)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ze200/baQdA86lHkfoGXaVhgzTEaS6N+0YoBwRlyHDDUzBjfvG+j14sTBwD7AORLpSfQrpAJZnD0ea5fRVvbdw==
 
-#EXTINF:-1 tvg-logo="https://img2.novini.bg/uploads/live_stream_pics/0/big/709.jpg",ТВ Европа (Bulgaria)
+#EXTINF:-1 tvg-id="TV+ BG" tvg-logo="https://i.imgur.com/W074hkS.jpg",TV+ (Bulgaria)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:CLxOZiUTzuXAt9FhdE9ERvyUg4iIoh3OBZ3FwLsLUOjxPn6doS43dX+XaqQq2ujX09fRtnZ+bGk+C+qXcnXg6J/kCkAz2miXb/PCywdcBWE=
+#EXTSEC:FIICv2tjoAZ4RFqSyd5LeUH59oYwU2no/ZILPv7tcVIeAwSI9PcJ5WoaO/6IHjV2
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Mkkxgwh3fpE/Xb2M0SLQkXI/AAAAAAAAPFc/DiNb25Zmkkkhkm5N_mEL83408AES8OKNgCLcBGAsYHQ/s1600/74163393_111235143647231_8322946222151172096_n.jpg",7/8 Седем Осми ТВ (Bulgaria)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/eurocom_bg.jpg",ТВ Евроком (Bulgaria)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uxSyEpA3cLH10DaIhuaTHuf//aJCz+MGXUHN6v8MZYB53NP2+5DGjXtimG88Ir6G
+#EXTSEC:p1hnf7VOIRO9AXOzMoryD1Tkfokgd32TkfcGibnTHWlTp9tOTQ7AtwIW3jUV9Ydz
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/wness_tv_bg.png",Wness TV (Bulgaria)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KO1t2u3WPxg3S2YMMe0KtPhR4wNaz8yknPkJgsaqXJYC/On8vNuI2mWpGkjzkiOyaruw2s7/pAEJVgA8thsaOTcNb8eUAL1Vt05GU6nhaTfuDkjf1F2CYKsr3lXyRCwI
 
 #EXTINF:-1 tvg-logo="https://oklivetv.com/wp-content/uploads/media/1152adbf74a88962f51c1335096742c4.jpeg",Stara Zagora (Bulgaria)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:g/AWB8xi0+AVOV7hZqBD1aVBOG2sro4exFmREDH9Fd7XxqajGPE5gNxCtYUPg5vj
 
-#EXTINF:-1 tvg-logo="https://prnews.io/content/platform/3855/logo.jpeg?1576515205",BG Dnes (Bulgaria)
+#EXTINF:-1 tvg-logo="https://www.luximmo.bg/author-images/big/42_1.jpg",BG Dnes (Bulgaria)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:AfpP89iukJ0U3cri7estnB4PSuxgFWcDp5rHt1fNDmY=
 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/cherno-more-Bulgaria.jpg",Черно Море (Bulgaria)
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bg-travel-tv.jpg",This is Bulgaria HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:7c2oCqgzUjOA2oxBdW+MGSKo5Rwhv1yibuU+L0ZGm9gsJHnyfkKkLETw4iBsbi6BJH1rnvGiC8KX3xYuDFmXJg==
+#EXTSEC:OHvhJFxnIAYKEy6qyBoBhDI2LRGpZxRX0ncTyrpBqvshdCS2pmZbsFj76iEMY6f5CIGO+41HmV3utJpV2BcclA==
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/__T6E5Xg8j8/maxresdefault.jpg",Канал 3 (Bulgaria)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:G/dXykboXGOyzU05FV4DtzLNkJ3YOEgAPdzTnIZLjBqOVq+mHusFPlg4h3u6cKfT2J9qMSASb/Q3LfwijCFpTJWjkFawM0SRzI1dprfHPcQ=
-
-#EXTINF:-1 tvg-logo="http://www.predavatel.com/bg/tv/images/tvt.jpg",TVT (Bulgaria)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:bS23cD8MIF63kd4nnC4wBCiYH0NgrFhrKtdv23qzEFmVo5BWsDNEkcyNXaa3xz3E
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bg-travel-tv.jpg",Travel (Bulgaria)
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bg-travel-tv.jpg",TV Travel (Bulgaria)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:OHvhJFxnIAYKEy6qyBoBhDI2LRGpZxRX0ncTyrpBqvv+sTV7E5mARGWJ5R79lXy53ZgsO+Uc+LeiH0ZwT/4QUQ==
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bg-travel-tv.jpg",Travel HD (Bulgaria)
+#EXTINF:-1 tvg-logo="https://duma.bg/images/2020/02/28750.jpg",БСТВ (Bulgaria)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:OHvhJFxnIAYKEy6qyBoBhDI2LRGpZxRX0ncTyrpBqvshdCS2pmZbsFj76iEMY6f5CIGO+41HmV3utJpV2BcclA==
+#EXTSEC:yzS3k4+zdHHfERWhj5C7o2n8I2ZArlX2Z7ZzxHdAT54nO5Fk/KZudit0MX1MURA6j6XqENrtpT9KDtjU0egXFsXAMRctJrkyoQY6BBYtBfDARQUv84hnlbEBFbbmrQFs
+
+#EXTINF:-1 tvg-logo="https://kickmedia.tv/LolliP/Lollykids_logo_last.png",Lolly Kids TV (Bulgaria)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:xHZbsr03wmp01/JzlOdVtQ8UFcg4hchkA4YfMC6kvtE6f3Bqq8ppWtk9JM5SCYzBh349jlxCUY24r8Wo8E0fEpWjkFawM0SRzI1dprfHPcQ=
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bg-sportal-tv-1079.jpg",Sportal (geo, Bulgaria)
 https://feedlix.net/videos/promo.mp4
@@ -448,25 +436,25 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mvg3cCCHIcH0WMic7Wxr7ttazwgLTq4RdNBLXeCbxtZr7V4zFuOfZD9rW3/vCXZJ7g5I39RdgmCrK95V8kQsCA==
 
-#EXTINF:-1 tvg-logo="https://kickmedia.tv/LolliP/Lollykids_logo_last.png",Lolly Kids TV (Bulgaria)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/code_fashion_bg.png",Code Fashion TV (Bulgaria)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:xHZbsr03wmp01/JzlOdVtQ8UFcg4hchkA4YfMC6kvtE6f3Bqq8ppWtk9JM5SCYzBh349jlxCUY24r8Wo8E0fEpWjkFawM0SRzI1dprfHPcQ=
+#EXTSEC:DOAm4EDcIDVhBF+Jh0sWmCGllSnOlOy3a06FGHcurxCFkuuJ4eRGb47mJo6fEGmo1zrL1cPQukhMB49iB9ppAg==
+
+#EXTINF:-1 tvg-logo="https://bulgare.net/wp-content/uploads/2020/03/TV_Bulgare_logo.jpg",TV Bulgare
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Od9mh0J5lTER6zYD+YraOQnF/KLtmxMDpAAk4c90D92KMISyNc1DQZsHaTImLQMW5o8+DbqjjuALQ3Fc1jXr6w==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/htv_bg.png",Harmonia TV (Bulgaria)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5Q1x2Tl92PTc1GReiOsgs1Juwtkmk+JzBmtu7uvnSOx7xRuJLc/scZgk2jf4C74ZTacGiBnxvq9IJIBPmwa+x/ru58kdyiySMk9geBsjK9YBP1R62lN5IvYpNvn44h8s3Oigb4/cnp6ORaggO6oFyg==
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/bg-eurofolk-tv-3064.jpg",Eurofolk (Bulgaria)
+#EXTINF:-1 tvg-logo="https://www.cem.bg/files/154712986512746.jpg",Tiankov ТВ (Bulgaria)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:mSRUI3/CSZNGqq+y48DKHtvdowISjI1vCf323ljsOhg3hbS+K1acgd4paccngc2aTURIyjwtL37QHC+TvqmoM/R0nFdBzZ9k2cwLeiFtS7Kf5ApAM9pol2/zwssHXAVh
+#EXTSEC:ze200/baQdA86lHkfoGXadRHQYQC1Aeec87wzmxZc3U59WbPh2uXQqBYiS4wDhkeRjG6y4Bwstfw3RzwRaHyJvG9Gbs6E4XNrYoJML8g89XzdF03mMRRHbfa+1geVZn2OReRe0Unkr7eOOjwP1qIUw==
 
 #EXTINF:-1 tvg-logo="https://logos.kodibg.org/dstv.png",DSTV (Bulgaria)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4XWBkmQ3t34nAbWFFXE4Gf+91K8gh3VyzpgRoEBm/8z06FENEZer+t0g7bzzuv0t
-
-#EXTINF:-1 tvg-logo="http://tvbulgarialive.com/wp-content/uploads/2019/04/ROMATV.png",Roma TV (Bulgaria)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2WjP6g0S8s9v12UhG4JnhlJn2Cs4xdDBOxocn+sE9rY=
 
 #EXTINF:-1 tvg-logo="https://alfabass-tvfree.do.am/_si/0/15673179.png",City TV (Bulgaria)
 https://feedlix.net/videos/promo.mp4
@@ -474,47 +462,63 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://test.balkanika.tv/wp-content/uploads/2018/07/logo_Balkanika_kvadrat.png",Balkanika (Bulgaria)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:bS23cD8MIF63kd4nnC4wBNMmWEbwEsbJaBK1KLLjTXvy+ZqEno7wnuSroRJLaCMr
+#EXTSEC:g4xCfOv68QRk5FKkzT3NAOSgPj5gWmcLarkNwJAIgOoLMxE9C+ECMxSf7xu5J2Ai
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/V2Beat.tv.png",V2Beat (Bulgaria)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:WIJ6KphyuFIMwTpysSsBUdDZsLGFkJZ+SIk5WtSxLh1F5SJA/ipwwW8JRNOYSZZR7g5I39RdgmCrK95V8kQsCA==
+#EXTSEC:0XwRE4eK6rou4CUKD5yYBVC6toUbWBz+xZe3/7ArW9QGAUyIQ/nkyL2SkEbhFC1S7g5I39RdgmCrK95V8kQsCA==
 
 #EXTINF:-1 tvg-logo="https://www.predavatel.com/bg/tv/images/mm.png",MM TV (Bulgaria)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:zoLdek/XPU4DDCjbvFD7tVxgJ916Y3MLz0aU4QGBzTpuZ2uXWbqsq5IFjzeCF2akpuFbvng4ODR/a1punDQ34YOK4C+jreoWsJbS2kfCSuU=
+#EXTSEC:ze200/baQdA86lHkfoGXaXc/zdSUemYpmo20VshKsqvgfCiClcaPlrN7iKuKPSLR4KF+V5C9oOvaGuaX3M8jWWKGA7iP0awHn5XkrsfU7AmTQLOEwvmUijCB5z7/auyo
 
 #EXTINF:-1 tvg-logo="",Livecam Varna Center (Bulgaria)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2O8O43sf3BLkaaYGkdYYyZM1x1HBHGDxO8qRvGB3rkDzDXU50LF3D7muBRLwTniR
 
-#EXTINF:-1 tvg-logo="https://zipzap.ba/wp-content/uploads/2014/12/hrt1.png",HRT 1 (Croatia)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/hrt1.png",HRT 1 (Croatia)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:2yNPlWM6Mq8d4+MXEM0PLnlvqlALyOfm3c7694MIMfppxe4jMIlqy9CUbE5rTg7camN+/rCfDOYdXR2kGRWBUg==
+#EXTSEC:2yNPlWM6Mq8d4+MXEM0PLkxq+SdpVQ/p8I1EiUsArNZpxe4jMIlqy9CUbE5rTg7camN+/rCfDOYdXR2kGRWBUg==
 
-#EXTINF:-1 tvg-logo="https://zipzap.ba/wp-content/uploads/2014/12/hrt2.png",HRT 2 (Croatia)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/hrt2.png",HRT 2 (Croatia)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:2yNPlWM6Mq8d4+MXEM0PLrhV5UeuwOwqp8taMus9ABLgONquerOmNfdliuhbxqMCamN+/rCfDOYdXR2kGRWBUg==
+#EXTSEC:2yNPlWM6Mq8d4+MXEM0PLkxq+SdpVQ/p8I1EiUsArNbgONquerOmNfdliuhbxqMCamN+/rCfDOYdXR2kGRWBUg==
 
-#EXTINF:-1 tvg-logo="https://zipzap.ba/wp-content/uploads/2014/12/hrt3.png",HRT 3 (Croatia)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/hrt3.jpg",HRT 3 (Croatia)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2yNPlWM6Mq8d4+MXEM0PLkxq+SdpVQ/p8I1EiUsArNYl321aHo+zSJODzgkgeAUPamN+/rCfDOYdXR2kGRWBUg==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/hrt4.png",HRT 4 (Croatia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2yNPlWM6Mq8d4+MXEM0PLkxq+SdpVQ/p8I1EiUsArNaxWZrnMygVOYBr3y9Mx7WYamN+/rCfDOYdXR2kGRWBUg==
 
 #EXTINF:-1 tvg-logo="https://static.radio.fr/images/broadcasts/16/95/5225/c300.png",Banovina TV (Croatia)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:7vGp8iOtiroGaiB4W859XjR4D4TU+C/wsFs1ZBYe7HmkksbBqxnKdcV2alQdi5V3CIGO+41HmV3utJpV2BcclA==
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8eH5zN.jpg",NewsBar (Croatia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2yNPlWM6Mq8d4+MXEM0PLkxq+SdpVQ/p8I1EiUsArNYaEDeRFaCuXhJwOqUwvVr7amN+/rCfDOYdXR2kGRWBUg==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdaxFrx.jpg",Z1 Televizija (Croatia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:G5dKyBgcAe9dzMWdMakhRlVlGEHS34NWYIw3h85yhi+x/rR3PGUXcKtw4XhaJO3hcCy5x+Lacq1mOE9I2IqZU/T95dIuA7k0ma3IMeBj42E=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/stv_croatia.jpg",STV (Croatia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:q2mWg4yjh/IqViEaDjkwun9KI1xLQNtyo+Z+VxREgkYdwXKK6j7g0Ook35TJ6NrO
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/brt2.jpg",BRT 2 HD (Cyprus)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:SlBbcDYF9ur7SwL1gXvWMeOGF5SK6eTqWvZJFiBqkGItAwosWC7h0XSa9yvSzDfo
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/brt3.png",BRT 3 (Cyprus)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:SlBbcDYF9ur7SwL1gXvWMeOGF5SK6eTqWvZJFiBqkGL9ErdopR1UhuDCcWfcZfwM
+#EXTSEC:SlBbcDYF9ur7SwL1gXvWMeOGF5SK6eTqWvZJFiBqkGJSNVfppRu5riR2iMS45UeWk55lcWkeKLdcMxQXb7uM9g==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/sigma.png",Sigma (Cyprus)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:iEHH1ROD7RQ6LtSRdXn73pX7G+LkhErCVUODeUFIK9g=
+
+#EXTINF:-1 tvg-logo="https://mediapool-content.de/wp-content/uploads/senderlogos/10051.png",Pik Sat (Cyprus)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:tS7dKPUN2Dy41OllBmu58TKIA780KsJbrkODf8UEEhzKbHFYgQYD0SadW2R9liCmzgFh6xh6ejPACHVSwlf1e0++qTu7+DWA+AGCtVpLwaRS3N3Ep3B2n7b/Y6Nepa2R
 
 #EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/618/ocko-expres-1.jpg",Ocko Express (Czech Republic)
 https://feedlix.net/videos/promo.mp4
@@ -530,7 +534,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/news/ockostar655440.jpg",Ocko Star (Czech Republic)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:x8NVMv6ngP+2aDb/X9KpXf74SHQL5H7nnN/2t8BFK7K37ti8LwyInU5ypkyAULbf4BlloZWLKHwg2p7pzY8WAA==
+#EXTSEC:SA7Xj4t7PIGtwmU8XwDpfPwfgDl+T+EVv9m/BO01IGyNYby/W1AndaiGIkIk3ppzR+kv99GsHS8bodegktBvRn+OMk4kwKW1FbvPE42S9n0kfWue8aILwpffFi4MWZcm
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3055217408/a5421a501ccfcc705c5ea69ff102b097_400x400.png",Ocko TV (Czech Republic)
 https://feedlix.net/videos/promo.mp4
