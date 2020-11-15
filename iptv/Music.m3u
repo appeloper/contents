@@ -8,7 +8,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:0khQBJiFlwJPo/dej1okFFfYcbVwaI8NZb5tXN0swR8=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/1music_ro.jpg",1 Music Channel RO
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/1music_ro.png",1 Music Channel RO
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/hGQkjU6bGW5n+Nx0gGrm7rvna5c6RobxhcuQg4FOwhRVjgR+16KpSDMftAkC+9TiYb3WRoDSK0dQDL0rWG46SR9a57xogvCl98WLgxZlyY=
 
@@ -476,13 +476,17 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5vCgt5+OKtTW8MnewoblDPS/bUyBzSnmep1kfROTAKI/OYF9MurgxKSwm0bFYrGRHRE+OFvkSJipCpYjCIAFqBDQa664675P8IL03eP7v2OYit3Ufa9naG+Fa0I7k9Pg+bo2vwAYdg2JvpM/WuAmhw==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/mooz_hits.png",Mooz Hits (geo)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/mooz_hd.png",Mooz HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Tvp/OvU1nlR8LxUiBLpmP3jD/mxFJCnN2Y8+pNeyrhPZJub7PcRNlVhaja67ZRpi+MVOVDz2tOb40au5WOJ0BA==
+#EXTSEC:5vCgt5+OKtTW8MnewoblDPS/bUyBzSnmep1kfROTAKI/OYF9MurgxKSwm0bFYrGRf5b4dji4l71lIMdqv3ajOEJ71T4wwYb8+nbM6H+AyiwTJpeOurfsNCdJIJFQc6sh
 
-#EXTINF:-1 tvg-logo="https://mooz.tv/site/img/mooz-ro1.png",Mooz TV (geo)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/mooz_hits.png",Mooz Hits
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Tvp/OvU1nlR8LxUiBLpmP3jD/mxFJCnN2Y8+pNeyrhOvZqcfYtZ5Q5yb5jtTCLevlaOQVrAzRJHMjV2mt8c9xA==
+#EXTSEC:5vCgt5+OKtTW8MnewoblDPS/bUyBzSnmep1kfROTAKI/OYF9MurgxKSwm0bFYrGRuVBsr5D5bOqB/IoUal5AkopCI9MluEzodDxS4WxTkB6N4J2AbkBrdl2+Gk0k1+qz
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgJNpv9.png",Mooz RO
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5vCgt5+OKtTW8MnewoblDPS/bUyBzSnmep1kfROTAKI/OYF9MurgxKSwm0bFYrGR1et1OfPpDZalFMbB+dSn4Hkj15uLJK20CjpxtM6ct0gsMxA9zwhu54J9ewgHNG+M
 
 #EXTINF:-1 tvg-logo="https://www.livefarsi.com/uploads/tv_image/mtc-tv.jpg",MTC
 https://feedlix.net/videos/promo.mp4
