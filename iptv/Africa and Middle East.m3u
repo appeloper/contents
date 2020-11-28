@@ -808,21 +808,41 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JnRa+iz2suIcIFeKrZL1JvkB6iafAoNcRe/rp72Ji6jx+ka/LXjm8yXW2CXNuMQfe+WbnP9QNKmOHi1Qo7AFIbp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-aghani-aghani-tv-7785.jpg",Aghani TV (Lebanon)
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/41/6f/416febf1dd3e2d3343739066c1a06111.jpg",Aghani TV (geo, Lebanon)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:oiRRT9XEpK+wrGj/xzAZf3g/CcQMXxWbtzdXhW+W4DwwaGYWjBCpJN68myBvWOKJriPnOaeFYRfSmYpjiGjIiw==
+#EXTSEC:oiRRT9XEpK+wrGj/xzAZf3g/CcQMXxWbtzdXhW+W4DwwaGYWjBCpJN68myBvWOKJpSfQrpAJZnD0ea5fRVvbdw==
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-otv-lebanon-9832.jpg",OTV (Lebanon)
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-otv-lebanon-9832.jpg",OTV (geo, Lebanon)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:oiRRT9XEpK+wrGj/xzAZf5iAauurtf2oF9t/9ArDqWIO0fVjTskbmqbu9jYKxLlaJ9nGsWkuBejbVAt0J1BGT+4OSN/UXYJgqyveVfJELAg=
+#EXTSEC:oiRRT9XEpK+wrGj/xzAZf5iAauurtf2oF9t/9ArDqWIO0fVjTskbmqbu9jYKxLlaLA0ZaEhLLk8k6E+/4YUV7A==
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Future_tv_logo_2012.jpg",Future TV (Lebanon)
+#EXTINF:-1 tvg-id="Future TV ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Future_tv_logo_2012.jpg",Future TV (Lebanon)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:3mhwmr6pHCdYNF3TVqsdTtFiBY+vcf0fj39+119IQR3rGDggk9J7NVY5V8Dltr0J3+zTkMohTUG5rpOrwuwg5nmBFSBeuzYULXLit6Q3f4U=
 
-#EXTINF:-1 tvg-logo="https://newstvonline.com/wp-content/uploads/2019/11/Al-Hiwar-Arabic.jpg",Al Hiwar (Lebanon)
+#EXTINF:-1 tvg-id="" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png",Al Mayadeen (Lebanon)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:gcorXnmSGloXo5dEMVyLX1M1It0k1MqAwa2FzxRvLI1srr4J3rEp7ENxSs0klmxLehi7ijXT7reFusSi9P+0dpWjkFawM0SRzI1dprfHPcQ=
+#EXTSEC:Pox/1cUXUmlTbr467GgoSbu6X6WkLcWjb8Ji609EPHGLwG59DKiXrKs4kPWpgLjuZnl3hjbh+XmQ/NSbo1/kTZOeZXFpHii3XDMUF2+7jPY=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YPR45yP.png",LBC International (Lebanon)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:FgnNCy5KeXr+aANWvuTnn8tEzLebXo8XqNqq1ATbNqI+71xKE7b1FfJOCvjtUmsgj2/8WUOj5Skvx8nAAN3b86nB4SNpAWSxXJguL4BKkcp53NP2+5DGjXtimG88Ir6G
+
+#EXTINF:-1 tvg-id="Tele Liban ARB" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png",Tele Liban
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cPO7RtRN096+F83F/cdjZtl7EzkhUyFzaI+qcUUyOR9mtbqxJB0Wc1tDpcJJHUSRCjdmwCLyXcUCtTkQ6s5tSqUn0K6QCWZw9HmuX0Vb23c=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dmDzNQO.png",Al Manar TV (Lebanon)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:PZ7I2IeKJpn6MC2/RJ7qcHdM98N8wPY2I8YiK9GRodfpNtL/PLl4PR3OkN9FpSiu
+
+#EXTINF:-1 tvg-logo="https://dneegypt.nyc3.digitaloceanspaces.com/2018/09/Al-Hayah-TV-768x430.jpg",Al Hayat (Lebanon)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:NQhR3u7xq2ybW7mvjrc50hfkbulhL3BocEFrWpu+HBSlgCsHi6Vc9CJyvybg7TRHgjN9s2p9kmpzffq95zpMsMkCHBfd3xQH4r2VH1A1GEg=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QrwZu4W.png",Nour Sat (Lebanon)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:oiRRT9XEpK+wrGj/xzAZfy3zaCAMYqJfsHfo2X909hLDN0jlSVHiR7tdDNECRdhERldYiomWZbjyujAd0yDr6Q==
 
 #EXTINF:-1 tvg-logo="https://files.elfann.com/pictures/6057127_1513930780.jpg",Nour Mariam (Lebanon)
 https://feedlix.net/videos/promo.mp4
@@ -832,25 +852,37 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:oiRRT9XEpK+wrGj/xzAZf7kjele0XNVqdfdzmLHx5vjDN0jlSVHiR7tdDNECRdhERldYiomWZbjyujAd0yDr6Q==
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6yxE1jv.jpg",Nour Al Shabab (Lebanon)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:oiRRT9XEpK+wrGj/xzAZf+MoPXpltmfRvS/orRgCZ6HDN0jlSVHiR7tdDNECRdhERldYiomWZbjyujAd0yDr6Q==
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/afmo/nouralkoddass.jpg",Nour el Koddass (Lebanon)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:oiRRT9XEpK+wrGj/xzAZfwTaSdNQXpAN6ND3VfvYySnDN0jlSVHiR7tdDNECRdhERldYiomWZbjyujAd0yDr6Q==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wOxnItQ.png",Taha TV (Lebanon)
+#EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/712/438/png-clipart-logo-charity-tv-voice-of-charity-television-tele-liban-tv-media-television-blue.png",Charity TV (Lebanon)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:f0Gzbk5tEr/WYXWVlZuO3wxE8/dOVBbvgd1r50LPkoMpDJD9c4yU6/+rk8yx58YviDCwgUS3tbZaEy1irnmOU7miinsnd7uB7zft1JQZtPU=
+#EXTSEC:E21FgZqZEVnEnfzlQhupL2VXzDTt/2IsWvfpRDPSEjb2t9adUdJSlCNYwz+ku0OueLoVGu/UxoWa/UB6oa5c2w==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/771098081/logo.JPG",Arabica Music (Lebanon)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:iDgXa1h2UnZ4zSMmo/ubsb1tYYaaZqh1biqhI9Qo1OWs3j25Kv32q+uO6swIPNi9Qjc30gxzpWbs18vBA71I6g==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mzwdt39.jpg",Libya 218 News
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Ssd6wD4G9K8gT/g4HFfqUE8I4M/39j5nNm1qSSlxRlQqiRaNA+9iv4KWWAXlvO+67g5I39RdgmCrK95V8kQsCA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N9dO8AE.png",Libya 218 TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:lSUhgUpfXFG9bGS5SAAOP4ODJx/RMCnv8nxJ15rV44KRr0bn1tda4cVDq+XuJTM5/b6L7spy9YU+F3Vc1p5Wsw==
 
 #EXTINF:-1 tvg-logo="https://www.libyaherald.com/wp-content/uploads/2015/04/11146102_680407738730976_1671587891105149485_n.jpg",Al Nabaa (Libya)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:A0BQxqi9qsLv9Sq/AYFak71yxybMIhcpUgJxG68JCTrGyCDwEM6jPaDuTm3eY/XMgfHuuqDKyTgeObG0141ePflvqOTaBW36e50mHx91Xcs=
 
-#EXTINF:-1 tvg-logo="https://vid.alarabiya.net/images/2019/01/10/24ba5d62-da0f-4adb-8c56-0f4e828ced66/24ba5d62-da0f-4adb-8c56-0f4e828ced66.png",Al Tanasuh (Libya)
+#EXTINF:-1 tvg-logo="https://maroc.mom-rsf.org/uploads/tx_lfrogmom/media/28-1120_import.png",2M Monde (Morocco)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:GTa1n6INiSUKRy/mv90YyM/RRfzGzAKJNmvyC5vmJ7IL+OjE8HOLih07OuVFUrwrjLtNh9YjHB2Pc8eiCGJvAQ==
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/afmo/future_lybia.jpg",Future TV (Libya)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4T7TlJZnpbrQErLkUYWtIltdxWrHwgEifpXzRmmYNmfvjzdzQ+tWBHb3qSeRuvKtIiBIkvmmEr2VgN0w2Mrj2A==
+#EXTSEC:rnGC7/RpAQE0otakiVx1/nNdGs1Bl+qIIDyeR9/2vJ5SJDdbZtW3KBtl2ePaevAOMU9WLhM4YNCU+EkH1EJiHFq6hF/8C7thChvJPvKVJV/7k2+wjDWWTIRLzCUAmNpjkyYzKmCw+L99O2EYMydrEhemOlBsqryI5H2d/foAuuE=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/afmo/tv1_int_ma.png",Al Aoula Int. (Morocco)
 https://feedlix.net/videos/promo.mp4
@@ -876,19 +908,27 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:rnGC7/RpAQE0otakiVx1/nNdGs1Bl+qIIDyeR9/2vJ5SJDdbZtW3KBtl2ePaevAOCJ3HkYX3ZpXL0siZzuHHBGlPhmrKJmX0T76hxBh+SfNh0FOBrMR3hg+yJYGZex7PdKbFeEJeR5G8eQUi7tV4wRcPF9BgLLBC+PCO/KfP72w=
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/626091704400134145/MC_qNoLX_400x400.png",Tamazight TV8 (Morocco)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/626091704400134145/MC_qNoLX_400x400.png",Tamazight TV8 HD (Morocco)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:rnGC7/RpAQE0otakiVx1/nNdGs1Bl+qIIDyeR9/2vJ5SJDdbZtW3KBtl2ePaevAOcS+WFpb2/14fJdyHa/4trvfY4yzCHdq+LYnp49msbHUD4e12TXKWxs0zwX1z6Pz36YqFcQQyiOiq1SB6sZszV5MmMypgsPi/fTthGDMnaxIXpjpQbKq8iOR9nf36ALrh
-
-#EXTINF:-1 tvg-logo="https://maroc.mom-rsf.org/typo3temp/_processed_/c/a/csm_8-1120_import_088ea35739.png",Chada TV (Morocco)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:OPhU+u5tAY8xIwI27ICbiPnou+AscUMTGV7sn4iKZYhtwErTEtNbokmogyW1AbVSxwtiACYMo7nCMZTTX/8PbpWjkFawM0SRzI1dprfHPcQ=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Medi_1_tv_logo.jpg",Medi 1 TV Maghreb (Morocco)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:nx6dFjL9oE7pDnnuxWBjoW6qTXdaB19MzIKuOCtRsdbUnhYxK9/ABQ3/16bSzYT6MllDMWK6K2Tui10twnpph4y7TYfWIxwdj3PHoghibwE=
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/silvermoz.com/wp-content/uploads/2019/01/logo-tvm-thegem-person.png",TVM (Mozambique)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MosTwQW.png",Medi 1 TV Arabic (Morocco)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:mwwOYuJQpaNSFjag7tetn67oXwyqmyETWRtEsg3+gwb7tEwvA5IOUVKDZSS/YKyNsWVoFu+aGqDM24iwuPLg05/kCkAz2miXb/PCywdcBWE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J7GdM3L.png",M24 TV (Morocco)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Ozd8ox3fLmBiQDz36zVzgLbGbHeffsNpAtV/075ORtKkqJvmedzpTjE6rclkBc+fxNpxAZNvul8SZ78yzs0/1Q==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7sibv0t.png",Télé Maroc (Morocco)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:G5dKyBgcAe9dzMWdMakhRlVlGEHS34NWYIw3h85yhi+C4RAozO0JrCkgj8QIfpGdPsvxcHoghdZpbkc2aLhO7vT95dIuA7k0ma3IMeBj42E=
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f82bd39025463.5606a4ed2bebc.jpg",TVM (Mozambique)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:GsuCHi4PMNDgWEfp0xV5OcDIzI9OcBkni8Cz/P4D4kvPw/FSirWB2Bido/wc2X2aiAc9oxIIT08M0GpStBhjmtGEfPusnBBVNm4UDlvX+rNGuek0fFXmPIGX87q0T1CH
 
@@ -896,7 +936,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:GsuCHi4PMNDgWEfp0xV5OcDIzI9OcBkni8Cz/P4D4ksGtBoOVh/RsEzLdBmZqa11iAc9oxIIT08M0GpStBhjmv6W6D/KVQl8Oy8TduqR2LZGuek0fFXmPIGX87q0T1CH
 
-#EXTINF:-1 tvg-logo="https://www.igrejamana.com/int/wp-content/uploads/2013/02/images-619x377.jpg",TV Mana (Mozambique)
+#EXTINF:-1 tvg-logo="https://www.tvmana-maputo.com/wp-content/uploads/2020/04/LOGO_TV_MOZ-300x182.png",TV Mana (Mozambique)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:UbnRt/j23JMO+LW9xuDcuTUp3wa1BmUek1a5bx7SOsO2p34mmC3HQXljqUuYWD6wNpeMqLOKI1XRweLCGPN1dA==
 
