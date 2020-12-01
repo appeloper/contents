@@ -152,11 +152,15 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:NBK0HYukL72i/01cfG/a+4N109iA/AVB+rH2VYxqecciAMiCqIqjCxTIlh4UsXoLFasw9w8XfM91weLA+K/iXw==
 
+#EXTINF:-1 tvg-id="Paramount.TV" tvg-logo="https://graph.facebook.com/ParamountNetworkES/picture?width=320&height=320",Paramount Network (geo)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:BqegbwSjfo6fKtMV7TDK5wKtzysq+GShHDlImjSrGod4s/0/ZnEpvtJwYlN9f+12r29FJY6w0uz3y1Xto4h62A==
+
 #EXTINF:-1 tvg-id="Atreseries.TV" tvg-logo="https://feedlix.net/tv/es/a3series.jpg",A3S HD (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:c6Lf0u2gdXEHtaxi5AjsRZedrdUsjARN2ZCAqOHf/lc8QHho5jKHzdVgjukPCBnJRyP5zj5R43w21edc+Ce+EglDJVQTR1UedqYmB0KZV5KZ7PIQ9gFLzJvAwWp8a2wLyYrp4cDdgAW/43MfAyY9ow==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7a/Intereconomia_2012.png",Intereconomia (geo)
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7a/Intereconomia_2012.png",El Toro TV (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:6pe+Afqke1M1vchkAafZ9ErcTwhUe4exYd7tP56n5zfatmqGKYg3YjiniGJrsCgpI7ztwjKRv4ddiyoxDZNDxX9S6bukVPyrFIzVesejgnqf5ApAM9pol2/zwssHXAVh
 
@@ -907,6 +911,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/HQM_Spanish.png",HQM Spanish
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:F4H3CHL1+hjd8h4OS223R5xNLHTG66gIFUiHY31oilMKlLyjgBCjU+NbfS9cYMhM1K172fAANmsZrUWTQXT/fxQSy4h28iMO9JviuslcuebUzL2b0J0gZTHJmlsvz5/n
+
+#EXTINF:-1 tvg-id="Sexy KPOP TV" tvg-logo="https://m3upt.com/logos/Sexy-KPOP-TV.png",Sexy KPOP Music TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:uc92/aLixzjZJzpBk4bSFwgjJIHEhMGAALS6Gjlh4umfAcWgANmJliVxoUjuJOWY6xlgxTlP03+9aKDjQlTddkeW34FMIrq6hmLPTvJsMWSLWEWQCxAa7EUBK3bpJ5SW
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Animation
 https://feedlix.net/videos/promo.mp4
