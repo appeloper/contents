@@ -770,7 +770,7 @@ http://radiocast.rtp.pt/antena280a.mp3
 #EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png",Antena 3 (Radio PT)
 http://radiocast.rtp.pt/antena380a.mp3
 
-#EXTINF:-1 tvg-logo="http://app-1537887566.000webhostapp.com/tv/pt/cidade_fm.png",Cidade FM (Radio PT)
+#EXTINF:-1 tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",Cidade FM (Radio PT)
 http://mcrscast.mcr.iol.pt/cidadefm
 
 #EXTINF:-1 tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Comercial (Radio PT)
@@ -782,7 +782,7 @@ http://centova.radios.pt:9520/stream/1/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOHIPERFM.png",Hiper FM (Radio PT)
 http://195.23.85.126:9500/stream/1/
 
-#EXTINF:-1 tvg-logo="http://app-1537887566.000webhostapp.com/tv/pt/radio_m80.png",M80 (Radio PT)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80.png",M80 (Radio PT)
 http://mcrscast.mcr.iol.pt/m80
 
 #EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png",Mega Hits (Radio PT)
@@ -791,7 +791,7 @@ https://21313.live.streamtheworld.com/MEGA_HITSAAC
 #EXTINF:-1 tvg-logo="http://cdn.nexttv.sapo.pt/user/channels/33/c5f/8623/logodf0f58d2e1b083cc1c467dc57b19130d-200x200.png",MEO Music (Radio PT)
 http://centova.radios.pt:8495/;listen.pls
 
-#EXTINF:-1 tvg-logo="http://mediaserver2.rr.pt/newrr/non_lgrr1734952d.png",Renascença (Radio PT)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_renascenca.jpg",Renascença (Radio PT)
 https://20723.live.streamtheworld.com/RADIO_RENASCENCAAAC
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIORFM.png",RFM (Radio PT)
