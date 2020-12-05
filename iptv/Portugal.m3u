@@ -116,6 +116,14 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:DTguGI6Cgbjw4WRHTjKbRinWidBWnR3/nyJenb6rnx1MBkW5liovdURcDdVjlXnH7g5I39RdgmCrK95V8kQsCA==
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/classiquetv.png",Classique TV 1
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:lhb97nVxdJ3SSHFdYBpRsoN9FJxth78tovfCFbishODRgTLkWzKXEB9r7xU1DeOgk55lcWkeKLdcMxQXb7uM9g==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f032a160e2b4cbb9de8f0080b845c9ca.png",Classic TV 2
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SMF24MV7uzwfWTWiCLiCTMcqmP87Ytu47jhCxg9L7Y2bu2OnRXg2KQUt+xX7YhFAxNpxAZNvul8SZ78yzs0/1Q==
+
 #EXTINF:-1 tvg-id="CANCAO NOVA" tvg-logo="https://feedlix.net/tv/pt/CancaoNova.pt.png",Canção Nova
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:VUHrEl9/nTpP+0EYuGXauiSYbRCBOBbNVHf3mABC2alaVBYhUiLK4U4mNNWuyG/hCShUq/mH+IVJAl0+YUNe5XftsUmPU/AwUTQKOl9imh4=
@@ -232,9 +240,17 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4A0Ajz94ipafG89SFB3qNzll8cjynIfq4EUhxMrcWu5+QvFGUenMUXbwBrQguCfvn+QKQDPaaJdv88LLB1wFYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/RetroCartoon.png",Retro Cartoon
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/RetroCartoon.png",Retro Cartoon 1
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:SMF24MV7uzwfWTWiCLiCTMoQkmiu6gkA2AqVsj4DLyrk6G+uZbfXXTb6J9jeTvvhJH1rnvGiC8KX3xYuDFmXJg==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/RetroCartoon.png",Retro Cartoon 2
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Tt5DeEDU4VWerwsdQK9C8uN5cta80so9Yzgmq1v20US2gxZJcSDzgk2U4nvN3xG4rVOxBylHtF1fFqjmh9M+oA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/GospelCartoon.png",Gospel Cartoon
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SMF24MV7uzwfWTWiCLiCTAPFaKtKdk/0+NiEucvFxLtOkVLKqMWmjpDseJbxMURe3cctNgIO5cB/ifyCH/Fzau4OSN/UXYJgqyveVfJELAg=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath
 https://feedlix.net/videos/promo.mp4
