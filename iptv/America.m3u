@@ -1312,7 +1312,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4IWi1UOeqNDA74oAXwdfzOdj5U+TUl93a4cbhTX+dd0JVi2xKufmA5IaOOs6KpZlqg/HLkLutiZRntfqJbHu2YXOw+MB5+YKS/N0n6iILu0=
 
-#EXTINF:-1 tvg-logo="",TV Manabita (Ecuador)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1283904488462585856/8hGJmUDj_400x400.jpg",TV Manabita (Ecuador)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:pd6mH9W9sOrFLEVgR23bvp3t6umT4kH1iX++rC9CP/9OVZR0kmUFJFqsZTo4ZMrz7g5I39RdgmCrK95V8kQsCA==
 
@@ -1384,7 +1384,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JnRa+iz2suIcIFeKrZL1Jgv5ZyxJcZ/+BqK7M/SS1eI9JA2PK3MmEy4VX2+KDKHDqjY0LBlqpDhECN/akcP32LNp5/D8FJmXbOITYFAL/2pr+ErEpRPRLE4mQUqAK4Is
 
-#EXTINF:-1 tvg-logo="https://www.redtal.tv/image/224x5be70/tv-usac-s.png",USAC TV (geo, Guatemala)
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple18/v4/47/c0/5d/47c05d4b-4f78-d170-84dc-d564569ec8d1/source/512x512bb.jpg",USAC TV (geo, Guatemala)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2Ua3PZrjC5lmbTe50cVHXlRO6U6WTud8aN0zB4Spazfw1kjI/P3slvM/4AT80t97MUwOeP6WCQtpsypt0WAR8YFU74QaVwid/hRzxXp1qqU=
 
@@ -1420,6 +1420,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:LmEPgduxjQa7CFxi/Fil5ueKl7iHfp/wKau/BJnt+SnFRjEs09uk3vcAjlWGRR4+uSp5kI5FD0ha7+g8kujJLBqbhOQuVJFYg7t7GAlrZIfU0rh9S+DEDq0hjO1/1eWf
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5nYeBNN.jpg",Tele Haiti
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ez+DlbYCJdsg60PAg3gtvEybCUnZpfDNL5Y/5RaTrShgtiaSBb+lV/ZshoBHUK/er29FJY6w0uz3y1Xto4h62A==
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIMat1y.jpg",Sercano TV (Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:d08f6ZjqGjzZBaW8QVCjSLIZMHgYByZKIPMFLKTSZMhwIsKQ5O1GQqzGlHcMIcxTrocsGKJUZOBBqfJmkE2CsbiEvaZtvwrIVxjhVtrm1ABxBX5nJQBMOWDXi7r+maDY
@@ -1430,35 +1434,35 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/campustv-hd.jpg",Campus TV HD (Honduras)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:n24zSGud87yyxbqOPMcv7DRTkM/UbEGB9hip6dJ517jPWqTVz94+r/N2lUoWrn8CrmXuNZwRFhYQn9q8yzPNVQ==
+#EXTSEC:n24zSGud87yyxbqOPMcv7DRTkM/UbEGB9hip6dJ517iibBh8jAWubsfxAxEFQYLsun2E5oLtxZUI+UoQVRFxzA==
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TEN-TV-Honduras.png",TEN HD (Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:d08f6ZjqGjzZBaW8QVCjSLIZMHgYByZKIPMFLKTSZMhhLkb3bo0xcOUY4ni72dQ6HwP8X8Ee7THDYd9H7u7YfJgN3EVndVUhWOtI7AXERbkP/2oZwbo0J1fTF7XQFjC8
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/globo-tv-honduras.png",TV Globo Honduras HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:DbPbRfUadlAmpa391Yzv7fk0fEktxkUqAZASrFKnMDz68EEYyEbfc1sAJV9tRLQ2r29FJY6w0uz3y1Xto4h62A==
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_teleceiba_m.png",Teleceiba (Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:UM970OnIuiSRNBicSYib4hx/NM3gN9Eg+yiYBDA1gpqnCLlYXcO7TfrM7zNiJZt2syrRV007a9stnpfeKGfEOw2hN83E9nQIyDIiG+s/4Rg=
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/5-el-lider.png",Canal 5 (Honduras)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmxfC0F.png",TSI Televicentro (geo, Honduras)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:ZSCekOXbNZ5eTRXpmJZWfiSYbRCBOBbNVHf3mABC2amiSj039C3GkWkumnOH0Ki7NyKRrX9hjxZS57jOdTnXZY4kv8p5akB0SxveXY+VBoE=
+#EXTSEC:k4pXBxFyk7vT4gsVaIQCtYzMe2jB4tRjx69LfRI7tOAIlhARgrvlPMPsOr8fWP2W6OOBZErBHGM07sovHnZbkAK3VR8AGJtW4pwl9DQ4Fck71vdoMo0CseydLV/L3RI2xtH9OmcMEcB4NJk5UOnGr7p9hOaC7cWVCPlKEFURccw=
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/jbn_honduras.jpg",JBN TV (geo, Honduras)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:2Ua3PZrjC5lmbTe50cVHXlRO6U6WTud8aN0zB4Spazc1kN0M8Z7bedUwPdbHua5aZr0one2sEO+8XuKOZ/p1QfRJdb9/AsheWSp3qr8bGW/IIZsiUD+7qYLzUX8beaez4DL6QozJUL5slZ130RkrWsHQNriMzCVmR9mFkwkPdyaTU+aIVMMhmKiss0Os70Bujq9VnXo2yUTb0JGNEbPte9iF0YOedQtfEr6+ZuaPR68jPROOlwy7hBJcKEIOrlVL9zZAqZ/m1BGcCDJRjKZVHmeceGoYB7OLScnvJ1IVnChK8dUwKgE6cRC+EwBeCQDY
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mmxfC0F.png",TSI TV (Honduras)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ZSCekOXbNZ5eTRXpmJZWfiSYbRCBOBbNVHf3mABC2amiSj039C3GkWkumnOH0Ki7SJWGrT8ec3399UfE7H3mah6krljJnp/3QrjVFJQojQg=
+#EXTSEC:2Ua3PZrjC5lmbTe50cVHXlRO6U6WTud8aN0zB4Spazc1kN0M8Z7bedUwPdbHua5aZr0one2sEO+8XuKOZ/p1QRS+9FfsqfsrYsLU1bEpBiA=
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0zn8qLvmZdc/hqdefault_live.jpg",HCH TV (Honduras)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:C6Aye+xsgJaw0yHZsXGmb0yIxbep+PohGIv3fRHBsxXxy2QfLRosCILy9ae5oTyQrVOxBylHtF1fFqjmh9M+oA==
+#EXTSEC:NRyazHKZ9v1fDBglTz8haufEbxylBhVc47p3rSNVQxjxy2QfLRosCILy9ae5oTyQS/0se0Y0bb9llbHR9+GZt8Vm+RXolB7eq1ZJ66z4uvs=
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1215045519975862272/jWRWHh7c_400x400.png",CHTV (Honduras)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:EqxiwP+Gayb7gfiC6orDLG5vLhB6jDelj1SsQfu7OktLWp7DrjdAUdY5Mo/x88jE3ZgsO+Uc+LeiH0ZwT/4QUQ==
+#EXTSEC:znJPmYC7D8CABSA2EpDP12YwXAU5CCE0+/syCexwpDjNnR0/eUpFjNG89FB7E1yWzxZcLtHh9gJnsR2x2zOsTf/xWwzFoYZ4xsprS+8ga1c=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qRHwhND.png",Cholusat Sur (Honduras)
 https://feedlix.net/videos/promo.mp4
@@ -1468,21 +1472,25 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:t+9Inh4WfAPUGUJ5wVx5sf2GmQUGIgTNhU/E0BsdI1Z9onEkXZO37iRC5StWK6kcyqqSytVvAcQPVwANDTyxQA==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ImxGqTN.jpg",Q'hubo TV (Honduras)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ImxGqTN.jpg",Q'hubo/Si TV (Honduras)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:n24zSGud87yyxbqOPMcv7GhiiwV9B/UPJSmLOLzoeknxaaJLUYiH3o4CLK5BI4grpZuI2T0T+NjZCdAJaelYcQ==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsWIDc3.jpg",Suyapa TV (Honduras)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:rsJd0glUUAwhDt771GT5hGW+cXQ9SKfhtbvYA7BDwMy6hEYrDmuLguvgzYC87Djat8KUhNLM14ErxpVSqBj735WjkFawM0SRzI1dprfHPcQ=
+#EXTSEC:n24zSGud87yyxbqOPMcv7GhiiwV9B/UPJSmLOLzoekngn+Bjaubiv2x2CcRC1ilbun2E5oLtxZUI+UoQVRFxzA==
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/tvcris.png",Ebenezer TV (Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:+1JoqjQLLJceknJxUCgxYm7ZjvfYF3hmrGvvLQrv3y0coJZODUxFG1qXy47MUvDg+1M2h/c37OV0iV1UXoEkjw==
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/si-tv-honduras.png",Si TV (Honduras)
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/49b7f977965945878dcbf3511d83c6ab.png",Canal 6 (geo, Honduras)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:n24zSGud87yyxbqOPMcv7GhiiwV9B/UPJSmLOLzoeklL2R8lZ+BY8E3gepxC3youIFhl2foLnbV4B2astsfCeQ==
+#EXTSEC:2Ua3PZrjC5lmbTe50cVHXlRO6U6WTud8aN0zB4SpazekcA300nGRZDb2ejlxoH8S/3QB08AdhiY0cAdanVGrMSIumGZ6eyVwibJSf423tsQ=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/metrotv_hn.jpg",Metro TV (Honduras)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:lAM3D2tWNRQamtx0ZoUL2bShsgK+4TucVTHH7vEY66H8Eepxvem9U/hBuFMIGvfBeJ1v7xDtT6Zkq2J3OwFu+A==
+
+#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/09/Maya-TV.jpg",Maya TV (Honduras)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:znJPmYC7D8CABSA2EpDP12YwXAU5CCE0+/syCexwpDjFt/Fy4HPIZPcepWfu5D3DdE0nJCLjAoqO14tFVkBoXO9b+SS6Bl6jYixikP9n99I=
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/41p8txVQjME/hqdefault_live.jpg",Mello TV (Jamaica)
 https://feedlix.net/videos/promo.mp4
