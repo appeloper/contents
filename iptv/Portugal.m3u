@@ -22,7 +22,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="TVI" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png",TVI
 htps://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxnAWDZw/0pd6YBGSeg0ZGBe9ESDtkXZIRt7uvTr/FvoWV4FhsyOUc/S/KXEoyGa60mhpqKbIUfmIwnlO4LN/KhX1I3ouywlubFhS27PR4CS+7Jp8AO3GfOrBmxpUPafArnjcqprj6gva0oRQbsbCIXMKvGsr4kvEqu8JG5Oo115JUU2egFsgK2aov+VYFvqBzmIlioRie4Tbi4xQ/zw3VODyjiGDqz22thV3+X66ilFP9kfgCD6YSDqhG4ycQqbjvF8yUk92kYONQL0hIBIiCICEHnLVRHrndU0OQgr8kw7t
+#EXTSEC:yZc13G1hTMxFpCQsPKxkpl4x2zz1N4QZACDuAPApwP3zBPFVAXQaUPFgv167RRYImQWpWAZlGo13zb31rBqwbw==
 
 #EXTINF:-1 tvg-id="RTP 3" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png",RTP 3
 https://feedlix.net/videos/promo.mp4
@@ -34,7 +34,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="TVI 24" tvg-logo="https://feedlix.net/tv/pt/Tvi24.pt.png",TVI 24
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxnAWDZw/0pd6YBGSeg0ZGBfQgLP0bZUnDCTsyBBIfgSMBDMedgToZGEkg2N2ftW35zLQxKXl1tIP+0cru+RZ1sfKHGjpBWoyXH69Ld4lu1heTHTCa2H2K6kcJ6tqw0deFL80xVehO8Ry1L1zN8uC70riO4Mysj0S/QxUzvV9ugLTy/fGvRFrQHGEWMKxDCsqVTt53HUbBEgHogekAoETZdrzESGQbayeAnw0VKgOYeYIMKf6jZ0kqPy8rBR0Dn109fk3Hbq9UxcxSKb1t5T9e5mkbE/F+WiZ2di5eDI76bVwfGr21c/VN4ckMtrzsA2G5Q==
+#EXTSEC:yZc13G1hTMxFpCQsPKxkpgrg04Q0iWgI23WThya+yDtM93RRTMOgn8nS+2fle53bXHGSH2U2BA8fl/EweiD//g==
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPInternacional_negativo_horiz_RGB.png",RTP Internacional
 https://feedlix.net/videos/promo.mp4
@@ -776,10 +776,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:dSJzHPuPXRWlYMpVWq97M2nRpd2/l5YCy29bacWYwX2lYovON69g9MM949YUPbrl9qc9/EM1H7d21HZctXCVi6/XxrkHE3dQ0Lk8ohCAVLF3p8Oh5wDdUi0iuDaxleXSqRpz+eGVuTDOlw0U770c3A==
 
-#EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",A Radio Rock - Super FM
+#EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",A Radio Rock Super FM
 http://95.217.75.38:9962/;/stream.mp3
 
-#EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",A Radio Rock - Super FM (op.2)
+#EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",A Radio Rock Super FM (op.2)
 http://95.217.75.38:9962/;&13202692901&duration=99999&id=scplayer&autostart=true
 
 #EXTINF:-1 tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png",Amália (Radio PT)
