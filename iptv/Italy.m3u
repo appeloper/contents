@@ -82,15 +82,15 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai5_hd.png",RAI 5 HD (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:PRdejN3kccqEYttBUPTviFV3wTmmUzRCJN3EDCCCcG6Zt8GrbLrNY76yFu8JocgbaugEbHF/AKvb3c8VLgXamg==
+#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyrbz3Xvfbr86/z4S9q9Rj8aCAJ7JINXoVwOAkCOaCWGI=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiMovie.png",RAI Movie HD (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:PRdejN3kccqEYttBUPTviFV3wTmmUzRCJN3EDCCCcG6Zt8GrbLrNY76yFu8JocgbLGQVyHjVF9IV1aQvjxmJQQ==
+#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyAyyJ1l4ud+aMGMJAR1TM/jGHRNycXuvMhqXFw3v/aLM=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiPremium.png",RAI Premium HD (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:PRdejN3kccqEYttBUPTviFV3wTmmUzRCJN3EDCCCcG6Zt8GrbLrNY76yFu8Jocgb45b3bozroUUitaskeoTIoA==
+#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyRZNoFUWtluJltRwrOWBkgMxZRbLWG3DoDsfcFzuWv+Q=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Italia1_hd.png",Italia 1 HD
 https://feedlix.net/videos/promo.mp4
@@ -316,7 +316,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:xQEQMdNBz4ODRf811CM6SdueAUM8OzOiqYT+Hg+dN29q3HWA7lnm4dkj1f/PbiHXpSfQrpAJZnD0ea5fRVvbdw==
 
-#EXTINF:-1 tvg-logo="http://www.simonachiavaccini.com/wp-content/uploads/2012/03/primocanale.jpg",PrimoCanale Liguria
+#EXTINF:-1 tvg-logo="http://www.simonachiavaccini.com/wp-content/uploads/2012/03/primocanale.jpg",Primo Canale Liguria
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Ey34zfzaQHQSqbSP0w9TrBFwxRIUg+p9KO7rpQPBB8lpLEsR4Gv5pdUb/xHtdmdobSO47Mjsv02PORH6XwCffpWjkFawM0SRzI1dprfHPcQ=
 
@@ -332,13 +332,17 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:6m+zYitbx6jEFgVVKpasbCxsfPflrswbHauv7oZVmvUctrUdWLtrgnZKYYhPbLCo7vJmg6+qezYvojl7S42WnZWjkFawM0SRzI1dprfHPcQ=
 
-#EXTINF:-1 tvg-logo="http://www.primativvu.it/wordpress/wp-content/uploads/2015/03/Prima-Tivvu.png",Prima Tivvu
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:fsMXRreiBZ9pWDVzjbfXe6xzC6Hs+A27BWtzWLcJuVl+vY8kMSiBl3LWK0xbAlCdaKIgau5fJ67vnNrLJJNaqp/kCkAz2miXb/PCywdcBWE=
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouSptk1.png",Prima TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4FYKYmiC2c8ixwVNoUCuju4WyHg18xUdNOeCqlh/ou0IbJrySo9QLPxwCVQE2eOP+NV1jcCi8dltwTOfTBgJGQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PHmQHas.png",Radio Pescara TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:8L7bOuPaqWMd68LVCraIjlYnDMQi+KI1TGNfgu4bSoWsHcpaNXUpoH6NDT3xSqj0YoHuLUdGRPIcHTrV0t1+Uu4OSN/UXYJgqyveVfJELAg=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OKhpyWr.png",Paradise TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:AA4c7jN5pr/V8Cf/ClvVUjluWg2n+9shYSU/JgVQpiTSTRLDmEGqGeEqTd889eQaVEUdt9lHNhzNkQaquNI7NMnHwzAHGOlMlL/AbA+Zl6evb0UljrDS7PfLVe2jiHrY
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-rete-biella-tv.jpg",Rete Biella
 https://feedlix.net/videos/promo.mp4
@@ -360,10 +364,6 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ip8qxGHP/AAfnZob0dIt2vKZDhKlmW372yjqdjc2cDnHUDxyAEmf11syZNRlbbLGun2E5oLtxZUI+UoQVRFxzA==
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LQ_aBL5zIr4/TcpBEQEhiDI/AAAAAAAAB50/bxgOTccByRg/s1600/REAL+TIME_digitale+terrestre.jpg",RealTime (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:bNHYVhKfxqYyT6xBnZ35+0v8EWpIPD/KH6nChdaQOaMYxyYullA6J2Ok8XIHsmW8tAPBfs1mg171MQLoVhmxfA==
-
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LQ_aBL5zIr4/TcpBEQEhiDI/AAAAAAAAB50/bxgOTccByRg/s1600/REAL+TIME_digitale+terrestre.jpg",RealTime (op. 2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:EewEsNeMX8tzVeAC/yBRlEv8EWpIPD/KH6nChdaQOaNrP0Qc/POZhCdM0X9qxfZNwLhyjXIi/6O2L3Th+dgl9w==
@@ -375,6 +375,14 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png",History Lab
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:BD70yppK2xfNkxWFCa7dP5OGRvxIrXmYURih7ge4LkObhJ2NwL8rKp9zkdxvI8OdRldYiomWZbjyujAd0yDr6Q==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiStoria_hd.png",RAI Storia HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyRZNoFUWtluJltRwrOWBkgE/q+GwlR/3Unv7BCHALvBE=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiScuola_hd.png",RAI Scuola HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyAyyJ1l4ud+aMGMJAR1TM/oRtHn5kDgrOSQyeE8PJJnc=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y1Yq3iV.png",Aurora Arte
 https://feedlix.net/videos/promo.mp4
@@ -390,19 +398,19 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/QVC_Italy.png",QVC Italia
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:PrLYIGVo72wSzPootX8ChG5idsTDDgJ6IPmkhX1Jp1S3i5BuM4xdX8jbNQhOg1I9bnj53zGaV+VT/tmuN1qehdevk/rEYDOU46ZQgEJrVoCeDgeO+bcHp0xy5ej18FB5
+#EXTSEC:LMF+BGgYc+pbLj1sbd5ZUFlamjBOhac6dh/NkjkbkVPajXpFbH9bQroFytbgGtVxt7pquX/eDTb3PjN6yAgFR+4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiGulp_hd.png",RAI Gulp HD
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/K2Tv.png",K2 TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:3AeNFu7yX4+YXODCAAw+HlfUAOkiibaQUJqNm9Z7c4BjAc+yxMp+EuJDqhNA4gVXlBc/FV+OxU+AuccLIb0NhQ==
+#EXTSEC:t1FACbi0RR6+G9ZwAR5H6cCxPXeEqhS6NBrSxOfYjXfJhbq+QnJ/O1UtLeTEGxh/TAAI5j0/GEhBwPZUVtqZCg==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiYoYo_hd.png",RAI YoYo HD
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiGulp_hd.png",RAI Gulp HD (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:3AeNFu7yX4+YXODCAAw+HlfUAOkiibaQUJqNm9Z7c4BdYv8PboN4wuMtX+QoXSd+mos2/HQIruqNL4j9xPTgiQ==
+#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyRZNoFUWtluJltRwrOWBkgP+uyMgniVS+YunPPoRxtI0=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/K2Tv.png",K2
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiYoYo_hd.png",RAI YoYo HD (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:EewEsNeMX8tzVeAC/yBRlEv8EWpIPD/KH6nChdaQOaNC0uL/Z91vCvKeJ4fScoLhO16yFkcRgqqo7GYnWmGBww==
+#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyvRjcTKjjvx1LC+pfHVDUE9XrF/OrtIfTH29xvXrwXnA=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/boing_it.jpg",Boing (geo)
 https://feedlix.net/videos/promo.mp4
@@ -411,6 +419,14 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png",Cartoonito (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:GXmD8pRUfxh//4/6DDwvTKD579/+w9WxRRN1Icc6QYPGDh7wGOeWcKvRZMXr2UseR/dgRF4hwkVvzexLzYlD48NCeqS13iKxWbtrjtuT871/k7RnGYKQ5hvzxAg3vn8o
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiSport.png",RAI Sport HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyHtcJWaPWn//oKZ6V+anzh636ecR8b6S3QoS2AM07TP4=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiSport+_hd.png",RAI Sport + HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyHtcJWaPWn//oKZ6V+anzh4zrUIYjvvziM9W2oNSjhRY=
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/Logo_si.JPG",Sport Italia (geo)
 https://feedlix.net/videos/promo.mp4
