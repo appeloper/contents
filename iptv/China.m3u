@@ -1,78 +1,62 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.xyloon-test.com/carden/images/cctv1.jpg",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-logo="https://www.xyloon-test.com/carden/images/cctv1.jpg",CCTV1
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODGzaP8PjJPtUIfwpnD52J9PVR8X8Y5ZyjCzDRbImbS/OA==
 
-#EXTINF:-1 tvg-logo="https://www.xyloon-test.com/carden/images/cctv1.jpg",CCTV1 (op.2)
+#EXTINF:-1 tvg-id="1" tvg-logo="https://www.xyloon-test.com/carden/images/cctv1.jpg",CCTV1 (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:AJmcoWI5NAx6ZyDhCH1PGoJTRxB4GEVRr5eXrBtEWvnR8xp75Y8MRXsMio78DTowyqqSytVvAcQPVwANDTyxQA==
+#EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNARIusTznNd/pnC2Fg9QlpRw==
 
-#EXTINF:-1 tvg-logo="https://www.xyloon-test.com/carden/images/cctv1.jpg",CCTV1 (op.3)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYazmRc6gnLUEBJR/WLFC9J45
-
-#EXTINF:-1 tvg-logo="https://www.xyloon-test.com/carden/images/cctv1.jpg",CCTV1 HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://www.xyloon-test.com/carden/images/cctv1.jpg",CCTV1 HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavqzpD+TwocEEpPrbf7IB9mxfjZi3ihOekVnXGFxsPsg6o
 
-#EXTINF:-1 tvg-logo="https://www.xyloon-test.com/carden/images/cctv1.jpg",CCTV1 HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYawaIEyMgsBaKAIpNlPaNNcu
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",CCTV2
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODExSoA3yZ5mxVr5jSkoIihgVR8X8Y5ZyjCzDRbImbS/OA==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",CCTV2 (op.2)
+#EXTINF:-1 tvg-id="2" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",CCTV2 (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:97xVNsSg/yZEz4lgeHavq+yXB0wreOgbwmznvxhddEnuDkjf1F2CYKsr3lXyRCwI
+#EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAgOY0RyU93efEwOJIcrxG1Q==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",CCTV2 (op.3)
+#EXTINF:-1 tvg-id="2" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",CCTV2 HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaxM3sCADhB7aqlR4pOYG3be
+#EXTSEC:97xVNsSg/yZEz4lgeHavq+yXB0wreOgbwmznvxhddEnjZi3ihOekVnXGFxsPsg6o
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV3
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODHBeESPtdBpAqSyLxNgoGhOVR8X8Y5ZyjCzDRbImbS/OA==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV3 (op.2)
+#EXTINF:-1 tvg-id="3" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV3 (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYawaOaiyzNH/CNybWms7PE2+
+#EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAi29hyvmBnPmK8Endh0n9wg==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV3 HD
+#EXTINF:-1 tvg-id="3" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV3 HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavqxx90wYqUZ7Z3KPMlw5SRdHjZi3ihOekVnXGFxsPsg6o
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV3 HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaw8TSpE61vI4dkb+e2SdJMz
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV4
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODGt/XTzshXPTNhDgreC8eu1xllPsNBWvRB+NdMd7abu+Q==
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV4 (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:zw7o4Fq/1TNdAJvRPDBSwRIoPJL2u54mlmi+mwydH5YzyhyHobj25ywQ84w0glm7
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV4 (op.3)
+#EXTINF:-1 tvg-id="4" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODGt/XTzshXPTNhDgreC8eu1VR8X8Y5ZyjCzDRbImbS/OA==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV5
+#EXTINF:-1 tvg-id="4" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV4 (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:AJmcoWI5NAx6ZyDhCH1PGi5JHVtslZTESZ0PTHjPpjrR8xp75Y8MRXsMio78DTowyqqSytVvAcQPVwANDTyxQA==
+#EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAcxJSXayVDZnksQ62hYtSag==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV5 (op.2)
+#EXTINF:-1 tvg-id="4" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV4 HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:97xVNsSg/yZEz4lgeHavq6HcEgLe4a0Ev+sgQ76yMgnjZi3ihOekVnXGFxsPsg6o
+
+#EXTINF:-1 tvg-id="4" tvg-id="" tvg-logo="https://i.imgur.com/l8PQ7fy.jpg",CCTV4 Europe
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ZAyI4eibQhjITfC+oD+advs8I2rmtJ22h98qnP9eCBu82CIp7zDfzNDyxzY68L/5JqbdE65TmET0ITY0hijlgg==
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV5
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYayvl6JcdwOvvzxCD0w6S4iI
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV5 HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjIVcIjCGP6Oj3b+U1gDniTdFN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV5 HD (op.2)
+#EXTINF:-1 tvg-id="5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV5 HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYazkeSp8oiqSObb8RkguEdKb
 
@@ -80,161 +64,137 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:T4R5sgdAbo2pJvp5A9nPvZ7oBmVoqbiQwNcV5OcrXuzI00NNxu7YzSXiy7VioN2Jdx10r/Jg5fCmj6WD47EiRA==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg",CCTV5+ HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaxmYyNqlQ+C4uu41+mp9IZ+
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV6
+#EXTINF:-1 tvg-id="6" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV6
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODERsI+2ZwSMA09rirhPQahTVR8X8Y5ZyjCzDRbImbS/OA==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV6 (op.2)
+#EXTINF:-1 tvg-id="6" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV6 (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:AJmcoWI5NAx6ZyDhCH1PGvEWrbFREZTFP2BFTSOfC33R8xp75Y8MRXsMio78DTowyqqSytVvAcQPVwANDTyxQA==
+#EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAnHpvycKm9Ue3hSrt5oAtqw==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV6 HD
+#EXTINF:-1 tvg-id="6" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV6 HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaxmHgwxftKBu3V8cgh8Fs01
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV6 HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjLdWpWCoSMpe267HKFzQnzeFN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV7
+#EXTINF:-1 tvg-id="7" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV7
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODGgRzifHOmvtQCWrideEyJpVR8X8Y5ZyjCzDRbImbS/OA==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV7 (op.2)
+#EXTINF:-1 tvg-id="7" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV7 (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:AJmcoWI5NAx6ZyDhCH1PGpZiX3mHi3lZb5ySkpOJBRTR8xp75Y8MRXsMio78DTowyqqSytVvAcQPVwANDTyxQA==
+#EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNASD2FUFprXolTomeiZk3eoQ==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV7 HD
+#EXTINF:-1 tvg-id="7" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV7 HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjL3bQuNb6Lr986cg9vThkaGFN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV8
+#EXTINF:-1 tvg-id="8" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV8
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODGrLR3iaKUhogJ0OOmxHEiTVR8X8Y5ZyjCzDRbImbS/OA==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV8 (op.2)
+#EXTINF:-1 tvg-id="8" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV8 (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:AJmcoWI5NAx6ZyDhCH1PGjeQ/nRzebU9vbBArAnFfGTR8xp75Y8MRXsMio78DTowyqqSytVvAcQPVwANDTyxQA==
+#EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAG0A3QflqJmqMvY97sNoICQ==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV8 HD
+#EXTINF:-1 tvg-id="8" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV8 HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYazud78F3YZwwTR9QST7Rthm
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV8 HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjIlaXGIvabwN3cNq7FizhWMFN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/38/15/16/381516f694a2e12870acbf6caa8dea7b.jpg",CCTV9 Documentary
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.pinimg.com/originals/38/15/16/381516f694a2e12870acbf6caa8dea7b.jpg",CCTV9 Documentary
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODGQjQl1R/NN5wH4ld3A0nWiJ3lCsCzt8DzKfxnQQiaeYg==
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/38/15/16/381516f694a2e12870acbf6caa8dea7b.jpg",CCTV9 Documentary (op.2)
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.pinimg.com/originals/38/15/16/381516f694a2e12870acbf6caa8dea7b.jpg",CCTV9 Documentary HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaxXVyct4qcsUoS0unbZkf8S
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/38/15/16/381516f694a2e12870acbf6caa8dea7b.jpg",CCTV9 Documentary HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjLtR3iRNeL10fL//SQV9mF4FN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/38/15/16/381516f694a2e12870acbf6caa8dea7b.jpg",CCTV9 Documentary (op.2)
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.pinimg.com/originals/38/15/16/381516f694a2e12870acbf6caa8dea7b.jpg",CCTV9 Documentary HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYazR+3XkLIopXBbbjMgm82bP
 
-#EXTINF:-1 tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712180298090.jpg",CCTV10
+#EXTINF:-1 tvg-id="10" tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712180298090.jpg",CCTV10
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODF+RezV/CDU5K8wbUT5cBj8KN+VIxw6bkH7RQYPmWT1IQ==
 
-#EXTINF:-1 tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712180298090.jpg",CCTV10 (op.2)
+#EXTINF:-1 tvg-id="10" tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712180298090.jpg",CCTV10 (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:AJmcoWI5NAx6ZyDhCH1PGtCppoa0/wnpW9TyWSje6SuWmVHedblzRvXcuN/PYfbCk55lcWkeKLdcMxQXb7uM9g==
+#EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNA+cNdM8nkv+JIXeFFGhwKkbp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712180298090.jpg",CCTV10 (op.3)
+#EXTINF:-1 tvg-id="10" tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712180298090.jpg",CCTV10 HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaxvHXbFGykVTJgRYKD0MMuE
+#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaz9IOH1iR7g/hnGQb4BAxfj
 
-#EXTINF:-1 tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712180298090.jpg",CCTV10 HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjJZXSd7oOAd/eDsi675zHXWFN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV11
+#EXTINF:-1 tvg-id="11" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV11
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODEbUeJN1GRUxcU75PyOw1JbKN+VIxw6bkH7RQYPmWT1IQ==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV11 (op.2)
+#EXTINF:-1 tvg-id="11" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV11 (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:AJmcoWI5NAx6ZyDhCH1PGvYG89N53ogLgvUW4chznzGWmVHedblzRvXcuN/PYfbCk55lcWkeKLdcMxQXb7uM9g==
+#EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNA1rutZI0YifKTwN/HWLGsJ7p9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV11 (op.3)
+#EXTINF:-1 tvg-id="11" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV11 HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYawu/ob5n8sWrGpXIsfLBqFd
+#EXTSEC:y/p5SHIeD3xHgPeCnceKN4mOjn9dB1XU8kTjWFk7uc/SZmSdMNc/XvLNqSyXueTEkI2d2Y29bIWu3YZ4O6TlwA==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV11 HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjIDJ1X+pY49p9mHDX0Ujwu5FN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
-
-#EXTINF:-1 tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",CCTV12
+#EXTINF:-1 tvg-id="12" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",CCTV12
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODFw9x4k0aGK4OmxxxW6ZnLGKN+VIxw6bkH7RQYPmWT1IQ==
 
-#EXTINF:-1 tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",CCTV12 (op.2)
+#EXTINF:-1 tvg-id="12" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",CCTV12 (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:AJmcoWI5NAx6ZyDhCH1PGol/8rAAQ92tt58grpSjTcWWmVHedblzRvXcuN/PYfbCk55lcWkeKLdcMxQXb7uM9g==
+#EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAl8gPH+/KfcP8r13Bi3vldbp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",CCTV12 HD
+#EXTINF:-1 tvg-id="12" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",CCTV12 HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjL/pdOojSGQs6kzNGKgkuV5FN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.jpg",CCTV13 News
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.pinimg.com/736x/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.jpg",CCTV13 News
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODEznXzeHtbp0RI3N2cPvHSuKN+VIxw6bkH7RQYPmWT1IQ==
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.jpg",CCTV13 News (op.2)
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.pinimg.com/736x/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.jpg",CCTV13 News (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:PCMlIvoKXWGx7fMqv8quEDGTa0/0fP4Aq0mg8UanABaNPIj3pvqIM9/8VKlu8EyWt4dJmZpAXxy5PzSGAhIhll5Eqf7ju/0V1x2LA5mRYYR5x1xQfygh7AlPN0LH7R+XRbZuFLn2ceJprXtNHlR2cnrTVrU+R6BE3Z/LDUimFS+6fYTmgu3FlQj5ShBVEXHM
+#EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNA5C8QTooPsIRaAmkEDZawnrp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.jpg",CCTV13 News (op.3)
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.pinimg.com/736x/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.jpg",CCTV13 News HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYayjSCk+DyOnDQDAQjIxx4kl
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.jpg",CCTV13 News HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjIMOhM8OtjUw+tNPN5VwVwJFN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 Kids
+#EXTINF:-1 tvg-id="14" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 Kids
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODE2z5cKS8xHuNxOxB3hoXavHIrCoirlPNtcNZdE538v5g==
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 Kids (op.2)
+#EXTINF:-1 tvg-id="14" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 Kids (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zw7o4Fq/1TNdAJvRPDBSwb7kqV1E9pZuIgTtyb3hfHL197ElLEbBzHFWau07Tubq
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 Kids (op.3)
+#EXTINF:-1 tvg-id="14" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 Kids (op.3)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYazaRP5FQzv+G7em7NQqR9Zl
+#EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAF+ik95EdTFxsTSQJPwRHe4OK4C+jreoWsJbS2kfCSuU=
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 Kids HD
+#EXTINF:-1 tvg-id="14" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 Kids HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjKllCFWfHGR1ysLnlAePdZMFN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
 
-#EXTINF:-1 tvg-logo="https://p4.img.cctvpic.com/photoworkspace/contentimg/2014/04/28/2014042817034422228.jpg",CCTV15 Music
+#EXTINF:-1 tvg-id="15" tvg-logo="https://p4.img.cctvpic.com/photoworkspace/contentimg/2014/04/28/2014042817034422228.jpg",CCTV15 Music
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODE+YuJ9eQL1fbqqlN5S6r/5KN+VIxw6bkH7RQYPmWT1IQ==
 
-#EXTINF:-1 tvg-logo="https://p4.img.cctvpic.com/photoworkspace/contentimg/2014/04/28/2014042817034422228.jpg",CCTV15 Music (op.2)
+#EXTINF:-1 tvg-id="15" tvg-logo="https://p4.img.cctvpic.com/photoworkspace/contentimg/2014/04/28/2014042817034422228.jpg",CCTV15 Music (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYawtBUjz4qQBoSFFsTRP8Wg1
+#EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAysGgwaMRzlTFB2uiniOnGrp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-logo="https://p4.img.cctvpic.com/photoworkspace/contentimg/2014/04/28/2014042817034422228.jpg",CCTV15 Music HD
+#EXTINF:-1 tvg-id="15" tvg-id="15" tvg-logo="https://p4.img.cctvpic.com/photoworkspace/contentimg/2014/04/28/2014042817034422228.jpg",CCTV15 Music HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjKgmID96KFM/JAW6ZczU+m2FN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cn-cctv-13-6546.jpg",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cn-cctv-13-6546.jpg",CCTV17
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ZAyI4eibQhjITfC+oD+advs8I2rmtJ22h98qnP9eCBsx3CbRyuiqIcU7f7FXWUBhCb8rYDHX9hUPXAVeoFgZuw==
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cn-cctv-13-6546.jpg",CCTV17 (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNARBjfUrXhQlcWVRVs7fLXQLp9hOaC7cWVCPlKEFURccw=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png",CGTN Arabic
 https://feedlix.net/videos/promo.mp4
@@ -280,13 +240,33 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:NhWRP5bsL7mCyEb5qRljuEv8EWpIPD/KH6nChdaQOaOxoRoYqz3BhWMhwbLe1m6Je/SSqTnELIXYNPBkhmn46zGew+Mk87Q205Mylz0bEPnUe9LG7rE+rk0Z57Tp6Wru
 
+#EXTINF:-1 tvg-id="RaiN.TV" tvg-logo="https://feedlix.net/tv/it/RaiNews.it.png",RAI News
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:XakB8AI5W7cIs3apC4sq6eBg32XY/DepmW7CH9GCyI9XXCCeFTNvSCOGbZgWn2Y3vMuC5X3EoKSMgIZ3FNdVppbGpM9kNdF7aq7KAQ70786B0dbVcK4IaQE+eGqkz3ZSun2E5oLtxZUI+UoQVRFxzA==
+
+#EXTINF:-1 tvg-id="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1024px-TeleSUR-Logo.svg.png",TeleSur
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ogZkR8qtCAkVHu1baVLrX6JC/qY4u4TqudkkVxIZv3XTnn3+jJMPu4VVZ0MQDW1riQpnE1VjuuyCjXjoNSbEeLp9hOaC7cWVCPlKEFURccw=
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/nhk_japan.png",NHK World
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:vRYhQajgTsaeHMzpYaW/orqiDtizfCXmhaBG+UMr37R6L2zgWcBI2DA6CwnJ53eI7J8zgNJxCThsb1twBk54gHySLfWuXXwhoXMCsICjoY0=
+#EXTSEC:vRYhQajgTsaeHMzpYaW/orqiDtizfCXmhaBG+UMr37R6L2zgWcBI2DA6CwnJ53eI7J8zgNJxCThsb1twBk54gK1ip4cPgkGjWFvoZqz2yaa6fYTmgu3FlQj5ShBVEXHM
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png",Aljazeera
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/asia_news.png",CNA NewsAsia
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:IzPzSjDplhiJI89DTQwvDv3wzWO0qDacQLHlX6ZyvLr68IB2lsxM2NL32EXGe4FNrQWJa0hud+MkWxTmK/DvK+yr+Gy2ub/V40m2lw2GasGKmPukxMXPSr7JApMSYV6r
+#EXTSEC:MkHdV9uAhNWNSh8W11hiBCURLxgj19yYic1FuhlL7sA9mKo/tq+TABOMAn08oTqhPETVeP1qQBnBoAMRu+5epumKYAzqh8j/5cOILo0cH6OVo5BWsDNEkcyNXaa3xz3E
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/presstv.jpg",Press TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Oq6mNC/JhcX3IKnOwlZzrj4Hdo3DxYnQYbVF8S6Q1OZVKk/GqRYx8HdVdys+4yvK+67Su5J5e053jFx7oPKftw==
+
+#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png",Al Jazeera
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:afsFoKzfBiI4YPxcuPgIyUbVq72yACJJbbWOO2PDgQJ26DG2JBcX4XTvbdJGRaQa
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/onu_tv.png",ONU TV 
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:uh3ZWjBwtJlAAHOIrePeRDqw1nZlVw5lM7jTzhPcxs+fWXolp/4XW9o1y8l43oUnSBz0bfovaZMa4fznn7RY0A7+vaqS0/FXe9zhFGP+IxF3p8Oh5wDdUi0iuDaxleXSqRpz+eGVuTDOlw0U770c3A==
 
 #EXTINF:-1 tvg-logo="https://tv.baipin.pw/wp-content/uploads/2018/08/IMG_20180806_111120.jpg",BTV1 北京卫视 Beijing
 https://feedlix.net/videos/promo.mp4
@@ -294,7 +274,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://tv.baipin.pw/wp-content/uploads/2018/08/IMG_20180806_111120.jpg",BTV1 北京卫视 Beijing HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYawoa8YipkEBz3mzqd4UsLsf
+#EXTSEC:97xVNsSg/yZEz4lgeHavq14XTpMINNR+WKqkEZJkW/KACTIbXuripoBFexUqWaHs
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/btv2.jpg",BTV2 北京文艺 Arts
 https://feedlix.net/videos/promo.mp4
@@ -302,7 +282,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/btv2.jpg",BTV2 北京文艺 Arts HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaz8DUSyB5NMbx/0gwr1E80B
+#EXTSEC:97xVNsSg/yZEz4lgeHavqy5pHw0QZpMGiCddEnk4BleACTIbXuripoBFexUqWaHs
 
 #EXTINF:-1 tvg-logo="https://cn.heytv.org/wp-content/uploads/2018/12/1-16122R05352S3-2.jpg",BTV3 北京科教 Science and Education
 https://feedlix.net/videos/promo.mp4
@@ -310,7 +290,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://cn.heytv.org/wp-content/uploads/2018/12/1-16122R05352S3-2.jpg",BTV3 北京科教 Science and Education HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYax+lwIywnO/OGthM7Rof6IE
+#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYawPENn1fVMg9E7U1UaCyqNG
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/btv4.jpg",BTV4 北京影视 Entertainment
 https://feedlix.net/videos/promo.mp4
@@ -318,7 +298,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/btv4.jpg",BTV4 北京影视 Entertainment HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYazMffh4iNaUAnYSsnayJygS
+#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaxgPiavyIEi9YJcUMocbVWK
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/btv5.jpg",BTV5 北京财经 Finance
 https://feedlix.net/videos/promo.mp4
@@ -326,7 +306,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/btv5.jpg",BTV5 北京财经 Finance HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaw1SERrpNlWIMvfGN7XfZPd
+#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaz3my1c5n9ZgfK1DJgwpmpS
 
 #EXTINF:-1 tvg-logo="https://n.sinaimg.cn/sports/crawl/787/w550h237/20190509/43da-hwsffzc0314432.jpg",BTV6 北京体育 Sports (op.2)
 https://feedlix.net/videos/promo.mp4
@@ -334,19 +314,31 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://n.sinaimg.cn/sports/crawl/787/w550h237/20190509/43da-hwsffzc0314432.jpg",BTV6 北京体育 Sports HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYazmrjwHdlo4q41wa2U0B7YH
+#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaxdWzSfPXSOuuU9SaFjvnjQ
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/btv7.jpg",BTV7 北京生活 Lifestyle
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavq8vhNSCAyS2nP/3KTjQdyTCDiuAvo63qFrCW0tpHwkrl
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/btv7.jpg",BTV7 北京生活 Lifestyle
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYawZNiiT0IEb0cKG6rODz9Sv
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/btv8.jpg",BTV8 北京青年 Youth
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavqzd1TbJqigAiBm6LswWSYuWDiuAvo63qFrCW0tpHwkrl
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/btv8.jpg",BTV8 北京青年 Youth
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaynbsxiMM3Yvnnn9IzZKal5
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/btv9.jpg",BTV9 北京新闻 Public
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavq9LmE0rucIzjyrruYnrvnJKDiuAvo63qFrCW0tpHwkrl
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/btv9.jpg",BTV9 北京新闻 Public
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYazqXi22MxfcfRfEJJz1GAKE
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png",BTV10 北京卡酷少儿 Kids
 https://feedlix.net/videos/promo.mp4
@@ -356,13 +348,13 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaymjnZNoLr0jtRFWNPnPcyc
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",BTV11 北京冬奥纪实 Winter Olympics
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",BTV11 北京冬奥纪实 Documentary
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYawCsh1WI8JikT1psyNNk02D
+#EXTSEC:97xVNsSg/yZEz4lgeHavqziXIcGibwU1ZjuQ2QHgrpvuDkjf1F2CYKsr3lXyRCwI
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",BTV11 北京冬奥纪实 Winter Olympics HD
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",BTV11 北京冬奥纪实 Documentary HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:97xVNsSg/yZEz4lgeHavqziXIcGibwU1ZjuQ2QHgrpvjZi3ihOekVnXGFxsPsg6o
+#EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaxYqmZ+wQo1w6C5yIfq6BtM
 
 #EXTINF:-1 tvg-logo="https://a2.att.hudong.com/01/79/01300000939397141898799359302.jpg",Celestial Movies
 https://feedlix.net/videos/promo.mp4
