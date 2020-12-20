@@ -1,50 +1,62 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",CCTV1 综合
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODGzaP8PjJPtUIfwpnD52J9PVR8X8Y5ZyjCzDRbImbS/OA==
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",CCTV1 (op.2)
+#EXTINF:-1 tvg-id="1" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",CCTV1 综合 (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNARIusTznNd/pnC2Fg9QlpRw==
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",CCTV1 HD
+#EXTINF:-1 tvg-id="1" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",CCTV1 HD 综合
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavqzpD+TwocEEpPrbf7IB9mxfjZi3ihOekVnXGFxsPsg6o
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",CCTV2
+#EXTINF:-1 tvg-id="1" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",CCTV1 HD 综合 (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:7WF8zdN9YwhM1zo5iYMzCOQg/EJhU8OQu6AMWXJk6IsgGVG3d/SVzWloxMgRwAjrM2frTF/BrJjcKVy+OB057o5N9dVb0nZ+Eu7mlD+N6Jc=
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",CCTV2 财经
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODExSoA3yZ5mxVr5jSkoIihgVR8X8Y5ZyjCzDRbImbS/OA==
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",CCTV2 (op.2)
+#EXTINF:-1 tvg-id="2" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",CCTV2 财经 (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAgOY0RyU93efEwOJIcrxG1Q==
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",CCTV2 HD
+#EXTINF:-1 tvg-id="2" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",CCTV2 HD 财经
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavq+yXB0wreOgbwmznvxhddEnjZi3ihOekVnXGFxsPsg6o
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV3
+#EXTINF:-1 tvg-id="2" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",CCTV2 HD 财经 (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:7WF8zdN9YwhM1zo5iYMzCOQg/EJhU8OQu6AMWXJk6IsgGVG3d/SVzWloxMgRwAjrAfOHfAPEAQdJb9JGrZZdA/tB0sAJmwnEDNEGmD33If8=
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV3 综艺
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODHBeESPtdBpAqSyLxNgoGhOVR8X8Y5ZyjCzDRbImbS/OA==
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV3 (op.2)
+#EXTINF:-1 tvg-id="3" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV3 综艺 (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAi29hyvmBnPmK8Endh0n9wg==
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV3 HD
+#EXTINF:-1 tvg-id="3" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV3 HD 综艺
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavqxx90wYqUZ7Z3KPMlw5SRdHjZi3ihOekVnXGFxsPsg6o
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV4
+#EXTINF:-1 tvg-id="3" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",CCTV3 HD 综艺 (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:7WF8zdN9YwhM1zo5iYMzCOQg/EJhU8OQu6AMWXJk6IsgGVG3d/SVzWloxMgRwAjrj4NwDzLTEeJAxy4eWaWpapNDIMt8mOI7jBe6bHs+Bqc=
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV4 中文国际
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODGt/XTzshXPTNhDgreC8eu1VR8X8Y5ZyjCzDRbImbS/OA==
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV4 (op.2)
+#EXTINF:-1 tvg-id="4" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV4 中文国际 (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAcxJSXayVDZnksQ62hYtSag==
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV4 HD
+#EXTINF:-1 tvg-id="4" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV4 HD 中文国际
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavq6HcEgLe4a0Ev+sgQ76yMgnjZi3ihOekVnXGFxsPsg6o
 
@@ -52,15 +64,23 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ZAyI4eibQhjITfC+oD+advs8I2rmtJ22h98qnP9eCBu82CIp7zDfzNDyxzY68L/5JqbdE65TmET0ITY0hijlgg==
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV5 体育
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYayvl6JcdwOvvzxCD0w6S4iI
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV5 HD
+#EXTINF:-1 tvg-id="5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV5 体育 (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:y/p5SHIeD3xHgPeCnceKN4mOjn9dB1XU8kTjWFk7uc9skW79rm2OtFC3z1XSZFPFb7LQYBMtpQhRjamUw4nsOQ==
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV5 HD 体育
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYazkeSp8oiqSObb8RkguEdKb
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg",CCTV5+ HD
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg",CCTV5+ HD 体育赛事
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:7WF8zdN9YwhM1zo5iYMzCOQg/EJhU8OQu6AMWXJk6IsgGVG3d/SVzWloxMgRwAjrucqzg6gMruKl7dbicgkuiJnV02FFKEp1rsQiD9JK4jjTDRuAFVhYOxc1Lp3onqlW
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg",CCTV5+ HD 体育赛事 (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:T4R5sgdAbo2pJvp5A9nPvZ7oBmVoqbiQwNcV5OcrXuzI00NNxu7YzSXiy7VioN2Jdx10r/Jg5fCmj6WD47EiRA==
 
@@ -68,133 +88,137 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODERsI+2ZwSMA09rirhPQahTVR8X8Y5ZyjCzDRbImbS/OA==
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV6 (op.2)
+#EXTINF:-1 tvg-id="6" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV6 电影 (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAnHpvycKm9Ue3hSrt5oAtqw==
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV6 HD
+#EXTINF:-1 tvg-id="6" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV6 HD 电影
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaxmHgwxftKBu3V8cgh8Fs01
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV7
+#EXTINF:-1 tvg-id="7" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV7 国防军事
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODGgRzifHOmvtQCWrideEyJpVR8X8Y5ZyjCzDRbImbS/OA==
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV7 (op.2)
+#EXTINF:-1 tvg-id="7" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV7 国防军事 (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNASD2FUFprXolTomeiZk3eoQ==
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV7 HD
+#EXTINF:-1 tvg-id="7" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV7 HD 国防军事
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjL3bQuNb6Lr986cg9vThkaGFN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV8
+#EXTINF:-1 tvg-id="8" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV8 电视剧
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODGrLR3iaKUhogJ0OOmxHEiTVR8X8Y5ZyjCzDRbImbS/OA==
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV8 (op.2)
+#EXTINF:-1 tvg-id="8" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV8 电视剧 (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAG0A3QflqJmqMvY97sNoICQ==
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV8 HD
+#EXTINF:-1 tvg-id="8" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV8 电视剧 HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYazud78F3YZwwTR9QST7Rthm
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://i.pinimg.com/originals/38/15/16/381516f694a2e12870acbf6caa8dea7b.jpg",CCTV9 Documentary
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.pinimg.com/originals/38/15/16/381516f694a2e12870acbf6caa8dea7b.jpg",CCTV9 纪录 Documentary
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODGQjQl1R/NN5wH4ld3A0nWiJ3lCsCzt8DzKfxnQQiaeYg==
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://i.pinimg.com/originals/38/15/16/381516f694a2e12870acbf6caa8dea7b.jpg",CCTV9 Documentary HD
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.pinimg.com/originals/38/15/16/381516f694a2e12870acbf6caa8dea7b.jpg",CCTV9 纪录 Documentary HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaxXVyct4qcsUoS0unbZkf8S
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://i.pinimg.com/originals/38/15/16/381516f694a2e12870acbf6caa8dea7b.jpg",CCTV9 Documentary HD
+#EXTINF:-1 tvg-id="9" tvg-logo="https://i.pinimg.com/originals/38/15/16/381516f694a2e12870acbf6caa8dea7b.jpg",CCTV9 Documentary HD 纪录 (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYazR+3XkLIopXBbbjMgm82bP
 
-#EXTINF:-1 tvg-id="10" tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712180298090.jpg",CCTV10
+#EXTINF:-1 tvg-id="10" tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712180298090.jpg",CCTV10 科教
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODF+RezV/CDU5K8wbUT5cBj8KN+VIxw6bkH7RQYPmWT1IQ==
 
-#EXTINF:-1 tvg-id="10" tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712180298090.jpg",CCTV10 (op.2)
+#EXTINF:-1 tvg-id="10" tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712180298090.jpg",CCTV10 科教 (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNA+cNdM8nkv+JIXeFFGhwKkbp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-id="10" tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712180298090.jpg",CCTV10 HD
+#EXTINF:-1 tvg-id="10" tvg-logo="https://m.mlzhongguo.com/uploads/image/10/15712180298090.jpg",CCTV10 科教 HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaz9IOH1iR7g/hnGQb4BAxfj
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV11
+#EXTINF:-1 tvg-id="11" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV11 戏曲
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODEbUeJN1GRUxcU75PyOw1JbKN+VIxw6bkH7RQYPmWT1IQ==
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV11 (op.2)
+#EXTINF:-1 tvg-id="11" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV11 戏曲 (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNA1rutZI0YifKTwN/HWLGsJ7p9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV11 HD
+#EXTINF:-1 tvg-id="11" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV11 戏曲 HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:y/p5SHIeD3xHgPeCnceKN4mOjn9dB1XU8kTjWFk7uc/SZmSdMNc/XvLNqSyXueTEkI2d2Y29bIWu3YZ4O6TlwA==
 
-#EXTINF:-1 tvg-id="12" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",CCTV12
+#EXTINF:-1 tvg-id="12" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",CCTV12 社会与法
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODFw9x4k0aGK4OmxxxW6ZnLGKN+VIxw6bkH7RQYPmWT1IQ==
 
-#EXTINF:-1 tvg-id="12" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",CCTV12 (op.2)
+#EXTINF:-1 tvg-id="12" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",CCTV12 社会与法 (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAl8gPH+/KfcP8r13Bi3vldbp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-id="12" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",CCTV12 HD
+#EXTINF:-1 tvg-id="12" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568168233799_446.jpg",CCTV12 社会与法 HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjL/pdOojSGQs6kzNGKgkuV5FN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://i.pinimg.com/736x/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.jpg",CCTV13 News
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.pinimg.com/736x/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.jpg",CCTV13 新闻 News
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODEznXzeHtbp0RI3N2cPvHSuKN+VIxw6bkH7RQYPmWT1IQ==
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://i.pinimg.com/736x/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.jpg",CCTV13 News (op.2)
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.pinimg.com/736x/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.jpg",CCTV13 新闻 News (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNA5C8QTooPsIRaAmkEDZawnrp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://i.pinimg.com/736x/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.jpg",CCTV13 News HD
+#EXTINF:-1 tvg-id="13" tvg-logo="https://i.pinimg.com/736x/a1/70/5d/a1705d6d5f34cc8ea4d01f153952cf25.jpg",CCTV13 新闻 News HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYayjSCk+DyOnDQDAQjIxx4kl
 
-#EXTINF:-1 tvg-id="14" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 Kids
+#EXTINF:-1 tvg-id="14" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 少儿 Kids
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODE2z5cKS8xHuNxOxB3hoXavHIrCoirlPNtcNZdE538v5g==
 
-#EXTINF:-1 tvg-id="14" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 Kids (op.2)
+#EXTINF:-1 tvg-id="14" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 少儿 Kids (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zw7o4Fq/1TNdAJvRPDBSwb7kqV1E9pZuIgTtyb3hfHL197ElLEbBzHFWau07Tubq
 
-#EXTINF:-1 tvg-id="14" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 Kids (op.3)
+#EXTINF:-1 tvg-id="14" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 少儿 Kids (op.3)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAF+ik95EdTFxsTSQJPwRHe4OK4C+jreoWsJbS2kfCSuU=
 
-#EXTINF:-1 tvg-id="14" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 Kids HD
+#EXTINF:-1 tvg-id="14" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV14 少儿 Kids HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjKllCFWfHGR1ysLnlAePdZMFN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
 
-#EXTINF:-1 tvg-id="15" tvg-logo="https://p4.img.cctvpic.com/photoworkspace/contentimg/2014/04/28/2014042817034422228.jpg",CCTV15 Music
+#EXTINF:-1 tvg-id="15" tvg-logo="https://p4.img.cctvpic.com/photoworkspace/contentimg/2014/04/28/2014042817034422228.jpg",CCTV15 音乐 Music
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q89owVBBT0GAvk/R8cntg8DrsRdC9WIaSje8qDqtODE+YuJ9eQL1fbqqlN5S6r/5KN+VIxw6bkH7RQYPmWT1IQ==
 
-#EXTINF:-1 tvg-id="15" tvg-logo="https://p4.img.cctvpic.com/photoworkspace/contentimg/2014/04/28/2014042817034422228.jpg",CCTV15 Music (op.2)
+#EXTINF:-1 tvg-id="15" tvg-logo="https://p4.img.cctvpic.com/photoworkspace/contentimg/2014/04/28/2014042817034422228.jpg",CCTV15 音乐 Music (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNAysGgwaMRzlTFB2uiniOnGrp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-id="15" tvg-id="15" tvg-logo="https://p4.img.cctvpic.com/photoworkspace/contentimg/2014/04/28/2014042817034422228.jpg",CCTV15 Music HD
+#EXTINF:-1 tvg-id="15" tvg-id="15" tvg-logo="https://p4.img.cctvpic.com/photoworkspace/contentimg/2014/04/28/2014042817034422228.jpg",CCTV15 音乐 Music HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ozMvJA3a/lASCbIqPKzy/hmf4il6mTjAcysMuAg9gjKgmID96KFM/JAW6ZczU+m2FN31z9Gy+Zv3kjXm45LRbABiWxXYPnayZ+F9eE0IiYsTmjxoF0n7Cy8fcVDKbBjk
 
-#EXTINF:-1 tvg-id="17" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cn-cctv-13-6546.jpg",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cn-cctv-13-6546.jpg",CCTV17 农业农村
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ZAyI4eibQhjITfC+oD+advs8I2rmtJ22h98qnP9eCBsx3CbRyuiqIcU7f7FXWUBhCb8rYDHX9hUPXAVeoFgZuw==
 
-#EXTINF:-1 tvg-id="17" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cn-cctv-13-6546.jpg",CCTV17 (op.2)
+#EXTINF:-1 tvg-id="17" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cn-cctv-13-6546.jpg",CCTV17 农业农村 (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67zel3KS+CUkyjustBj7O5pNVBM/lSRPtUHNHZvIG+gLWg+saD7rj580Y+J8qFNARBjfUrXhQlcWVRVs7fLXQLp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgntv.png",CGNTV 中文台
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:8o/xV0wqN8pjOxmkj2nTImz0BQzmszW87ePIj47of4HAfF2Hv954QwalBvb6+tWurqRNV6jLrPZkf5/4nA80vqcywaq9Us6jCXu3pBDjhEjuDkjf1F2CYKsr3lXyRCwI
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png",CGTN Arabic
 https://feedlix.net/videos/promo.mp4
@@ -356,35 +380,11 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uo8S7lX8baTKudSc5sYr8MX40xf+COuZH8C5K+KpYaxYqmZ+wQo1w6C5yIfq6BtM
 
-#EXTINF:-1 tvg-logo="https://a2.att.hudong.com/01/79/01300000939397141898799359302.jpg",Celestial Movies
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/celestialmovies.jpg",Celestial Movies
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mvbX0jFIBQ11LDP+s351Y2LwkICGpZ0Y79l+xoUqlecughCs8ewoQ5EHb3RNSoJO
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/crt.png",CRT1 长春综合 Changchun Comprehensive
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Cb0A7Hb1VQQcYKxxPlAsQXrTulTNmNHfmRvJFkLraT3BfKAIgd0GRHOkmYS0ODAB
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/crt.png",CRT2 长春娱乐 Changchun Entertainment
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Cb0A7Hb1VQQcYKxxPlAsQakoeUqfXrs2mTaXcJMRsdLBfKAIgd0GRHOkmYS0ODAB
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/crt.png",CRT3 长春市民 Changchun Citizens
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Cb0A7Hb1VQQcYKxxPlAsQeLfA76VW3SOV7orpGE52sDBfKAIgd0GRHOkmYS0ODAB
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/crt.png",CRT4 长春商业 Changchun Business
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Cb0A7Hb1VQQcYKxxPlAsQVA2uW3L9U5pJKJ/cinY2+nBfKAIgd0GRHOkmYS0ODAB
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/crt.png",CRT5 长春新知 Changchun Xinzhi
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Cb0A7Hb1VQQcYKxxPlAsQTQprQAIxJLSsn+51OMMo/fBfKAIgd0GRHOkmYS0ODAB
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgntv.png",CGNTV中文台
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:8o/xV0wqN8pjOxmkj2nTImz0BQzmszW87ePIj47of4HAfF2Hv954QwalBvb6+tWurqRNV6jLrPZkf5/4nA80vqcywaq9Us6jCXu3pBDjhEjuDkjf1F2CYKsr3lXyRCwI
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/chc.jpg",CHC高清电影
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/chc.jpg",高清电影 CHC HD Movie
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavqxDyo2rHTli845XZH88bsDvuDkjf1F2CYKsr3lXyRCwI
 
@@ -436,11 +436,11 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavq2Seq9EcRXNaok8ijcSLcSeDiuAvo63qFrCW0tpHwkrl
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cn-hunan-tv-world.jpg",湖南卫视 Hunan TV
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/hunantv.jpg",湖南卫视 Hunan TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavqyW1VjKI21RW8NJqtYAfF3oTNnsOthk8AGrI5nDM27Gq
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cn-hunan-tv-world.jpg",湖南卫视高清 Hunan HD TV
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/hunantv.jpg",湖南卫视高清 Hunan HD TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavqyW1VjKI21RW8NJqtYAfF3rjZi3ihOekVnXGFxsPsg6o
 
@@ -580,14 +580,6 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavq5lprT8a1e4b4XEBkmdiXsGDiuAvo63qFrCW0tpHwkrl
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/07/Tibet_TV_logo.jpg",西藏卫视 Tibet Tv
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:97xVNsSg/yZEz4lgeHavq9NNa1sh1ALK6qQeDeV9KrGDiuAvo63qFrCW0tpHwkrl
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/neimenggutv.jpg",内蒙古卫视 Inner Mongolia Tv
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:97xVNsSg/yZEz4lgeHavq5yid8aCCK8QbLc5Qe/xNPGDiuAvo63qFrCW0tpHwkrl
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/80/Qhtvlogo.jpg",青海卫视 Qinghai TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavqwDqPbLqG98kDEquQW8koUmDiuAvo63qFrCW0tpHwkrl
@@ -611,10 +603,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/ningxia.jpg",宁夏卫视 Ningxia TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavqzsTbFI/ho5sYRChhLz2PHuDiuAvo63qFrCW0tpHwkrl
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/16/GSTV_logo.png",甘肃卫视 Gansu TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:97xVNsSg/yZEz4lgeHavq+pgkcRVMrjILhPVL6wZNj2DiuAvo63qFrCW0tpHwkrl
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/corps_tv.png",兵团卫视 Corps TV
 https://feedlix.net/videos/promo.mp4
@@ -644,7 +632,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavqwo22Bjhb95JxqIEV9vcfbqDiuAvo63qFrCW0tpHwkrl
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/oriental.jpg",东方卫视高清 Oriental HD TV
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/dongfang.jpg",东方卫视高清 Dragon HD TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavq9FgjmSUanBS2QWA77Z9hIODiuAvo63qFrCW0tpHwkrl
 
