@@ -404,14 +404,6 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:97xVNsSg/yZEz4lgeHavq/sapL/33ZkkIbyrk/GLnhjuDkjf1F2CYKsr3lXyRCwI
 
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg",广东卫视 Guangdong TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:97xVNsSg/yZEz4lgeHavqxz6EsYg9KYNI7cHkvAZQYCDiuAvo63qFrCW0tpHwkrl
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg",广东卫视高清 Guangdong HD TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:97xVNsSg/yZEz4lgeHavq1NzNawJZDRw9ML3LAIBgJeDiuAvo63qFrCW0tpHwkrl
-
 #EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/lingnanxiqu.jpg",岭南戏曲 Lingnan Opera Channel
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ia8nUhUyw0+ABkn5bepVd4twCS6IY8AK51cmZ4rjMJOl6fC9zS5f0yn0R9yttjv8
@@ -459,6 +451,14 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/sgxwzh.jpg",韶关综合 Shaoguan TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:YEprMYkS5kLoJXXKTl5oww3Xftz0YaiqYct+ocnM86rBfKAIgd0GRHOkmYS0ODAB
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg",广东卫视 Guangdong TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:97xVNsSg/yZEz4lgeHavqxz6EsYg9KYNI7cHkvAZQYCDiuAvo63qFrCW0tpHwkrl
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg",广东卫视高清 Guangdong HD TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:97xVNsSg/yZEz4lgeHavq1NzNawJZDRw9ML3LAIBgJeDiuAvo63qFrCW0tpHwkrl
 
 #EXTINF:-1 tvg-logo="http://www.zyz98.com/uploads/guangdongtv.jpg",广东卫视 Guangdong Satellite (geo)
 https://feedlix.net/videos/promo.mp4
