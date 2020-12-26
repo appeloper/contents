@@ -755,3 +755,11 @@ https://rtlfr.live.6cloud.fr/out/u/6play/rtl2_c.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/RTL_Radio.png",RTL (Radio)
 http://ais.rtl.fr:80/rtl-1-44-128
+
+#EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",A Radio Rock Super FM
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:yd21qQH62nibfTCeTfFC8sSwEx3zF0HX2Z5vrCi9wSyI3dgtfd1FtbgZlFdwWFIA
+
+#EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",A Radio Rock Super FM (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:yd21qQH62nibfTCeTfFC8pRTgLff/RJw7J1ZGaixi8P9dnOV3OtYD2Vcq2bLze3I7h6aSWtrXHc1YW/zK2CXvgH4r4gsBSFvdgN5cATjz+k=
