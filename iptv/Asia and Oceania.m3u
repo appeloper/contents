@@ -136,7 +136,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:8vbqFIPDktTEEaf5IpBnYm+XL05d+bu+ZjxcPBRYD3Wavxe98Vnzm5mfXUUwP0Ho0JbfbgO3kKvJoVPrf13dKM3dg60IqpaOKOQimlnqVhCf5ApAM9pol2/zwssHXAVh
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wl0iGsD.png",Sky News Extra 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wl0iGsD.png",Sky News Extra 2 (Australia)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:8vbqFIPDktTEEaf5IpBnYm+XL05d+bu+ZjxcPBRYD3Wavxe98Vnzm5mfXUUwP0HoiSgsRPZuPZCjr3CW8biavOe6aW+40rgKs0V5k+XMxWyf5ApAM9pol2/zwssHXAVh
 
@@ -184,6 +184,14 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:6JR5HKvtIkMjXslWNpJfFYxRhHHh3SXFYvG4rtjx3myzsEj2hB5Rv9KqV/IGhdGK
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/az_tv.png",AZ TV Azerbaijan (geo)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ucdAVZ/yBIw+58l4e8o3h1Lxxwo2jeQVRzLOTe8Ed6t6884ZjpUpDKd2sj86bdui5nKbfNyt2OAhePWjlE4AP0g700V8vYYMyLWZ7PbtmDMC6Flp6aPOmWOaLaS/vWOGN4ZNIVT4dvcxzQLmCekHIwljQmjodE6chDbIn5AZ/P7HgjbRXf47VuvON1aCMVdejZ7TJ/vq8VQJ+BZYj5yYyw==
+
+#EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/az-news-tv-canli.png",AZ News (Azerbaijan)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:g0kRVPUvBPn9ZKa1dqz9SQMN8//Xz7fCBAzRpbTUpy+Qu8+FIRFNR8uHutEkS8dSM4wAb0SeGDjcG5ARpecDcJRvk4/175UjjbPiBm3BG94XjDMicVRlXQBIvBWt98rA
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png",ATV Azerbaijan
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:6JR5HKvtIkMjXslWNpJfFdH7wZRpZX35W505aSnBlgtROCr6BU3OMbRCGUtkJB4QlaOQVrAzRJHMjV2mt8c9xA==
@@ -204,49 +212,129 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:6JR5HKvtIkMjXslWNpJfFQOjiBTKeSmYJeHSY235So153NP2+5DGjXtimG88Ir6G
 
+#EXTINF:-1 tvg-logo="https://baku.tv/theme/frontend/btv/style/default/images/logo600x300.jpg",Baku TV (Azerbaijan)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:OOoE9adaABPI7qtHqBZec+VWwTV3+TIHyWMICLr8dOOT9/RNgxeeE6Y3b6sxPI2Y
+
+#EXTINF:-1 tvg-logo="https://cdn-amk.sozcu.com.tr/amk-resimler/2016/07/ttete.jpg",TRT 1 TV (Azerbaijan)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SfVVVcszCDaXJo+pHu8RF/mb4aUvafgfZtwrZzs1pMk3su9natmmYIm6KoH9BWnk
+
+#EXTINF:-1 tvg-logo="https://www.trthaber.com/static/images/kanal-logo/trt-avaz.jpg",TRT Avaz (Azerbaijan)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:UUVcsoEaRnSyLQjIPDbjr/koIb4cgx6hMoVxLy91cfetZ37Zj8I7tN/g7G8HaDf9n+QKQDPaaJdv88LLB1wFYQ==
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/cbc_tv_az.png",CBC Azerbaycan
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:78Dn8KfzoyNRzOVNHTvgvUJWQEIrmio6/H7feM9IWFx3ey+dGF7sz2OLJ4jsnDcjNL3rmq6yKMTCr6cPJ75oQUGfsCLdnXvrKWm64mjaZUU=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/gunaz.jpg",Gunaz (Azerbaijan)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/gunaz.jpg",GunAz (Azerbaijan)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:pSM1xEYIKUxBQZFdjrW2AO2uyj8ljVTGKGRk5l3ynDlOgrJ/aFNuPUGJ0sMBueeqMGONE/ptLnrCLOPSevL9QS48XG970OsrB7OGM9cbBK71CON/bIeWaxvGwXIFJ5zGun2E5oLtxZUI+UoQVRFxzA==
+#EXTSEC:pSM1xEYIKUxBQZFdjrW2AO2uyj8ljVTGKGRk5l3ynDlOgrJ/aFNuPUGJ0sMBueeqMGONE/ptLnrCLOPSevL9QS48XG970OsrB7OGM9cbBK4in7mQGGrXjas32sCFf6u5yn+SoQOFVJxk0mgt6CQjMO4OSN/UXYJgqyveVfJELAg=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/inter_az.png",Inter (geo, Azerbaijan)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:RFYQXPe3TN57/M/AWWQF/h0c3xGAb3AR1hkItWYZ3iBBREWrzecEFf6Xpd9wfDI5a1GgVTam3fBy+sfapURdXc4DHg1oKCUkr8N/pdPWGrlu2HvBFpwDxP5UomAQdkgmZYt2zGVB+JnRyQE+AfkzW1BfofTuCqNK+IVxhzyUM+RBMfVerNl031NAehjNvFY5dCqT/qTWGuZ3bg5Pyiaqbg==
+#EXTSEC:3T/rsJO5/q3oPE5FcpPkGnFHrynsxZ02K3ylNz5WNwho74EQcQEq8T2bt4qqzHIIJ0frekYXzcJyOqBXepG+Ug==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/lider_tv.png",Lider TV (Azerbaijan)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:amSdEfeVulL/Lo5Ng52zcm12Vgn6qqaQP0eiWIDNTGj6gB9+p6SYl7ZA/Cbkld2n
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/kepez_az.jpg",Kepez TV (Azerbaijan)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b6i8byT.png",ARB Kepez TV (Azerbaijan)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:6JR5HKvtIkMjXslWNpJfFa1XGP8Zqki8Eb8y1rUsSlk1PzcY0K3NYOvBzwoFUVG+n+QKQDPaaJdv88LLB1wFYQ==
 
-#EXTINF:-1 tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/dalgatv-hdtvler-mt68.png",Dalga (Azerbaijan)
+#EXTINF:-1 tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/dalgatv-hdtvler-mt68.png",Dalga (geo, Azerbaijan)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:nwjfCtz5NpyOnv0iAlv5yhfFNNUeTCAwkJoIcN1hjzpmaMQc+JFo6CAyQfwfJZ9cyqqSytVvAcQPVwANDTyxQA==
+#EXTSEC:3T/rsJO5/q3oPE5FcpPkGhyCHnSvpVXbX3k08lqjsSruTc+xM3LrdwFH7RqezfWnHR1gJU6+8rP2vdVZAF1d1Q==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/umudtv_az.jpg",Umud TV (Azerbaijan)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:vjH3vxCOeDcZvlN0ZOTeCMCX2cUUfA0Pt7495TdhunWwKjHn3n4ZSoguTu6DG2BEGjDLqqWPDvMDaXGZm++mtBnNXbydw3IV90D4ukidOj4Y6Ff5xrNVbpd5BJYAlwW4
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/xazar_tv_az.png",Xezer TV (geo, Azerbaijan)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:wvtSNN4psoX6qFCz7N8Z2pOI4xjdoVwI/zDPDySfrFQnsgSU2wTGHI2BQIRG38kCBq6EGwocqWyavpPZ7GV9mG5ASlDNueTRHzcHDCefVnrXhlpRQCkqgRh7iQBINjOuOPCFYJ8Xl5xEo4bKsnFpyw==
+#EXTSEC:3T/rsJO5/q3oPE5FcpPkGhyCHnSvpVXbX3k08lqjsSruTc+xM3LrdwFH7RqezfWnHR1gJU6+8rP2vdVZAF1d1Q==
+
+#EXTINF:-1 tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/turantv-hdtvler-s81v.png",Turan TV (Azerbaijan)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KRd0elI7RpqJotem7cY4knoTriAK7RbldwQBM8mSIoGhs7IXK4RrotGxvCyPupgd
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/medeniyet_az.png",Medeniyet TV (geo, Azerbaijan)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ucdAVZ/yBIw+58l4e8o3hy34eLZgMRvUPq/zbkc15DmwjOERTFS61J18yVC0+2rsbc4ktL1om6KoIZQd3LKos0EQgFAVC1v0idwAEaTUrs7EKow+Rk8s4uCAgEEOd6MADxtXMuF8xVPcC+H9QDsatFLcxdcpSo7sKW9Kez2XioghOlzYVS5vIIQrdBe2HddXBwZkE5Sqf2ZZYlT90/nf3A==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/idman_az.png",Idman (geo, Azerbaijan)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ucdAVZ/yBIw+58l4e8o3h3BCpg0zTpg5uoio7g9d5lihL1nF0X1g2Kz+KHZn1V5hn+QKQDPaaJdv88LLB1wFYQ==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/gunes_arb_az.png",ARB Gunes (geo, Azerbaijan)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:3T/rsJO5/q3oPE5FcpPkGnFHrynsxZ02K3ylNz5WNwhTAiwJiMdrTyEtUgpK25LM+NV1jcCi8dltwTOfTBgJGVYcFeIXFN/fpdkV5J1ACGm9QJ5YMtNkPQrsMGME4Z/C+4FzAbSU/RtLX/ckbdzLqlyrPcHFmchXUNLcvGDjGZhTGus5wWilGax5rUkp231tl8/v1kkoRiw723BQtJg5VCVQ2ozybXE8BJ9Pw6GeLaKYd4q78awPNhfkDpZAB4VTQpEmbqivdPpBZ3YndrTtpQ==
 
 #EXTINF:-1 tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png",Shanson TV (Azerbaijan)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:IBAf1Ua/tuC1G41yZYRejGogxSD8SFE5D6JnJlCMmk3NcvJiwsF/HK+jLf+9o+ngFjQTUgirQfCbLKBo+MqhU69vRSWOsNLs98tV7aOIetg=
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/az-muz-tv-6276.jpg",Muz TV (Azerbaijan)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dyoXd9c.png",Channel T1 (Bangladesh)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:nwjfCtz5NpyOnv0iAlv5yhfFNNUeTCAwkJoIcN1hjzrP6MncVRsy0mx2E7Q1gOYpyqqSytVvAcQPVwANDTyxQA==
+#EXTSEC:/P43oLR5wDtUxNppSdFTDOFBmPLsXhIPq9BPU8wC/zITMqhlymME1RXGpazDPfiZ
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TjVJT22.png",Channel-S (Bangladesh)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:VLOlkuPU/600O9mkSNdJOtB07lJnVx6pYR0NE2V5J+41VX8kjERZTduBDQxMLIZQ7z3uWD/XzayB6v4UsuxYxJ/kCkAz2miXb/PCywdcBWE=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/asian_tv_bd.png",Asian TV (geo, Bangladesh)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:lJL6wGU9HtaI/uz9HESn+jxLdKrSKfjY0h9OTg1Y2TlAz/VeOPqRMXZRbMVeoFbXPJv3daDbU0nzb+fH9bIBfojMp6Sj1dzXf3/Y2Ud1t3ATFQX7BxsalucBtduiNz3TS5rt/Kj7k2dm+kvhSTI+4nglEiHtUJwreGqdxGjfpKtyWxcmzAjMz/+dgmm0RGvvBdK4Cb8CN3lvtQhHZHX3rpE+XQqWXJE4J3kQbvlYwBGz6YUgp8Q7ctZh/xZdnzpW/fPrIdxBnCF70q6sTRiRFzBzxr7cMNUOM/relNekP6iug+OTWIE93HyJ/HlWjCigUfjcgYVsxppY1Y2saGirf5KOq+0LwDzV1aMFBixSoaWnPKELqI30aJ7KEFYx8CH7c+YWUhsxI1L+Z8WadAiRDlNFOlXI8OzYZrc/VVQPXhDzsjeFEh15sXtT1B5DIJy5i5Q4nZZs5tV4ryirZD2TE4xI/YiqjQwDl1JWnI4RR/+O6Sz091RWbr8V3jfU6Ke/
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg",ATN News (geo, Bangladesh)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:9QNxvMVClKg0fRu7ooR4omNCYkx32+nHNGSMR1CPEWcnpIpixMNBH5mF2e+VPZHWGlOnKFpDzTew5J0P4LNrg68phdUnNLEvvwNBKCfY+FCtULM/XC0ukF7qilW5/anetmTVGOIVqi+dYduMtNtQUoE8pzV0oAR6pqM+O+Ipi24s/M0Da/4qQdevJj4z1nj64f0GpcxyT8vKPXz0KcXUB3c7q+dPSCr3/W8PvABOt/iIkr3QGlop5d51/oU1kcd/g4rgL6Ot6hawltLaR8JK5Q==
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg",ATN Bangla (geo, Bangladesh)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:9QNxvMVClKg0fRu7ooR4omNCYkx32+nHNGSMR1CPEWcnpIpixMNBH5mF2e+VPZHWGlOnKFpDzTew5J0P4LNrg68phdUnNLEvvwNBKCfY+FCtULM/XC0ukF7qilW5/anetmTVGOIVqi+dYduMtNtQUoE8pzV0oAR6pqM+O+Ipi24s/M0Da/4qQdevJj4z1nj6hSS9chjFG0QqEMAhu1RKVCagDg/Un3EMqcOJXqiejyETGZGq9cIFU2c+JgXClOZvsnAzJuebnbTG0zYBrJY70A==
+
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg",Banglavision (geo, Bangladesh)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:9QNxvMVClKg0fRu7ooR4omNCYkx32+nHNGSMR1CPEWcnpIpixMNBH5mF2e+VPZHWGlOnKFpDzTew5J0P4LNrg68phdUnNLEvvwNBKCfY+FCtULM/XC0ukF7qilW5/anetmTVGOIVqi+dYduMtNtQUoE8pzV0oAR6pqM+O+Ipi27cTj4YjVTvBj13fdns5/4HMvXe4RKXJn0u8UhqcHAaYNC6fEMD9ltDl+uEnzZ9YzjrTkjSAoyBgzxD3pRTSLBurddssgGwQ9GRQEZ9bSVcGQ==
+
+#EXTINF:-1 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/Jamuna-TV.png",Jamuna TV (geo, Bangladesh)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:lJL6wGU9HtaI/uz9HESn+jxLdKrSKfjY0h9OTg1Y2TlAz/VeOPqRMXZRbMVeoFbXPJv3daDbU0nzb+fH9bIBfojMp6Sj1dzXf3/Y2Ud1t3ATFQX7BxsalucBtduiNz3TS5rt/Kj7k2dm+kvhSTI+4nglEiHtUJwreGqdxGjfpKtyWxcmzAjMz/+dgmm0RGvvZmqCiTxUwCN4qjXrHooCKRAZE87SLVEb9EKqx/AwZE3ADsjozEijGAX8fiU+1iUAavNPvKYOSZovik/RTkdLMLL8zCdCxzeJixoxkrBQmVqeXFocuatXZN1y/J5lGvGFrf1C+qtTBxGPA2SJm8Z5QttCsrYGjo7zKflAuw98wrpOmBi2ZmludXRkby1ve+uGag9I+wl7BTUECVsVU8Ctfs7O7QdMlXSwW6T04lUDQo0=
 
 #EXTINF:-1 tvg-logo="https://ufa.hh.ru/employer-logo/2669786.png",Tugan Tel (Baskurdistan, Russia)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:liq4tPvn2ciJoNw6jUrZPJMCO9yibrywmXheBwIW7TuXr38s+glGer/W9wna5HiuMjm963qdw9UofIGPqP/eqJ/kCkAz2miXb/PCywdcBWE=
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kh-sea-tv-information-3057.jpg",Sea TV (Cambodia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2jbulL2.jpg",BTV News TV (Cambodia)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:S53cbBfD6kcLBX00zuZNzJnxrZy/1qokH60OgCi95YrLhOGcYhNjjgWkIVWF0rGGxNpxAZNvul8SZ78yzs0/1Q==
+#EXTSEC:+Y+uU0wUlEJFCM9A7KdSHlGjzxIXL9uoWRFUlggQwSPjyusHxSQiq8WkM9SP5y/CwBqp/8EGqrsi1Y50wqjfpZWjkFawM0SRzI1dprfHPcQ=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1TgC7mx.jpg",BTV TV (Cambodia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:+Y+uU0wUlEJFCM9A7KdSHlGjzxIXL9uoWRFUlggQwSMKHV9G5ioo3ap7qczKuCZ939I54/6w3oyvNwU88nEIzZ/kCkAz2miXb/PCywdcBWE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6p0TK7e.png",Fresh News TV (Cambodia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:+KUqkHQpbNR0BtJWWZ2DWa8Vd37wnikA2ms6rljJuLKI6XiVGV8Cx4ABYkXVFxWonmb9EgqLzgYJ7gg8r2ZLkg==
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kh-hang-meas-hdtv-3565.jpg",Hang Meas HDTV (Cambodia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:AR7mwGI+FZw0cyTJb9XHDowdNRqMtdvoDTiS6m1k3G3gqU0WiHLS5jop2+BUPqrSrUxvpTRms67ZVHcxjFt9dp/kCkAz2miXb/PCywdcBWE=
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/99/78/16/997816c8400c4bbdbfe3fe4cd414520b.jpg",Rasmey Hang Meas HDTV (Cambodia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:AR7mwGI+FZw0cyTJb9XHDm+Uud+g/IbhbIsb6PaK4uwXJTs1P34tHIuyUsnTX4tLNNj4NsQQgXetiv0kwl02FYOK4C+jreoWsJbS2kfCSuU=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1xZmAvQ.jpg",PNN (Cambodia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:+Y+uU0wUlEJFCM9A7KdSHlGjzxIXL9uoWRFUlggQwSMQtgGapV+wkyrnSDAgnhRlpSfQrpAJZnD0ea5fRVvbdw==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KGbDcg1.jpg",TV9 (Cambodia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:+Y+uU0wUlEJFCM9A7KdSHlGjzxIXL9uoWRFUlggQwSPaH7hZTMQy2PEMX8ezeFvjCIGO+41HmV3utJpV2BcclA==
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg",TVK (Cambodia)
 https://feedlix.net/videos/promo.mp4
