@@ -208,10 +208,6 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/b3KP2hfe33hBCiD/cWWC3iXaKJHNS/h7azT0WiwKC8UbNfXdI5SQuU3dc3uP2rV
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/azadtv_az.png",Azad TV (Azerbaijan)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6JR5HKvtIkMjXslWNpJfFQOjiBTKeSmYJeHSY235So153NP2+5DGjXtimG88Ir6G
-
 #EXTINF:-1 tvg-logo="https://baku.tv/theme/frontend/btv/style/default/images/logo600x300.jpg",Baku TV (Azerbaijan)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:OOoE9adaABPI7qtHqBZec+VWwTV3+TIHyWMICLr8dOOT9/RNgxeeE6Y3b6sxPI2Y
@@ -260,7 +256,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:KRd0elI7RpqJotem7cY4knoTriAK7RbldwQBM8mSIoGhs7IXK4RrotGxvCyPupgd
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/medeniyet_az.png",Medeniyet TV (geo, Azerbaijan)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/medeniyet_az.jpg",Medeniyet TV (geo, Azerbaijan)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ucdAVZ/yBIw+58l4e8o3hy34eLZgMRvUPq/zbkc15DmwjOERTFS61J18yVC0+2rsbc4ktL1om6KoIZQd3LKos0EQgFAVC1v0idwAEaTUrs7EKow+Rk8s4uCAgEEOd6MADxtXMuF8xVPcC+H9QDsatFLcxdcpSo7sKW9Kez2XioghOlzYVS5vIIQrdBe2HddXBwZkE5Sqf2ZZYlT90/nf3A==
 
@@ -596,7 +592,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:p0IddRqb52M83T3LYg+qCoPRCKPE51t1LlZjAeXGMYexC5ck95qcCpKxbTQSAy2QqzMNQjKy8HaG/sewKIaS+Egeg7uRXv4IewgsjTNzw1Y=
 
-#EXTINF:-1 tvg-id=" tvg-logo="https://images.news18.com/ibnlive/uploads/2018/04/cnbctv181.jpg",CNBC TV18 (India)
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.news18.com/ibnlive/uploads/2018/04/cnbctv181.jpg",CNBC TV18 (India)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:fX6DqLmclHUQa2DCX51QH0v8EWpIPD/KH6nChdaQOaPWkpHbh909t+9QHTVKkQxJfnfIq065kiKN+3e96/qM5HftsUmPU/AwUTQKOl9imh4=
 
@@ -668,7 +664,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Oo/e8B+405OK/l9RRjiIzS316ymW2vI76NmIYIRHPgJkmVByC0Lj1p3MFL/7tcWkb9xLRSMldVeJrK+T1To8nQ==
 
-#EXTINF:-1 tvg-id="https://cdn1.vectorstock.com/i/thumb-large/53/50/bollywood-indian-cinema-film-banner-indian-cinema-vector-26165350.jpg" tvg-logo="",Bollywood HD (India)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn1.vectorstock.com/i/thumb-large/53/50/bollywood-indian-cinema-film-banner-indian-cinema-vector-26165350.jpg",Bollywood HD (India)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5vCgt5+OKtTW8MnewoblDPS/bUyBzSnmep1kfROTAKLI11KsxB60FKBCCKkCuZaLN7FWceN/bjTF/sZodEAeK/dJHr5RvyLYiPqhVjJ3PB0xZDge5jRBYHO7dtE5Zk2gSQfjD4PbFO6Btb9ZQI1wxg==
 
@@ -679,6 +675,14 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png",Boogle Bollywood (India)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:OnXro1okgE6QZ5ZsWPIHtut+IKmXM24eELzShk9AHvYukypiji+MmngLkOkZLK6wTBIRTVGtjVsMWD27iQa4Nm4j9rXe4MS0ESCQMFIrXcR+SnFUcFoCN51DXDir3KIcun2E5oLtxZUI+UoQVRFxzA==
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/7d95ec36638025.Y3JvcCwxODI2LDE0MjgsMzAyLDkw.jpg",Lollywood (geo, India)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Oo/e8B+405OK/l9RRjiIzS316ymW2vI76NmIYIRHPgJo1MSDxiB0j0finCfGm0JzJgwb0CSUCwFSdWBoCwBhzfuu0ruSeXtOd4xce6Dyn7c=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/mollywood_in.jpg",Mollywood (geo India)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Oo/e8B+405OK/l9RRjiIzS316ymW2vI76NmIYIRHPgKe7uQFrLEtfzOugDoVA3PEJgwb0CSUCwFSdWBoCwBhzfuu0ruSeXtOd4xce6Dyn7c=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV (India)
 https://feedlix.net/videos/promo.mp4
@@ -703,6 +707,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/asi/ammachannel_in.png",Amma Channel (India)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:gH1fEDwYUEceYvtA1XRK0Rtr+mvIDCUhkEJAHgcuMYjSm5wg43KE+GpiA0Ex+pxVr29FJY6w0uz3y1Xto4h62A==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/surya-cinema_in.jpg",Surya Cinema (geo, India)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:DIG1X2i9DqnLCYiwSciYgy316ymW2vI76NmIYIRHPgJJ3PdoitOnahkYx/5lY/gkz4UNxfxF0OPdpT7KmIlziHnc0/b7kMaNe2KYbzwivoY=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-bFu3Qcuw04I/V1LablvHTJI/AAAAAAAAQrU/ZcUycyxMFN8OTglvEE1hG1edUvVHqO4WQCLcB/w1200-h630-p-k-no-nu/bflix_logo.png",Bflix Movies (India)
 https://feedlix.net/videos/promo.mp4
@@ -755,6 +763,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Manoranjan_Movies.jpg",Manoranjan Movies (India)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:RoLakG1s87WBvES6w9EhTwgXNbLEb6Y+TH2TBx1O598274UuoTDFnFZRwg3piGGujjRS62PFl4gnf7vSMQMsJ5WjkFawM0SRzI1dprfHPcQ=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/22818/filmeraa/logo_20200528_233056.png",Filmaraa (India)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:MCw31dEZuBoaeXtV957Sa3SJavOJbmNU3YOtnUvnTyWIzBCI4E/j0fKJgAxAds9PKIZqxWx284ui/1QIaAQ7drtMxqllpmimJN29nr08Trj2e6rJ59Uya/k5kU+myx92OGuKGd2B761WQ+QLVRHfmqY1UZ62EnRVDiBPpf86/LHFQ999gNkql4CuWw1VxGzs
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/asi/rajdigital_in.png",Raj Digital Plus (India)
 https://feedlix.net/videos/promo.mp4
@@ -816,7 +828,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:fvMRdhx8e3BhMScJw0eBhfXFD3AZKwQxvCdl4z9de2oGQDXlyR49ML0oyBfa87TgqjKzuBfYSxDdZ6qVTLNkce4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.net/logopedia/images/c/c2/Jonack.png",Jonack TV (India)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Jonack.png",Jonack TV (India)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2Y+P4J1rN98BFvPXeSr3z3RNR9X0klqafspIX8ZrliKvcymeqdnkX300am2aw9NsYr+EAOZKwwM+dB35ANECqcqqksrVbwHED1cADQ08sUA=
 
