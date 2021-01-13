@@ -1736,23 +1736,15 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:FlY3Yvu7i48UCkYIknqSfgPgRX9d82pqt1qkO7mGAAq2IwvCI7jE9AsMPGwCq5yB6SERMGms2Y+ZoPlqBFzGBO4zc2sqr6KfiVishxk54Nw=
 
-#EXTINF:-1 tvg-logo="http://i.mjh.nz/nz/images/tv.13.png",Māori TV (New Zealand)
+#EXTINF:-1 tvg-id="tv.13" tvg-logo="https://betterpublicmedia.org.nz/application/files/2215/0382/3288/Maori_TV.png",Māori TV (New Zealand)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vsRcsEHUjXjZ2GmNpEVb1We+vsiiegX9YEGMeMN3vdpTArEvsdhFhQZ/zkJSbBG027cPq3J/TVbkl3uRKvawehPGdKAq0IZgE18qQn/hFaqnItmnG3+jZmcf0oZ2n3w7
 
-#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/16/540459/8424234/prt_275x320_1408583272.jpg",3 News (New Zealand)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ah9NSE7FqeiWvuKKCTkUgWGYLtiG6Yty7Q815g+tMvakmXptN8ZQv+8K8tJ7RUOeyj1ntLXE617kE9RlydOsE4KWFlycjwrwQIzEbRNlDczqs9he9WzIF8MnXw6tX6Yx
-
-#EXTINF:-1 tvg-logo="http://i.mjh.nz/nz/images/tv.20.png",Te Reo (New Zealand)
+#EXTINF:-1 tvg-logo="https://listimg.pinclipart.com/picdir/s/567-5676884_te-reo-clipart.png",Te Reo (New Zealand)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:oOFqnRcCwkhkD4bJYppNnvka1jnMTwrbk6z3gCCDxJ0=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VKc7BLC.png",Parliament TV (New Zealand)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nx6dFjL9oE7pDnnuxWBjoeMAVf9K69KlUsi3Dcao7RDUNS4d48ORzhiIE47n8wpeg8IiQE4tsRg+xEitTFFEvw==
-
-#EXTINF:-1 tvg-logo="https://www.firstlight.org.nz/image/header_widget_images/Plain_blue_-_Firstlight_7_yrs_miracles.png",Firstlight (New Zealand)
+http://i.mjh.nz/nz/tv.39.m3u8
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:oOFqnRcCwkhkD4bJYppNnoDe78AmazoQWAd2Pb6+5mI=
 
@@ -1760,9 +1752,17 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:lJ6/sE/q2+YWUAudjasGiJ99vJmuVyDw0YMDGyvZtJVWolBjGDvBmwNvb9k5oLbZoFHz1B4i7fheUklbhJOmfpWjkFawM0SRzI1dprfHPcQ=
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/JFK5z-20pBw/hqdefault.jpg",KCTV (North Korea)
+#EXTINF:-1 tvg-logo="https://www.dealood.com/content/uploads/images/June2019/SHINE-TV[1].png",Shine TV (geo, New Zealand)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:MwTefrVrdbUczYKMOGq6znDdndxRcGSv3CTzCJjAcxT2ILpQ1nQY+QZa2mpRA8U+
+#EXTSEC:4IWi1UOeqNDA74oAXwdfzOdj5U+TUl93a4cbhTX+dd1Qu5ORjHfBWbNov6zar1QWrsvUXKFrGHLvzQ2WrXVNcZEPZ54wGlqCnb7l3fwsTXx2WqLvH0QN0Ha7NLadNeZr
+
+#EXTINF:-1 tvg-logo="https://f.hubspotusercontent40.net/hubfs/2631546/kordia_background.png",Kordia TV (New Zealand)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:M1c2pnqFjiv/u5cV84clgMckUarT5waFhDpLplNH9T8zlaDwLly0M02Fv17CF7MxwsJQFoAgpw80/tDlEwcVV23Em9ZAPa1TfAxDkb90cxIVpFExNA3UzkN+KRfQMoaw
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/kctv_korea.jpg",KCTV (North Korea)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:MwTefrVrdbUczYKMOGq6zgGeAWuEXIFk+XCBJWMf0MlBJ6N1Z+nUUP1wshbtgxpQ
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png",Ary News (Pakistan)
 https://feedlix.net/videos/promo.mp4
