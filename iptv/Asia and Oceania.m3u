@@ -2638,7 +2638,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://tv3s.net/img/todaytv-vtc7.png",Today TV VTC7 (Vietnam)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ik5H/YAWKuePX2np9MHkAJIcv/fpy+22Y/PoGc4TCQSYO6r+WsRSFtsFcEnYpyskYaCrC55IK9cKRUIerJ2p3t2YLDvlHPi3oh9GcE/+EFE=
+#EXTSEC:KAvom90P+tvIyYht67pW/5BukjTQ4maxWk4K6eCjh1ZFdJbIyt6NRJhS2pMEqTrCRHoL+CcXBZf4MJ5ZtB0rXLmiinsnd7uB7zft1JQZtPU=
 
 #EXTINF:-1 tvg-id="VTC1" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1 HD (geo, Vietnam)
 https://feedlix.net/videos/promo.mp4
@@ -2724,41 +2724,157 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:r5K/z+zwAKwMhseP5irKaM2nRVzBaK4GcBAosDy3m8ZFTaIqry44dG+IBONOZg27yqqSytVvAcQPVwANDTyxQA==
 
-#EXTINF:-1 tvg-logo="https://vtv1.mediacdn.vn/zoom/633_343/2014/logo-vtv-1409996870907.jpg",VTV1 HD (geo, Vietnam)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5FGrSvyXJYM/hqdefault.jpg",VTV1 HD (Vietnam)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Ik5H/YAWKuePX2np9MHkAJIcv/fpy+22Y/PoGc4TCQR9C4eI/BZYm0xmJ4rf+8bSFczvdQPJ1Ai+GGd9wAxBHskCHBfd3xQH4r2VH1A1GEg=
 
-#EXTINF:-1 tvg-logo="https://vtv1.mediacdn.vn/zoom/633_343/2014/logo-vtv-1409996870907.jpg",VTV2 HD (geo, Vietnam)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/vtv2_vn.png",VTV2 HD (geo, Vietnam)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:D39NlWaf285GkmjqSd/JeTiwFxmRcbsNLImPz9y3LGxEuPEivIbuInhQXtvRcYGK3ZgsO+Uc+LeiH0ZwT/4QUQ==
 
-#EXTINF:-1 tvg-logo="https://vtv1.mediacdn.vn/zoom/633_343/2014/logo-vtv-1409996870907.jpg",VTV3 HD (geo, Vietnam)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/vtv3_vn.jpg",VTV3 HD (geo, Vietnam)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:D39NlWaf285GkmjqSd/JeTiwFxmRcbsNLImPz9y3LGzk84WOP3rOCXFpiwkLDx/K3ZgsO+Uc+LeiH0ZwT/4QUQ==
 
-#EXTINF:-1 tvg-logo="https://vtv1.mediacdn.vn/zoom/633_343/2014/logo-vtv-1409996870907.jpg",VTV4 HD (geo, Vietnam)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png",VTV4 HD (geo, Vietnam)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:D39NlWaf285GkmjqSd/JeT00Rcd6iKN4i/sEV5YLmJbraer5nwFBv+aRDwBqz+ea3ZgsO+Uc+LeiH0ZwT/4QUQ==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/vtv5_vn.jpg",VTV5 (geo, Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:D39NlWaf285GkmjqSd/JeT00Rcd6iKN4i/sEV5YLmJYK4YDZbudl5k4AK+1CX0FT3ZgsO+Uc+LeiH0ZwT/4QUQ==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/vtv6.png",VTV6 HD (geo, Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:D39NlWaf285GkmjqSd/JeT00Rcd6iKN4i/sEV5YLmJZsid55MKUmog32+oUnCoZ+3ZgsO+Uc+LeiH0ZwT/4QUQ==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/vtv7.png",VTV7 HD (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/wwc3Exuv253fhdcDAi+B6Edb1wde0O5S+xKkL5j5uSjYTTA7Rygg8CsOtUkFW20Nbp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/vtv8_vn.png",VTV8 HD (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:vT0V2EMS5rUjaokDIN3WSyEpdrW9najsxnesaAM0N/5I5dv3u+mSYvIbK6KDfF0s+jBGr4MEwTMhxv2JaJKkkP4P//Y/I/4wbGEDTwoNQqg=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/vtv9_vn.png",VTV9 HD (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/wwc3Exuv253fhdcDAi+B6HNyNIok4O1vm+THeCNtOjGzrdIzfj1XkI3zhpnSrr8Ve4OSN/UXYJgqyveVfJELAg=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Jod5zk5.png",BTV1 HD (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/wwc3Exuv253fhdcDAi+B6HqP5zMl9GkAP4VWz0IVxcIa1KH4kVFHqv5lO1f9Hm69Q==
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/18/245539-444791-BTV2.png",BTV2 HD (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/wwc3Exuv253fhdcDAi+B6EmzLbFL4t0ambVfDnSo4bBa1KH4kVFHqv5lO1f9Hm69Q==
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bAszEEm.png ",BTV4 HD iMovie (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/wwc3Exuv253fhdcDAi+B6Fv3YsMPw3Mc3K/TU+QmptHYTTA7Rygg8CsOtUkFW20Nbp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2019-04-08/5412686-binh-thuan-6.png",BTV6 (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/0+9CMeernXVUxvYPPguH6KlCH3IiF3vpWSzJbgBt9jWZE0BXEjj9Tq6YBal6ySDe5WjkFawM0SRzI1dprfHPcQ=
+
+#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png",BTV9 An Viên (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/1Pq2ubF5oKELeoWHgo7jLDb2sFwfwuDzfG+RcdkPTyka1KH4kVFHqv5lO1f9Hm69Q==
+
+#EXTINF:-1 tvg-logo="https://i.upanh.org/2020/08/22/NCM_BTV10_logo.png",BTV10 NCM (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/0+9CMeernXVUxvYPPguH6LEbiNxACLkzBW2jJdcIfSWnmb9EgqLzgYJ7gg8r2ZLkg==
+
+#EXTINF:-1 tvg-logo="http://img.btv.org.vn:81/upload/vod/25032020/1585128658_btv11.png",BTV 11 (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/0+9CMeernXVUxvYPPguH6JSKmqJyunDanNpazqhVTSm7IX5M7XeH7CQLt0RDf/Q6w==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/asi/crtv_vn.jpg",CRTV Truyền Cao Bằng (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:zznB6luNYL6xYKpXjwZYIDrE20aZZczeyIP+G3j+W7+4wm0ZhewOMLxCsctAL3lmpfQ+jHjz094XHjQRPOGUERSN5SHe33ccNkA5QWjxsdY=
 
 #EXTINF:-1 tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-binh-tv_145734126864.jpg",QBTV Quảng Bình (geo, Vietnam)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:D39NlWaf285GkmjqSd/JeTiwFxmRcbsNLImPz9y3LGx+DND7eXwNqex7w3RRgJly3ZgsO+Uc+LeiH0ZwT/4QUQ==
 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/saigon_tv_Vietnam.jpg",Saigon TV (Vietnam)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4iXtcy6OBAQl+9RA/8UmdeKqodBhlNlTvv/ge0y98x119PRt+yrRjfMOy4kflZ0LN8yNoWtbxr220JchQcGjmxk+NipXTTwHpLBmg9pwX9ohmW7xPR9/Ks4IkEHupmKV
-
 #EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/vietmy/vietmytelevision/com.vietmy.vietmytelevision_1.png",Viet MY (Vietnam)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ESqWTRVbmWCEKDEJX+wmK76BvebiCwCDdz0JWcH8UmJzBi0izgUQjXRzZnNvpXAELemUwQgwnLfvDud6O4u/oQ==
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/nhan_dan_tv_vn.png",Nhan Dan TV (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SpkMdEFrfM4nAsga+RoW0QGp0azmZvFay8G1aa5oh1RdupKXHGRRW+h4vspG+PyV87QXhzt9PBE9wA1aFtY/xalhkRCyNCNC7oZ3uGX6zUm6fYTmgu3FlQj5ShBVEXHM
 
 #EXTINF:-1 tvg-logo="https://tvonline.vn/wp-content/uploads/2018/07/large_ptv.png",PTV Phú Yên (Vietnam)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:dVDA172Z1ewhAZHVT2MEQozlelyAadivYHXQVnfnIk8TNnsOthk8AGrI5nDM27Gq
 
-#EXTINF:-1 tvg-logo="https://assets.xemzi.com/bizimages/medsquare/35653.jpg",Set TV (Vietnam)
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2016/03/14/3061231-logoc-thuanviet.png",HTVC Thuần Việt SD (Vietnam)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:oAWZcZT3jLHYDR5iq2IQv5vh7NZZ+5r+DTSAiTnlv/53+YSMr2cud3yGfH2BdqURSaf5fBuAP/Jjno2mNu2UOXMzbtMZwZXa9SEsPB3EUQiVo5BWsDNEkcyNXaa3xz3E
+#EXTSEC:KAvom90P+tvIyYht67pW/wwc3Exuv253fhdcDAi+B6HYgrRHvbGcbn2BSGeYyhKDvakf1J3chQZ0/buylp0OnLR7aKaxOygWLKPpZqjNboA=
+
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2017/02/20/9667644-9189649-htvc-th.png",HTVC Thuần Việt HD (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/wwc3Exuv253fhdcDAi+B6HuT/0sdj58rqWa+EZu9oBmx2NvPEjquZuTEzIHLFyYkD8qa1mJm5MeB3rtQkhryTE=
+
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2016/10/20/425058-logo-phunu-fina.png",HTVC Phụ Nữ (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/wwc3Exuv253fhdcDAi+B6Fp2sggiIcvHCtl7FNedPWnWIdAT2fq5KrzQW1OnIohO4OK4C+jreoWsJbS2kfCSuU=
+
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/563560-logo-kenh-phim-.png",HTVC Phim (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/wwc3Exuv253fhdcDAi+B6G/V5Q/kPlzjbNjG9Ht1Bpy+jBGr4MEwTMhxv2JaJKkkP4P//Y/I/4wbGEDTwoNQqg=
+
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2017/04/10/2028200-ca-nhac-01.png",HTVC Ca Nhạc (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5f0QD/uExGm96NpM8W7IOGhoy9OGQdhpASuv4E+ySHE6PTPe8TW9ZJmj1VESUgJFy3cvMBD7WqDj08rnMNd30AdgHByWuOwqQSSDnYWZhs0=
+
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/9681507-logo-htvc-dulic.png",HTVC Du Lịch Cuộc Sống (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/wwc3Exuv253fhdcDAi+B6GaISdczRaBj4bJk3URQqRdiP0ZQGWYu8z8RfwvI6kPL4mPquOCdup59GrOyn1g2Uw=
+
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2018/06/06/3590945-logo-htvc-gia-d.png",HTVC Gia Đình (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/wwc3Exuv253fhdcDAi+B6FZ+JoXrzh8K7EXk8U72qIt+jBGr4MEwTMhxv2JaJKkkP4P//Y/I/4wbGEDTwoNQqg=
+
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-05-22/6833055-9051942-plus.png",HTVC Plus (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5f0QD/uExGm96NpM8W7IOGhoy9OGQdhpASuv4E+ySHE6PTPe8TW9ZJmj1VESUgJFsPRQs5HxiiWzrgQ2INzi3qUn0K6QCWZw9HmuX0Vb23c=
+
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/channel/2016/08/31/7613159-htv-coop.png",HTVC CO OP (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/0+9CMeernXVUxvYPPguH6KuTMtdRCZ0yZDwFlhv6Rw8RHoL+CcXBZf4MJ5ZtB0rXLmiinsnd7uB7zft1JQZtPU=
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/09/25/229604-DN1.png",Đồng Nai 1 (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5f0QD/uExGm96NpM8W7IOGhoy9OGQdhpASuv4E+ySHEfVc0TcsPsiIsUmCJaYU+XadgEa03DQKuCPClukCCNe9Ny4OPZJuc6nDOR3clciHTDhu0KTVH43XrCNYUclbOyn+QKQDPaaJdv88LLB1wFYQ==
+
+#EXTINF:-1 tvg-logo="https://dongthap.sanphamweb.com/wp-content/uploads/2018/11/logo2-1.png",Đồng Tháp 1 (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5f0QD/uExGm96NpM8W7IOGhoy9OGQdhpASuv4E+ySHEfVc0TcsPsiIsUmCJaYU+Xj/yWw/T5YhPCCUHUUomineNwBrxS06j/vGrO/vf3EZjDhu0KTVH43XrCNYUclbOyn+QKQDPaaJdv88LLB1wFYQ==
+
+#EXTINF:-1 tvg-id="HTV1" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/1586931-logo-htv1a.png",HTV1 (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/5BukjTQ4maxWk4K6eCjh1bCvMxkLMApq6GiN1QkVyk6zrdIzfj1XkI3zhpnSrr8Ve4OSN/UXYJgqyveVfJELAg=
+
+#EXTINF:-1 tvg-id="HTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c2/Logo_Vie_Channel.png",HTV2 HD (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/wwc3Exuv253fhdcDAi+B6FWgRWuJPFWVu6mtqHc+MU8oZVcF79DGvftIN4/Bz9JPLhgr1ePAq6zk8hiYag7TuQ=
+
+#EXTINF:-1 tvg-id="HTV3" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/7068413-logo-htv3a.png",HTV3 (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/5BukjTQ4maxWk4K6eCjh1a9OV0gr3huIUBwlOtYqX1ka1KH4kVFHqv5lO1f9Hm69Q==
+
+#EXTINF:-1 tvg-id="HTV4" tvg-logo="https://i.postimg.cc/LSvDpMKV/htvkey.png",HTV Key (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KAvom90P+tvIyYht67pW/5BukjTQ4maxWk4K6eCjh1aEIzRKg5qgX3LJani3YazNzrdIzfj1XkI3zhpnSrr8Ve4OSN/UXYJgqyveVfJELAg=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UFpJHo.jpg",Quốc Phòng VN HD (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5f0QD/uExGm96NpM8W7IOGhoy9OGQdhpASuv4E+ySHEEgw1Al7gcme/lOMiffcMI02+PIm5ityrtsGITm0I6uCoMa+F9fNEUI/uS+YyeQc6ycDMm55udtMbTNgGsljvQ
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/02/14/136186-davinci.png",Davinci HD (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5f0QD/uExGm96NpM8W7IOGhoy9OGQdhpASuv4E+ySHHy3u4CjDPSN3U2VBStT2n3DePOVZfTXlulbLt6/Y0Jy92YLDvlHPi3oh9GcE/+EFE=
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Yf29w5rxL._SY355_.png",VBS (Vietnam)
 https://feedlix.net/videos/promo.mp4
@@ -2919,6 +3035,18 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="http://tvonline.vn/wp-content/uploads/2020/04/vovtv-hd.png",VOV TV (geo, Vietnam)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:63vRPqVSfUhferqK/cl+wEJNlI4ISROaJJVf9pLL8xZr6sxjS3y1fwsrA82O+mE5r29FJY6w0uz3y1Xto4h62A==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1QlhHKO.png",Fashion TV HD (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Zi+ZjBNETsik4+kdPaf+h7yva5jsNJlbELfgAq5EAvA/bETZ41hrXCSK7nCtCQUG39OTonsgISt45PjOBDJkT+IAgKzI1UvHqSjbiu6LDLQ=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_ru.png",World Fashion Channel HD (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ESEIuMJfEURn7CppWTwLPajKy849dEj6Bnnq/5y+LbdRVz0HKRa64zDK5BaGBR5gv0LYylUT9HdSK7PkTknCiQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/GlobalFashion.jpg",Global Fashion Channel (Vietnam)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:vFXSMAJYzUR75PAwVSocawpT+3hjn4vjgQw+GVpEs8oqdpfLKQIKVm/6ZCq+e9k/JtCeEk0KDAOzBIQHgYzFikeXEQvQbEYFihMiJ9QAkfa7WrIZH6HH/zaDGf4BSgYUn+QKQDPaaJdv88LLB1wFYQ==
 
 #EXTINF:-1 tvg-logo="http://118.107.85.37:8082/thumb/196x110/crop/Images//Channel/2017/2/16/TR1TE7NKAP.png",VOV1 Radio (Vietnam)
 https://feedlix.net/videos/promo.mp4
