@@ -242,15 +242,11 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/ShowTurk.png",Show Turk
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Z+seEojoIp414+ewBn7vJyl4WwsQF8PFdPQtMeaHzqiUkkBDVCfFOK3lSm3nkjBQwxf5tvE4HWR6jsYpTvPzcRm69Kyh9I7kQ75COhlN8cj0B2WL40D4lsVaa85G9/NNwceGRBzKlmbfxvFtT3Rz9w==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kcJYRGj/Fvxpir2.png",Show TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Z+seEojoIp414+ewBn7vJyl4WwsQF8PFdPQtMeaHzqhx5QLaSV0EEV0AKL75roxp1oQlloGJbxfrjH3Cfk/DLlcT6h3yan2Ekc5WFz16QlSmixC7gc7RjhpYoOUKAdoV
+#EXTSEC:Jwt0BRsfTbvkwssXVnbd8vOTqG4NlGytI08j44IAo68acJlQV/nMEr8Sh0pyZU7LttGksAR6RMTTppYA9CQKEw==
 
 #EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/showmax2.png",Show Max
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Z+seEojoIp414+ewBn7vJyl4WwsQF8PFdPQtMeaHzqiqQZMG1UCWtG+PgM1xSkk8PefXwFyR321b6f8aVoGVWwS7FHv8wTWsesU7QWsZjL4bbiJa1/4I6WPiKsovNksCsnXxfSzZDrb5LEEEqCuuwg==
+#EXTSEC:Jwt0BRsfTbvkwssXVnbd8vOTqG4NlGytI08j44IAo68acJlQV/nMEr8Sh0pyZU7L/SeLwtRP2PgpWF795tBBfg==
 
 #EXTINF:-1 tvg-logo="https://finest.tv/themes/default/assets/images/logo2017.png",Finest TV
 https://feedlix.net/videos/promo.mp4
@@ -259,6 +255,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tr-kanal-alanya-3588.jpg",Alanya TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:lEs2KxCu1w/BwVDofKLq0dy3n+wBi370yw905WOwoNAGB92GZGJz8RFrLvDEwGO6edKwytsljuvJqCGfSUA5iCVfJHI6tzhawHe3s99Pi1W6fYTmgu3FlQj5ShBVEXHM
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/4131d326866509.5571b17c4e8f4.jpg",Semerkand HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:dip0TetG2uOh+1kgWBeomEGLco1kc+LWmKyuJU5v06bqRjWkSgxvjSLwMTWbpFUOHJ3jRhOcmLwyhjrSCkMwJ1/PYTjuibO4KR9xwzpZFYBMzjZkpja71motZ9TveqO7H0MO6JeAqTqGN8DguHj5mIOK4C+jreoWsJbS2kfCSuU=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o3G9ddv.png",Aksu TV
 https://feedlix.net/videos/promo.mp4
@@ -316,6 +316,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:xnkP+802dZet1CEcC/+Wd4Uz0LiTTWWeUXHJmjs8pUD6Cpb1/KwKmIfpKLMRVYYl
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/kanal68.jpg",Kanal 68
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:0IlB8lBcsxM94457l/af+pGMwfCS6QDcX3NhULo7DCsMIP+ZekJVvQhrIuBKA7LhebAUpMCwWnqkw++zoW/TtA==
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HGSNWCU.png",Kanal 101
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XsM/7FBwdrohI/29vW1jDsBhBUMLbCxWL74KfElzkET8sa6dMKCB1R48W1USTwip
@@ -327,10 +331,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/mar_tv_tr.png",Marmara TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:j3CKxYMHNDFfGI9TSRkEQND8ynuVsDmsttR2YLR1YcRwTCBxsIfBsQ5DzzfeTeBXd6zr6xHu7xiqGLF0WBztg5/kCkAz2miXb/PCywdcBWE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D3qVpPu.png",Marmaris TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:t6vM9CkVzxkYzEqy6F8R6dlTI12O5CKDZsMpA19hk5nmAEaBnOWKbL+XMUCS9axhmcOjiteMgr1tN8K0wDen0iBRy+olhqyz8pLDqKPEkyHDVAjelPH+ZRLZAoNub3gSHs7pTPDbqLqaqLrWn9/YBg==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UbVZFtm.png",Kanal Urfa
 https://feedlix.net/videos/promo.mp4
