@@ -408,10 +408,6 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2wPcYDxNOceIpELuibOw0TB2snMj+kSuLRwjUANQnelQ3pEXgwYCufSWr1tDxkBtpK7DyZO18KpMtqXTOhikg/n0HIC+6JSriFg+kXne5IA=
 
-#EXTINF:-1 tvg-logo="https://ajssarimg.mediatriple.net/1131989.jpg",360 TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qApUsmZLdBVriPUYvo6Vy8va8WYYFtRPo0N7VMuVN8ODKl5S0LX6LPq/7pLLIejDy1wqVLvIbz0BpOE688jsSCj24h2nuOFYSMJV9Rspz8Sapy6A0HpFL6I0hL4GWYiFEMkmF/93bIyQaLd1N4DQA/L3rGQVIUfdzopfD6zJnUEt2VupzFlheFzeEA/wuGdQVpGvoIBs7lVmIoyK1giOsA==
-
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/HaberMedya.jpg",Haber Medya
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:eODIp43RBxKNY5aqGX4JnW615WEfRhILg8AitXjKSUIAFk7owaZ4sGcsAtHQzekU
@@ -428,11 +424,11 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:wIWYNKQMy0np2JrdP4P8Qqd09DZhXZBCxDtbPb8F49lRkvleKO/TPjB134eGVsbPg4rgL6Ot6hawltLaR8JK5Q==
 
-#EXTINF:-1 tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png",EuroStar
+#EXTINF:-1 tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png",Euro Star
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:iHt458CzIT+SqG5E25JoWS5DXnW/fNpnCQLBKsK6QHwdg28CFuT0QDDd2Zr99ZDBWZ38kg8uY8qgHOSpE2KSfrp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-logo="http://dersim62.tv/wp-content/uploads/2016/05/3v3.jpg",Dersim62 TV
+#EXTINF:-1 tvg-logo="http://dersim62.tv/wp-content/uploads/2016/05/3v3.jpg",Dersim 62 TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:+FFSLbSkM8XpdbmVgBDsNYF5PCu+jishO1lq667GElhAQB5jDAeCXD/Pxe4yQlyWd4s8auJp3/BtTYFoFYpduZ/kCkAz2miXb/PCywdcBWE=
 
@@ -457,12 +453,16 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:YXHYRGYQBM7yq1feYF37tuCLBh4NsLpEQsy+wCmcmw2hJvKk/1soLjIAbrMjFicsM/moM59VwjEhtybMvIc5gslgfLBRHAv4qUrpL6IOlNo=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/37VNK2B/Nnsnayw.png",Altas TV
-#boris
+https://feedlix.net/videos/promo.mp4
 #EXTSEC:kqu6OjrVfkpOSHUBWxSivMWykNYmIgNLoV9wGqVzdCIxRpn78Pp2C+jLl8rsWR55OuVrTuOsDT43DpzSKUaCj5WjkFawM0SRzI1dprfHPcQ=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bHP8whJ/MwuqE6S.jpg",Dmax
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:todMynDcTnexmhPRGE3X2i6atnCb0vNG37R1Nf2atWtMiFkN+eDig32rcnkbrGz7r29FJY6w0uz3y1Xto4h62A==
+
+#EXTINF:-1 tvg-logo="https://icanlive.tv/pictures/amasya-art.jpg",Art TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:t6vM9CkVzxkYzEqy6F8R6dlTI12O5CKDZsMpA19hk5l4CwvePXvPmeGsKGzHFfL3HVa1d9QqW5CkaI6HQeV3x/mvOO77DieF4l+u8ar+xnk=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGZ51XV.png",Meteoroloji TV
 https://feedlix.net/videos/promo.mp4
@@ -472,33 +472,49 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:MxGsMsMgl9Yyci0F4Te9wm6UzElWqvkCJ9DodOSKQRosj1hTQubXdOivW6Ou7Bia7g5I39RdgmCrK95V8kQsCA==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/TrtCocuk.png",TRT Çocuk
+#EXTINF:-1 tvg-id="TRT Çocuk" tvg-logo="https://feedlix.net/tv/tr/TrtCocuk.png",TRT Çocuk
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:bnKGtIaH0rpkmbTMQvUxr5NYzlA2HTjcV9XM25TAhbyd05qxbxi0YQH8hgFgMHop
+#EXTSEC:bnKGtIaH0rpkmbTMQvUxr5NYzlA2HTjcV9XM25TAhbwbFUfDN/hwWOyOScE1L207laOQVrAzRJHMjV2mt8c9xA==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/DisneyTurk.png",Disney Çocuk
+#EXTINF:-1 tvg-id="Minika Çocuk" tvg-logo="https://feedlix.net/tv/tr/minika_cocuk.png",Minika Çocuk (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:3T/rsJO5/q3oPE5FcpPkGnFHrynsxZ02K3ylNz5WNwhfloovZ1YXWMwBqYWlKmLhZnSHE1NlPb8MCmWNwVSY17p9hOaC7cWVCPlKEFURccw=
+#EXTSEC:s90Wp5MZg0bCwcSYla7QPta7ZmihuAJ5yb9gDFFtVDalOEFGc91CKpMIzijOT4mZ/6QL/wLA5Ykw0CXLm40fxQ==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/CnTurk.png",Cartoon Turk
+#EXTINF:-1 tvg-id="Minika Go" tvg-logo="https://feedlix.net/tv/tr/minika_go.png",Minika Go (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:3T/rsJO5/q3oPE5FcpPkGhyCHnSvpVXbX3k08lqjsSpRxic81rKc+s6fXJqKbgbSzxbtRcK1sAeetKsqqnrXAIOK4C+jreoWsJbS2kfCSuU=
+#EXTSEC:s90Wp5MZg0bCwcSYla7QPta7ZmihuAJ5yb9gDFFtVDbyAzkV3VCI3kW9LOvm+tAVlaOQVrAzRJHMjV2mt8c9xA==
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tr-trt-spor-3552.jpg",TRT Spor (geo)
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://feedlix.net/tv/tr/DisneyTurk.png",Disney Çocuk
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:xLOx52hH8JEoJvl5Fc2pvxy+2hjhPY7/oVAWGZvGE+X46CGV7Q1A/qq6Lvrrb/KuQIcP56xAsJ5/UFnwBf0cmZ/kCkAz2miXb/PCywdcBWE=
+#EXTSEC:Jwt0BRsfTbvkwssXVnbd8vOTqG4NlGytI08j44IAo6+ASLeSD3PK0BnXE/eEfwIEyMJrDTNw68AAJ2aHgqiZPZWjkFawM0SRzI1dprfHPcQ=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/ASpor_hd.jpg",A Sport HD
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://feedlix.net/tv/tr/CnTurk.png",Cartoon Turk
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:g9CLKO8xymmiluP95bo+7UTanO3bAgXt9I0ZhMFoI4LTuH+uq2vBptbKha47oLa9n09LzCVyQVzX1sgsEe3aeoOK4C+jreoWsJbS2kfCSuU=
+#EXTSEC:Q142avtOh7qQG0rt8UDPVPeRC3iRqzfX7xewmWgHog3V/vdNg+084+8kDAWiPjlSMHdWlqGEyP/Jh5GLAe6Ocw==
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png",Besiktas Web TV
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tr-trt-spor-3552.jpg",TRT Spor1 (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:XsM/7FBwdrohI/29vW1jDljDETiwbppFH3n4T0/vRSzfiupXun0iZCV8zVz4do03
+#EXTSEC:yf7WuuJq99f09V0sglIB66CS+OynNWQYmxkh2gaHx34bFUfDN/hwWOyOScE1L207laOQVrAzRJHMjV2mt8c9xA==
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tay-tv-tr.png",TAY TV
+#EXTINF:-1 tvg-logo="https://www.kskhaber.com/wp-content/uploads/2020/12/71ee780d17ddf50i.jpg",TRT Spor2 (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:MO49NNT0eUJ6bDBm3/Gm8wY+7ugEveYLnxxGJgth/9S/G6Y7GFqVOwVGhAUjzqnR7g5I39RdgmCrK95V8kQsCA==
+#EXTSEC:yf7WuuJq99f09V0sglIB6x2BKRZnlGqbhhgORaOGEDobFUfDN/hwWOyOScE1L207laOQVrAzRJHMjV2mt8c9xA==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/ASpor_hd.jpg",A Sport HD (geo)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:s90Wp5MZg0bCwcSYla7QPm9ILKQWt3565h3J+ypNGVpqNG0lhStXRnwu8fJ/YD7Td+2xSY9T8DBRNAo6X2KaHg==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png",Galatasaray TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:XM4+NDCdSPxOH4CCaqdr+8/5i6BT7icN4gwi2L/Vlrh7AgDOvcwWBMwn6hH5XRUmzbWce1x+z7Tkl250AITKSXofNyjTbzr12lm+RZQnruM=
+
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png",Real Madrid TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:+4W4BIL8UfBAU1THOZclq8t/if0erQfxQO+4I70pPwKMMrRqRJUvieaPDZYneOuw1Pjalg7VygONhtJgQsY27sR0sg1o/GCHBy4HVnTKtz8=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kyf7D2T/mJGCqkD.png",TJK HD (geo)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:3J/pADXWHtuG2k8TspDyfB4F6qG8zwv5FFJjIqPIb05x/Vt0FLDN6mQk3M0xFACKxWb5FeiUHt6rVknrrPi6+w==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png",World Fashion Channel International HD
 https://feedlix.net/videos/promo.mp4
@@ -534,7 +550,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg",TRT Muzik
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:RqEPpTwY6IGrz0jx8o2aEZz3Mz+E3zOMFl3txlOtlx+d05qxbxi0YQH8hgFgMHop
+#EXTSEC:RqEPpTwY6IGrz0jx8o2aEZz3Mz+E3zOMFl3txlOtlx8bFUfDN/hwWOyOScE1L207laOQVrAzRJHMjV2mt8c9xA==
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/t8CpYpP/LcUYuJ5.png",Med Muzîk
 https://feedlix.net/videos/promo.mp4
@@ -548,25 +564,13 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:audmvNAJDWdIxErP8txYN9RFNUByyDrAQE/2xIsoYe/oLCRoRYNtzbJmpaO771YayqqSytVvAcQPVwANDTyxQA==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/DreamTv.png",Dream TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/1200px-NRJ_Hits_2017.svg.png",NRJ Hits TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:g9CLKO8xymmiluP95bo+7W0z8AH7N0agR++9ieMtyG4B6AupdrZvcWLTMrAGVwCfn09LzCVyQVzX1sgsEe3aeoOK4C+jreoWsJbS2kfCSuU=
+#EXTSEC:FBr9+CWpE/ZJMDGGXtNPT9e25+Q5BKc/gJs8uxbF3qIbIMIqYnG0fxbqiBBc9itmvwEoPSC1f19//pL8duDZLRTBogmD5RaycpEr/PYfU48=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powertürk_TV_logosu.png",Power Turk HD
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/viva_ru.png",VIVA
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:nKg0+8SE9CXjogOOlOKAMc/8hGviFzCQYxOBPfBzTR3KE/SKBQPE24iyk4Nq0mC4965LITuiPp+y2yDvABJjkEsMrlzslELm2cEM0qPCdWbm/yEVRvujZrUzyhHHZ6ou
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/Power.png",Power HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nKg0+8SE9CXjogOOlOKAMc/8hGviFzCQYxOBPfBzTR2yZkj9O67Ns1eOBehqBLVXVBzvCaGJYZx3FQ7tFxGzyWZR8YW/osF+yAaONx+BLf+uxpIhMGvFuhqV3k7Zhigr
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/nrj-tv-fr-ch.png",NRJ Hits TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:3C4F7meisQuX7OMfxGUaF8D5ZfxiAPl4lsqvLkSA9VCbwvKUxCB2zMFw5L3IrA9qexUGwF69XRvGgKat3TOJx8TacQGTb7pfEme/Ms7NP9U=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/kisstv.png",Kiss TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:egHNdBELE3gwx94uCvOk4FtqaIT66HPID7qRTTGwiYdvk3HVPKmzM2/+9szfrtKkW9+NdiDENVv5HbIFx+qlLU8f+B0jBt6hZakMTNueEYPI3LjmfL70WCFoMM8qXpuB
+#EXTSEC:VUQtPG/hMeG5eqgQhhU6LuMwzT2eK3Nk12zYf5ltHdeFY803nNdqypwvkhVWfLFDedzT9vuQxo17YphvPCK+hg==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/1_hd_ru.png",1 HD Music TV
 https://feedlix.net/videos/promo.mp4
@@ -580,9 +584,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5df3HJ77mn46pTCUg9o6KKWTWCD56vFEQAPq81pzqxlJ5k6weTeUKOmFiokASSNGyqqSytVvAcQPVwANDTyxQA==
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/metal-logo-png.png",Metal TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/V2Beat.tv.png",V2Beat
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Q5bi5CZE9WC+xN92T99erDnMR9rSZ+Az8yv663Qv5KKuzFGx5jTArGZKYAEcgnez7g5I39RdgmCrK95V8kQsCA==
+#EXTSEC:0XwRE4eK6rou4CUKD5yYBVC6toUbWBz+xZe3/7ArW9QGAUyIQ/nkyL2SkEbhFC1S7g5I39RdgmCrK95V8kQsCA==
 
 #EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",A Radio Rock Super FM
 https://feedlix.net/videos/promo.mp4
