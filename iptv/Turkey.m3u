@@ -91,6 +91,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tr-24-tv-1383.jpg",24 TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:NqOUvrzDy12WMFWy5amldBdu7O08XOcOsG3qShCldDc/F+dd/MSynzBA+lut5ku6g4rgL6Ot6hawltLaR8JK5Q==
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png",Besiktas Web TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:XsM/7FBwdrohI/29vW1jDljDETiwbppFH3n4T0/vRSzfiupXun0iZCV8zVz4do03
 	
 #EXTINF:-1 tvg-logo="https://i2.cnnturk.com/i/cnnturk/75/450x225/56cf0c215659342758eb4c0b.jpg",CNN Turk
 https://feedlix.net/videos/promo.mp4
@@ -496,6 +500,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:QTB8LOv4cFv8UYn9aOyWxNR37FePGiIk/Hdk/sgEOsvnbZzc8kbf1eYm77ZRbk28cY+xHn0M4wHMXks1+P+OASWmFbt96anWw9wdAdTmV3I=
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png",ETV Manisa
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:kqu6OjrVfkpOSHUBWxSivEi86285GteBa312lx1hEoz3Swcc43kdaHezC7eM4FYxXNK0YLmUqFvewF2CEv/oSO4OSN/UXYJgqyveVfJELAg=
+
 #EXTINF:-1 tvg-id="Euro D" tvg-logo="https://i.ibb.co/C9YcngF/eurod.png",Euro D
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vHKAoASWNHbC4ToU6nTd0olk9bjMZ17g+x7eE8+pPcALKeHTeyr6gTrgjufKRSkpcoTA6PFAT0V/SsLAykFK0HmwFKTAsFp6pMPvs6Fv07Q=
@@ -523,6 +531,14 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="TV8.5" tvg-logo="https://i.ibb.co/frpQs6q/tv85.png",TV8.5
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:g9CLKO8xymmiluP95bo+7Ro9JsWf3vVesUIbgYC8hBtWGSwOL8dLxZ9tuRupwSNX1a2ZLIqKzbAtB5ZgAnS8itR/USNtckdEFB7k4d7zLFQ=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/kardelen.jpg",Kardelen TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:tMm66vGD8F8WFXm+ZfRPHdh8S2Xmpu3UgmRyzftI5Jr9aL+u1zEgeXGXzQs7Kzm/xw6zl9VmsqfuXJsIKtA0B3V+riQTLvXl0Pmte2Nz9Lg=
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1852504232/ertv_400x400.jpg",ERTV Malatya
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:0IlB8lBcsxM94457l/af+pGMwfCS6QDcX3NhULo7DCtsYiERZaw/3KM2+zBzlGAkyqqSytVvAcQPVwANDTyxQA==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/tv2020.png",TV 2020
 https://feedlix.net/videos/promo.mp4
@@ -652,9 +668,29 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:audmvNAJDWdIxErP8txYN9RFNUByyDrAQE/2xIsoYe/oLCRoRYNtzbJmpaO771YayqqSytVvAcQPVwANDTyxQA==
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/Number1_turk.png",Number One Turk
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5NWdph6noAWb5XQlbrQM1jcdo2cFv9C5+4PYouNWVpGORc5S9cFvC8vXLc1g2k5SXIZb+l7WHf1iNzxCATI1x8AMGUXJcLV2dg8ZAKcDsX38uYDt4X2XGUJmVqZyzOAsuQnDQcnVIsuqhQcQlppyxrp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/Number1.png",Number One HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5NWdph6noAWb5XQlbrQM1s/i7Uq28yB/x/4XloeEATCORc5S9cFvC8vXLc1g2k5SPhmBZUs6LBgzcqZgC0m9/pu/1z7+3bNobhm3OrDXsLnPiliy7DV6kTD4lefRLAZPMFqf0pbU4mQKg6O2i+N/HLp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/dance-tv-web.jpg",Number One Dance
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5NWdph6noAWb5XQlbrQM1rDNLjmYCAlybkuHWYze+FSORc5S9cFvC8vXLc1g2k5SKlhzOWLguhz/fOhDw7V8yjJyXsRjN2Je1oXI4YKuJjfd5xiSX2z8M33g0cKiGSGEIEaRAVb9Q3Ol6IF8SZWX1Lp9hOaC7cWVCPlKEFURccw=
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/DreamTurk.png",Dream Turk TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:g9CLKO8xymmiluP95bo+7W0z8AH7N0agR++9ieMtyG4LtGb50QuwqCbxmP3e45N8OlLUfECG/j2/9qTU9mHw7MTacQGTb7pfEme/Ms7NP9U=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powertürk_TV_logosu.png",Power Turk HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:g9CLKO8xymmiluP95bo+7SKTqNbtJLzRD6L4YWqkD8vxtcePvPqWtkwU+HGjFCEIyuVMbW1ySeoGb0S+bzx1CMTacQGTb7pfEme/Ms7NP9U=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/kisstv.png",Kiss TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:egHNdBELE3gwx94uCvOk4FtqaIT66HPID7qRTTGwiYdvk3HVPKmzM2/+9szfrtKkW9+NdiDENVv5HbIFx+qlLRjttPFUxH1vGeE/od9DrClFJjIf1CBIG+nQ3sg0FanK
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/1200px-NRJ_Hits_2017.svg.png",NRJ Hits TV
 https://feedlix.net/videos/promo.mp4
