@@ -64,9 +64,11 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:nx6dFjL9oE7pDnnuxWBjoZcpfwfZhgaZJRArdGfgx/+5EdbIcAvDQ1CBvIHwKtBjs4NFn4tEuxqgJZArw+PQnPl9ZNa86gminIaE3TlO6dc=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/promos/EstudoEmCasa.png",RTP Estudo em Casa
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:wAQLgl5pPwxI1WWODQc8aE/p2ZWe391SkQl3ONgsLgzium4FHbEvTkWDUfszkWlmHR4vVl5ZPOqv3TjsXpWXjfl9ZNa86gminIaE3TlO6dc=
+#EXTINF:-1 tvg-id="Estudo em Casa" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/promos/EstudoEmCasaEnsinoBasico.png",Estudo em Casa - Ensino Básico
+https://live-streaming.rtp.pt/liverepeater/smil:estudoemcasa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Estudo em Casa" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/promos/EstudoEmCasaEnsinoSecundario.png",Estudo em Casa - Ensino Secundário
+https://live-streaming.rtp.pt/liverepeater/smil:estudoemcasa2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgs.sapo.pt/tpa/content/img/tpa_3.jpg",TPA Angola (geo)
 https://feedlix.net/videos/promo.mp4
