@@ -65,10 +65,12 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:nx6dFjL9oE7pDnnuxWBjoZcpfwfZhgaZJRArdGfgx/+5EdbIcAvDQ1CBvIHwKtBjs4NFn4tEuxqgJZArw+PQnPl9ZNa86gminIaE3TlO6dc=
 
 #EXTINF:-1 tvg-id="Estudo em Casa" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/promos/EstudoEmCasaEnsinoBasico.png",Estudo em Casa - Ensino Básico
-https://live-streaming.rtp.pt/liverepeater/smil:estudoemcasa.smil/playlist.m3u8
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:wAQLgl5pPwxI1WWODQc8aE/p2ZWe391SkQl3ONgsLgzium4FHbEvTkWDUfszkWlmHR4vVl5ZPOqv3TjsXpWXjfl9ZNa86gminIaE3TlO6dc=
 
 #EXTINF:-1 tvg-id="Estudo em Casa" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/promos/EstudoEmCasaEnsinoSecundario.png",Estudo em Casa - Ensino Secundário
-https://live-streaming.rtp.pt/liverepeater/smil:estudoemcasa2.smil/playlist.m3u8
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:wAQLgl5pPwxI1WWODQc8aE/p2ZWe391SkQl3ONgsLgzium4FHbEvTkWDUfszkWlmRuqBCDWHBG25VVTWX56yRSwNGWhISy5PJOhPv+GFFew=
 
 #EXTINF:-1 tvg-logo="https://imgs.sapo.pt/tpa/content/img/tpa_3.jpg",TPA Angola (geo)
 https://feedlix.net/videos/promo.mp4
@@ -386,9 +388,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mVkuoOT0N0rLZ4Iw7sgawfOQ4RRGtHHqhgHvghg35AVtLzmmJpU8LM8ncyOntvhZbvWKrKj43uS3lyJ2GrqqT41pCr6GccJAT47PaDhkcnY=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/22895/latin-x-pop/logo_20200909_014745_68.png",Latin x Pop
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/latinosup.png",Latinos UP
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:MCw31dEZuBoaeXtV957Sa3SJavOJbmNU3YOtnUvnTyWIzBCI4E/j0fKJgAxAds9PKIZqxWx284ui/1QIaAQ7drtMxqllpmimJN29nr08TrjQY13+5a5a2wbDSf1adjawjaUN3Ru1f6R6Zn0+f+HF9kNVeBJzrS3bkl00mlP5zeX/FrgN3SWHDM5PLAtWRcTi
+#EXTSEC:oKWEKo9gp25IY+Y0vPedk92TOGuZSSt1ZL0sEq3CHpPJABIPRtyYftDK+dLEyUtZ3ZgsO+Uc+LeiH0ZwT/4QUQ==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/top_music.jpg",Top Music HD
 https://feedlix.net/videos/promo.mp4
@@ -398,9 +400,13 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:hrNyxp+g3ZKeDvU3rWHd36Cnb+j/QWF1Ln9sQwt/aJZ6YBqfvWkoUEZXWP4Wc59BebAUpMCwWnqkw++zoW/TtA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/retroplus.jpg",Retro Plus
+#EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png",Retro Plus Musica 60S-70S-80S-90S-00S
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:m4Vk91bHOM3RGb3YNfNdErkVorSSPqbgD1e3k9Syokru4X7lN7Kw7TIOmbg4NXtN27TBkBPNw+tudgSf+bhbLnyJ6l/UYgmG2tSVdYiBvhONaQq+hnHCQE+Oz2g4ZHJ2
+
+#EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png",Retro Plus Musica Romantica
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:m4Vk91bHOM3RGb3YNfNdErkVorSSPqbgD1e3k9Syokru4X7lN7Kw7TIOmbg4NXtNYu/87UbS1/ikR17IYJa6OVs2e1v/imGgFIKjRp9cdoqX4GxBIBkk0w++k8a+UfKen+QKQDPaaJdv88LLB1wFYQ==
 
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61hvF5ZSDvL.png",RTL 102.5
 https://feedlix.net/videos/promo.mp4
@@ -418,13 +424,29 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:WiMS/pZHHOASZDyKITTe7Q0Z71H6oPHVLaOFTcFJtViqD7Eu/4VagnKyr5yLv37lTQDiOIydWWuYeOacVcdywmqcRHzpXDM3nYFThQBgYCz6U3ZqHAkFBUUiclA443LsVKLAhslulMp4tuOGmMYYJxhJV3Fx70CRLsSD641kF4DRgW0+0bL7kVwUr1jQ118/wNjUHkgXsoCOnoLKDFfL7A==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/BoxHits.png",Box Hits
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/TheBox.png",Box
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:WiMS/pZHHOASZDyKITTe7Q0Z71H6oPHVLaOFTcFJtViqD7Eu/4VagnKyr5yLv37ldiFPWLscH78AcWzax0FTbGqcRHzpXDM3nYFThQBgYCz6U3ZqHAkFBUUiclA443LsVKLAhslulMp4tuOGmMYYJ/0AgDYBe76SrVNBqBOgY7TRgW0+0bL7kVwUr1jQ118/wNjUHkgXsoCOnoLKDFfL7A==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/BoxHits.png",Box Hits
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:WiMS/pZHHOASZDyKITTe7Q0Z71H6oPHVLaOFTcFJtViqD7Eu/4VagnKyr5yLv37ldjmlvyBbrZNYvrY005I9ce4o2+ZMUv4Qvxoz2Yb6ELRRrC8NdCJaQyRspxzSdg68cx2QnY/JELZ70uVRjKcD3j6yCnBHdJfWPWENxa3Bk1FDL/2zcJVDoAuBdbtXim+b+LK1kzE/lg67VDo7LPvz7A==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/BoxKiss.png",Box Kiss
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/BoxKerrang.jpg",Box Kerrang
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:WiMS/pZHHOASZDyKITTe7Q0Z71H6oPHVLaOFTcFJtViqD7Eu/4VagnKyr5yLv37lEeQUgwWBiZGIj0rru4Ktb+4o2+ZMUv4Qvxoz2Yb6ELRRrC8NdCJaQyRspxzSdg68cx2QnY/JELZ70uVRjKcD3nBYVCbxaI8bBblWLrFomDGucxcIxJeOqtie4cDgXBwG+LK1kzE/lg67VDo7LPvz7A==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/BoxKiss.png",Box Kiss
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:WiMS/pZHHOASZDyKITTe7Q0Z71H6oPHVLaOFTcFJtViqD7Eu/4VagnKyr5yLv37lxXSLAG9SyGVnELPPCbN0CGqqT3ToxgusOOEqqXjtKjNORZtQn7g00jJ0lOgtqLA06iaTnKv0GVXiBTcVTzQ/oBohn7eZT8kApUiDXImm03ZDjsNjgK+RRTvMSEdL9nDz
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/BoxMagic.png",Box Magic
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:WiMS/pZHHOASZDyKITTe7Q0Z71H6oPHVLaOFTcFJtViqD7Eu/4VagnKyr5yLv37lZUD/OPaJ6Fb4nYtn60ja8X4VM0p1OTtsUagVZHyuEra3dsFhHAqgSvcFvYhXs/2VD3ZPBg9/bJuu8ARQb7ZeXmj+B5jIfdknCuhZjPJm7UIkYvXkpWhR52Vu9kidtq79
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/BoxUpfront.png",Box Upfront
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:WiMS/pZHHOASZDyKITTe7Q0Z71H6oPHVLaOFTcFJtViqD7Eu/4VagnKyr5yLv37lbe3+Zx2hqsj1m2Fc98GGxhWWBZFolsEUtt6+Q4oyofCqTwdRyJz6syOThQBCASbdDzeLqDuv7UE1y2eZdVH46AhIZAiDKYY12kxbeDNxwQ1bz9LF4+1l9gKEfTTSjqlQnu9xFFzWKPqvBWPfvWGV6A==
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s63639/images/logog.png",Radio Number One
 https://feedlix.net/videos/promo.mp4
@@ -565,58 +587,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="Sexy KPOP TV" tvg-logo="https://m3upt.com/logos/Sexy-KPOP-TV.png",Sexy KPOP Music TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uc92/aLixzjZJzpBk4bSFwgjJIHEhMGAALS6Gjlh4umfAcWgANmJliVxoUjuJOWY6xlgxTlP03+9aKDjQlTddkeW34FMIrq6hmLPTvJsMWSLWEWQCxAa7EUBK3bpJ5SW
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Animation
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/mZa94O5dcZZ+QB7wGMbwLwm6xKsiXBMTTCOZT0TWkG3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Avicii
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0LbA+IWNNC1950iFW9X3lzz/QXsh3NaRX8fPsSSQnwKbs4tI4RP/nWyuuWJxkqux
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Classics
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/lDSgXokNdV9aIPji1IISK0BXZoWUlQSHpG1yDIlgXik
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Dance Floor
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/vC4DrFGU62w35xnG7cnN3EBXZoWUlQSHpG1yDIlgXik
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Electro Rock
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/mdNmmtEhtC8Jl0q9HGWRRUyEJaQsBoYND6DLE8PQG1B7g5I39RdgmCrK95V8kQsCA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing French touch
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/mdNmmtEhtC8Jl0q9HGWRRXFlq4wFM3CyYRYmPn6gMze7g5I39RdgmCrK95V8kQsCA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Hedonist
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0LbA+IWNNC1950iFW9X3l7Pa6V8KtFJOJGIzXAYoQ9zv+LveUESvEe7Hg99lTmMd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Ibiza
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/vC4DrFGU62w35xnG7cnN3EBXZoWUlQSHpG1yDIlgXik
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Karaoke
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/pNcTZ19sLmSY54H4HK2lO992UFhtjIQJVnzmEbf81BV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Live
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/oIml5R2XoJQ/z9DDuPfrpbE9BSx2Gi4EXaPLGEYWuch
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Summer Vibes
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/mdNmmtEhtC8Jl0q9HGWRRWbA0nEbxjso+LboiI8MMTI7g5I39RdgmCrK95V8kQsCA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Underground
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/milKn3ZKrIn7iBhhhDRy/UBXZoWUlQSHpG1yDIlgXik
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Wild
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/jYrFVy2XYOzq6ZEvVRh4GRENgs9yn5991a73uhn/3Mxun2E5oLtxZUI+UoQVRFxzA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/V2Beat.tv.png",V2Beat
 https://feedlix.net/videos/promo.mp4
