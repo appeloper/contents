@@ -124,6 +124,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:DTguGI6Cgbjw4WRHTjKbRinWidBWnR3/nyJenb6rnx1MBkW5liovdURcDdVjlXnH7g5I39RdgmCrK95V8kQsCA==
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg",Gospel Movie TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SMF24MV7uzwfWTWiCLiCTN+R2AwHQ52IBorw96uYzfBcZ8uDHFYw3LBlf832CFuU7g5I39RdgmCrK95V8kQsCA==
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/classiquetv.png",Classique TV 1
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:lhb97nVxdJ3SSHFdYBpRsoN9FJxth78tovfCFbishODRgTLkWzKXEB9r7xU1DeOgk55lcWkeKLdcMxQXb7uM9g==
@@ -260,9 +264,25 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:SMF24MV7uzwfWTWiCLiCTAPFaKtKdk/0+NiEucvFxLtOkVLKqMWmjpDseJbxMURe3cctNgIO5cB/ifyCH/Fzau4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonkrazy.png",Toon Krazy TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:RM/mO/46lRfU+Mz+9M8w8SYM4Db+12vsGZckev1gC8klra4+CY4txLM2Wvccm7d5Q5dL1MrI5zdN4y++/AkxcAd4UZy7o5PKZzAh3tPDzXE=
+#EXTSEC:kqu6OjrVfkpOSHUBWxSivD02v5va+aUdUeiUsbAQGcuMtaNwoS1FS5f4IuO1rBSZgJeqmvKq6gBbwhu9Fg63YrSRb8RXcHEQoxzYwc33zd8=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 1
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMGPz8Ui5buWrhFGijKwZhMOvHccCfevNLHL/bw7JnfL+6fYTmgu3FlQj5ShBVEXHM
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 2
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMgLuuqO7sKmI4uX8GJQefuMSpsswJUR65yYshNUesmDZJgTDvBFTuiLeTp0hDLhujFIJdb7sf1UMY5GNDsGrNZQ==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 3
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMgLuuqO7sKmI4uX8GJQefuMSpsswJUR65yYshNUesmDZAoMOcqjRjTGJE+WJ1+7+cFIJdb7sf1UMY5GNDsGrNZQ==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 4
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMgLuuqO7sKmI4uX8GJQefuMSpsswJUR65yYshNUesmDaXzRpVMUYftJMnTONnC0zE
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/CBC_Olympics_400x400.png",Olympic Channel HD (geo)
 https://feedlix.net/videos/promo.mp4
