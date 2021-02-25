@@ -160,10 +160,6 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:HOxDqa1cuO44XNNaFXRYbYZqnqa4bNj2I1l96S8jkhR+JW/jMp+4+wuuBMZoHZMXYyhWz9RckBZBJ4VtVEe5Arp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://feedlix.net/tv/es/Telecinco.png",Telecinco HD (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vdkG1+bq59v2ftqqLedTkYN109iA/AVB+rH2VYxqecf58xQV9nHEPO0dzxedY7MaMLFrW5pVdC4+FR8FHMY8e7p9hOaC7cWVCPlKEFURccw=
-
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://feedlix.net/tv/es/tve1.png",La 1 HD (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4LHQ32a2lZQ7qypGCz50dZJun2E5oLtxZUI+UoQVRFxzA==
@@ -239,6 +235,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosKids.pt.png",Kuriakos Kids
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:DTguGI6Cgbjw4WRHTjKbRgD9cFt/7toczTnvtuif0QLiqhezU2K5R5ve6rjvtr+07g5I39RdgmCrK95V8kQsCA==
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png",Anime TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SMF24MV7uzwfWTWiCLiCTLCIFlBzUog0A3eZfCnQr75dsAzgTZ0dsY2cmoKRArT3JH1rnvGiC8KX3xYuDFmXJg==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg",TV Galicia Infantil
 https://feedlix.net/videos/promo.mp4
@@ -420,6 +420,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:h35gRvKXfBVZLlGdOudnkSxrpyeaBiB+8h9SZ92C0PvGEQmTV8qjSp/S97663cEFrucr2o+OCoV2CEp703RhDsdZjert8eVM3X+byrv33mWchTWhbtaP3AqA/swLYewmfjJbh3wDkZWh8RxuGCvEgA==
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/vintage_music.png",Vintage Music TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:xP9hNHrOyavv1K28WCrCmVgpwr7l0iXeMmu06DtwNiHdZEsZYamRlNnD1NIjAxSqZ8zwABnRMwlyhAoXtzl3jIG7/QQKL9HEENzr9oKbEMKf5ApAM9pol2/zwssHXAVh
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",Retro Music
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:hrNyxp+g3ZKeDvU3rWHd36Cnb+j/QWF1Ln9sQwt/aJZ6YBqfvWkoUEZXWP4Wc59BebAUpMCwWnqkw++zoW/TtA==
@@ -435,6 +439,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61hvF5ZSDvL.png",RTL 102.5
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:lKWb2b952ltivRDG9If8UR80wKt+fzk4E8onXyVVh6N7zb79xvkPAggqmQkiBB5HKXZZ3tvVKGMsnzkRDBzIgSmLig9Kr2u7F5ck76LSDYXp/HKUMBDijAqs5/tKAkQ8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/Power.png",Power HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:nKg0+8SE9CXjogOOlOKAMc/8hGviFzCQYxOBPfBzTR3TtAlilyl/Ix9lutNCknrliP0ZQGWYu8z8RfwvI6kPL7rKgre4eD6ZYhgMfQCJBw26fYTmgu3FlQj5ShBVEXHM
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://zuendel-branding.com/media/krone_hit_1_small.jpg",Kronehit HD
 https://feedlix.net/videos/promo.mp4
@@ -519,6 +527,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/news/ockostar655440.jpg",Ocko Star
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:x8NVMv6ngP+2aDb/X9KpXf74SHQL5H7nnN/2t8BFK7K37ti8LwyInU5ypkyAULbf4BlloZWLKHwg2p7pzY8WAA==
+
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f5/c3/1818/2/c175.png",21 Radio TV Rock'n Pop
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:G5dKyBgcAe9dzMWdMakhRlVlGEHS34NWYIw3h85yhi8W7lo4R/ktBhY30FilBJHSGvf4ycJ4XT1WfcGKAqx9p/T95dIuA7k0ma3IMeBj42E=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/HotRock.png",Hot Rock TV
 https://feedlix.net/videos/promo.mp4
@@ -607,6 +619,14 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="Sexy KPOP TV" tvg-logo="https://m3upt.com/logos/Sexy-KPOP-TV.png",Sexy KPOP Music TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:FNEB+LF/FNemb9yH3U7G/RKH19rGs5YHMxaZ75kqJxuSJCIVOb7ujvByTDBuEmM87g5I39RdgmCrK95V8kQsCA==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png",Trace Urban
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:tJ1kQOqpOnmjzGNVbjZY/9YhZ6MENAs3gYzwi3kYhHmEssiBXIOmGLgdWX9LsNrW7DYmQvXJlL4eWrGdzFecyXsowLuQKX/j5hI5dq3Zg0EM9D377VlShNqTFaGOljtI
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/bblack_africa_1024x422.png",BeBlack TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:/lm5rwlPaA2KKO4BvAg2hh94xXiVtiv+vwMkb6YVsNOVxnNSWnvRWwZVm3A7ndXVun2E5oLtxZUI+UoQVRFxzA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/V2Beat.tv.png",V2Beat
 https://feedlix.net/videos/promo.mp4
