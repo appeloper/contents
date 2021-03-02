@@ -860,6 +860,42 @@ http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/vodafonefm.png",Vodafone FM (Radio PT)
 http://mcrscast.mcr.iol.pt/vodafone
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/58/3c/4337/c175.png",Cadena 100 (Radio ES)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:m9/rfJDzIRuRQ12VhD9lsKVHkiTMLMC3J8ZCzLm4WBSES+qiZ1IQL+CDa/go3/Yal5T845uWHDM9jSsBEgPhBw==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/98/a9/101334/3/c175.png",Elixir FM (Radio ES)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Gw+7KXaCFgfWDjxcHMoxpnAKUZF5uUltaASP2kpBVAlnsDl8tPJuqj14XpBUCgM6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c1/fe/1645/1/c175.png",Ibiza Global (Radio ES)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:tbv1YIxCvmlwi4ncgOBjbo7+TXzujcYWSSDO9sT0lpj0oH+foiQr3dHPlX0oyODv6cEh29qSVMJk72uSikKJrg==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/cf/5c/14155/c175.png",Kiss FM (Radio ES)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:sYnQUex62wb+uAx32u7IRqpur1Ig2YL0XgcP2eFbyAwJuLcDWY2X2tow92CzwFJxv5T+K8drj6GMe36UL2usag==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e0/74/34190/2/c175.png",Loca Urban (Radio ES)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:z+tpmBD5pQzLGNEvHAyw0OlDd7eF7Td4IHcxx6gTtEacUyrqW01WaOxMi+lRiguQQu5zWt3/j9STg8WSGWBf4w==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4c/ce/10732/1/c175.png",Los 40 Principales (Radio ES)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:wMzIdP1ys+iU+yUzbkaYe+GjsN/jqB2l7ZlkbOp1bBf8vBJhfUpuA7ufk+fzjDtvOekubLlxBvIk9yTHamaVUigRHbJiprZNgCDJLd98Nx4=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/2e/25/10988/2/c175.png",Los 40 Classics (Radio ES)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:0j5nVqUIMP4EJ3xHsaNmoOB/26fW9vjwsVtdGl/cazcrIGOSuJNctmL2oBReXtb9ULCilheZjV8ATikl6aNtEA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f3/80/104854/1/c175.png",Melodia FM (Radio ES)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:nhEhgVZhZ3lLpYM+6SxWOaPyLgTZXJqhXb0kR2JgFyCy4EhUgBNio7UwoXi/lSwlJFkzJS5afX17yAafg5YhYA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/14/79/14160/c175.png",Rock FM (Radio ES)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:DlHUB9KyxxV/53prGoxaVt4hMCSDsnwHBDE8tVuco98siJAKPiWbl8ldwOw/uHPyqz6uLt6y3eiYGOnEFRxaAQ==
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/fm80.png",FM 80 (Radio FR)
 http://listen.shoutcast.com/fm-80
 
