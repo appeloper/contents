@@ -56,9 +56,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:pQewIgox9lldwUU8SFz1oqNAjAEXbf8QDUE+AMKlyKJWLJRiJkJ0hBD07VpcXec6t/iNeD1cwRG9qPL2panP37p9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-id="24Horas.TDTChannelsEPG" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",24h (Argentina)
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24H (Argentina)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:gbJ1/UNPIlsWSrpQ8FnlZnxmV+8Uk1v0m/FfBRZ/et2LzhPaOr44ulOyPiXU6xro/fyaOhLoC3ROzO4dDhtP7wF4bxzIRGxFK+JpHfrsFpJZ2Q4aT/RQH5wU6rauX9US
+#EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4KDpjJ/fgjtha1SiCk+Ka7cun2E5oLtxZUI+UoQVRFxzA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/RTEspanol.ru.png",RT Español HD (Argentina)
 https://feedlix.net/videos/promo.mp4
@@ -700,9 +700,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjwtQrHYmM7deUEjAbAZ6K2GThNUI4PwUjk3MnFQHyrGHg==
 
-#EXTINF:-1 tvg-id="24Horas.TDTChannelsEPG" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",24h (Brazil)
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24H (Brazil)
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:gbJ1/UNPIlsWSrpQ8FnlZnxmV+8Uk1v0m/FfBRZ/et2LzhPaOr44ulOyPiXU6xro/fyaOhLoC3ROzO4dDhtP7wF4bxzIRGxFK+JpHfrsFpJZ2Q4aT/RQH5wU6rauX9US
+#EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4KDpjJ/fgjtha1SiCk+Ka7cun2E5oLtxZUI+UoQVRFxzA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/RTDocEnglish.ru.png",RT Documentary HD (Brazil)
 https://feedlix.net/videos/promo.mp4
@@ -1584,9 +1585,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2148nn9ipNI4k0H1uQVM3dQLcRsbqUsMjrFX6egsjitGna8sfzoaRhxMJf6Mdl4J+Vok5fTUb2OZWVmchjw72I4kv8p5akB0SxveXY+VBoE=
 
-#EXTINF:-1 tvg-id="24Horas.TDTChannelsEPG" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24H (Mexico)
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24H (Mexico)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:KdGCLaZ3vZf2/r43T3D/98j8Zv9IfPYqZEyKDyYMCkF3MUtLrWUy8kj469nbZQs3HB8ycPfwR9z+rmxknpi6qFX4Dgx9RuWPrndW9VGDjcY=
+#EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4KDpjJ/fgjtha1SiCk+Ka7cun2E5oLtxZUI+UoQVRFxzA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/RTEspanol.ru.png",RT Espanol HD (Mexico)
 https://feedlix.net/videos/promo.mp4
