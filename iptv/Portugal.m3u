@@ -40,7 +40,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:tJ1kQOqpOnmjzGNVbjZY/9YhZ6MENAs3gYzwi3kYhHmEssiBXIOmGLgdWX9LsNrW7DYmQvXJlL4eWrGdzFecyWA7/qeij7bxEVvIZqPRv2rnJNw9tekufRnVJuf2HSO+
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPInternacional_negativo_horiz_RGB.png",RTP Internacional
+#EXTINF:-1 tvg-id="RTP I" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPInternacional_negativo_horiz_RGB.png",RTP Internacional
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmP57Iocvq72eBlXW46o9jR9ApwwoW0Gde0r+KMDktr7YkfWue8aILwpffFi4MWZcm
 
@@ -250,7 +250,11 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IYAUy9V.png",Locomotion TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:4A0Ajz94ipafG89SFB3qNzll8cjynIfq4EUhxMrcWu5+QvFGUenMUXbwBrQguCfvn+QKQDPaaJdv88LLB1wFYQ==
+#EXTSEC:NyWthGeM3pPlJqQtD9Q0vPxX4C7uUpf4rDgPFNmgiQ5/k7RnGYKQ5hvzxAg3vn8o
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/cachipum.jpg",Cachipum TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:4rmZHPuS2UVQvICE/xfkdeJKkSBP16cNaRMy5bX7F6w+nByhjWMNM/JS55O2Staxn+QKQDPaaJdv88LLB1wFYQ==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/RetroCartoon.png",Retro Cartoon 1
 https://feedlix.net/videos/promo.mp4
