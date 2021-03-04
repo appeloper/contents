@@ -116,9 +116,13 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmP57Iocvq72eBlXW46o9jR9ApwwoW0Gde0r+KMDktr7YkfWue8aILwpffFi4MWZcm
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiNews24.png",RAI News 24
+#EXTINF:-1 tvg-id="RaiN.TV" tvg-logo="https://feedlix.net/tv/it/RaiNews24.png",RAI News 24
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:PRdejN3kccqEYttBUPTviCV15jmT60TI9/mCwM1h0fW05QnyIAiSt1N9NVh0Zq89quaiVnReoxCmIL+HFne+7qaDrPKbe4gCpTUz5Do5P1U=
+#EXTSEC:XakB8AI5W7cIs3apC4sq6eBg32XY/DepmW7CH9GCyI9XXCCeFTNvSCOGbZgWn2Y3vMuC5X3EoKSMgIZ3FNdVppbGpM9kNdF7aq7KAQ70786B0dbVcK4IaQE+eGqkz3ZSun2E5oLtxZUI+UoQVRFxzA==
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tgcom24/picture?width=200&height=200",TGCom24
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:fxHhuMH7zEyQcLKa7v1YmhIezh+fSHZ4hLPPQ7TGfk+ShwDwDISGdjpmWyOms84nRkqqLNWgXTiyUEMXQMsLE0go3IFomzJh3CVoRe19nx7uDkjf1F2CYKsr3lXyRCwI
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/sky_uk_news.png",Sky News
 https://feedlix.net/videos/promo.mp4
@@ -264,17 +268,45 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:clVIWJEZhO1ptBt+ox4KDHj/WpmamoXcXXpnXky7ugP03zZD+QoJjgVQOVGxCjaP
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/eitb.jpg",EITB Euskadi Sat
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/eitb.jpg",EITB Basque HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:a6iYq3pnZAzxvWulsYPU50v8EWpIPD/KH6nChdaQOaNW5YCnCx0yng9DniGv7njASZkSQwuXTnl8Eo03i0IRfa9Sgkrvl2lweTAjKE5v72w=
+#EXTSEC:IbSsitvv7qkHzxp+tOoiBYKDoO/Q5hMMtPe157JxhOfq5Yi9491pt8ezW+I3FLY/QiijiLP1K8FV/MrL32KwSLAHv8VUit2qkiVkbi5TlUI8DA72Ovgl1bNCsL/i9Iv4
 
-#EXTINF:-1 tvg-id="ETB1.TV" tvg-logo="https://feedlix.net/tv/es/eitb.jpg",EITB 1 HD (geo)
+#EXTINF:-1 tvg-id="ETB1.TV" tvg-logo="https://feedlix.net/tv/es/eitb.jpg",ETB 1 HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:a6iYq3pnZAzxvWulsYPU50v8EWpIPD/KH6nChdaQOaMuHa4I+4nKNMbw6wUK0m/57ZMLEy7L0e3bkQlVzrQBng==
+#EXTSEC:IbSsitvv7qkHzxp+tOoiBYKDoO/Q5hMMtPe157JxhOfq5Yi9491pt8ezW+I3FLY/2/KAYqAgqhxJeOQF8KqS8gk1GDzO/Df5K+zP+rg1k9Of5ApAM9pol2/zwssHXAVh
 
-#EXTINF:-1 tvg-id="ETB2.TV" tvg-logo="https://feedlix.net/tv/es/eitb.jpg",EITB 2 HD
+#EXTINF:-1 tvg-id="ETB2.TV" tvg-logo="https://feedlix.net/tv/es/eitb.jpg",ETB 2 HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:a6iYq3pnZAzxvWulsYPU50v8EWpIPD/KH6nChdaQOaPXeTOUUakehwFOQAiDac85H91whoy4MGhCEqUimloEtw==
+#EXTSEC:IbSsitvv7qkHzxp+tOoiBYKDoO/Q5hMMtPe157JxhOfq5Yi9491pt8ezW+I3FLY/8uBEMRsZQUTS/7bUI40LoQk1GDzO/Df5K+zP+rg1k9Of5ApAM9pol2/zwssHXAVh
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB Eventos 1
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:zuIa77CtDumnEglcCw4lqRiaNd4f2H+G3CfZW0GnqCvobI4Xw/KQbvbFnoztaTo5VN6qdHngWyS2wRLA57gQzQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/312994995454199/picture?width=320&height=320",Tele Bilbao (geo)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Gp05NGnnfFaaOJiaARuH8pWPsbB7OYYeZNKpohRl2VKKYVrxuZQzQ1F35RKEutVmr16K8wliMLfnaJ/hr4cut4OK4C+jreoWsJbS2kfCSuU=
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/HamaikaTb/picture?width=200&height=200" tvg-name="Hamaika TV",Hamaika TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:NQhR3u7xq2ybW7mvjrc50q28Rgafc74K8O4HRFmEVQmP4rerhwaGwEuPg6uJ5GoES5G84XizPz4LxvYklXNX0LiDSUPbT5JZ5UrFzKGqH5atU7EHKUe0XV8WqOaH0z6g
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/dotbDurangaldekoTelebista/picture?width=200&height=200",Durangaldeko TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:clVIWJEZhO1ptBt+ox4KDF51/d4MvoUf5LPxnTww+NFQ/SXX0i6Efy7kerfOYQ4Y
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/28kanala/picture?width=200&height=200",28 Kanala
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:4OtZi7SFJvR7g5xY8JOYKVoBREDVDz/84/mbvCXzafPrZcehuOwL00j5AS6GxkPl5kqYgDzPHH47yNscr7wesnj1BcZ0LNPGeqeXh5IGhZw=
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/oizmenditelebista/picture?width=200&height=200" tvg-name="Oizmendi TV",Oizmendi TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:4OtZi7SFJvR7g5xY8JOYKVoBREDVDz/84/mbvCXzafMHHjnAOLzYXaicwrt2mYn3xHSyDWj8YIcHLgdWdMq3Pw==
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/urolatelebista/picture?width=200&height=200" tvg-name="Urola TV",Urola TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:4OtZi7SFJvR7g5xY8JOYKVoBREDVDz/84/mbvCXzafPAIrobPqN6rovDtZAuR8wCxuNLis6Rq5Gvf1Duup5cJq/fU0iWw+Mzi+fvYEpqsng=
 
 #EXTINF:-1 tvg-id="CanalSurA.TV" tvg-logo="https://www.canalsur.es/resources/archivos_offline/2020/9/1/159894700333503_LOGO_CSRTV_NEGATIVO_HORIZONTAL.jpg",Canal Sur Andalucia
 https://feedlix.net/videos/promo.mp4
@@ -351,6 +383,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="TVR.TV" tvg-logo="https://feedlix.net/tv/es/LaRioja.jpg",La Rioja
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:wIZ03xP5nuuyTtDIxvBn2CWJ0Ge5V07Frk8xinMXBwtw32ELFmU9BH7BLvQNbIxHIi6YZnp7JXCJslJ/jbe2xA==
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/7riojatv/picture?width=200&height=200",La 7 La Rioja
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:k/nK4siBOnTdAOFlzeMDAKbikfZRmeZF20Val4faHeJUFfie8F7mHTreN/yzEXk7r29FJY6w0uz3y1Xto4h62A==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/VallesOriental.jpg",Vallès Visió TV (geo)
 https://feedlix.net/videos/promo.mp4
@@ -436,6 +472,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1tlCDjq7yqToDImMNUwR+57TpSBF7jM1+KGM5/5CEY3/QNtct7JNJaJPWnqLKEAQF8ws9IVdVM5/HjufIvtZdJp7mVZnVHLT9S8Wr/mBAvlfGbMCe0vFvhH10rLlwZF4
 
+#EXTINF:-1 tvg-id="PopularMU.TV" tvg-logo="https://graph.facebook.com/poptvregiondemurcia/picture?width=320&height=320",Popular TV Murcia
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:LkTUGC2nUwjvimBtAVsjL3423Ouw5XivDUIynJRnUFDyioEdSI23m0D7AMKZriHkzmeYsKWLHdAGAhiEMP2Pi5/kCkAz2miXb/PCywdcBWE=
+
 #EXTINF:-1 tvg-id="FuengirolaTV.TV" tvg-logo="https://feedlix.net/tv/es/fuengirola_tv.jpg",Fuengirola TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:FIHldqwds1k22KMFtKGUoVEWv+0eEAqblqxJM7A2VWnf0dqbSibJqhWxH2fVjMFZ0whFenl/qT6qV4wqvA0OIg==
@@ -444,17 +484,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:X1Gw13kHyU5KrL14fdvIhiyYyAZSw2EGecW33tpBW8pucE1coAlmgGMV4vGuoPzqkgZdJZJJKZ2WGrJpJo4GG4OK4C+jreoWsJbS2kfCSuU=
 
-#EXTINF:-1 tvg-id="PopularMU.TV" tvg-logo="https://graph.facebook.com/poptvregiondemurcia/picture?width=320&height=320",Popular TV Murcia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:LkTUGC2nUwjvimBtAVsjL3423Ouw5XivDUIynJRnUFDyioEdSI23m0D7AMKZriHkzmeYsKWLHdAGAhiEMP2Pi5/kCkAz2miXb/PCywdcBWE=
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/populartvml/picture?width=200&height=200",Popular TV Melilla
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4OtZi7SFJvR7g5xY8JOYKVoBREDVDz/84/mbvCXzafPe9GpfitXbyNEWeeIbZsvfxHSyDWj8YIcHLgdWdMq3Pw==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/TEFTV/picture?width=320&height=320",TEF TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:clVIWJEZhO1ptBt+ox4KDK+yWKg3jX6JCriCIIlrVpAV9EBhWzHlQfSd6Un1jNmf
 
 #EXTINF:-1 tvg-id="TPA.TV" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=320&height=320",TPA Asturias (geo)
 https://feedlix.net/videos/promo.mp4
@@ -464,13 +496,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:tm3ALNddEkGyhzemLVcD8B0zsJQ98KpAA4eKvyUoQsZy0DtTRPES4KlMludpEgLK/ajSfM6XPvRqsacO0XYW6SR9a57xogvCl98WLgxZlyY=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2738370318/194fb6f639bce86465674a5dd6741519_400x400.png",Canal 10 Asturias (geo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2738370318/194fb6f639bce86465674a5dd6741519_400x400.png",Canal 10 Asturias
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:4EjPRhoP+ahNLaMePIoQA+ltfTlgVBrJg0C5FA+Vnz31dPxUuzf7tm9J8b32rvWFLjkJoIjTXFplmlzl7iCWKmMhI5IHOGGMYATSaPhUqxkhRLqtxEqZx5LFtrPYMeMHoeITLE3ESRdaf0hnpL+4n/qcmSNks2MevIbal2w2kSE=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/312994995454199/picture?width=320&height=320",Tele Bilbao (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Gp05NGnnfFaaOJiaARuH8pWPsbB7OYYeZNKpohRl2VKKYVrxuZQzQ1F35RKEutVmr16K8wliMLfnaJ/hr4cut4OK4C+jreoWsJbS2kfCSuU=
+#EXTSEC:wIZ03xP5nuuyTtDIxvBn2CWJ0Ge5V07Frk8xinMXBwtZzQ6l63xt1iSJYLrSN4j/SM+jUYoE4pY26u9zu3CPEEIvDNPus6wlQyZzly2nJI6f5ApAM9pol2/zwssHXAVh
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_400x400.jpg",TV Badalona (geo)
 https://feedlix.net/videos/promo.mp4
@@ -659,6 +687,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/esteponatelevision/picture?width=320&height=320",Estepona TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:oKWEKo9gp25IY+Y0vPedk92TOGuZSSt1ZL0sEq3CHpM52CWfB/fsMwfVmFm5m3TS3ZgsO+Uc+LeiH0ZwT/4QUQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/TEFTV/picture?width=320&height=320",TEF TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:clVIWJEZhO1ptBt+ox4KDK+yWKg3jX6JCriCIIlrVpAV9EBhWzHlQfSd6Un1jNmf
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/canal4televisio/picture?width=320&height=320",Canal 4 Baleares
 https://feedlix.net/videos/promo.mp4
@@ -932,6 +964,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4T7TlJZnpbrQErLkUYWtIsw/UmQQAWb/oBARyVzaHBLgJVmuo5ApUQQD2pK7SNi6NfvXaElYzMLQNRmODUxrT5WjkFawM0SRzI1dprfHPcQ=
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200",Activa TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:AccBzuU5UcJaXVUiitPmjBMKUf6s0pGuvrv4U69RkxA0A/gSOvXdXpaSHsCj7cAaHqSuWMmen/dCuNUUlCiNCA==
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/RTVDiocesanoToledo.png",RTV Diocesano Toledo
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:clVIWJEZhO1ptBt+ox4KDDsIHoVHCU00+8HBkAINRcnUJXZ+g2mo0tZ+dKlQfU6b
@@ -939,6 +975,14 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/vidartv/picture?width=320&height=320",RTV Vida	
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ZK+4wk3TQTFIqYE/Op6CV8OtD4XGAXDCk0JtVWnTDPzF1JbNDVBzO66Lo07lCEWgmZgWTsCumvMICvNd48vaxw==
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/solidariatv/picture?width=200&height=200",Solidaria TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:olCcJfetjb8isyuODoorezh7lwEl39pJBJHO5Vwec4VB9Tp6b5nuiT6NKFFtY7KJ0rQt/AEXNmModU4hEuM/Yrp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TBNEspana/picture?width=200&height=200",TBN
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:wx6H8W4JtubJaNdyFxWh/P6SHgm+GOzTU6lrCrjmYSsj04mvTAh5I6lqYwYpGzykRYTRCzL/pWgHbHHBlOxub/tv5YCe4YfeT+Hwt9otbwaVo5BWsDNEkcyNXaa3xz3E
 	
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/aliento_vision.png",Aliento Vision
 https://feedlix.net/videos/promo.mp4
@@ -1176,6 +1220,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:oIozOY04qNa1Ltatc49dKJCG7kGBh/IHHZG0ycso/jRYdH4aqIXMCFENiSMlBYzNM8AFG0YaVMMZQotfHEM3EA==
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/televisionsuiza/picture?width=200&height=200",Latinos 1 TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:oKWEKo9gp25IY+Y0vPedk92TOGuZSSt1ZL0sEq3CHpPphRTyurQ3NtbQv+bEmgdN3ZgsO+Uc+LeiH0ZwT/4QUQ==
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/nrj-tv-fr-ch.png",NRJ Hits TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:FBr9+CWpE/ZJMDGGXtNPT9e25+Q5BKc/gJs8uxbF3qIbIMIqYnG0fxbqiBBc9itmvwEoPSC1f19//pL8duDZLRTBogmD5RaycpEr/PYfU48=
@@ -1223,6 +1271,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png",One HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:72AZ6G0AfR8x80MmY0TPAbLbBRrrUOdqrkqXa/CV1Sw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/muzzik-rockroll.jpg",Muzzik Rock&Roll
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:HaUo+BR5U6JAFM7U8nTQ98bt4HWAOfAGmx5yJvPl56IyEHRH4tBdE0h5skHL35mNyqqSytVvAcQPVwANDTyxQA==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/HotRock.png",Hot Rock TV
 https://feedlix.net/videos/promo.mp4
