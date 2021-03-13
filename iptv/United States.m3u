@@ -100,9 +100,41 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vsmumz5dh2tVU4Q7pxjAIMQvVufsAqweqjp5TlnH2LOW5tYjVTpZxQfrF4aiCeOG+pyZI2SzYx68htqXbDaRIQ==
 
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/50-504225_bloomberg-tv-logo-png.png",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://i.imgur.com/XCbSfMb.jpg",Bloomberg TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1kH1Oypcfx0yvgB30fd/z1FyfqykGTO0n4/Qe168Ebl8nJFED7HJZEeQqfVOpI1ble7NMzvZucYNqxS+yqh5YaB+2XJE1nPXnwT4RACQVvGtiNsOn5V0tESzP3efzLbApenwvc0uX9Mp9EfcrbY7/A==
+
+#EXTINF:-1 tvg-id="BloombergTVUSLiveEvent.us" tvg-logo="https://i.imgur.com/XCbSfMb.jpg",Bloomberg TV Live Event
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:0jzwfGyZ5jaJseHioAEuzKnxreEhHK0voO8q4AHzr9UBuWp3yfEjEpOE/HFvaB85MRIIdxeY6dNQAT6ftJ7RczIp9nh55s+RpobfKmhvjWRZIZz6DTndWttSbiYq5rdWg4rgL6Ot6hawltLaR8JK5Q==
+
+#EXTINF:-1 tvg-id="BloombergTVUSPoliticsLiveEvent.us" tvg-logo="https://i.imgur.com/4UIqtXt.jpg",Bloomberg TV Politics Live Event
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:1kH1Oypcfx0yvgB30fd/z+UB/BzRTU0a2Rmr4AsPMcbx0dHFx8cGxd8QYdwEAZQVgQN4xm1uaWYPoIwQJIcuCkitxWZNPX5m6EJcCzKWLfaPevx/BYQJe//g8UbuUNt5
+
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/05/51xZAebJMXL._SL1280_.jpg",Bloomberg TV+
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:1kH1Oypcfx0yvgB30fd/zwONpaIT4BU8Jryz0+QluKs+RrcCaM05Ocaj2Dg7RmZpgiS5TL5qw81Qzk+1dDqf3vGAkT2MQMRBZra3kbp7KYSkQqWpI1Q82nvhJZQetqUc2Vabq4InrG4sVILRL0hzWH5klzUg2Q3oSsj+BebtOJDfIeWaqp8H0vKK7oucfo0q
+
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/AtaKJmv.jpg",Bloomberg Quicktake
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:0jzwfGyZ5jaJseHioAEuzKnxreEhHK0voO8q4AHzr9WSHIzjtEAn686UlA/HTPjx+tF0oG3aFHBgWsh0h1sJNCkTmjPeVJ/1PF9KAWatYusVGhBJHCKCn1oVhJ74iTI6bf1LaSK9bGF2UYVLjvO/Eb1k9Luz/xNWsEZ8UBgFqFU=
+
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-logo="https://i.imgur.com/UuO7vxr.jpg",Bloomberg TV Europe
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:1kH1Oypcfx0yvgB30fd/zytvEcEHvCHplrp6bjr5zIxBXsDrW7tUBNyWoh4IYdYt2xf+w8xyDRym/pFlC6HlU41aNzYnaodPamaTuaaHUlqYL73+tLO+zC2ZIQlJ2Te/tQ7QCaw6anJPErI0HjebqA==
+
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-logo="https://i.imgur.com/3gi2eBn.jpg",Bloomberg TV Asia
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:1kH1Oypcfx0yvgB30fd/z2j805HGgcKyC1WupLvmx+/40CYnxOfrD1lcyFT7kMAQHDtRQvgW1Wkh6t119vkdDsq55DJsa453JIkppg1QIbo6AT7rAwcm/NOdr8fu36bLYmalMXP1mz30w5NxiXFTKLp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-id="BloombergTVAustralia.us" tvg-logo="https://i.imgur.com/VsvBUCa.jpg",Bloomberg TV Australia
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:1kH1Oypcfx0yvgB30fd/z2j805HGgcKyC1WupLvmx+/40CYnxOfrD1lcyFT7kMAQkwEuM66VWsQGt2MCUrsLn8q55DJsa453JIkppg1QIbrK96pK16v8fR8y1oiGJzFYYmalMXP1mz30w5NxiXFTKLp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-logo="https://i.imgur.com/2BXCg0x.jpg",CNN International
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:V8hBgrJ9smUN60CFrng5QN9mb/xWhGoFgBVl7UUEQgVaIY28pvrc9tGbkd9kvEFqAdAUSznJjrN4IwZCha3X7JOeZXFpHii3XDMUF2+7jPY=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/abc_news_now.png",ABC News
 https://feedlix.net/videos/promo.mp4
@@ -111,10 +143,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UEjj-3XvS4g/hqdefault.jpg",ABC 7 News
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:gi/TmdCxTNqZ5zHb2+wVeml2y/M+R3Q4oApUTgqO3GS/QFzIdKsdE3t4RD2FfemCVDU927Z4yRlzI22LTRGgVFbba8+uD9Ml8dFRE4KFdUI=
-
-#EXTINF:-1 tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png",CBN News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1NicNkHMizvWaq0cp7MJrxc8J8QHjd4o75A8e0+YfeguCTBhpHzc1SHQZ1Y2r8QsYihm47JBjo03hU71lT4pfA==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png",Newsmax TV
 https://feedlix.net/videos/promo.mp4
@@ -496,7 +524,15 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:fGwtDb4yPLOSy4HDvXJuRRe/roVbBC/kAjqxepX0eDlGDciNDhrECr2mF9Q2tyI+URjyR3ZQHIwrPj1DGWbTlCR9a57xogvCl98WLgxZlyY=
 
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2020/10/akaku-vipotv.png",Akaku 55 Hawaii
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQET539.jpg",Akaku TV1 Hawaii
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:VgJeqCQxx12ZjxGTNa6/rtMUbBT+GUy2RJkCnwR0TNKRCaiDK1X1gYZtZT5E68AK3qflpDjrHDNWroO4a39iG0NXptaZ/BezD3PIStDG9mo=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQET539.jpg",Akaku TV2 Hawaii
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:VgJeqCQxx12ZjxGTNa6/rtMUbBT+GUy2RJkCnwR0TNKRCaiDK1X1gYZtZT5E68AKeHZPJAuzUbmNfHd9Csnuy0NXptaZ/BezD3PIStDG9mo=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQET539.jpg",Akaku TV3 Hawaii
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:VgJeqCQxx12ZjxGTNa6/rtMUbBT+GUy2RJkCnwR0TNKRCaiDK1X1gYZtZT5E68AKi9i8XMYvUDjPXwC459454UNXptaZ/BezD3PIStDG9mo=
 
@@ -508,9 +544,17 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/usj6Ic7diiBAeeT96Dr36KT4/CEfdvWRO+h2YvMYgf2TgBzcMdN/11KBLgJcO2TjopPcs4zwDcjDdj76zb2zsj+5ntPnFsMMHF7CWfUhbeNaQq+hnHCQE+Oz2g4ZHJ2
 
+#EXTINF:-1 tvg-id="STIRRComedy.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Comedy
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCxAMZtTcKh5ImcsZYJnDPaNupyq0DkVQ7+Gup5cVt+sWMR0sg1o/GCHBy4HVnTKtz8=
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/comedy_classics.jpg",Comedy Classics
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6Kq6iV9kevv+dySw+nF2MuCc/280mZgeOaxLL6jGudazf2+i+7KcvWFPhd1XNaeVrM=
+
+#EXTINF:-1 tvg-id="STIRRWesterns.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Westerns
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCz6et66MmyaO6JML/NFtKIoUsIP3RHIOyFEvEmKtYaJlsR0sg1o/GCHBy4HVnTKtz8=
 
 #EXTINF:-1 tvg-logo="http://ginikousa.com/channels/logo/tvs-western-movie-network.jpg",Western
 https://feedlix.net/videos/promo.mp4
@@ -520,17 +564,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMt8cKLkoJe4LypfFlSpfI9GrdUhST+5w5B53SaLSG5V+DiuAvo63qFrCW0tpHwkrl
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/c3Z5i2L.png",Z Living
+#EXTINF:-1 tvg-id="STIRRMovies.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Movies
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:ahBpOsrStUNFSCdIdN8rNhjdvAVEh39FJsBYOWNXF2wfNO9xgu7H/A+tmAoQYVwaiHt5ppztJ7RgPYOcVwGoM3cddK/yYOXwpo+lg+OxIkQ=
-
-#EXTINF:-1 tvg-logo="https://watchdust.com/wp-content/uploads/2018/07/dust-white-site-logo-sm.png",Dust
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:wYppSrXMUFzlUbkwcPfQ1XWUA49Z6TV2r1L5/eJQHbzMpkKKyXGOGHAvl2LDooUQ7g5I39RdgmCrK95V8kQsCA==
-
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/pet-parade-network.jpg",Pet Parade
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6KVzCqxiQIGNnxgzpeLus/k/3zsiXdHJPvUL0luDtUVrg==
+#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCzgxdR+qDYn17TVbA5N4DVcpAqr/e/bEQK7+mX4UqZ5UcR0sg1o/GCHBy4HVnTKtz8=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zJ5idav.jpg",It’s At The Movies
 https://feedlix.net/videos/promo.mp4
@@ -552,6 +588,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:7xITMv4g+SSqaB++LnCl4STm+mFjD6VlHSYgC5t+0mb3+4bZga/dgEmPZvGUI4BhZEjAUL4NgwHS0fbud4vhdg==
 
+#EXTINF:-1 tvg-id="STIRRBlackCinema.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Black Cinema
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCwR+n1NEseJCz3B5YC0FkqlOFd+XcxI3bOIb8mfMZ+KjMR0sg1o/GCHBy4HVnTKtz8=
+
 #EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/02/The-Film-Detective-live-vipotv.png",The Film Detective
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:GIXAFuLYlB/MJ89mho4JjW362AtNTo8nKDqiYJQj5a95sFWMa8mQoOJpCcCcuOIBvPogPS6H8ysleD1hdGcBEQ==
@@ -568,6 +608,34 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Q0pC8WCyL29SkNDTRZrwwjGLmn40XDFhffUZWbpaMpfpbdBcWnAxuAzvronc6b7W7g5I39RdgmCrK95V8kQsCA==
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/c3Z5i2L.png",Z Living
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ahBpOsrStUNFSCdIdN8rNhjdvAVEh39FJsBYOWNXF2wfNO9xgu7H/A+tmAoQYVwaiHt5ppztJ7RgPYOcVwGoM3cddK/yYOXwpo+lg+OxIkQ=
+
+#EXTINF:-1 tvg-logo="https://watchdust.com/wp-content/uploads/2018/07/dust-white-site-logo-sm.png",Dust
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:wYppSrXMUFzlUbkwcPfQ1XWUA49Z6TV2r1L5/eJQHbzMpkKKyXGOGHAvl2LDooUQ7g5I39RdgmCrK95V8kQsCA==
+
+#EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/ovd-images/70922.png",Showtime
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:vYDbnxhlnNRIbNHvvWLzdK7fjp1+86l1hpuR+kk/ppi7H2qyDrguiZ7kkBVOMTF8GjfX/zt0h7PUmY9QBXy7KA==
+
+#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/pet-parade-network.jpg",Pet Parade
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6KVzCqxiQIGNnxgzpeLus/k/3zsiXdHJPvUL0luDtUVrg==
+
+#EXTINF:-1 tvg-id="STIRRCITY.us" tvg-name="STIRR CITY" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR CITY
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCzewHn9Zu2Zz8z8Mk0EIDupF8N9noDhlfw8TB6OtpKgrMR0sg1o/GCHBy4HVnTKtz8=
+
+#EXTINF:-1 tvg-id="STIRRFit.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Fit
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCxfbyPTZsfap2rs+6aRK9n1edWSaOZBS7uq6wSmlUYtScR0sg1o/GCHBy4HVnTKtz8=
+
+#EXTINF:-1 tvg-id="STIRRBiographies.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Biographies
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCyOTj1OQW1CN5+CdjyAx+upB9w8ox05eYzRxRE6ZXZZhcR0sg1o/GCHBy4HVnTKtz8=
+
 #EXTINF:-1 tvg-logo="http://ginikousa.com/channels/logo/documentaries-4u.jpg",Documentaries 4U
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:kqu6OjrVfkpOSHUBWxSivO7inOLVCsLSkTF/3T09+dd/j6ZYVGHtPoBh2TOPQy9v0HHhE1WMZwYVFVP8I2jIwtKroa+L21yHoIRlC5e+1HoiUrlNAJtXtu5tGNz4EPmV
@@ -583,6 +651,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2020/11/hunt-channel-vipo-tv.png",Hunt Channel
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:dErN319tQVqdKsqSi5JpqVqWUDakXo2r31NqXeb2+8cTF+ezp5RKAA0ibU+6sNiR4hw1Jvq2xPnvkNu+HmtmBu4OSN/UXYJgqyveVfJELAg=
+
+#EXTINF:-1 tvg-id="STIRRCooks.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Cooks
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCyhc8FxK92dr6jRylP+SosTTC1K/4l2L3dU0OmU3nj2SsR0sg1o/GCHBy4HVnTKtz8=
 
 #EXTINF:-1 tvg-logo="https://www.tikilive.com/public/files/shows/119/119489/25947-800x450-FFFFFF.jpg",The Outdoor Cooking Channel
 https://feedlix.net/videos/promo.mp4
@@ -655,6 +727,18 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/He6Ugfn.jpg",CT-N Connecticut Live 2
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:67HC0CHGRoi6b9fFUtxr+eOlRPetjLe8fK9kXJd8tnsRSqy0+reRj4aXoOrwCm16PucMItj1V5/+qaY5lp5h8YOK4C+jreoWsJbS2kfCSuU=
+
+#EXTINF:-1 tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png",CBN News
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:1NicNkHMizvWaq0cp7MJrxc8J8QHjd4o75A8e0+YfeguCTBhpHzc1SHQZ1Y2r8QsYihm47JBjo03hU71lT4pfA==
+
+#EXTINF:-1 tvg-id="CBNFamily.us" tvg-logo="https://image.roku.com/developer_channels/prod/b8a7fbc8508bddc8edc12b9edd8baccfed4287d230b63c3e750777d65dd9007d.png",CBN Family
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:uh3ZWjBwtJlAAHOIrePeRKf4gbNfkzKV2gD/BwiJ+tErXpE7DE30v5rrPuXNhK81q+BuarENi8cQayjo4uZm1w==
+
+#EXTINF:-1 tvg-id="CBNEspanol.us" tvg-logo="https://www.cbn.com/partners/video/img/live_channel/cbn-espanol-channel-thumb.png",CBN Español
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:uh3ZWjBwtJlAAHOIrePeRKf4gbNfkzKV2gD/BwiJ+tE/78hn873yhWAw2876mDmyq+BuarENi8cQayjo4uZm1w==
 
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/4a99786528df4a7d8bd1c5044965428f-hd.jpg",Bible Explorations TV
 https://feedlix.net/videos/promo.mp4
@@ -792,9 +876,25 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:dSJzHPuPXRWlYMpVWq97M2nRpd2/l5YCy29bacWYwX3e0UJ/JSoKBpFKRevee7b4B+eRxVL6rgFJ3HrHB2aj1qUn0K6QCWZw9HmuX0Vb23c=
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png",AKC TV (Dog TV)
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/DPls9e7.png",The Pet Collective
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:achkSdfigse+j2zAI+vIQ75YGT173zlrxFFvEyi0cGF2/Dk9SIKk3u2Qg++NXWsoQTR98ewLFm/vr1eyGN9J6Jes7CtPbdSl4AiuOY8ITR9AYdnD40y3lwScXkP3VXs1
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png",AKC TV HD (Dog TV)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vebmxXkVRWy+prksGnDrw06UjDHsgphdMPs90hfe3SPZ7XwgsUQMoQF2qdxDI0Ml4Mz0W7LZCSiBHoLI7zoAA7p9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-logo="https://i.imgur.com/YNdQXDz.jpg",AKC TV (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:vebmxXkVRWy+prksGnDrw06UjDHsgphdMPs90hfe3SO/OrXg6xL/a58Rpg4K6hSjaCTCQIyDOSLvOi9UW1uL+w==
+
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png",AKC Meet the Breeds HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:vebmxXkVRWy+prksGnDrw06UjDHsgphdMPs90hfe3SO/OrXg6xL/a58Rpg4K6hSjaCTCQIyDOSLvOi9UW1uL+w==
+
+#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png",AKC Puppies HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:vebmxXkVRWy+prksGnDrw06UjDHsgphdMPs90hfe3SPZ7XwgsUQMoQF2qdxDI0MlBFhzROqNSYnJf3g8xeCH5Lp9hOaC7cWVCPlKEFURccw=
 
 #EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/battery-pop.png",Battery Pop
 https://feedlix.net/videos/promo.mp4
@@ -1131,6 +1231,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9TbpsS0.png",CMC-USA
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:86Rzq9jdQPP5+mclDJhERZEeHz97Gq3D/jOVo3LdeGd6Dh6xFijW/u9TsYl8l0hpLnxNdGdSrjA22GqthYsgowp8bi1QAsuR8bueupN0G3yDiuAvo63qFrCW0tpHwkrl
+
+#EXTINF:-1 tvg-id="STIRRMusic.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Music
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCw8yIjDzVsdtTC20ZtrtVkJlEWAWNyfzHUlIK6wmjFaJMR0sg1o/GCHBy4HVnTKtz8=
 
 #EXTINF:-1 tvg-logo="https://www.allaccess.com/assets/img/editorial/raw/di/dittytvlogo2019.jpg",Ditty TV
 https://feedlix.net/videos/promo.mp4
