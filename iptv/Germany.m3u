@@ -812,25 +812,49 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1PwWrQIGJLmlM8nMJC5U28iuXkOzE3F1qMEczg302Ylajnr+VGGYCqJ0Jg61Oj9etF5Xr7wbWBa7iO0TWJprMu4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-logo="http://liquidskyberlin.weebly.com/uploads/8/2/4/5/8245388/3944225.jpg",Alex TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://liquidskyberlin.weebly.com/uploads/8/2/4/5/8245388/3944225.jpg",Alex TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4EgK1FArV8uzTVIJDiLPNa1+T4ojK6S82h6Q4ISPd94CoP4vyJWiK1cYMyWzA5dL80I5qxoU5Vx9c0DLbC6PLWSDZ7Yh5/nhW9/e0m2otDNG90uJXTm13hriD9PUmSMbfLuUMckaeWrWJBUxWlpf/A==
 	
-#EXTINF:-1 tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/07/Folx-TV.jpg",Folx Music TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/07/Folx-TV.jpg",Folx Music TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:scM5UYW+lTJp0QQSO6h6DR1KqrfHrod7xIWYmBbbOxN6yAZwGDVWmFPtPQx+tenPk55lcWkeKLdcMxQXb7uM9g==
+#EXTSEC:OKpnIAYVZKYzZ9mmG+WSkyAbsRYduqN93AZMUQmy8w6QijEnD5e8/aKZkb6d1AF+7g5I39RdgmCrK95V8kQsCA==
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/03/Deutsches-Musik-Fernsehen.jpg",Deutsches Musik Fernsehen
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/tek6fvnQ5GM/maxresdefault.jpg",One 1 Music TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:OKpnIAYVZKYzZ9mmG+WSkyAbsRYduqN93AZMUQmy8w4Nltmwo5XPWzbPxcmZyCRe7g5I39RdgmCrK95V8kQsCA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/zwei2.jpg",Zwei 2 Music TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:OKpnIAYVZKYzZ9mmG+WSkyAbsRYduqN93AZMUQmy8w5+Xa1k+o6Xv+X7rXNv6EHL7g5I39RdgmCrK95V8kQsCA==
+
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de" tvg-logo="https://www.medialabnord.de/wp-content/themes/nordlab/img/rwtv_wortmarke_logo.jpg",Radio Weser TV Bremen
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:OszlpdQ/m0NCVh1BPK6AgcjWaIBm7yazyPxN6U7iB/gS5Y61p+cuxFPhIK0CUIEqwWjLE1YGyZiYc/5AhpfnXGI0dw6dpge6iTqemNhIaLsb+BrCnbarAiUk0MvjYVzZ
+
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/03/Deutsches-Musik-Fernsehen.jpg",Deutsches Musik Fernsehen
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:dHFqpPniWjj1IETkfs46i6VGC4eMMrL8cpz2RLQv/P2dijFM/4zXo4AlntA3FkJF
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png",Unserding
+#EXTINF:-1 tvg-id="Rockland TV-Mainz" tvg-logo="https://i.imgur.com/vIMkVo6.png",Rockland TV Mainz
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:BrWjDH4CxLihMMSmEshrgvvNqHbVy/RC+f7YVQMlyAYCvqpfNDZHDgsTD+lIrWSzHwfNWH9Amhno9oOnLhRk1sCL6qpOGhNFcBYxFGQVrAE=
+
+#EXTINF:-1 tvg-id="Radio21TV.de" tvg-logo="https://i.imgur.com/ubEUBmB.png",Radio 21 TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:G5dKyBgcAe9dzMWdMakhRlVlGEHS34NWYIw3h85yhi8W7lo4R/ktBhY30FilBJHSGvf4ycJ4XT1WfcGKAqx9p/T95dIuA7k0ma3IMeBj42E=
+
+#EXTINF:-1 tvg-id="SonusFM.de" tvg-logo="https://www.sonus.fm/img/sonus_logo.png",Sonus FM TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ffOOY002ji4BWxc5AUXmaqJd5XImURPk/V7KVAzZzogS9QILXmdaNXVEqX0srt5qjWkKvoZxwkBPjs9oOGRydg==
+
+#EXTINF:-1 tvg-id="UnserDing" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png",Unserding
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vgCLEHToR6JuTstD2LR2D5rEmy669k/T/YQpRwXAYYwZGYHktgEY66dCR6fEF5x8xlN+QBOULwqCSeW86eiFze8/TkX8H3xpSgZCwnuuhk8=
 
-#EXTINF:-1 tvg-logo="https://www.sonus.fm/img/sonus_logo.png",Sonus FM TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.xite.tv/img/xite_logo.png",Xite
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:ffOOY002ji4BWxc5AUXmaqJd5XImURPk/V7KVAzZzogIkah3+PCaNP9Cx40QTvl5k55lcWkeKLdcMxQXb7uM9g==
+#EXTSEC:gGiiOpuMB2PtRFDY62pnC2VjBVZgxnc70E0mT/QWaMWydKplyX0akR7+f5dlebaS+X1k1rzqCaKchoTdOU7p1w==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/nrj-tv-fr-ch.png",NRJ Hits TV
 https://feedlix.net/videos/promo.mp4
