@@ -1172,20 +1172,21 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5UCdyMGWd1aN5sCljqfdZiDe47vrhSm8RspWB//FOizGxVqB8R470QhvJ80Vhr4RQu5zWt3/j9STg8WSGWBf4w==
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0b/Nostalgie_logo_2015.png",Nostalgie (Radio FR)
-http://185.52.127.155/fr/30601/mp3_128.mp3
-
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/fm80.png",FM 80 FUNKY MUSIC (Radio FR)
-http://listen.radionomy.com/fm-80
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/fm80.png",FM 80 FUNKY MUSIC (Op.2)
-http://listen.shoutcast.com/fm-80
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:TVbyivxpzjwkIpvzZ7Lot0ROPqqhyfKUhKF2xs9gGmAUgl1vux/VQxjkY0Owas1l
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/Fun_Radio.png",Fun Radio (Radio FR)
-http://streaming.radio.funradio.fr/fun-1-44-128
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:nx6dFjL9oE7pDnnuxWBjoT+0q/1Sg5AuiTKr3zfnq0B1k+CZ5Up2l3wHYWwq3iqG
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/Fun_Radio.png",Fun Radio (audio & video)
-https://live.quortex.bedrock.tech/6play/short/clr/fun/sd/index.m3u8
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:/FS7cb7/2MyRWbKWnMJ/77RGQLZLEJt2HgIxNqw+xPVYPXUNtE1i6SYA3ZkXBtUfBs61eyWbPqrCiBikCz5pYZWjkFawM0SRzI1dprfHPcQ=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0b/Nostalgie_logo_2015.png",Nostalgie (Radio FR)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:TCtztJgAGqdKAKi3oCcpUvLmVieEvPBy1Qy8/0qn5peW2nad3faL7gwLok+LZaWL
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s63639/images/logog.png",Number One (Radio IT)
 https://feedlix.net/videos/promo.mp4
@@ -1195,48 +1196,57 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:yd21qQH62nibfTCeTfFC8sSwEx3zF0HX2Z5vrCi9wSyI3dgtfd1FtbgZlFdwWFIA
 
-#EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",A Radio Rock Super FM (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:yd21qQH62nibfTCeTfFC8pRTgLff/RJw7J1ZGaixi8P9dnOV3OtYD2Vcq2bLze3I7h6aSWtrXHc1YW/zK2CXvgH4r4gsBSFvdgN5cATjz+k=
-	
 #EXTINF:-1 tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png",Amália (Radio PT)
-http://link.radios.pt/amalia?1487014253471.mp3
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:xJq1ObW5jFSEcQt+aSTPgJtTIrrGuoTrI1OcGc9LbpU7EdQp+yvMzc2ueQh4Vt3s
 
 #EXTINF:-1 tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",Cidade FM (Radio PT)
-http://mcrscast.mcr.iol.pt/cidadefm
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KsDU5FyOIDENFpoqt5d51xXjr0FK9xBm71FD7J+AkJEz1G0duMf0QkGQC6YZgyBL
 
 #EXTINF:-1 tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Comercial (Radio PT)
-https://mcrwowza6.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:stQKQICos+VEkIPLbYjCmZoFqTLtQpO98UAVr7r3DcczKMTycTCXHlPl8cS1tK6ZCjAPRzYOD7aSXup4wt/+HcqqksrVbwHED1cADQ08sUA=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOFESTIVAL.png",Festival (Radio PT)
-http://centova.radios.pt:9520/stream/1/
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:IQT66vbGwdY0IXDyQWv3U/xsciUVjYIZvtg1shwapSvDG/TFXvnYmJv5V0mPsb4N
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOHIPERFM.png",Hiper FM (Radio PT)
-http://195.23.85.126:9500/stream/1/
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:TaCLQipwxnenom1hQDBrDOOQx1bfbkNqmjYJZvi9NSCytR3M1kbKNpSRcTPiLIo1
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80.png",M80 (Radio PT)
-http://mcrscast.mcr.iol.pt/m80
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KsDU5FyOIDENFpoqt5d51/6pzBGB0Vnd0IzBY42NPoU=
 
 #EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png",Mega Hits (Radio PT)
-https://21313.live.streamtheworld.com/MEGA_HITSAAC
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ZWfb9yYDLQ94ihWMVdvPBeB/26fW9vjwsVtdGl/cazciBepYFLsBFLIDZqwFX3PArOUoOtmie8pb6G3qZdJzMg==
 
 #EXTINF:-1 tvg-logo="http://cdn.nexttv.sapo.pt/user/channels/33/c5f/8623/logodf0f58d2e1b083cc1c467dc57b19130d-200x200.png",MEO Music (Radio PT)
-http://centova.radios.pt:8495/;listen.pls
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:IQT66vbGwdY0IXDyQWv3U1sBClwY7uyRU+h8H+6PX7Aw1Y6AG/95WOVKk2dB89Io
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_renascenca.jpg",Renascença (Radio PT)
-https://20723.live.streamtheworld.com/RADIO_RENASCENCAAAC
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:UcxCDQDfyTnUGWaBQqr/h+B/26fW9vjwsVtdGl/cazcCe1nCQhr+leTYAvuc5cUYzgDTpaaqrhpOu2zv4XJO+A==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIORFM.png",RFM (Radio PT)
-http://20723.live.streamtheworld.com/RFMAAC
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:i3xJDRkaE9x14NvRi3SN/JKPm2Y+0Gk9JD7RumHlBnGZBT8cnmfVhsL2zo1uithw
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIORFM80.png",RFM 80 (Radio PT)
-https://21313.live.streamtheworld.com/GR80SRFM_SC
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ZWfb9yYDLQ94ihWMVdvPBeB/26fW9vjwsVtdGl/cazcURvfOuQVYh2NxzFoWUTICSEhV02h2T+Q5qiBvB2AEKg==
 
 #EXTINF:-1 tvg-logo="http://www.tsf.pt/common/images/logo-tsf.png",TSF (Radio PT)
-http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:P7Eqr3UCTW5u8r3FsO/JHEWs9ep44vEQTTz7nuDxgbVY8zJjuQqNiyEAlT79Rbot
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/vodafonefm.png",Vodafone FM (Radio PT)
-http://mcrscast.mcr.iol.pt/vodafone
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KsDU5FyOIDENFpoqt5d51+r9mGGAIvCJ6XxmYXvPty9igirAQswG6B0OyyiKKUQp
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/40038.v6.png",24/7 Legends Classic Rock (Radio UK)
 https://feedlix.net/videos/promo.mp4
