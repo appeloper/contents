@@ -480,6 +480,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:I5enRxgxzo3vaTS+D9Jn7Xb4onIJgr7i2jGEOeBphCt5H5g0RAM7nUtO2TfC2cuecMsjqt6K50v3viGIWi1hbYOK4C+jreoWsJbS2kfCSuU=
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6Xr5A4w.png",OK Rhein Lokal Worms
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Hady+zE/btrS8GOtvo95QYKnF6bsc+nOulansJsrF4B0hoYb5xhFFuAsmPxSyYQ23ZgsO+Uc+LeiH0ZwT/4QUQ==
+
 #EXTINF:-1 tvg-id="OK Rhein-Main" tvg-logo="https://i.imgur.com/XsmPI4N.jpg",OK Rhein-Main
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Hady+zE/btrS8GOtvo95QdrD7IbCIWh9axoosh/Ef6ZCNzfSDHOlZuzXy8EDvUjq
@@ -607,6 +611,30 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/MyTvPlus.png",MyTV Plus Dresden
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:epvSTtjmwMiQDdVE0P7JrU5yA3/K2fDMdYds+PqPp7DHCz+DVXl8fCazDW6GXIsNGtUffbarRrh+8F4wLP5XzQup6RGRvAUWlQeB9LaiUgc=
+
+#EXTINF:-1 tvg-id="Oberbayern.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO Rosenheim
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:+1cXMsFHEvylJsKOjyPJUbvrJla8ciUgW8OVWTNkqO/kPQikSL2g+SxDLfU8gkXrU7SvhoDCSAhxvYRYZZVKNHxoDAeEQCs01zYnBKoRlHHKqpLK1W8BxA9XAA0NPLFA
+
+#EXTINF:-1 tvg-id="RWE Erfurt" tvg-logo="https://i.imgur.com/AMzEPGl.jpg",RWE Erfurt
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:VARpxpYRWhuGNWD96j3XAZLucLUrt3XQzQJzqFZS7LBXuVxPCqgoomjcXSyFQyJX
+
+#EXTINF:-1 tvg-id="Südthüringer Regionalfernsehen" tvg-logo="https://my.telvi.de//files/images/43/userfiles/116da521d.jpg",Südthüringer Regionalfernsehen
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:h7NBXK0TTRllDubrXHO6BUpvV6LEOXf0EQWuqdNyh5wI5UOdkZSYVnRcB552vrv10OFVj+b8Ebm4RaGyiSoLuJ/kCkAz2miXb/PCywdcBWE=
+
+#EXTINF:-1 tvg-id="TV38 Südost-Niedersachen" tvg-logo="https://i.imgur.com/ob9JJPU.png",TV38 Südost-Niedersachen
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:FfK4AlBAIfaH8CYtiw0A1ctp8/bPi4aOwX/fhXRfeRHe6TdON1fcJyCfhJWlyAVdrjTNKC73GzlbBHeWpTGRCIOK4C+jreoWsJbS2kfCSuU=
+
+#EXTINF:-1 tvg-id="TV Bayern Live" tvg-logo="https://i.imgur.com/WyJLIzA.jpg",TV Bayern Live
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:RQ/3GBlvZqCeX0ZUN8ymEJh6qNMkLcegO8SGXBRojGmXfY9Qu1O4G5hE1GksQAm+LewyQd7I7eQPzHy0DYRK4Z/kCkAz2miXb/PCywdcBWE=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/de-dugun-tv-7935-768x576.jpg",Dügün TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:+fcdReouXhd/5a8oMKO8Rp0vTf5OCHGYII2Ezvj5YOBwdH1AkJE1dbfXUno4w0ZNRt6UyVfZt4v2WE4031iPct0hD/IeIBSq2FXl0IutO2ye3Y1XDHRd2QcXlpejq7ue7g5I39RdgmCrK95V8kQsCA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/1200px-H1-logo.svg.png",H1
 https://feedlix.net/videos/promo.mp4
@@ -1044,13 +1072,113 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCzHQp+mgszS+28rDyAouEiVWw2adnKxGT9wmp63BFoqHMR0sg1o/GCHBy4HVnTKtz8=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PxSgxRO.jpg",SWR 3 Visual Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PxSgxRO.jpg",SWR3 Visual Radio
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JT68TqwAPQayUpGWQFdnJMuXsMafHJ3uYtEA4yde0ZGh+GetTcplzrZbp+Lk9awzcLqhMtOYYOFWdhOIcl9CvS/blUtx/nCyzV9ee5/zpRc=
 
-#EXTINF:-1 tvg-logo="https://www.ringier.com/sites/default/files/images/energy_0.jpg",Energy NRJ (Radio DE)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/29195.v5.png",1000 Schlager (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:DXGrhsR4zHWNornhRREzVn/oyuTVXWRYdkfsQ+8gzhN+lhmAMxLWPTixVdERaBMt
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/42633.v7.png",80s80s (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:xfSj0GvbD74fQLjR/3MuBfK98eyW/OTlfZvFKzkUW/+zBAtqDXXw94AGdiEsWOBs
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/42304.v7.png",90s90s (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:l/sXDSGfTlxwW1pRs9KqdOoGCGeXPTCjqcK3TYk0x9Cqudzv3q7JzOnCnwKdpNIf
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/42760.v2.png",A State of Trance (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:fyWvqEFnLcjdQp3EDWydVO612BEZasirNIxOFN1tgiY=
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/81817.v19.png",Amazing Classic Hits (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:huehJ26ex8UOyth4ltAGd+B/26fW9vjwsVtdGl/cazePKNS+iphx3z9dqMe9Svunc/Ogvip7Hk4EdCbxR97ps8H9AzsxRCzh8ZIoW3JyZLs=
+
+#EXTINF:-1 tvg-logo="https://cdn.amazingradios.com/logos/amazing-blues-w180.webp",Amazing Blues (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:BBohG+am5uDuJ0feAVWut+B/26fW9vjwsVtdGl/cazcZ3Y5s2dUNaG9uo/z8BpsmPFgXKsoSGYU02HpUGyK7jQ==
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/468.v7.png",Antenne Bayern (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SJOnKsMCNBbWKcNoJwiSw777OOZqRgSBoXaDUZ33ecB7a605SjAL5sb67z9J3NiL
+
+#EXTINF:-1 tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=DE&name=14244-1430002.png&size=200",Big FM (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:sBhKowgUt8HBJO1IObvYMWD7+bJ8lVPTeiSdWnIrpWVYbFBJD17DQjIT/vdjzZiw
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/42852.v1.png",Classic Rock (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:JXxKoAkMbEUlUQerNQLasjbKrnYHK4dfnM1AE0aGW5WmCLJ//gNajft7U0+VdJ/u
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/44697.v1.png",Disco (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:CRqNYWZQ30kQ3jVsWysvGlUjrl925yoF4kYymccjFmZ8PvPNtrlWgQSG3PLBfKKW
+
+#EXTINF:-1 tvg-logo="https://www.ringier.com/sites/default/files/images/energy_0.jpg",Energy NRJ (Radio)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5UCdyMGWd1aN5sCljqfdZiDe47vrhSm8RspWB//FOizGxVqB8R470QhvJ80Vhr4RQu5zWt3/j9STg8WSGWBf4w==
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/704.v3.png",Gold (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:QWqbUjq99H1zIV8YFB81D6qtN6HeazGgJXesXXf3BnBeLGC4INGdld/cVa2t0S5whg9v27fkQLcrmRyDgJFCDgHUxP3DmwEyIggZ9somN5p4ZBGNuwfHUDEMlT69wTBo
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/552.v6.png",Harmony FM (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SkIsZB/qJtDvdATwlDKvPthlfmAqykbOY9Es0SaMX/Ga91eKjKvOMNNGknP8r0SqQu5zWt3/j9STg8WSGWBf4w==
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/710.v3.png",Heimatmelodie (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:VvnvX4lWcWgm0ns6PXDZGl3MjFYWX7PoJZuUSCj39js=
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/588.v5.png",Kiss FM (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:PMZCGvImMl/KDcIScWZV/34TiiiHw0jtOAAG1rXXitCKkfuFyO51MybyKi68X/vbd1dqHXalhq5KPqe7eNZLSy0idh7mSs7pmj0OMZ/xZPE=
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/33024.v3.png",Klassik (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KTYsQ7ohLikFsekkqtYr3av1nDr12xO6abEIxJBg3++Kfcz1iUn+VTaEW2mazebrrKSWlZil1gEtXEsJkDVQ7Q==
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/42856.v1.png",Metal Hammer (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:9vsOk7TGb2DY9XhWPQrZeNUDSRXCGYc+YJgIEkUtOwnjNCyx4B4nGP/t1GkEGP+z
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/735.v14.png",Paloma (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:6tnb1x6nHI81oky0jYNsyKrVYMOC/RXD2a3gHT56UOVR1EhjP9QCerKqok7gYmiY
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/778.v5.png",Rock Antenne (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ZuGPmphfdIQLnBOoMV1cYYudM6Td2GQfHpQ4nDqExfCDgzj7mG7Xf25CfAnLLsvG
+
+#EXTINF:-1 tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=DE&name=14247-2076173.png&size=200",RTL (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:VCRcUKSOgkuuixF5x5gUQscrSvLyPSbbQPXutKZU6RKJHJTf8Xo2yHKjcepq8riY
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/807.v5.png",Star FM Berlin (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:y1my8lLPg71ViF5iuXOL0K7JEoJB/3QNGznYZ9ow3uE=
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/3/763.v2.png",Sunshine Live (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:uZEWxDvhXck+nzCyh164baMBhHigzrV/3QlI+SSAH8tDolvPw2CfUdU9q8FyS9dhBUPDFGC5N2LllrZ/ONEh2g==
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/32040.v12.png",TechnoBase.FM (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:IZxxTj0upYt1ME+yR1L73nUZRGj150SVWj8aNNr1qcx0SMifUehhFDBlqWc/we6Z
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/32619.v2.png",Total Instrumental (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:rSEczsVTVFv7I83yG2CSxjFjzIGVbx7AFuMNp2NPpc+cXIi05bNIFvqlGhi+jzgoIsX3PKDBObe96kB7ZYOthw==
+
+#EXTINF:-1 tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=DE&name=14231-2932989.png&size=200",WDR1 (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:WCHqw4Rf5Q2bfPF8N5L/CdHyVzszLFZ+15yozofbiMjBgLVQIkA7x0ElC+V/d743K2FCJibW/MuY2BtHaaeJHuWgJIk2+Fb1WTPVhfB5MQPB/QM7MUQs4fGSKFtycmS7
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/832.v17.png",WDR4 (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:msRCZ69BFfabIEEGN/dMnROWE4in1v5PLmqRW7mslBmz16Oy4329jqxxe1LN+P6D1yAvl7na7jeFbprhSfTkdeWgJIk2+Fb1WTPVhfB5MQPB/QM7MUQs4fGSKFtycmS7
 
 #EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_alltimehits_1496927518.png",Energy All Time Hits (Radio CH)
 https://feedlix.net/videos/promo.mp4
