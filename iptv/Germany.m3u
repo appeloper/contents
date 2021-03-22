@@ -772,7 +772,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:6kbg8SXd9g5Yvu+2qq1zDrSmkT7zfeL4MbY7bAE98Hmd4JSFl3CFo8mTOkq4afTVi5bAQObYvq1H+OuA5XsLULF8+Dc99h9rJyGD0vI93F+h8S3S78XXEXOxyMalKJzk3slnvCdSLrMXqqcUrqrhcZ/kCkAz2miXb/PCywdcBWE=
 
-#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png",Real Madrid TV
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png",Real Madrid TV (geo, ES)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:+4W4BIL8UfBAU1THOZclq8t/if0erQfxQO+4I70pPwKMMrRqRJUvieaPDZYneOuw1Pjalg7VygONhtJgQsY27sR0sg1o/GCHBy4HVnTKtz8=
 
@@ -808,33 +808,45 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9kj9666rs8J+1CUyXKftbJRW9yuNHfyDx/NN/xXboXeXEk8ER7TxzD/priowwYeZnlgfDrdZs69ZUfVgw0UwoOg==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",FTV Paris
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9KQOmcpVbpADUwAPzyIWGGQYpNh9qWkw6G7Hbk301xuF3vCpIrvmZ3WGBBV+A1sAcvakf1J3chQZ0/buylp0OnAe8rVPZZh1hUrtJYwie67h8rtdK2+vM8BSIu3xSPQRl
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png",FTV Paris (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:GZE+WZKI82nQnomJG3EhFGAPe51GQI5PDsW+BDZNeQ65PzL+5+htCd4u0EhOE/FjJzQEyJKy+X25fuYaC5mGVhW9yuNHfyDx/NN/xXboXeWTnmVxaR4ot1wzFBdvu4z2
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion New York HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4OXQocg6fAAHcU6N0RzcnF2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9zUywEicmpyBF+Ys+aRrQsv5+eiltWujmF8ieS6lNboyn/G2SnW+/PrAstic5NVD4I4r8BUsxj3Grh/rLxrXF55Un3wS4MVJS9FZYV4D3OIU282ARU0oDZ9S8UEPeqdqA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",FTV Paris HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9KQOmcpVbpADUwAPzyIWGGQYpNh9qWkw6G7Hbk301xuF3vCpIrvmZ3WGBBV+A1sAcvakf1J3chQZ0/buylp0OnAe8rVPZZh1hUrtJYwie67h8rtdK2+vM8BSIu3xSPQRl
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",FTV Paris (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:GZE+WZKI82nQnomJG3EhFGAPe51GQI5PDsW+BDZNeQ65PzL+5+htCd4u0EhOE/FjJzQEyJKy+X25fuYaC5mGVhW9yuNHfyDx/NN/xXboXeWTnmVxaR4ot1wzFBdvu4z2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion Tokyo HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9O2DivK9RLKnZd6Qb5caIkOJ1V5aiU+nloG2ixrC99nR4PIj366Av3CCoNE2v/OPwkMinI2obukyumVyv+kacJO18nu4cSN8Jg9AQGmWN9Z+DiuAvo63qFrCW0tpHwkrl
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png",FTV Lifestyle
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion Singapura HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:GZE+WZKI82nQnomJG3EhFGAPe51GQI5PDsW+BDZNeQ65PzL+5+htCd4u0EhOE/Fj+bLPCcTOqn0vGdC9HD/fQGwymD4/bhHBUM6ChNwT4Cx3sfdHgCnjNnhlhAU3YGAgnmb9EgqLzgYJ7gg8r2ZLkg==
+#EXTSEC:4OXQocg6fAAHcU6N0RzcnF2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9tv+KlnYC80fENz6uG+OZ0n/826gyP/QBi6AJdeKQdR9rULEffZ0+x5wGJOE/+0+nY6xCn77T/Aw1GpFY2FSEE5sLnFGZMVogoKz5P2ATXM2Ok80EJgTq4ndzdF85n17m
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png",FTV Midnight Secrets
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion Johannesburg HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:4OXQocg6fAAHcU6N0RzcnF2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy921kHP1nTLviWcQ3EDjnxJuw/muu6QaoIJFKTppWVyDct1Ky+mWWYN4qmx3uJUkrtbg1+4MQ4EmNZf37I9Kcn/pWjkFawM0SRzI1dprfHPcQ=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",FTV Midnight Secrets HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9YHBBniz21tw4TcBHxDLuT3IeMRRL4e5vNYJvxDUjHoKJTdu97r0Ar+bWXT2todp1uZhDkF/KIDWnPjEkWPTiczXPggJvipjn+DZg8uWpRD219JMXW/x5kPwcZJtPogOc
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion F-Men HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRbyzNzMh+mQxMqsDZHthKlFREK8lAqLX8PSfMl4uvvtBeJ4rtprHTd57MS2B6W64GRIxTSOMGrSOLQYYMRV2qLVcJ7pqXMUC4LmBIzjCNcmjMqqksrVbwHED1cADQ08sUA=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV UHD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:4OXQocg6fAAHcU6N0RzcnF2nY0L/yDSFEZPCsvYdoRbFS4i2gQjD+zWxsO6tP1tnzRSOrRlLot0YGhBQHp+RSjBpYEdpkYxISXxVoZ+tpIbRhMFi551qUlsPczrybsEyAjtvuoCYHIyacn1d2AlkPJiWKZtaYHBcYwg5P1p47aaDiuAvo63qFrCW0tpHwkrl
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png",Runway TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ubw0H4Ad2Xk+y5v6fiV6rjqEhsHPg9D8WP/F0tPqPtMjdU831CVDGi+EOM3hs4Gjf/+y39+5jnZjJHjQOxXhsMqqksrVbwHED1cADQ08sUA=
+#EXTSEC:4RpNC/vguVi8Eq0l+dLMgiE9Vxp60PLFhnG62PAXxaK9mCK5pJCrmTvaBSLoUWPlVl3ht56Bo6S/dDFpiy+NcC9cIlQA3MKXTUVvQ3OkSd50uLRuEf9txb3bZP+e9dzi9/hRHh7VOGM3xRqllLVdq0KwdH0h80zJ1ib5t9cpjQU=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/eur/hd-fashion-lifestyle-ua.png",HD Fashion
 https://feedlix.net/videos/promo.mp4
@@ -1079,6 +1091,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="http://ritsatv.ru/files/poster/medium/300102.png",Ritsa TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:VUQtPG/hMeG5eqgQhhU6LuMwzT2eK3Nk12zYf5ltHddjmsy8S0GzaF9nVkWf0vJx+67Su5J5e053jFx7oPKftw==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/iss.jpg",International Space Station
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:dSJzHPuPXRWlYMpVWq97M2nRpd2/l5YCy29bacWYwX2lYovON69g9MM949YUPbrl9qc9/EM1H7d21HZctXCVi6/XxrkHE3dQ0Lk8ohCAVLF3p8Oh5wDdUi0iuDaxleXSqRpz+eGVuTDOlw0U770c3A==
 
 #EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-logo="https://i.imgur.com/7XsqSSZ.png",Stingray Naturescape HD
 https://feedlix.net/videos/promo.mp4
