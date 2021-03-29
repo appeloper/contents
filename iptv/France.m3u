@@ -32,10 +32,6 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:k4pXBxFyk7vT4gsVaIQCtYzMe2jB4tRjx69LfRI7tOC5KztjT3fZqpNHZRA/y/DFITfX0FxirwWOfLosBG/DGh4+x8K40GXvMGjclCYPnOwht2UNJ3apM2JSS79WtZwGueFl2qCeCu6kILDKS6st7yIiVcXmjJXAI8RxBmhm8E6ADDBTFVLh0GX5WRoOga80
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/BFM_TV_logo.png",BFM TV (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:7Xirp8L6C5IGxPajyRQ+uySYbRCBOBbNVHf3mABC2akTURJDNrTJZWtNH9V4H5WXKiLZ/uQllWyz+oy2bDFKeY2tzH8siplEVUa5BFcQKBM=
-
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6904.1504800162.png",BFM Paris
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:oCxUPN5zGbGLKMY9n7oOIv4AywtPuObUgzRAXmiekINW2lKSzUGyLdC5JXWgmmvPlnsf/4YvsuYyTwUtNolIGR6krljJnp/3QrjVFJQojQg=
@@ -62,11 +58,11 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 (english)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjzX6DjlcYPzKYL6xVaLwPHLThNUI4PwUjk3MnFQHyrGHg==
+#EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjxbHrPshfVqET91Dc7ZWyv+ThNUI4PwUjk3MnFQHyrGHg==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 (español)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 (spanish)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjwtQrHYmM7deUEjAbAZ6K2GThNUI4PwUjk3MnFQHyrGHg==
+#EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjy5HTtkR1vUTxBeg8HLkQMGThNUI4PwUjk3MnFQHyrGHg==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/francofonie_tv.png",Francophonie 24
 https://feedlix.net/videos/promo.mp4
@@ -76,13 +72,17 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vsRcsEHUjXjZ2GmNpEVb1We+vsiiegX9YEGMeMN3vdoAbzF0jUYkpFZ/BA9nktryDzd1HPNJ7dqesjCqhCyG79IaXdetXZXIJHOENjaGXbef5ApAM9pol2/zwssHXAVh
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/500px-Canal_News_logo.svg.png",CNews
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5NWdph6noAWb5XQlbrQM1vV3D00NmwEYlOI9aJkwhRL/6RSOLaFzwVhu3+Y/0Xkn+Tt3U/nOVfhOfL1Gb6RkS5NgD7xFiBUO9bN/yVN6lytf8Cscn26IMVQAQV6Fi4zAKdghBXh9Plv8sut9inYIgLp9hOaC7cWVCPlKEFURccw=
+
 #EXTINF:-1 tvg-logo="https://static.lci.fr/assets/images/logo_lci.png",LCI
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Fn2yQRfRkeQ6YBS0TfxpEECP6dUx502Ro0hS/meCSFZN4/OKwaoZQA53kFl+u83OxgkQZpClwx7YvZWiSjBczQ==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/bsmart.png",B Smart
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/bsmart.png",B Smart (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:5NWdph6noAWb5XQlbrQM1kL2YlPVcQsgNzJJbatMWD/WWEy6fULnXt4PsP4GNU+P2X6vvnW2IA4aDlr/tTkeUrIsoJh2blUxtczvKwETSeGFh+19aYF9cbSYW0injN5/GEyDx9cZfWfvWOCDH7S9Erp9hOaC7cWVCPlKEFURccw=
+#EXTSEC:5NWdph6noAWb5XQlbrQM1kL2YlPVcQsgNzJJbatMWD/WWEy6fULnXt4PsP4GNU+P2X6vvnW2IA4aDlr/tTkeUrIsoJh2blUxtczvKwETSeGFh+19aYF9cbSYW0injN5/3R+MDv1B7DCttjf9h83+Crp9hOaC7cWVCPlKEFURccw=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/RTFrance.fr.png",RT France HD
 https://feedlix.net/videos/promo.mp4
@@ -100,9 +100,17 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:osr8AXpgIb/GEE/lrU9SHSbZDMag2/D8fg8fEZFwCkhTklFOPPlX3CLMHZki7nZChYLlUIG3RGYofT5Dejexplrd3IEJsZu77ZQpivrAprs=
 
+#EXTINF:-1 tvg-id="Bloomberg TV+" tvg-logo="https://i.imgur.com/fhcaNlc.png",Bloomberg TV+
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:6F68Virnz99KbY4Bo7Z/u0UOLQydFvL84KzKVK5QLAF5oUcID1yktw8bfedmo3djWmt0H42CXH5+/p+GCnb3C8kCHBfd3xQH4r2VH1A1GEg=
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/cbsn.us.png",CBS News
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:TMNMk85SfTaCoi02LjgOxkv8EWpIPD/KH6nChdaQOaMqWYpowu73S1HQXDrMeefdndb+htHUmR9pnow4Z48esQ==
+
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-logo="https://i.imgur.com/2BXCg0x.jpg",CNN International
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:V8hBgrJ9smUN60CFrng5QN9mb/xWhGoFgBVl7UUEQgVaIY28pvrc9tGbkd9kvEFqAdAUSznJjrN4IwZCha3X7JOeZXFpHii3XDMUF2+7jPY=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/dw_tv.png",DW
 https://feedlix.net/videos/promo.mp4
@@ -112,9 +120,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:NhWRP5bsL7mCyEb5qRljuEv8EWpIPD/KH6nChdaQOaOxoRoYqz3BhWMhwbLe1m6Je/SSqTnELIXYNPBkhmn46zGew+Mk87Q205Mylz0bEPnUe9LG7rE+rk0Z57Tp6Wru
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",24h
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24H
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:gbJ1/UNPIlsWSrpQ8FnlZnxmV+8Uk1v0m/FfBRZ/et2LzhPaOr44ulOyPiXU6xro/fyaOhLoC3ROzO4dDhtP7wF4bxzIRGxFK+JpHfrsFpJZ2Q4aT/RQH5wU6rauX9US
+#EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4KDpjJ/fgjtha1SiCk+Ka7cun2E5oLtxZUI+UoQVRFxzA==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/RTEnglish.ru.png",RT News HD
 https://feedlix.net/videos/promo.mp4
@@ -144,6 +152,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vRYhQajgTsaeHMzpYaW/orqiDtizfCXmhaBG+UMr37R6L2zgWcBI2DA6CwnJ53eI7J8zgNJxCThsb1twBk54gK1ip4cPgkGjWFvoZqz2yaa6fYTmgu3FlQj5ShBVEXHM
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/onu_tv.png",ONU TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:uh3ZWjBwtJlAAHOIrePeRDqw1nZlVw5lM7jTzhPcxs/nOvVqg4pj9iT8aAp5P+tpHqfDgCmFzRuQ2EJ7unGS8aiio0at+ZqXd5u4xhCZX3evhwhQaEZQiKOm9qAy8zvcrP0/O8uDXC09m3053XlAUA==
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/france2.png",France 2 (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:8hK4Z6nCs0v5HaZrMGjHvYPhSRoztSwCLTcUtApYD0zqAZoN0elk/Dn1Hglz+YsHhT5CTdhjbER7Ljzx273hxMEQnIkcBXUqFI8S2IZE9u7K7ES5+KCbxHaClQPeOgufapyFGknxPJ752Pixfiq9Zj8zP0L8aqN8RlehKclpQUdf4MeGg4yHuIezQgmVg9U7LDg0dD6CpP+yISzJn8miBbc2MPc7O5lOYj9+2np7MUssSW4Y3a9Fu5OAGMPlara+D3EfJ2g5f9hDDuJOPm95Ud1sutrjwjAlq9M7FWH9E5f/eaBMIiQoRZfPO2ChwnWk
@@ -163,10 +175,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/franceO.png",France O (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:8hK4Z6nCs0v5HaZrMGjHvYPhSRoztSwCLTcUtApYD0zqAZoN0elk/Dn1Hglz+YsHqrJNFXWXF8+WWXv/iRBHgLakj8OWzwmDqgcVjSvtz73K7ES5+KCbxHaClQPeOgufapyFGknxPJ752Pixfiq9Zh4nkTIuwkKEQ9tAjLXkmT61wDZjD4ha7fQHPUMeYlevEnDNm/xDhNBe+JkSFwThqxXvcM0WHtJgYOjX+UIWGl1MZRFtEQMKdrzWqFg8mVvkTS7U3lCXn/pz8LgSI1L8uLh3aYTkOFRJwbeLkQ7VmCJ7pcAa+DdESpkKVqqxj9yI
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/LCP.png",LCP
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5NWdph6noAWb5XQlbrQM1nTBBF+f3OiiBHOmU7XbVsNEkZC8eOAL9fWk/pJQ/nnJDM7jucuX8xRpGXrNPfxVOFrjQvxlboOSkFco1xWwfLbyzo1dSKOKMnQ92dZOZN801CdjseV4dpRYvO1tSiH32A==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/rmc.png",RMC Découverte (geo)
 https://feedlix.net/videos/promo.mp4
