@@ -184,9 +184,25 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:TEVBoCvjDxqtVho+HPvni54ujIOtlq1DLokrwktIn87UfQatM83qqxW+0XyURRKDe+rYUDYwBVgUKVHSOsI5Na9fCTAk/CzDpTEJEdllUVg=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BVJWUpc.png",Hala London
+#EXTINF:-1 tvg-id="5e8db96bccae160007c71eec" tvg-logo="https://pbs.twimg.com/media/EX6OHGrWAAMFauO.jpg",Andromeda
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:a42+IghnEOqorgar6R6dh9FiBY+vcf0fj39+119IQR0v6XFJo68HHOYntYNoCpGvJFTdJTFNjAZ+NS3xrE18K2tSh+JFRR6r+ZTtX/R5uvU=
+#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTe6I355ctVZ2hh7EEO200aNQai/44KOaVbbg/N7p1AqHRzPFCbfZ2vFdBGgWFPR0AGazVYU5cqhbh7qoWd4wcx7AklTBd2Cri2RYu3a7MWvA4znJH+KPi3tzzR0dk3F1N/LjFjLSrlUAF7kwlgvvX7p0W0zdNkHGiVt21/tKE/EfFi6LzMjz3xxLB1WNtBg6HRJXVvAO6NywHTyvJLZ+pzustS8oyzwRdeKPr5FNrJBkJRKgfVz5kyA/gNj2W2turf0oKztVurBrTFxK/uQgi15gSo7gmJQSLGj8PZSUdzS2A3TUDmL7gKjL3LmVHZiGbFCZPWdO5pSbCTsgvl9D9aXMokqhB6uqxcZb5+mi9CsM9UH4+Ip8slzGJIm+G5VtBxGlZU3Orf157aMuvMB3I6LXiuP3SPiSExMdFRTjtOiOsOli7kMDUc2yLve56O0Q8RttBmX74KZ9kJjKm1WvZjabCB39aKbUyC2vKF6gWa9ddbZzTeD4ZboZGdcQcxI8XhJHBcuv421Zcyp9v2eWyph/xLvXjkX+T0pevQPX+Fd+2tTx3jb4SdRpbvtaGPFwFu2lR073eBi0UuGPjifr18d8Mwtogg0fcJH7jwUxEHRjINQWXRwJDlyr+gJ/f9sXR3PhS9580CmKOZ/brGn/jSv
+
+#EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png",AKC TV HD (Dog TV)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJRcU++C9F2dC/g9Hdp8QKnbp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png",AKC TV HD (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJmz0N3Iu2SAoI7NUqdcy36K9vRSWOsNLs98tV7aOIetg=
+
+#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png",AKC Puppies HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJuiFUGDgDZpew62sAPtmsULp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png",AKC Meet the Breeds HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxujGe4PgenSLJ7vUmwjKn+sKX9xKxTlGpyczO2wj08N7p9hOaC7cWVCPlKEFURccw=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/bbc_cbeebies_uk.png",CBeebies (geo)
 https://feedlix.net/videos/promo.mp4
@@ -199,6 +215,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg",3ABN Kids
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:exFCOWBZOodrNdlT4gxcBGGYLtiG6Yty7Q815g+tMvYxx2J79FDFydHNKUqULPLAo1KYUGbDg4YGHRadc1Na2Y1pCr6GccJAT47PaDhkcnY=
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static2.wikia.nocookie.net/__cb20120506182316/logopedia/images/2/21/Beano1974.png",Beano TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:JM4dQqem3Dj0Aheltxhn0YWVUySjWfl/fKLrhLPexolaIY28pvrc9tGbkd9kvEFqAdAUSznJjrN4IwZCha3X7JOeZXFpHii3XDMUF2+7jPY=
 
 #EXTINF:-1 tvg-logo="http://i0.kym-cdn.com/entries/icons/facebook/000/015/339/Robot_Chicken.jpg",24/7 Robot Chicken
 https://feedlix.net/videos/promo.mp4
@@ -215,10 +235,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMGPz8Ui5buWrhFGijKwZhMOvHccCfevNLHL/bw7JnfL+6fYTmgu3FlQj5ShBVEXHM
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png",AKC TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vebmxXkVRWy+prksGnDrw06UjDHsgphdMPs90hfe3SPZ7XwgsUQMoQF2qdxDI0Ml4Mz0W7LZCSiBHoLI7zoAA7p9hOaC7cWVCPlKEFURccw=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eD8zkhY.png",Cruise1st TV
 https://feedlix.net/videos/promo.mp4
