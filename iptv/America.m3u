@@ -1,54 +1,66 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://dxinfocentre.com/logos/Anguilla.jpg",Anguilla TV (geo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://dxinfocentre.com/logos/Anguilla.jpg",Anguilla TV (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2Ua3PZrjC5lmbTe50cVHXlRO6U6WTud8aN0zB4SpazcGHnrTd+Z1gSdvv40Tx0Dnw/KgEzxDVLBCdWs3K75P89Jvym4IOjYv+YFcGah9/lE=
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png",Canal 26 HD (Argentina)
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png",Canal 26 HD (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:h35gRvKXfBVZLlGdOudnkSxrpyeaBiB+8h9SZ92C0Pu8VtwF5RBu4/Pm3oBm/bcWR8++Gb4+yk5YW0E8KiMboW4C3gJD5Tcgxms86ztVrkPPkLriR6ftsDekf5EHQxoM
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VuvGm3s.png",13 Max (Argentina)
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png",Canal 26 HD (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:h35gRvKXfBVZLlGdOudnkSxrpyeaBiB+8h9SZ92C0Pv4O9qICXzxc3McMDmpbqgN+wvSbZbgyc26rZSCN0PcD+4OSN/UXYJgqyveVfJELAg=
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://pbs.twimg.com/media/DF3kMt7XgAAccBu.png",El Trece HD (Argentina)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:3mz79szNlkRHCw5aqB0grnQqLC8VWyJ+uy5tbf/uab6mrAaBal5Au6pgMQjyCb9Dn+QKQDPaaJdv88LLB1wFYQ==
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://pbs.twimg.com/media/DF3kMt7XgAAccBu.png",El Trece HD (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:3mz79szNlkRHCw5aqB0grnQqLC8VWyJ+uy5tbf/uab6W/UPzZ6MAilHB4XVrifrL1zrL1cPQukhMB49iB9ppAg==
+
+#EXTINF:-1 tvg-id="13Max.ar" tvg-logo="https://i.imgur.com/VuvGm3s.png",13 Max (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vV10ILbeyPO6xuG+8nrfaZX0aXr7gJGJ1oHBiyRT2Si/byV6hHof9an1ILA0WXbpHxuKcOKTYgzHv7G5bRoBPpWjkFawM0SRzI1dprfHPcQ=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B2lKSvo.png",Telpin Canal 2 HD (Argentina)
+#EXTINF:-1 tvg-id="Canal2Telpin.ar" tvg-logo="https://i.imgur.com/B2lKSvo.png",Canal 2 Telpin HD (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:573vVvh7+z6naAwcraiXU6o78KWaLIsOedNLkGvCZQmqKRWiDuMIDcBgE06uySca1+BXAgqGZHffJv68MWaY3q9vRSWOsNLs98tV7aOIetg=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sZ1yE4e.png",Multivision HD (Argentina)
+#EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-logo="https://i.imgur.com/sZ1yE4e.png",Multivision HD (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:DbPbRfUadlAmpa391Yzv7fk0fEktxkUqAZASrFKnMDzzokiDHbi+iKZiF8D6HqZJELZdzQUa0SHOTK1N6CKRtIOK4C+jreoWsJbS2kfCSuU=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKaVoN9.png",Canal 10 Cordoba (Argentina)
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/lKaVoN9.png",Canal 10 Cordoba (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:e6ELztkWzLMGsv7sG9KtSmSeAksDZ1YE3EDICFS46V/DGHEIlVGNcCR4u00ggzgej43cHpq810qPBqERd6EEyxRLdHvWZk7+k+Frn+nzazmQLpN4zpatKHxrOq6FpGAvun2E5oLtxZUI+UoQVRFxzA==
 
-#EXTINF:-1 tvg-logo="https://mareatvcable.com/wp-content/themes/marea/img/canales/9-10mdp.jpg",Canal 10 Mar del Plata (Argentina)
+#EXTINF:-1 tvg-id="Canal10MardelPlata.ar" tvg-logo="https://mareatvcable.com/wp-content/themes/marea/img/canales/9-10mdp.jpg",Canal 10 Mar del Plata (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:8TrNqDB8/9AiNVWDN0+2/aBUgmlHX5fJGigyvGT/AMtcuvcwQKl5eV6ghP976k1LZmisvuPpbePk3eM4HEI8Gu8vTVs6DGMF+mZOOSudC3g=
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png",Canal 10 Rionegrina (Argentina)
+#EXTINF:-1 tvg-id="Canal10Rionegrina.ar" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png",Canal 10 Rionegrina (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:DbPbRfUadlAmpa391Yzv7fk0fEktxkUqAZASrFKnMDxL1V8ndM4/6f6PAaMNdFuNr29FJY6w0uz3y1Xto4h62A==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/75UgF.png",CPE TV HD (Argentina)
+#EXTINF:-1 tvg-id="CPEtv.ar" tvg-logo="https://i.imgur.com/75UgF.png",CPE TV HD (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:D0HKXlrRIClsA4UP0o3Lju+kJt7CI55Z7KqSYlmMttMBXYh6qgCr39LTs5KVAtGzZUXqYRogU72Wr6m55Kk+KA==
 
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_11/large.Logo_canal7-Jujuy.png.85a93d71ebe077fa6e320dacc06dd147.png",Canal 7 Jujuy (Argentina)
+#EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-logo="https://forounivers.com/uploads/monthly_2018_11/large.Logo_canal7-Jujuy.png.85a93d71ebe077fa6e320dacc06dd147.png",Canal 7 Jujuy (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4mE8IicyFnBYmqgOczukIE2G/jmPkc8TIvc0FvvaCqa5h5tVg33Zz2oUuNeX2qheAK/jc2JIUwjA+Zl0/SIXlUUBqEhVC1CzM5I0KRclNh7KqpLK1W8BxA9XAA0NPLFA
 
-#EXTINF:-1 tvg-logo="https://canal12misiones.com/wp-content/uploads/2020/01/logo_horiz_1200x720px.png",Canal Doce Misiones (geo, Argentina)
+#EXTINF:-1 tvg-id="" tvg-logo="https://canal12misiones.com/wp-content/uploads/2020/01/logo_horiz_1200x720px.png",Canal Doce Misiones (geo, Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:TGdyCf0R0tQNQoXvfbWFZHKYDkcKgOluYp1H3oj/D/9zP4tq+/mVKwdsyBAzvVYvtqSLVos0rEt6twf8Yjvm5/07m1jrWQJAmGj86ysead6Gbpf/5T/DooeNF5h0TJLPHQytRuqTruC7KKEUNjOwMg==
 
-#EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png",CN 24/7 (Argentina)
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://www.cn247.tv/img/logo.png",CN 24/7 (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:hnLuNTrv/Zo+ss9iD84APVsKoFnLagxqLTQnByiqb1yJjoTGnl2yXrbiEqvvZSpODvA1ulf4ndTqoht2OpJv3yR9a57xogvCl98WLgxZlyY=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/daMqavf.jpg",RTN Neuquén (Argentina)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/daMqavf.jpg",RTN Neuquén (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Z5z4maBGBUfYiOA/UYEcN46f14mx+zHO3xk5yyZ3+UFRDBHB0bTnMywZksqN4BHN9MR4eAGiE4eC+JKNyszHy+4OSN/UXYJgqyveVfJELAg=
 
@@ -56,23 +68,23 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:pQewIgox9lldwUU8SFz1oqNAjAEXbf8QDUE+AMKlyKJWLJRiJkJ0hBD07VpcXec6t/iNeD1cwRG9qPL2panP37p9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24H (Argentina)
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24H
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4L+vjOUwyma0FmZsVI2n7e3VfgODH1G5Y+ud1b1UYONxg==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/RTEspanol.ru.png",RT Español HD (Argentina)
+#EXTINF:-1 tvg-id="Russia Today Spanish" tvg-logo="https://feedlix.net/tv/ru/RTEspanol.ru.png",RT Español HD (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Y/WCEHdOE9ewzjWJ0nbMUB4U8ixSYruoiz9O8d+UhJLYiNnPhfVrMCfcWiJQfWhClaOQVrAzRJHMjV2mt8c9xA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/RTDocEnglish.ru.png",RT Documentary HD (Argentina)
+#EXTINF:-1 tvg-id="Russian Today Documentary" tvg-logo="https://feedlix.net/tv/ru/RTDocEnglish.ru.png",RT Documentary HD (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:KDUtT0a57FPsRWXo65sNqh4U8ixSYruoiz9O8d+UhJLn4oRveGxalJdEQ1ct0HcGlaOQVrAzRJHMjV2mt8c9xA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_espanol.png",CGTN Español (Argentina)
+#EXTINF:-1 tvg-id="CGTN Spain" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_espanol.png",CGTN Español (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:wuAhxWJePAzoOCJox6MbMPaF/xj9LCFJdehpPuKyv4SsYawzu+TXFPTh+xzjmuIs
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png",CGTN Documentary (Argentina)
+#EXTINF:-1 tvg-id="CGTN Documentary" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png",CGTN Documentary (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:yxHBfDzCqK/a8o2EedOl7qsNvedso7uhgaG7tGthdhQRYblB8eJL0fqXFjNhjZI2
 
@@ -80,11 +92,11 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:fktJUpD87p+O0+QRqNugTgf0bCOXqRkFgU6hfPku2sen/t3HSVYqWu6kicKWuHVqmyzMnU1uZfockZv3eDsLD2fFroh/sLNSnE/JggNGrHmVo5BWsDNEkcyNXaa3xz3E
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/dw_tv.png",DW Español (Argentina)
+#EXTINF:-1 tvg-id="DW Latino" tvg-logo="https://feedlix.net/tv/de/dw_tv.png",DW Español (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5qYqxQivkOnCpRbzuTxes0v8EWpIPD/KH6nChdaQOaPLSSqS8fDJ4qe6ZJhviIX44/Rs0RxVf/nFvM2iDd4HlzGew+Mk87Q205Mylz0bEPnUe9LG7rE+rk0Z57Tp6Wru
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 Español (Argentina)
+#EXTINF:-1 tvg-id="France24 Spanish" tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 Español (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjy5HTtkR1vUTxBeg8HLkQMGThNUI4PwUjk3MnFQHyrGHg==
 
