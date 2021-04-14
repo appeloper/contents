@@ -24,6 +24,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vV10ILbeyPO6xuG+8nrfaZX0aXr7gJGJ1oHBiyRT2Si/byV6hHof9an1ILA0WXbpHxuKcOKTYgzHv7G5bRoBPpWjkFawM0SRzI1dprfHPcQ=
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/953047588407857152/iv0W6aMO_400x400.jpg",TV Publica (Argentina)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:LhqavtP/uM2fZTUf+ZTTOlLIPdSoDUntSXGdZRHMSuV2kcFT8Rrhjc5+Ubu62xrIQPFjlMvLos7N7UEMPU4iTdVQiuMQ84xEh664dLgoKmp5M67YwL16ZrOsUW6jCB/hRo6fUN/qD/crJf2idyQzICC6FFts/RRFQLq1fQmTrn66fYTmgu3FlQj5ShBVEXHM
+
 #EXTINF:-1 tvg-id="Canal2Telpin.ar" tvg-logo="https://i.imgur.com/B2lKSvo.png",Canal 2 Telpin HD (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:573vVvh7+z6naAwcraiXU6o78KWaLIsOedNLkGvCZQmqKRWiDuMIDcBgE06uySca1+BXAgqGZHffJv68MWaY3q9vRSWOsNLs98tV7aOIetg=
@@ -68,7 +72,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:pQewIgox9lldwUU8SFz1oqNAjAEXbf8QDUE+AMKlyKJWLJRiJkJ0hBD07VpcXec6t/iNeD1cwRG9qPL2panP37p9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24H
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24H (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4L+vjOUwyma0FmZsVI2n7e3VfgODH1G5Y+ud1b1UYONxg==
 
@@ -100,97 +104,105 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjy5HTtkR1vUTxBeg8HLkQMGThNUI4PwUjk3MnFQHyrGHg==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1XgRcmd.png",Telemax HD (Argentina)
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://i.imgur.com/1XgRcmd.png",Telemax HD (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:h35gRvKXfBVZLlGdOudnkSxrpyeaBiB+8h9SZ92C0PvAG9dMpIlAO1+r4jCYsO/WsE2B6QKR627mTIpBzXRRVQgeIFUF862kIRAXf/lgZF9oRi3MhqwqWgEWLKfU7bRRun2E5oLtxZUI+UoQVRFxzA==
 
-#EXTINF:-1 tvg-logo="https://www.noticiasdel6.com/wp-content/uploads/2018/06/LOGO-CANAL_00005.jpg",Canal 4 Posadas (Argentina)
+#EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-logo="https://www.noticiasdel6.com/wp-content/uploads/2018/06/LOGO-CANAL_00005.jpg",Canal 4 Posadas (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:HsB2aEWQAxoC6q4HUViniBwD8UMa8K3hyA0210GXJNxp7iLO2QEKTz9zTohCMZ2kn+QKQDPaaJdv88LLB1wFYQ==
 
-#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-SanJuan-FDG.jpg",Canal 4 San Juan (Argentina)
+#EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-SanJuan-FDG.jpg",Canal 4 San Juan (Argentina)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:4ShkEaBBEPGGX0cf4yBTOPElvU1dGCY8shdvjpusuBITfzy3Zb4KyxH6dlNC1qsxacqwiZH7i6+WvUY9hCxuwl+jUXbN4XFJL2wqQwbBOXQ=
+#EXTSEC:0QhipegqoE0XZ/+C8vcec9bNN8ei+2ayordve1scVVtTgVYFCx9QlqEawJgk4fWQzDSlKdmqG0o5C4TZ8SE2UohfkVyYEDfuK7ETxS8+2aY=
 
-#EXTINF:-1 tvg-logo="https://media.todojujuy.com/adjuntos/227/imagenes/000/329/0000329310.jpg",Canal 4 Jujuy (Argentina)
+#EXTINF:-1 tvg-id="Canal4Jujuy.ar" tvg-logo="https://media.todojujuy.com/adjuntos/227/imagenes/000/329/0000329310.jpg",Canal 4 Jujuy (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:39qOP8qnAfe3UqvlGwSr4Dm1VKitt0+dnnPNy6GLTRJESlaK0x6ex6DgiMnVPVGsLA0ZaEhLLk8k6E+/4YUV7A==
 
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/07/Canal4-Esquel-Logo.jpg",Canal 4 Esquel (Argentina)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nx6dFjL9oE7pDnnuxWBjoYX0h9floAxvuYbiq8B342O2S57HTzU2q0ZBUuIRiS05Fx0YaZJeWXmMlrOw4P0jrnmwFKTAsFp6pMPvs6Fv07Q=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Jo7p7yZ.png",Argentinísima Satelital
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/Jo7p7yZ.png",Argentinísima Satelital (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:qgJSJToSXjDKSds6hmw1VAqyIiVrMMnNUO/ebjJLyZiygPfP620pQzsUJgM9tgxpAxg9g+S6zi6D90t4PX2hZt2YLDvlHPi3oh9GcE/+EFE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Eu7rHtj.jpg",T5 Satelital HD (Argentina)
+#EXTINF:-1 tvg-id="T5Satelital.ar" tvg-logo="https://i.imgur.com/Eu7rHtj.jpg",T5 Satelital HD (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:G5dKyBgcAe9dzMWdMakhRlVlGEHS34NWYIw3h85yhi8jOt4Ft0dXeL3bdloevvxqV1gDDSqUpWcU+NTSD159B/T95dIuA7k0ma3IMeBj42E=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wCQJuaU.jpg",5 RTV Santa Fe (Argentina)
+#EXTINF:-1 tvg-id="5RTVSantaFe.ar" tvg-logo="https://i.imgur.com/wCQJuaU.jpg",5TV Santa Fe (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:G5dKyBgcAe9dzMWdMakhRlVlGEHS34NWYIw3h85yhi8tBUY5CZYhZdEjUv5FlBIf8cMpFuL0xftome3ZRMli//T95dIuA7k0ma3IMeBj42E=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kujnLsO.png",5TV Corrientes (Argentina)
+#EXTINF:-1 tvg-id="5TVCorrientes.ar" tvg-logo="https://i.imgur.com/kujnLsO.png",5TV Corrientes (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:IukH9Of4zK641YNTsTtTe70r1MbjPzeXNJ8GtO9reT8Ms1jyBFDyRz1TacOBifPDY5t7aj5uz1ci7ZUMZM6MqIOK4C+jreoWsJbS2kfCSuU=
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png",Cinco TV Tigre (Argentina)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png",Cinco TV Tigre (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:oaOidkrSd20MDXI6JrpoE6C6KEzfkWk2m0OfxBidWbCV5MHM8+Ncu5QIBfMrAlxaW2sRIVJmGHWh70PRkKq0bZWjkFawM0SRzI1dprfHPcQ=
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-aKHK8Ajrcc0/TpOoS0KRJLI/AAAAAAAAQT4/edRRDvx0kkQ/s1600/canal9salta.png",Canal 9 Salta (Argentina)
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/-aKHK8Ajrcc0/TpOoS0KRJLI/AAAAAAAAQT4/edRRDvx0kkQ/s1600/canal9salta.png",Canal 9 Salta (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:DbPbRfUadlAmpa391Yzv7fk0fEktxkUqAZASrFKnMDyuIckSKx3AodmE9K0JDedxr29FJY6w0uz3y1Xto4h62A==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TpRgjdj.png",Canal Provincial (Argentina)
+#EXTINF:-1 tvg-id="Canal3Pinamar.ar" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png",CN 3 Pinamar (Argentina)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:eESdg++Hgeoye+hu2GQFh48TRoGH8mXRebHFEOHCAxkYzr5Hu8bIAEhlpyoS3Nr1PItwMT6HD5FDuw7bHEI9Vw==
+
+#EXTINF:-1 tvg-id="CanalProvincialSanMiguel.ar" tvg-logo="https://i.imgur.com/TpRgjdj.png",Canal Provincial San Miguel (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:oa9Jjnqz8g7FbImvyJkHnR4fcAO1icgRZ3gLy497XMcK1jPwUmO0ScNkBAEmwX6b0whFenl/qT6qV4wqvA0OIg==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eu7rHtj.jpg",T5 Satelital (Argentina)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4IWi1UOeqNDA74oAXwdfzOdj5U+TUl93a4cbhTX+dd2h+1mXS3R8tBT7B07ZtvHBSb6s70QrjSJp6FmR6EVyYqXp8L3NLl/TKfRH3K22O/w=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZlUGBf.jpg",Chacra TV (Argentina)
+#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-logo="https://i.imgur.com/mZlUGBf.jpg",Chacra TV (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:tRxdOjiZDwaOyACmUN11j6f1wtFWvfYONanwEItn0PR9D5sqEiXRbkkR2ZEB8ZB0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxzqqFQ.jpg",Ciudad TV Chaco (Argentina)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg",Ciudad TV Chaco (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vV10ILbeyPO6xuG+8nrfaWjRnSsn5tKNxFKoLAeU6QJ/58CtiscT++vAJlVhNoBg770I4WG9rcaN+z3T8IkBw5/kCkAz2miXb/PCywdcBWE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JbxMs5i.png",Chaco TV (Argentina)
+#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-logo="https://i.imgur.com/JbxMs5i.png",Chaco TV (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5o2WOwC/8tVJUQGaefZ8YAsvNmOv5DFREKz8TnPjQvV394hZ2l9YGLLLfjgsMnqnRR3eE3xkEEX2IAddVZID74OK4C+jreoWsJbS2kfCSuU=
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d3c94afdd8a77d70ff06821205234c9b.png,Tru TV (Argentina)
+#EXTINF:-1 tvg-id="CiudadTVResistenciaChaco.ar" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg",Ciudad TV Resistencia Chaco (Argentina)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:vV10ILbeyPO6xuG+8nrfaWjRnSsn5tKNxFKoLAeU6QLjvSIvCTYmxRER/5w7oLHF7g5I39RdgmCrK95V8kQsCA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d3c94afdd8a77d70ff06821205234c9b.png",Tru TV (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vMqa88Tmmj7Pc+SRIoE42QLo+VRw64kvtkqTST1n+fEJHYxfN3deBB3zacg7VfZNun2E5oLtxZUI+UoQVRFxzA==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OTyIxNK.jpg",Canal Acequia (Argentina)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OTyIxNK.jpg",Canal Acequia (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4IWi1UOeqNDA74oAXwdfzOdj5U+TUl93a4cbhTX+dd3VCKY6yBTn77IM1Xb6BGIyNWcXDwvYzxcjBE+Ex0tnioXOw+MB5+YKS/N0n6iILu0=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/byxXHzq.png",TeleNord Corrientes (Argentina)
+#EXTINF:-1 tvg-id="TeleNordCorrientes.ar" tvg-logo="https://i.imgur.com/byxXHzq.png",TeleNord Corrientes (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:IukH9Of4zK641YNTsTtTe5L17+oiWHsJri/6WZNuRNTLYucGqVl22nRyYSU2DU32yQIcF93fFAfivZUfUDUYSA==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FscV0as.png",Tierramia TV (Argentina)
+#EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-logo="https://i.imgur.com/FscV0as.png",Tierramia TV (Argentina)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:NHJSSnsKBp3g4uesikFBC13A6+Y/TbSvNxOI5DHGZz+PDGdVmzsQf1SMn85YDe+q8ePWYYuct5PGP6Ig4QkBSiR9a57xogvCl98WLgxZlyY=
+#EXTSEC:NHJSSnsKBp3g4uesikFBC13A6+Y/TbSvNxOI5DHGZz+PDGdVmzsQf1SMn85YDe+qjl33qarBYHfqN5aThGEzHzeeWG/nJJTMvGa9TgSGj+mD3T+alX+5Ajne1lM6NO+Hn+QKQDPaaJdv88LLB1wFYQ==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/litus_ar.jpg",Litus TV (Argentina)
+#EXTINF:-1 tvg-id="TDCOnline.ar" tvg-logo="https://2.bp.blogspot.com/-m__H_wfA0Po/XCKUAGiZlUI/AAAAAAAAB2I/8kGJK_Lwif0tcB_cjWdHUVhiJNWZgxB5wCLcBGAs/s200/tdc-tv.jpg",TDC TV (Argentina)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:hGwT080PUEPiGxAdvDqE3jSprydcfZrDHns4l67/BK0CQsXlSreCCxVK+D1pgge9OTD8U6p3vu/Npo9Qfwv6GPgWAa+jxnnHT5JudRtArgN8reQUtVfg3xt4S2bEcTc38nj20sS4jqduNh1LeJE13w==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/litus_ar.jpg",Litus TV (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4ANLW/+HpG0Ktq2eFx3YNPb/taWYi47bBzEGK6LMYY8/4iiC6A5zXKKxLIITqUkllv0T8yeZuQN0xxJeeuRqNR6FvtLaSeiw0RmRqToiU2rE9BSx2Gi4EXaPLGEYWuch
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_TV_Universidad.jpg",TV Universidad (Argentina)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_TV_Universidad.jpg",TV Universidad (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zyLgPclhcPDfAA+WrIpC8oKjPj9lCpSGyNtnZqhk496hepq4XSUWPR/zNsmwzmfcFcCTCUCIPNet0TEQKXoQlw==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J7stpmb.png",Net TV (Argentina)
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-logo="https://i.imgur.com/J7stpmb.png",Net TV (Argentina)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:JqfvF2GiorZAy0UhQz7buyRwBoyYgMCAZhG6KHBPKBzbor7oJxDB9IJgwYYuYmRwbMu28/GT4aEcUtBN0sDHBbvm6X4sh2IfDWJkpd2bU50=
+#EXTSEC:JqfvF2GiorZAy0UhQz7bu3CBqnqaYTcZsxNAlMb41KPbor7oJxDB9IJgwYYuYmRwbMu28/GT4aEcUtBN0sDHBShHqSIoRMrEJ+EczSbAMOg=
+
+#EXTINF:-1 tvg-id="FrecuenciaMusical" tvg-logo="https://i.imgur.com/2XhjIqS.png",Frecuencia Musical HD (Argentina)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SQ69Y43SU4u1PVJz9nQ4x7Vz8onrLsaR6Ml3eTx9QwzCQTvdiwprtw/f4eSeQnNBj2luSeBK2AhCxpuW4INZNYWAMGP36CyYs3HduCAy4ns=
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3ce6d40d22e5a0de3c7e3be508cb9d20.png",Viajar TV (geo, Argentina)
 https://feedlix.net/videos/promo.mp4
