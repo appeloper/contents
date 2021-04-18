@@ -596,11 +596,11 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:G5dKyBgcAe9dzMWdMakhRlVlGEHS34NWYIw3h85yhi+uhye8m4BD439zYrIoQ0QRn++rjhpbp6fK43Jj9odDiqXp8L3NLl/TKfRH3K22O/w=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png",Record News (Brazil)
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png",Record News (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uc92/aLixzjZJzpBk4bSFwgjJIHEhMGAALS6Gjlh4ukn8PvXQQZGKWypAyk3d4KIxhIB4Ts0kbwoBVLlqBL/kOwHuRt3onh3YLUlQabc9THxZP0VuzavacgPuslp35my
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jpEJYfT.png",TV Destak (Brazil)
+#EXTINF:-1 tvg-id="TVDestak.br" tvg-logo="https://i.imgur.com/jpEJYfT.png",TV Destak (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:RjyqfICwg8eG+BmF0CnHNCrJVsaKd32cjyvi5Xcd61Z1EHhRD2BR2/OCadDKupPTDStH6DdHRDuHOIT648/waQ==
 
@@ -632,11 +632,23 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:RjyqfICwg8eG+BmF0CnHNCrJVsaKd32cjyvi5Xcd61ZXMAxmZzN3RE4yZm6xRUHXRdDtaNY9eQSIyGp64OtCEA==
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/br-tv-carioca-9708.jpg",TV Carioca (Brazil)
+#EXTINF:-1 tvg-id="CBTVNow.br" tvg-logo="https://listaiptv.gratis/logos/imagens/logo-white.png",CBTV Now (Brazil)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:e4T1c2NR2+JTUexDNByztVryQpTG9LO562gXh/UQT/VNbAxTQ7dywoh+dj/qV6Oi9F0LOax3Ts881P2lJqrLL95kFucmmCaQZVMvnyz0t6o=
+#EXTSEC:Oc0EcWsQGVBDFJyg37UADQ5BZiODr0Ndfz2lcwQQ3UUqvbwZ1ZGdcW9wZCneKezQAMe2CWElWSNfpZopyHAVn6AD0Hcd6wpH/bKyjyAdAEaVbzXKubb6vOSZXpg7Gbfoun2E5oLtxZUI+UoQVRFxzA==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/classiquetv.png",Classique TV 1 (Brazil)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/LOGO_TOP_TV_HD.png",Top TV Paraná (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:geY4MJLcOsrbQerPwnMniBym333sMg8XjTjgY9LEQ48W1wj2WSiDQiBnFlTuQlMOvPsoZl17qcB606CfHSkWXq9vRSWOsNLs98tV7aOIetg=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/br-tv-carioca-9708.jpg",TV Carioca (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:uvpK0Np8ZXkLW8xSIefE7nsv7lLFl7W4++cJMqejVbLqU7VUp45wp7thxQnfYmWgebAUpMCwWnqkw++zoW/TtA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/765961733819207681/qh_Sb1eg.jpg",TV J.SID (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KZw8iE5PeD0Kvijq/jYtk7YXd4a2cKLmkFIkkpXinqLlv2YBkLkzbqLiomVA8i/puyZ26d5waQmVDk4Z70Jx5FVUVqhx3kxE9nX4bhuQGVA=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/classiquetv.png",Classique TV 1 (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:lhb97nVxdJ3SSHFdYBpRsoN9FJxth78tovfCFbishODRgTLkWzKXEB9r7xU1DeOgk55lcWkeKLdcMxQXb7uM9g==
 
@@ -648,47 +660,47 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:DTguGI6Cgbjw4WRHTjKbRinWidBWnR3/nyJenb6rnx1MBkW5liovdURcDdVjlXnH7g5I39RdgmCrK95V8kQsCA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png",Gospel Movie (Brazil)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9ec2c361a5ce07ba0f7987bcd36dbb1d.jpg",Gospel Movie (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:SMF24MV7uzwfWTWiCLiCTN+R2AwHQ52IBorw96uYzfApdqbjiIw2pNDVA6E5CuL1JH1rnvGiC8KX3xYuDFmXJg==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png",TV Novo Tempo (Brazil)
+#EXTINF:-1 tvg-id="TV8.br" tvg-logo="https://img.imgur.com/pnbqx6r.png",TV8 (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5HXOYcPhSkvWWYcRfk/4hnmVJfkSJIxieToKHl0xTjs3cscAviy5SP1cQp6m0LDWn4/cFWgfxVjJo3JuEClNM2SGYZ4qdOZF+GT3rcFnIge4YK9XjwKus5PIYmGoO07k
+
+#EXTINF:-1 tvg-id="Novo Tempo" tvg-logo="https://i.imgur.com/exdDHml.png",TV Novo Tempo (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:kG+k5p6Ja+jLjcXkSSxlgK/+kdQcf6QhcVoADtKTbBw7OiwowM0fuC7QSWJv2rGXhrVVqtEm3pCXa5ZP+rJ5eK9vRSWOsNLs98tV7aOIetg=
 
-#EXTINF:-1 tvg-logo="https://www.mackenzie.br/fileadmin/CONFIGURACOES/Resources/Public/Template/img/logo/og_image-bgRed.png",TV Mackenzie (Brazil)
+#EXTINF:-1 tvg-id="TVMackenzie.br" tvg-logo="https://www.mackenzie.br/fileadmin/CONFIGURACOES/Resources/Public/Template/img/logo/og_image-bgRed.png",TV Mackenzie (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4fK/S0TRHZza8QnmHGSnUMEtnPiTsObxvK5jA89P8k9PqFuJjeaGjgMTCBoT3DSQb7YtjnRVcRXHTyZQ435jHMIl+p3isNybus+QeDqgZjivb0UljrDS7PfLVe2jiHrY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YrBt8gZ.png",Summer TV (Brazil)
+#EXTINF:-1 tvg-id="SummerTV.br" tvg-logo="https://i.imgur.com/YrBt8gZ.png",Summer TV (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:SHilI0qTlyYZW4GYsqs6xCrJVsaKd32cjyvi5Xcd61ZONfIPQnAyT1sbq36zrEP9+/YBztU2Jlop0gVyPBl1IQ==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/De6ty9h.png",Canal Ricos (Brazil)
+#EXTINF:-1 tvg-id="CanalRicos.br" tvg-logo="https://i.imgur.com/De6ty9h.png",Canal Ricos (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:UD9q5e3iUp/vtCf24srqRdyi95gA/7pPnIW0Dt1duP+ryWOw8mZR47QyadOgUS9QFLiNl/8kxsftWNtcF2HnOSR9a57xogvCl98WLgxZlyY=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VqIzaFz.png",TV Digital Birigui (Brazil)
+#EXTINF:-1 tvg-id="TVDigitalBirigui.br" tvg-logo="https://i.imgur.com/VqIzaFz.png",TV Digital Birigui (Brazil)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:RjyqfICwg8eG+BmF0CnHNCrJVsaKd32cjyvi5Xcd61ZVCGIxmcawfaxvaGTx/csK3RWwM7wcKviKK+qc9TB+KIqespNkLvZ8kL1koUUpdxvYMtHAEGkRBbib3qrgBUfX
+#EXTSEC:RjyqfICwg8eG+BmF0CnHNCrJVsaKd32cjyvi5Xcd61ZVCGIxmcawfaxvaGTx/csK3RWwM7wcKviKK+qc9TB+KLsgRVPWJIUw7fAGpMxK6DQ=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NlB8ioY.png",TVCI (Brazil)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NlB8ioY.png",TVCI (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:+aYlzZIyglrEWwG/NfWu+xUlspPo/NaTvWX2Evhr8e/esrpH2U1ABVOdxagl81IgRdDtaNY9eQSIyGp64OtCEA==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D15qpCm.png",IMPD TV (Brazil)
+#EXTINF:-1 tvg-id="IMPDTV.br" tvg-logo="https://i.imgur.com/D15qpCm.png",IMPD TV (Brazil)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:fxKPE9fxfM/G/ZOFLZNGyxj0dTFzmUlucaDW+/elF+sdXWVVmdvueKXnmvcsiovGfYW4dlxGbylI3t9xRQ4k+O4OSN/UXYJgqyveVfJELAg=
+#EXTSEC:fxKPE9fxfM/G/ZOFLZNGyxj0dTFzmUlucaDW+/elF+sdXWVVmdvueKXnmvcsiovG+eJt/gpJvNkqQn8nk15UgyR9a57xogvCl98WLgxZlyY=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/36EnRYI.png",Itú TV (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:RjyqfICwg8eG+BmF0CnHNCrJVsaKd32cjyvi5Xcd61Yn8EPMoBXv764YZi2gH6T2penwvc0uX9Mp9EfcrbY7/A==
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/efcb8e80e7fb0b65bdcd3bcba64595e5.jpg",ITV (Brazil)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/efcb8e80e7fb0b65bdcd3bcba64595e5.jpg",ITV (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:WvhNtHJlbMPLIMG56cIMKyk5+R19/MkWeE9LFMUONZLQsrwFpeTePk2cRPqhs23tY/4vcZTdiAXPCUy94WFKKSsk8SxNrcqeh1rClmTsig6DiuAvo63qFrCW0tpHwkrl
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9SjoGWj.png",Canal 25 Jundiaí (Brazil)
+#EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-logo="https://i.imgur.com/9SjoGWj.png",Canal 25 Jundiaí (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:+1cXMsFHEvylJsKOjyPJUbwHlT9V+dd3XxPDnchXq7a5y88vioNcfw4XRxipJbYSjqOzUyF689KYZgsQn1QBrg==
 
@@ -696,141 +708,153 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:nVS2U6Jh+Eu9fl4n7VncuU2dmtA9FcYMCvRnMEXsnXYNFIlc2KUqll3oubO3pfBK
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5fyGrm5.png",TV ALMG (Brazil)
+#EXTINF:-1 tvg-id="TVALMG.br" tvg-logo="https://i.imgur.com/5fyGrm5.png",TV ALMG (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mwwOYuJQpaNSFjag7tetn8qt/xBmEyGRFWiTH73nVcVC/Wt9ZT6e5fzrPfvQQLCK
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G1VIULw.png",TV ALRN (Brazil)
+#EXTINF:-1 tvg-id="TVALRN.br" tvg-logo="https://i.imgur.com/G1VIULw.png",TV ALRN (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:RjyqfICwg8eG+BmF0CnHNCrJVsaKd32cjyvi5Xcd61YK41B2nfRS1rvpmotsqLT0U6PQ+7wfIxWOYX16IktPWA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Gpg1TMu.png",TV Ambiental (Brazil)
+#EXTINF:-1 tvg-id="TVAmbiental.br" tvg-logo="https://i.imgur.com/Gpg1TMu.png",TV Ambiental (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Y3iSNftRSMzl6ZSPsjNduAJYimvj3Bj1KAnUDGPQHf4NIL2Zk+dvF056DcvfK7dCH5VXklgueXGSSqobVE2ZHw==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/765Cn9I.png",TV Cultura (Brazil)
+#EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/tvnovacultura.png" group-title="Pública",TV Nova Nordeste (Brazil)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:5HXOYcPhSkvWWYcRfk/4hnmVJfkSJIxieToKHl0xTjuvsoDF7x7+e6zwZaYeMtgy3B1KcZkGrKj2v77ElN5NK6Un0K6QCWZw9HmuX0Vb23c=
+#EXTSEC:HdODRxseYG3kJDqe0oqMtIa0jiWPgxb9h6hu3oFVL1kvB3DCktzz/iiDalSRy32cpSfQrpAJZnD0ea5fRVvbdw==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TnSvJpd.png",Portal Cultura Pará (Brazil)
+#EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png",TV Futuro (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:mwwOYuJQpaNSFjag7tetnzZgMbXe6a1rp5l7CDlMLWn4vdfv+DUbBAdtyxDFQc38Qjc30gxzpWbs18vBA71I6g==
+
+#EXTINF:-1 tvg-id="PortalCulturaPara.br" tvg-logo="https://i.imgur.com/TnSvJpd.png",Portal Cultura Pará (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Li9Qz48bCYYYC6MGr4W1qa6eb5XA3ICZ2QsTdaS2ghJ48Th1bKSK6BpvfEFUua7UBlZgXzKZeqwwL6V5CLuqNbp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YgLLCq6.png",TV UNISC (Brazil)
+#EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-logo="http://www.unitv.tv.br/images/logo.png",UniTV Porto Alegre (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:kwIrVJ4zQuG3MVAjur4fPxrRoVKeIoylG6jQpy03wOgdfZRkErHsxdGiKgc9W0FO
+
+#EXTINF:-1 tvg-id="TVUNISC.br" tvg-logo="https://i.imgur.com/YgLLCq6.png",TV UNISC (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2Qj2lC1OnJaEbanCgOImdJLddb+0JA2KBIOHaQGIUFu6fYTmgu3FlQj5ShBVEXHM
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_TV_UFG.jpg",TV UFG (Brazil)
+#EXTINF:-1 tvg-id="TVUFG.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_TV_UFG.jpg",TV UFG (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:UzI0zhzZAma6BcWHLDVyjglGD1A1bCATgGwmHAVaPPkWnWJrUv2qPFul56rWWRin3ZgsO+Uc+LeiH0ZwT/4QUQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KxYsq1d.png",Santa Cecilia TV (Brazil)
+#EXTINF:-1 tvg-id="TVUFSC.br" tvg-logo="https://i.imgur.com/LuJkxc6.png",TV UFSC (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:bSFLjsguIdZnA4JlT0w8nn1WijN0Lo/lvGryQFl0fq/uDkjf1F2CYKsr3lXyRCwI
+
+#EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-logo="https://i.imgur.com/KxYsq1d.png",Santa Cecilia TV (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:aSp6HpahT9vx6LdPOfq91RUlspPo/NaTvWX2Evhr8e8q0X8YQpG2D36vDxS9WQRok55lcWkeKLdcMxQXb7uM9g==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MnIvaNC.png",TV das Artes (Brazil)
+#EXTINF:-1 tvg-id="TVdasArtes.br" tvg-logo="https://i.imgur.com/MnIvaNC.png",TV das Artes (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:RjyqfICwg8eG+BmF0CnHNCrJVsaKd32cjyvi5Xcd61aqgbfpujCQy79ZrbNURavAw80WTi8BudAcn9EyJg4ktZ/kCkAz2miXb/PCywdcBWE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k8Jjv7U.png",TV Aplateia (Brazil) (Brazil)
+#EXTINF:-1 tvg-id="TVAplateia.br" tvg-logo="https://i.imgur.com/k8Jjv7U.png",TV Aplateia (Brazil)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:jyZQWXntamFR1vSqdgyb9Uk8E61R75WmjgAX0gT/ERkLqekRkbwFFpUHgfS2olIH
+#EXTSEC:dLABPCpnvgZ1Dq2c1wfNVNZb3Eq4dHNcSeZy8gVufnn+3mQNLfyJfAsSE8HBMEtc/KH+Ys/uapjacVhkHIFmqevM91gX95Umzmdfh+TOit4=
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1677441762/logo_nova_400x400.jpg",TVN Brasil
+#EXTINF:-1 tvg-id="TVNBrasil.br" tvg-logo="https://pbs.twimg.com/profile_images/1677441762/logo_nova_400x400.jpg",TVN Brasil
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:l7HBAcH2oXAunecTEA2xIF4tL76N6d7Q2p7hHSorHqNTtVaNBEr+YbEQ5vOnKpCdRxQdxVke/Nt9K9uVX1XmOQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://98live.com.br/assets/logo-98@2x.png",Rock News 98 (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5HXOYcPhSkvWWYcRfk/4hnmVJfkSJIxieToKHl0xTjvqW9v1gvKtN+ZJj0ZLxWJ8V113h8F/m/v2b0BaMgyrf6Un0K6QCWZw9HmuX0Vb23c=
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg",TV Interlagos (Brazil)
+#EXTINF:-1 tvg-id="TVInterlagos.br" tvg-logo="http://www.tvinterlagos.com.br/images/logo_tv2.jpg",TV Interlagos (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XU8Yc8bBPCKG6HNVdM7PSu4JcJDLOLqjLRddbampncEJ5CMfo/IYXHI4CemlxEy7BrWq9iQOTCmViySG5ijyEMqqksrVbwHED1cADQ08sUA=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IK3F9Uq.png",Nova Era (Brazil)
+#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-logo="https://i.imgur.com/IK3F9Uq.png",Nova Era (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Sh+g75Xl+dsPNAcCmW6p4OBnY1WCBf6N/lcNJIjP8MsmlxTKcpsg1mekVPE6ywJfRxQdxVke/Nt9K9uVX1XmOQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bEoN2tt.png",TV Cinec (Brazil)
+#EXTINF:-1 tvg-id="TVCinec.br" tvg-logo="https://i.imgur.com/bEoN2tt.png",TV Cinec (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:SHilI0qTlyYZW4GYsqs6xCrJVsaKd32cjyvi5Xcd61a3g0VtfQA35f8mqwG+yb684TloqNUOEd4jIoyAxseSQA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uBntXf1.png",TV Diário do Sertão (Brazil)
+#EXTINF:-1 tvg-id="TVDiariodoSertao.br" tvg-logo="https://i.imgur.com/uBntXf1.png",TV Diário do Sertão (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mRtmTUK4PrHXw20GeJHJoyr6zOY52NG6dU0B8u2pZYue+IvmB26KchnonPSMnOJIgFWoS43aT7UpzXVfJ35+KZWjkFawM0SRzI1dprfHPcQ=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7bTT8mw.png",TV Transamérica (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:UJS0cmV55imBeX0hwNMHGldy7Akl1Xbl/x068px1zWlHbmSuVu6ZBJ+LcgVKtlDFC7rEETutDTYin4Eotjrdui5NFOBGkyXVdW6wEGp7+IM=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/67DQ3bk.png",TV União DF (Brazil)
+#EXTINF:-1 tvg-id="TVUniaoDF.br" tvg-logo="https://i.imgur.com/67DQ3bk.png",TV União DF (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:kufa7GzWw1CaygSP0Nns3+Osz7YKReDvTSoqNQcKBqnyrWZk9o6gylQsZ++HjMaU7d5DtEzQZujwyjUxmXa1u5/kCkAz2miXb/PCywdcBWE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.imgur.com/pnbqx6r.png",TV8 (Brazil)
+#EXTINF:-1 tvg-id="TVSol.br" tvg-logo="https://apkplz.net/storage/images/com/duhost/tvsolbrasil/com.duhost.tvsolbrasil_1.png",TV Sol (Brazil)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:5HXOYcPhSkvWWYcRfk/4hnmVJfkSJIxieToKHl0xTjvw4eHJE/b3N4tOKi8ACl6CjiL7vBAX3m0NF55M80caJqUn0K6QCWZw9HmuX0Vb23c=
+#EXTSEC:RjyqfICwg8eG+BmF0CnHNCrJVsaKd32cjyvi5Xcd61Z0vB0woqWXmHIMHmlUdD37penwvc0uX9Mp9EfcrbY7/A==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/16da1f7b0f5766e3fdfbbbca0dad79ea.jpg",TV na Ilha (Brazil)
+#EXTINF:-1 tvg-id="TVComunitariaRio.br" tvg-logo="https://i.imgur.com/Yayrlnl.png",TV Comunitária Rio de Janeiro (Brazil)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:dLABPCpnvgZ1Dq2c1wfNVLtS/Ji7jYVuVB8EGKjxhYkp+HmT5nBfoA41T1MzX263Uk+SfbIMXFHQjggbg8iyMq9vRSWOsNLs98tV7aOIetg=
+#EXTSEC:l6m6CROGKPPqfaw7hAenVW8vUPOcJO8TRLn2b07cU4YHfrRy4pEpJbYpRUdBzr55
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Yayrlnl.png",TV Comunitária Rio de Janeiro (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:m4Vk91bHOM3RGb3YNfNdErkVorSSPqbgD1e3k9Syokq9Eod/kfq1HxhHVj9HwV94ZWjKWIJS6VyZng3TzBKH46X91zTLNee42Y5L6OfDdHc=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/tvcidade_canal9_br.png",TV Cidade Canal 9 (Brazil)
+#EXTINF:-1 tvg-id="TVCidadeCanal9.br" tvg-logo="https://feedlix.net/tv/ame/tvcidade_canal9_br.png",TV Cidade Canal 9 (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:m4Vk91bHOM3RGb3YNfNdErkVorSSPqbgD1e3k9SyokpxjOJNqCLXVNt27iKcTLHo4itQIDFzB5bJ4K8WDWMYxTh/8KHJJASCN/E+ZhKvlzyVo5BWsDNEkcyNXaa3xz3E
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/tvcidade_petropolis_br.jpg",TV Cidade Petrópolis (Brazil)
+#EXTINF:-1 tvg-id="TVCidadedePetropolis.br" tvg-logo="https://feedlix.net/tv/ame/tvcidade_petropolis_br.jpg",TV Cidade Petrópolis (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:DQ/TbODGxbjegQFeCNtA+rByVdMZBaboGGux2mstlKjIPBEFIX2aQx+Phpu0FlUzg4rgL6Ot6hawltLaR8JK5Q==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hBaG4Ce.png",Terra Viva (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:wLXlpWGHQ25npo+/ZZt0A3oDUdlEPGz8MpvlVH19G4/3m4zFtsHHYovrBNxT2dPaeKD/vXrGabKNvEnm6yNsMg==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1mK39TC.png",TV Verdes Campos (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kufa7GzWw1CaygSP0Nns3+Osz7YKReDvTSoqNQcKBqk8RvUW1MyCZ92zQpxwlyOhxNpxAZNvul8SZ78yzs0/1Q==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vvrCWVo.jpg",Rede Século 21 (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:agsoTc6S8GFRO32kI985WeKg37xSKDDdgVyBK6BeG7ccdMuWKkjo4Zt4WLdlb4O0ABc/sUx7xrXdJrVH2KZZRF7zg91iwsMPciHy8yc6R5153NP2+5DGjXtimG88Ir6G
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png",Rede Brasil de Comunicação (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:7/3EGjWN2a5lLCoforQevWJjPUUxBmSWHDP4uQkj3fuE2nKmM2Rdq8xiNuQVJib/hc7D4wHn5gpL83SfqIgu7Q==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cqD6DNY.png",Rede Mão Amiga (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nx6dFjL9oE7pDnnuxWBjoUdQ9OBQvcE8rqxQR1TY5OYl5wlAY1kUVxK7IxEaWFcgslNYIAeL7BpF9zZ+HOxYL+4OSN/UXYJgqyveVfJELAg=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3ODbxcM.png",Rede Super (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:G5dKyBgcAe9dzMWdMakhRlVlGEHS34NWYIw3h85yhi95yxhrKOsfvdnEMNmOfEd5g14v/x0Hoq4E0IKsqL9Mt/T95dIuA7k0ma3IMeBj42E=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h4WaIw5.jpg",Rede Vida (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:CI3YUaMU0WwnZOjqJRCuufaLUvxQB74sBw7jFJpx9UmcG5CHR5n+7BnKLGhqtMt3NN151A+ZX0iLoANcp+rvickCHBfd3xQH4r2VH1A1GEg=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NVs5RhF.png",TV Rede Gospel (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5HXOYcPhSkvWWYcRfk/4hnmVJfkSJIxieToKHl0xTjsvHin9SwkLBJrEsTWbMK/HgElyqLH9FeS3eQfniqaRm+4OSN/UXYJgqyveVfJELAg=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TIsk5zN.png",TV Universal (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5hEr+Dl/JWxRxf6+zJn82jVaxPsSUM/BUgC/+ExsO/NVW8T1XiVK6I95LSxdSYxRq4GJzG7Faoi9xMvTydrX23mwFKTAsFp6pMPvs6Fv07Q=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png",Agro Brasil TV
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png",AgroBrasil TV (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:UNbk8qOGe390AwdilScWVcQWEukI6+OaErDXcY2VWBbyoWg1mTw2HeFuVOUZXOwCnREu9oJ04ji0/mFChNNUjp/kCkAz2miXb/PCywdcBWE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png",Canal do Boi (Brazil)
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/301px-Logo_Canal_do_Boi_-_PNG.png",Canal do Boi (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Iux9hm04FGlgyDoKSSCChc3Y2ldORNDdcceRjD6ZR0qZDJk5wvGxq3VxJAx1ZXkkSxDgLOkW9TPSG/j/DGqNC9wXwwuRG/Ra6QE55sOJ9uqDiuAvo63qFrCW0tpHwkrl
+
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/hBaG4Ce.png",Terra Viva (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:wLXlpWGHQ25npo+/ZZt0A3oDUdlEPGz8MpvlVH19G4/3m4zFtsHHYovrBNxT2dPaeKD/vXrGabKNvEnm6yNsMg==
+
+#EXTINF:-1 tvg-id="TVVerdesCampos.br" tvg-logo="https://i.imgur.com/1mK39TC.png",TV Verdes Campos (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:kufa7GzWw1CaygSP0Nns3+Osz7YKReDvTSoqNQcKBqk8RvUW1MyCZ92zQpxwlyOhxNpxAZNvul8SZ78yzs0/1Q==
+
+#EXTINF:-1 tvg-id="CANCAO NOVA" tvg-logo="https://feedlix.net/tv/pt/CancaoNova.pt.png",Canção Nova (geo, Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:VUHrEl9/nTpP+0EYuGXauiSYbRCBOBbNVHf3mABC2alaVBYhUiLK4U4mNNWuyG/hCShUq/mH+IVJAl0+YUNe5XftsUmPU/AwUTQKOl9imh4=
+
+#EXTINF:-1 tvg-id="KURIAKOS TV" tvg-logo="https://feedlix.net/tv/pt/KuriakosTv.pt.png",Kuriakos TV (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:42O8t2Ywz4X1c0kEH3CLROBIpER2AmdiGIJgk0X4heoLqekRkbwFFpUHgfS2olIH
+
+#EXTINF:-1 tvg-id="RedeMaoAmiga.br" tvg-logo="https://i.imgur.com/cqD6DNY.png",Rede Mão Amiga (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:nx6dFjL9oE7pDnnuxWBjoUdQ9OBQvcE8rqxQR1TY5OYl5wlAY1kUVxK7IxEaWFcgslNYIAeL7BpF9zZ+HOxYL+4OSN/UXYJgqyveVfJELAg=
+
+#EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/3ODbxcM.png",Rede Super (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:G5dKyBgcAe9dzMWdMakhRlVlGEHS34NWYIw3h85yhi95yxhrKOsfvdnEMNmOfEd5g14v/x0Hoq4E0IKsqL9Mt/T95dIuA7k0ma3IMeBj42E=
+
+#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://i.imgur.com/h4WaIw5.jpg",Rede Vida (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:CI3YUaMU0WwnZOjqJRCuufaLUvxQB74sBw7jFJpx9UmcG5CHR5n+7BnKLGhqtMt3NN151A+ZX0iLoANcp+rvickCHBfd3xQH4r2VH1A1GEg=
+
+#EXTINF:-1 tvg-id="TVRedeGospel.br" tvg-logo="https://i.imgur.com/NVs5RhF.png",TV Rede Gospel (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5HXOYcPhSkvWWYcRfk/4hnmVJfkSJIxieToKHl0xTjsvHin9SwkLBJrEsTWbMK/HgElyqLH9FeS3eQfniqaRm+4OSN/UXYJgqyveVfJELAg=
+
+#EXTINF:-1 tvg-id="TVMana.br" tvg-logo="https://feedlix.net/tv/ame/TvMana.png",TV Maná (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:42O8t2Ywz4X1c0kEH3CLRL59x8tSUUjNWOTneG65BnIK+xDLobIGVdoBQpOAZQ0fbvB2mN74Yb7V0uvRFRQTLp/kCkAz2miXb/PCywdcBWE=
+
+#EXTINF:-1 tvg-id="TVUniversal.br" tvg-logo="https://i.imgur.com/TIsk5zN.png",TV Templo (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:1se4oBG9XIftQPf69GZr4N+jxtxhAkoFtLnCLARWR2vJPDLZuetkqr73w0ux29cEKFwuWOChIhODFFsagQzjoDO2C96YQtLw6QYz/RrrYQD7ZZUEejCyIu+4DPvoFK3Zhy4ajrx55zcx+IFG25Cn0Q==
+
+#EXTINF:-1 tvg-id="PUCTVGoias.br" tvg-logo="http://www.puctvgoias.com.br/img/logo.png",PUC TV Goiás (Brazil)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:UzI0zhzZAma6BcWHLDVyjglGD1A1bCATgGwmHAVaPPnzoAFdVVvVIKliABUx9rz0x+Srb0VoB3fEgoORz9DhyA==
+
+#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png",TV Pai Eterno (Brazil
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:+aYlzZIyglrEWwG/NfWu+xUlspPo/NaTvWX2Evhr8e+fwDLEThv5vLT3DFEygXC3jWkKvoZxwkBPjs9oOGRydg==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wxqkMUE.png",Vem e Vê TV (Brazil)
 https://feedlix.net/videos/promo.mp4
@@ -911,18 +935,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://ogazeteiro.com.br/wp-content/uploads/2018/04/e-parana.001-1080x675.png",TV éParaná (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:gGYwrK6f3ggqDIAqj9rX6MBHxZUxnbofv5BPzJXi2maVo5BWsDNEkcyNXaa3xz3E
-
-#EXTINF:-1 tvg-id="CANCAO NOVA" tvg-logo="https://feedlix.net/tv/pt/CancaoNova.pt.png",Canção Nova (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VUHrEl9/nTpP+0EYuGXauiSYbRCBOBbNVHf3mABC2alaVBYhUiLK4U4mNNWuyG/hCShUq/mH+IVJAl0+YUNe5XftsUmPU/AwUTQKOl9imh4=
-
-#EXTINF:-1 tvg-id="KURIAKOS TV" tvg-logo="https://feedlix.net/tv/pt/KuriakosTv.pt.png",Kuriakos TV (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:42O8t2Ywz4X1c0kEH3CLROBIpER2AmdiGIJgk0X4heoLqekRkbwFFpUHgfS2olIH
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/TvMana.png",TV Maná (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:42O8t2Ywz4X1c0kEH3CLRL59x8tSUUjNWOTneG65BnIK+xDLobIGVdoBQpOAZQ0fbvB2mN74Yb7V0uvRFRQTLp/kCkAz2miXb/PCywdcBWE=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/1001noites.png",1001 Noites (Brazil)
 https://feedlix.net/videos/promo.mp4
@@ -1087,58 +1099,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/baraza.png",Baraza HD Music TV (Brazil)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:qAoH+6Rb35S/10hpwlOgRaH3Gubt/3PmDmDQ0sAKO2pCYOJjKpdM+eTxjadmCHpMWcbZD9LWoL9sflGfpSIhEO4OSN/UXYJgqyveVfJELAg=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Animation (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/mZa94O5dcZZ+QB7wGMbwLwm6xKsiXBMTTCOZT0TWkG3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Avicii (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0LbA+IWNNC1950iFW9X3lzz/QXsh3NaRX8fPsSSQnwKbs4tI4RP/nWyuuWJxkqux
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Classics (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/lDSgXokNdV9aIPji1IISK0BXZoWUlQSHpG1yDIlgXik
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Dance Floor (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/vC4DrFGU62w35xnG7cnN3EBXZoWUlQSHpG1yDIlgXik
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Electro Rock (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/mdNmmtEhtC8Jl0q9HGWRRUyEJaQsBoYND6DLE8PQG1B7g5I39RdgmCrK95V8kQsCA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing French touch (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/mdNmmtEhtC8Jl0q9HGWRRXFlq4wFM3CyYRYmPn6gMze7g5I39RdgmCrK95V8kQsCA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Hedonist (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0LbA+IWNNC1950iFW9X3l7Pa6V8KtFJOJGIzXAYoQ9zv+LveUESvEe7Hg99lTmMd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Ibiza (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/vC4DrFGU62w35xnG7cnN3EBXZoWUlQSHpG1yDIlgXik
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Karaoke (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/pNcTZ19sLmSY54H4HK2lO992UFhtjIQJVnzmEbf81BV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Live (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/oIml5R2XoJQ/z9DDuPfrpbE9BSx2Gi4EXaPLGEYWuch
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Summer Vibes (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/mdNmmtEhtC8Jl0q9HGWRRWbA0nEbxjso+LboiI8MMTI7g5I39RdgmCrK95V8kQsCA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Underground (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/milKn3ZKrIn7iBhhhDRy/UBXZoWUlQSHpG1yDIlgXik
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/djing_tv.jpg",Djing Wild (Brazil)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IfYIs4a/G6NQckg9kAi4/jYrFVy2XYOzq6ZEvVRh4GRENgs9yn5991a73uhn/3Mxun2E5oLtxZUI+UoQVRFxzA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/V2Beat.tv.png",V2Beat (Brazil)
 https://feedlix.net/videos/promo.mp4
