@@ -22,7 +22,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="TVI" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png",TVI
 htps://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxnAWDZw/0pd6YBGSeg0ZGBe9ESDtkXZIRt7uvTr/FvoWV4FhsyOUc/S/KXEoyGa60mhpqKbIUfmIwnlO4LN/KhWQas1Oi0Wye2iC/BZ4FdOLxVNi/zG1lZYW4wkj12FIHNZWug/xTuOApTsAW2/9JpIkAnhToOOy5OIQi9fEtX4l/GkuTzwDxbqG9DPnv2n0ugQcJfx+a+SSne0iNwV5Qj7yd8GKGUKoaklF2XZPKRnhCe83WVyC0oCASg8BLbqwa4cUnKtZTO9V9faJGgjbhUb0mGNnPIcXZJiyd83VMoR/
+#EXTSEC:2iURNfrWN1Qm9N79iTibxnAWDZw/0pd6YBGSeg0ZGBe9ESDtkXZIRt7uvTr/FvoWV4FhsyOUc/S/KXEoyGa60mhpqKbIUfmIwnlO4LN/KhUUxZRVabzP5JT5cO9vDnLYw6hkFkUyhV9OU3cc+nZcYz/7fKxFteGgf+iPvF9f7MlR0yQ/FlVqWypmJQZMu2TCC2a0K8z/S7b12MLll/5Uv6HoHVEZ1NNJR01C6GOW31TfExgX7iXiZ2pwqFiSXDs+4qQ4UfXhYDEye9ASqC27nDuqYbdWU/KGkeVadCnjgxw1b5ap6xjVeqePYCwo22r3
 
 #EXTINF:-1 tvg-id="RTP 3" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png",RTP 3
 https://feedlix.net/videos/promo.mp4
@@ -38,7 +38,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="TVI 24" tvg-logo="https://feedlix.net/tv/pt/Tvi24.pt.png",TVI 24
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxnAWDZw/0pd6YBGSeg0ZGBfQgLP0bZUnDCTsyBBIfgSMBDMedgToZGEkg2N2ftW35zLQxKXl1tIP+0cru+RZ1sdzIZLvDcUmt9OsfC9lel3i5UM7+t5yxkGhocCIQE59O2mci9JzW5ky7ScCzjIYL1sgX/e9PxjumkUCJYUMahsk4VJVvS/IGCEsuHUbndiiM7Fk61GoAOassWo3o6NfdVtCvDQ/5bhhtfVLDppqxOmeo9wIgjnNLKW2jVgDB3X5RLeyratA43otDCkiOmKvR6rFPh54COvRd+ahurd9GC8fn/2MEYSdeXenfFiuBjUXdw==
+#EXTSEC:2iURNfrWN1Qm9N79iTibxnAWDZw/0pd6YBGSeg0ZGBfQgLP0bZUnDCTsyBBIfgSMBDMedgToZGEkg2N2ftW35zLQxKXl1tIP+0cru+RZ1sfHmXxtDh3pPpvfWeiHDttVq1hUjysPKbYDm2db6RdChnjcqprj6gva0oRQbsbCIXMwwqB5yz9FDHsMpcCVsSlxeGINogcyiTycHanzZnemRGIlioRie4Tbi4xQ/zw3VODyjiGDqz22thV3+X66ilFPQBGFkdyXI2jcslk3T5TeLJjDuQ23GZqHxxn3UwE1myu6TOBZ3V0RibiHBaBLvbGp
 
 #EXTINF:-1 tvg-id="TVI 24" tvg-logo="https://feedlix.net/tv/pt/Tvi24.pt.png",TVI 24 (op.2)
 https://feedlix.net/videos/promo.mp4
@@ -419,6 +419,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.stvplay.org/uploads/3/0/1/1/30114993/published/logo-sobrenatural-tv-white-bold.png",Sobrenatural TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ze200/baQdA86lHkfoGXaa2drmjIklp/WW1xMxfEtAihaDIvOiMxVEaf66bGB01gvIYlr20kH8XqycR9yf5CuiR9a57xogvCl98WLgxZlyY=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/gospelmusic.jpg",Gospel Music TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Tt5DeEDU4VWerwsdQK9C8hO5ktR2GyLFcN0OWF2Il13Q0XfoCqqygf8Ep9MiTnbJg4rgL6Ot6hawltLaR8JK5Q==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosMusic.pt.png",Kuriakos Music
 https://feedlix.net/videos/promo.mp4
@@ -955,6 +959,46 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/vodafonefm.png",Vodafone FM (Radio)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:KsDU5FyOIDENFpoqt5d51+r9mGGAIvCJ6XxmYXvPty9igirAQswG6B0OyyiKKUQp
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/16582.v7.png",1.FM (Radio BR)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:XgDQ85Ha5SblWW9bbOzcvMmBsa/bXFweqYRzRbPu7gYOV6/PkXPXzqokCE1VDPMP
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiorock.com.br/assets/player/img/icons/logo-bottom.png",89 FM Rock (Radio BR)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:xLBnz5NchfzP+QulmWcm+eB/26fW9vjwsVtdGl/cazd2bRr5ofMseUm3qXvMl8yhNziEAqg8oWeLPoOxPXln1A==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/15850.v36.png",Alpha FM (Radio BR)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:U8wOdAfXqCqcgfne7r6EJ+B/26fW9vjwsVtdGl/cazcp1ZbrkWe+2OJMXlxs9OVFRk4vQRLoORkygwtBXwKvpQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/67372.v6.png",Bossa Nova (Radio BR)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Zx+SeswCIJlNfYVvb2uQhzXJHP74Fa4Y1GT7pFoVpIOXdND1+chZzzqfZBQtr5Mplf+LseC5ErHfau/3mNF7i3cVDa6fspM1/6EH6Z8niwc=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/53916.v11.png",Das Antigas (Radio BR)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:vAR9BqNHJlalLK6opV66dDwLPQkbgya+vIW07mnpFTbNRAOG5XNFfEwo6/BdNbdQCmhQx1gEd7lUmIzGeoRgIw==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/15861.v12.png",Metropolitana (Radio BR)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:NhiqzpXSOegExax2PQdB9H9fbOgJDRuBxp2TNCFHOvqEXiz/vXXujVoILDNHreZSTAAI5j0/GEhBwPZUVtqZCg==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/43404.v16.png",Nativa FM (Radio BR)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:wLXlpWGHQ25npo+/ZZt0A3oDUdlEPGz8MpvlVH19G48XQG+JDCx0Uf5EhFPppqHzyf/MiwhLcJmIq8XwT+q8E39M1IDWG1cy6XTPE0tjVPM=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/35857.v15.png",Raízes do Brasil (Radio BR)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:85qp86gWvw26g6tSsXgzarHSUkKrFRw/ChrY0iDpBAgqhmnPCHVq4rS8auhQUmx0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/16939.v7.png",Saudade FM (Radio BR)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Mc/qbBF2O6kGL/o+p0GpQ9Dn085WtD0HIlDVl4inZ/nBQcmKjtik4HPYapXFojXP
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/35596.v5.png",Villa Mix (Radio BR)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5SplwZy+2CSw7+HT5T/Zo+6/lHBR62heYS7CvQVyqCnBQcmKjtik4HPYapXFojXP
 
 #EXTINF:-1 tvg-logo="https://www.ringier.com/sites/default/files/images/energy_0.jpg",Energy All Time Hits (Radio CH)
 https://feedlix.net/videos/promo.mp4
