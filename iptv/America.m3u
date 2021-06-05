@@ -1220,7 +1220,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5SplwZy+2CSw7+HT5T/Zo+6/lHBR62heYS7CvQVyqCnBQcmKjtik4HPYapXFojXP
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1011628991801888768/2udyEik-_400x400.jpg",TVN (geo, Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1011628991801888768/2udyEik-_400x400.jpg",TVN (geo, Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:LaIrhZtpZbt9lwUIRBqfvTwYVYYNX3MThvpS+vITtROCQaqqMNkjBxaZ/dG6N/3/+fzNIJHZferxD+Dkqw/Hp4OK4C+jreoWsJbS2kfCSuU=
 
@@ -1228,11 +1228,11 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:nx6dFjL9oE7pDnnuxWBjoZj1T7C0PVIlqRxAy1oZFndtUDXW1EkYN3zho99BidCm7goCM3qH9uyeVudYuuzjW+QtnjSHQfhos5YgveleiJM=
 
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/foto_144.jpg",ITV (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.newslinereport.com/online/foto_144.jpg",ITV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JqfvF2GiorZAy0UhQz7bux6Egp38XjLuLtUJmEzyTt7uT6nMrRFQotA4PhZzqKUfo20zpuDtm8vAZPK87Ke9zdo8EH5xyxkaCvhKxRbW+0k=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FvqaFci.png",TV5 Linares (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FvqaFci.png",TV5 Linares (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/j6bNonFGeyvi3B//GfOkxPHcjrhhNDTj2b4zHJ3L0K1oGln45dAEglPU1QUySbTmmRbcgeTgBOi32d8bD6B7VNM=
 
@@ -1240,51 +1240,59 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/j+o5rP71oHoz+1XZ3IPEhDGozNIq5XdCulG2NKZunhQKEgE6aeWS5DNqUHErm/Qo4jSMLPIRSoaVeg0hX3lDEpWt12yyAbBD0ZFARn1tJVwZ
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Logotipo_TVO_San_Vicente.png",TVO San Vicente (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Logotipo_TVO_San_Vicente.png",TVO San Vicente (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:7vfYeSbc6oYbFDODvitbKdrBXSGhDR1ordLbRPhq9YZJZTnm1xve2HEWd0KF9syplW8hmQdPJKlmqB/PzY8MnZ5m/RIKi84GCe4IPK9mS5I=
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lahvKijX-ts/maxresdefault.jpg",Bio Bio Canal 9 (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/lahvKijX-ts/maxresdefault.jpg",Bio Bio Canal 9 (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/j0cVbiryZ3Gzq+gAFSuV+FTFNSF6giJV4H0ZUxr9sx6rJH1rnvGiC8KX3xYuDFmXJg==
 
-#EXTINF:-1 tvg-logo="https://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png",UES TV (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png",UES TV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:jLVZz88hbfWFW+nHpIvaw9vO5fWgUdX1u/6+WrYPdwQ+cSVEjwV2v5kNnsKTWyThKSkbHaLY88ow/ovCQO5Kcg==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m70PUPf.jpg",Antofagasta TV (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m70PUPf.jpg",Antofagasta TV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JqfvF2GiorZAy0UhQz7bu0hznp57SJHobBHRignELd9huKuRBXD7GZXldfpbBMJno20zpuDtm8vAZPK87Ke9ze8vTVs6DGMF+mZOOSudC3g=
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LHn9ofg.png",Contivision (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6N5OjYv.jpg",Emol TV (Chile)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:JqfvF2GiorZAy0UhQz7bu1idgfwkHnAGCeg3yQ9ANof+CAWPyKvMSAWd9bQjMnUuY3lAZTfv67oodWEZh2E7b5OeZXFpHii3XDMUF2+7jPY=
+#EXTSEC:JqfvF2GiorZAy0UhQz7bu+kw4W1nosdNwjbgTqpL4hCC02Lvu+kR8fo5uqrtkOxqHyj3pQeXQvPHK+I5olL4SgT5/cGzDZHsEZWYG7Nr3+eDiuAvo63qFrCW0tpHwkrl
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/campustv_cl.jpg",Campus TV HD (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/LHn9ofg.png",Contivision (Chile)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:JqfvF2GiorZAy0UhQz7bu0EJF3GkIcZ0CIgpWNlwxav+CAWPyKvMSAWd9bQjMnUuY3lAZTfv67oodWEZh2E7b5OeZXFpHii3XDMUF2+7jPY=
+	
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/campustv_cl.jpg",Campus TV HD (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JqfvF2GiorZAy0UhQz7bu0EJF3GkIcZ0CIgpWNlwxaukwIR3D2gROXApibjhUZ/gd8w5kxysfsyE5pVBD+xsbBpZ+OXQBIJT1NUFMkm05pkW3IHk4ATot9nfGw+ge1TT
 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/UMAG_TV_Chile.jpg",Umag TV (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.freeetv.com/images/03_logo/UMAG_TV_Chile.jpg",Umag TV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4rmZHPuS2UVQvICE/xfkdWfVZhduiQKD9HuWb1fjkj1de15/ILLCi1v17qP/woeUAT+lJIBUL/9Dj1k1dVcXp8zPqnaCxwBBIi1kifVvzPo=
 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/UMAG_TV_Chile.jpg",Umag TV 2 (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.freeetv.com/images/03_logo/UMAG_TV_Chile.jpg",Umag TV 2 (Chile)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:4rmZHPuS2UVQvICE/xfkdR7TABAkad+Z3M+tlGbX4NDGFhfl1tHH5zeca78sUp82vbod3dE2Gbjbl5obosbpR7FRxe1snrZUSFsLbbgl3p/uDkjf1F2CYKsr3lXyRCwI
+#EXTSEC:4rmZHPuS2UVQvICE/xfkdR7TABAkad+Z3M+tlGbX4NDGFhfl1tHH5zeca78sUp82UcfQwUpOiBR7hQ8BSRniPyyBqbL3aUIMhlSKquJEtm/uDkjf1F2CYKsr3lXyRCwI
 
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/vtv2-valle-televisin-570.jpg",VTV 2 (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/759599537904320513/Ntc6rF-Q_400x400.jpg",Capissima Multimedia (geo, Chile)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:pJZYmlWLucSlPfkXmG2L5U5jYG+JBXOTSRXD9OZl63bLVSIzzfk1ZIXzL1p1TLJC3ZgsO+Uc+LeiH0ZwT/4QUQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/vtv2-valle-televisin-570.jpg",VTV 2 (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5fIlOFgpCVmnAKXi8px1531jZDvIJFTboyBSdz5cCFaZz/ckPvdGumTV8q4jRv6t0o698AXe45vymJphUn9w1+4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Descarga2.jpg",Canal 2 (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Descarga2.jpg",Canal 2 (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/jzJKYSLoPdPo/S+r1/icdULy9PMcsJfLZHBxtTsQGACapSfQrpAJZnD0ea5fRVvbdw==
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cl-t13.jpg",T13 Noticias (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cl-t13.jpg",T13 Noticias (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:omnOCr2pNhp0TGPkrGW8hBy9SyNbM6mDo2LLmpWeFTtsJA8vfK3QwT20Pqq6ll+/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1024px-TeleSUR-Logo.svg.png",Telesur (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1024px-TeleSUR-Logo.svg.png",Telesur (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:pQewIgox9lldwUU8SFz1oqNAjAEXbf8QDUE+AMKlyKJWLJRiJkJ0hBD07VpcXec6y1ufiQva+xNA8Pat/IEt4IOK4C+jreoWsJbS2kfCSuU=
 
@@ -1292,9 +1300,17 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Y/WCEHdOE9ewzjWJ0nbMUB4U8ixSYruoiz9O8d+UhJLYiNnPhfVrMCfcWiJQfWhClaOQVrAzRJHMjV2mt8c9xA==
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1037548274243301376/q-YS4nEJ.jpg",Nuble Digital (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1037548274243301376/q-YS4nEJ.jpg",Nuble Digital (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/j3iFO4MRU+sk9pjYZYH7I7pLfvIpkn2g1ZoLpufMWdkxirtsJTz0ClETMvWmK1l4SQpUHxShFViAzJ9s/QhKrDXHSsICFQ//l5BfM13dDtMo
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://norteimagen.cl/wp-content/uploads/2019/01/iquiqueTV_logo-560x560.jpg",Iquique TV (geo, Chile)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:9DgUN6Au+VglO9q9xs/hCzKwFav5AoSgJWjnqmLSuQ21fQV+SdZyJzgujYauQkBkshSytNqaryCXOIGndkVUtA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/710193965283336192/iOJ3Jihf_400x400.jpg",Pucón TV (Chile)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:JqfvF2GiorZAy0UhQz7bu+t67gF2ivKhCEf52vV2X5NjP01hJtsqCk7PIsz82wcz7RMCShY1wkKyfqtOcNPEv/Sn+ASeCdVGJ5XpWB1R19aVo5BWsDNEkcyNXaa3xz3E
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/897eGEd.png",VC TV HD (Chile)
 https://feedlix.net/videos/promo.mp4
@@ -1302,11 +1318,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a7iI5NO.jpg",Quinta TV (Chile)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:ettpGO2PLlzML3zuAWQnXrsc8zhl3gvql1QntjV8Cbw0AqoNctrqHFv+j7wAISCC3ZgsO+Uc+LeiH0ZwT/4QUQ==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pintana.cl/wp-content/uploads/2018/08/01_sidebar_pintanaTV.png",Pintana TV (Chile)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4rmZHPuS2UVQvICE/xfkdchAZ0rIz4RIcHsVjo/1WMqorrywDhFe0KYstm7zKml/un2E5oLtxZUI+UoQVRFxzA==
+#EXTSEC:hHupQcLNmmMND7UZssftVnB20Pus855kmv0Yw2PLCu6biedWo0wmsvw5E16v2jT4veIO/tVogw9UdkAWU1YLyQ==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/televida_cl.jpg",Tele Vida (Chile)
 https://feedlix.net/videos/promo.mp4
@@ -1316,19 +1328,19 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:itnDH3TH4aYzjBtr4DF/ghq6w/X3qs722ZYwzD+mbzzxepbrIQyU8of7E97cNi1T7g5I39RdgmCrK95V8kQsCA==
 
-#EXTINF:-1 tvg-logo="https://hipodromo.cl/hipodromochile/images/prv/wk-big-img-12.jpg",Teletrak (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://hipodromo.cl/hipodromochile/images/prv/wk-big-img-12.jpg",Teletrak (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/j3AE4O3AoKWWX7xX+02FyGR0JKXuWVwO4kf+kWUkc87bsMy2xE3UMtG72of4yOOycKM/19ot4u2shOxhw2w53q8dHWAlTr7ys/a91VkAXV3V
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lsg8u59.png",Real Madrid TV (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lsg8u59.png",Real Madrid TV (geo ES, Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:698rflH+tPaCC7M9b55JIUv8EWpIPD/KH6nChdaQOaOe1A6k20PAZ6JMHm1hzus+Ii6YZnp7JXCJslJ/jbe2xA==
 
-#EXTINF:-1 tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png",Carolina TV Chile
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png",Carolina TV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/jzJKYSLoPdPo/S+r1/icdUJMhUzFE9ec70Fmyo2KV+NX/CI6RZgalL7WWbfvonLSjiR9a57xogvCl98WLgxZlyY=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/portal_foxmix.jpg",Portal Foxmix TV (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/portal_foxmix.jpg",Portal Foxmix TV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:KpQd4fxOWpGcuqgGf4+pZKg8dAgBUfod18QSg3gmapVYe3qkDBZqV89wcrCJfTxlRT+YR0Mt65INjTLqejcne8qqksrVbwHED1cADQ08sUA=
 
@@ -1336,13 +1348,17 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4rmZHPuS2UVQvICE/xfkdaUfp/9u7QjkWL+MvKjayn7YaSTVTCUTcEuAX6dfvnVxg4rgL6Ot6hawltLaR8JK5Q==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CcLr5lh.png",El Conquistador FM (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/rcktv-cl.png",RCK TV (Chile)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:n43v67Q3BA/5+LAMzbQu0YWc/PnZnYNUawYT1fhJMmn9nsuIi4OEzNx1LxIcx/SQ7g5I39RdgmCrK95V8kQsCA==
+#EXTSEC:7H1sAwaJe9EDu40GCCVD60bp6BRFDx1vd4RszprBOM1/ezk3ra4qw5LD/ahx+5zV8x8Kfu5jxeuO0Po4aqxdAoOK4C+jreoWsJbS2kfCSuU=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GQWiS9Q.png",Maxima Radio TV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:0DWGJtZACu+Uh6m8Cmt0xNWGF9KW30Jmn6ZrLx7wbNG55zTLu9l2bTZUHS3FNaG+ttfZEJ5qrVLKcXvVRoZk3CR9a57xogvCl98WLgxZlyY=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CcLr5lh.png",El Conquistador FM (Radio CL)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:jrInftGwMQdbWZzW1YmkjVG1D+m+S4iCbRovtx4CwXtATHcXHB+XFMTiaMimUvFV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aBPSij2.png",Telemusica (Colombia)
 https://feedlix.net/videos/promo.mp4
