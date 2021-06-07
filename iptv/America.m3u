@@ -1336,7 +1336,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:698rflH+tPaCC7M9b55JIUv8EWpIPD/KH6nChdaQOaOe1A6k20PAZ6JMHm1hzus+Ii6YZnp7JXCJslJ/jbe2xA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png",Carolina TV (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.wurtlitzer.info/imagenes/radios/carolinatv.png",Carolina TV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/jzJKYSLoPdPo/S+r1/icdUJMhUzFE9ec70Fmyo2KV+NX/CI6RZgalL7WWbfvonLSjiR9a57xogvCl98WLgxZlyY=
 
@@ -1456,7 +1456,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:yPDNyM2tyHBYgSuWqebjFLDg3ruC8pCWIY5F3YuIo7MxVhF7zD+08oswd/xAiHRuY11q9hJ6Z7uhoR4TPdnYt2BLsoozNKJ7ZKFXLiUJFt0=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tugotv.com/wp-content/uploads/2018/11/City-TV-1.png",City TV (Colombia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/24wikia/images/5/57/City.png",City TV (Colombia)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:BxGXVjsgBwLfamFuvoKJSgjy7h4f4ZuTe+QRCALauRux7TbkltPg2Xl7fuaw4qnfTU+BJDfQXg3hZYCIa2R5Mrq6FGwg5Enur3vhGugrsSth+DSnysShDx4rpdyBIX5NJH1rnvGiC8KX3xYuDFmXJg==
 
@@ -1512,9 +1512,13 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:YOAjp1sV608h4YaxraVyVO4u7p6TgZ7y98NU30FNunhIDDyyZak2iJ+JdFovi7q3ktM+wcsI0WSH1Ij3HsjeD59zxE183ckUBtlRZ4MqcJ9fPzHXlKAB/4s0dPE9v9xcun2E5oLtxZUI+UoQVRFxzA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.colombia.com/canales/buenisima-radio-tv-4865.jpg",Buenissima (Radio CO)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.colombia.com/canales/buenisima-radio-tv-4865.jpg",Buenissima TV (Colombia)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:whBRq9KtjQj8nSUY+jZEBRm6vFhrh6c/QBKIp1WmWIHGLMHh1Gno/TGQBkxeN1eQeB2ND+Z42OuvNMV+zvEs3Q7tffZaQXdHv1h1FCO9phY=
+#EXTSEC:whBRq9KtjQj8nSUY+jZEBRm6vFhrh6c/QBKIp1WmWIG/OdH1w6cLXCm959ozR31UyQIcF93fFAfivZUfUDUYSA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.colombia.com/canales/buenisima-radio-tv-4865.jpg",Buenissima Radio (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:BSHhwWNsLWDOfW6CLgjTGf9ZoB9uqWV2DoKVXlYBHAYCQElxgUlRUWmV6lGWCsLc
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cr-teleuno-tv.jpg",Tele Uno (Costa Rica)
 https://feedlix.net/videos/promo.mp4
