@@ -1,12 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPHD_monocromaticoAzul_horiz_RGB.png",RTP 1 HD (geo)
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPHD_monocromaticoAzul_horiz_RGB.png",RTP 1 HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmOPisSFX1834rrD8B4hIVcRyQpbL5rUJ1uhIz4n0otVOaZQfolIP8sD7vmQ6QljezjTSvFw7BAGSt5YEPTfOoI/PkJ3V4Klme4CWjVNsdB/l6f8KPUep7e2+parm1suSu
+#EXTSEC:i5Q6xScKeJpihFTQwzA/JWBpYTZYl9hQfbNI4TVbrOQOrn0uzFCQD1ITvN+JYMlP
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png",RTP 1 (geo)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:tJ1kQOqpOnmjzGNVbjZY/9YhZ6MENAs3gYzwi3kYhHmEssiBXIOmGLgdWX9LsNrW7DYmQvXJlL4eWrGdzFecyXjSv+LVyfdJ1VCG/cEOZVXTDknyn+tUH5xVopxHy/92
 
 #EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png",RTP 1 (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:tJ1kQOqpOnmjzGNVbjZY/9YhZ6MENAs3gYzwi3kYhHmEssiBXIOmGLgdWX9LsNrW7DYmQvXJlL4eWrGdzFecyXjSv+LVyfdJ1VCG/cEOZVXTDknyn+tUH5xVopxHy/92
+#EXTSEC:yZIrn0cUqjSTS2qqL3t7Ho8Pnb7QdAEdHNlRXcHXJrRqY37+sJ8M5h1dHaQZFYFS
 
 #EXTINF:-1 tvg-id="RTP 2" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png",RTP 2 (geo)
 https://feedlix.net/videos/promo.mp4
@@ -22,11 +26,19 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="TVI" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png",TVI
 htps://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxnAWDZw/0pd6YBGSeg0ZGBe9ESDtkXZIRt7uvTr/FvoWV4FhsyOUc/S/KXEoyGa60mhpqKbIUfmIwnlO4LN/KhUUxZRVabzP5JT5cO9vDnLYw6hkFkUyhV9OU3cc+nZcYz/7fKxFteGgf+iPvF9f7MlR0yQ/FlVqWypmJQZMu2TCC2a0K8z/S7b12MLll/5Uv6HoHVEZ1NNJR01C6GOW31TfExgX7iXiZ2pwqFiSXDs+4qQ4UfXhYDEye9ASqC27nDuqYbdWU/KGkeVadCnjgxw1b5ap6xjVeqePYCwo22r3
+#EXTSEC:2iURNfrWN1Qm9N79iTibxnAWDZw/0pd6YBGSeg0ZGBe9ESDtkXZIRt7uvTr/FvoWV4FhsyOUc/S/KXEoyGa60mhpqKbIUfmIwnlO4LN/KhXJgfdVFMsy1pS8bxPeLs23FRUZIPWfO8+30JPQuaYLKojeGGImKCIa/Xy+CPF69xvzvFawIHthf+fgx5w+rqWqqGQDduk/wpeqehvgvCTvRgQcJfx+a+SSne0iNwV5Qj7zQBEQpOJFSvP7Y6mmiBoIbCFC1eQ9Bxc93IYWEZdegwmGy4LXV4PxdWdaCmp7q03aGEXq+GSLHvWa61KqsoIs
+
+#EXTINF:-1 tvg-id="TVI" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png",TVI (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:gDLaBDQL0hwj9eUChVqf3e8I7MMqB2LIf9p+rQJLMTUStFgazTpEfDFoICQRgESO
 
 #EXTINF:-1 tvg-id="RTP 3" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png",RTP 3
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:nx6dFjL9oE7pDnnuxWBjoZcpfwfZhgaZJRArdGfgx/+5EdbIcAvDQ1CBvIHwKtBjsbvSGbvr+3vVnc0KILcqickCHBfd3xQH4r2VH1A1GEg=
+
+#EXTINF:-1 tvg-id="RTP 3" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png",RTP 3 (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP2dR195X0t9EqvdBFwB5UG8fkNy7AXGcyQ4bD+8hcW4ZH/bcMW9N8G6N4khb+nlsmdhl44xLyNNxCc6ciuuzBUTF5J5I+/tluEvRwhtuytx+oM5XvMq3h5cJOIZF/xOtZUdWYbiD/XRNuiRZ+xSIyeqYKf+TVPzWU4sVaJhmiwUxg==
 
 #EXTINF:-1 tvg-id="SIC Notícias" tvg-logo="https://feedlix.net/tv/pt/SicNoticias.pt.png",SIC Notícias
 https://feedlix.net/videos/promo.mp4
@@ -38,19 +50,23 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="TVI 24" tvg-logo="https://feedlix.net/tv/pt/Tvi24.pt.png",TVI 24
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxnAWDZw/0pd6YBGSeg0ZGBfQgLP0bZUnDCTsyBBIfgSMBDMedgToZGEkg2N2ftW35zLQxKXl1tIP+0cru+RZ1sfHmXxtDh3pPpvfWeiHDttVq1hUjysPKbYDm2db6RdChnjcqprj6gva0oRQbsbCIXMwwqB5yz9FDHsMpcCVsSlxeGINogcyiTycHanzZnemRGIlioRie4Tbi4xQ/zw3VODyjiGDqz22thV3+X66ilFPQBGFkdyXI2jcslk3T5TeLJjDuQ23GZqHxxn3UwE1myu6TOBZ3V0RibiHBaBLvbGp
+#EXTSEC:2iURNfrWN1Qm9N79iTibxnAWDZw/0pd6YBGSeg0ZGBfQgLP0bZUnDCTsyBBIfgSMBDMedgToZGEkg2N2ftW35zLQxKXl1tIP+0cru+RZ1scIK/rFw/vpcGq9Ej/1HsXoUYW0NLNXo6VPlVz/SB89RGmci9JzW5ky7ScCzjIYL1s1tmVNQorYTUAReVcL0yMGQcSKZXf2r40V4zDb5auNnwW7EwIEoHBLK1EGhzB9Uz1CvDQ/5bhhtfVLDppqxOmenzxH9aAVVASYqLYR5wEiNSxzdgj+7jJeiQRuvH4bBTBcXoczfa4SztR1Hc0JFELWn/2MEYSdeXenfFiuBjUXdw==
 
 #EXTINF:-1 tvg-id="TVI 24" tvg-logo="https://feedlix.net/tv/pt/Tvi24.pt.png",TVI 24 (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:yZc13G1hTMxFpCQsPKxkpnR6qIuOJq66AxNcQVllLhT+JJlb4crxhJRwZa3ctdZXLodbObh0s0ZmA7IhBRGXTQ==
+#EXTSEC:gDLaBDQL0hwj9eUChVqf3e8I7MMqB2LIf9p+rQJLMTXPYLVhIE7TU6IIngx0aqVA
 
 #EXTINF:-1 tvg-id="CMTV" tvg-logo="https://feedlix.net/tv/pt/Cmtv.pt.png",CMTV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:qN4Pq957FFmFeTi2N4UTiFYml2DMS1vt14PykNiaY5fuFpQM3QWWemgVk40Se1L3NUyDRrkPtV+plbUZib4Gu8mOVZmi+2dkGsW/jw8KB7s=
+#EXTSEC:gDLaBDQL0hwj9eUChVqf3e8I7MMqB2LIf9p+rQJLMTWIWTYVcmpdg4TeeYxEFyJk
 
 #EXTINF:-1 tvg-id="RTP I" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPInternacional_negativo_horiz_RGB.png",RTP Internacional
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmP57Iocvq72eBlXW46o9jR9ApwwoW0Gde0r+KMDktr7YkfWue8aILwpffFi4MWZcm
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPInternacional_negativo_horiz_RGB.png",RTP I (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:mvbX0jFIBQ11LDP+s351Y+x4LKlnf0Oq+QYhXbGKVqd0bGJahh08wcc2qO0cLFU3nvLewYT7LbUTVLyFuo4jTswhWzaI4bgIlT/PHOKB8hw6LpLe4O73cap65BvmaUxn
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/szYOy8S.jpg",Euronews
 https://feedlix.net/videos/promo.mp4
@@ -1000,9 +1016,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5SplwZy+2CSw7+HT5T/Zo+6/lHBR62heYS7CvQVyqCnBQcmKjtik4HPYapXFojXP
 
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_alltimehits_1496927518.png",Energy All Time Hits (Radio CH)
+#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/475x297-c/desktop_metime_1623557114.png",Energy Me Time (Radio CH)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Xmm1Ot81NR2I8KLKpiCFDFP1Cd8qIA4FgMpAfirqNpKbcNMYZj4ckjAHnCGWQs9xNCa8gJDE+obYFUK3nMk2JZ9M8tolCZJj8C8D23iFcaU=
+#EXTSEC:fCiR+lW1V7qLJFDnXPn7Dfo01hrJutbr5ohwg6CZ259YY/iUCdDvcpAbMIBexB+boyOMEiGIuioTjOwB6r+ErQ==
 
 #EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_dance_1496927248.png",Energy Dance (Radio CH)
 https://feedlix.net/videos/promo.mp4
