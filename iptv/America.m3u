@@ -332,6 +332,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:h35gRvKXfBVZLlGdOudnkSxrpyeaBiB+8h9SZ92C0PsEghPuh/7cwmtyX1+f3yrGPll4KUKv68TmYq94qdYe9JWjkFawM0SRzI1dprfHPcQ=
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://cmmusica.com.ar/images/logo.png",CM El Canal de la Música (Argentina)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:DbPbRfUadlAmpa391Yzv7fk0fEktxkUqAZASrFKnMDwfkXGzg97nUy8JNt8DzWMmr29FJY6w0uz3y1Xto4h62A==
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/toplatino.png",Top Latino (Argentina)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mVkuoOT0N0rLZ4Iw7sgawfOQ4RRGtHHqhgHvghg35AVtLzmmJpU8LM8ncyOntvhZbvWKrKj43uS3lyJ2GrqqT41pCr6GccJAT47PaDhkcnY=
@@ -1220,7 +1224,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5SplwZy+2CSw7+HT5T/Zo+6/lHBR62heYS7CvQVyqCnBQcmKjtik4HPYapXFojXP
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1011628991801888768/2udyEik-_400x400.jpg",TVN (geo, Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1011628991801888768/2udyEik-_400x400.jpg",TVN (geo, Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:LaIrhZtpZbt9lwUIRBqfvTwYVYYNX3MThvpS+vITtROCQaqqMNkjBxaZ/dG6N/3/+fzNIJHZferxD+Dkqw/Hp4OK4C+jreoWsJbS2kfCSuU=
 
@@ -1228,11 +1232,11 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:nx6dFjL9oE7pDnnuxWBjoZj1T7C0PVIlqRxAy1oZFndtUDXW1EkYN3zho99BidCm7goCM3qH9uyeVudYuuzjW+QtnjSHQfhos5YgveleiJM=
 
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/foto_144.jpg",ITV (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.newslinereport.com/online/foto_144.jpg",ITV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JqfvF2GiorZAy0UhQz7bux6Egp38XjLuLtUJmEzyTt7uT6nMrRFQotA4PhZzqKUfo20zpuDtm8vAZPK87Ke9zdo8EH5xyxkaCvhKxRbW+0k=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FvqaFci.png",TV5 Linares (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FvqaFci.png",TV5 Linares (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/j6bNonFGeyvi3B//GfOkxPHcjrhhNDTj2b4zHJ3L0K1oGln45dAEglPU1QUySbTmmRbcgeTgBOi32d8bD6B7VNM=
 
@@ -1240,51 +1244,59 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/j+o5rP71oHoz+1XZ3IPEhDGozNIq5XdCulG2NKZunhQKEgE6aeWS5DNqUHErm/Qo4jSMLPIRSoaVeg0hX3lDEpWt12yyAbBD0ZFARn1tJVwZ
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Logotipo_TVO_San_Vicente.png",TVO San Vicente (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Logotipo_TVO_San_Vicente.png",TVO San Vicente (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:7vfYeSbc6oYbFDODvitbKdrBXSGhDR1ordLbRPhq9YZJZTnm1xve2HEWd0KF9syplW8hmQdPJKlmqB/PzY8MnZ5m/RIKi84GCe4IPK9mS5I=
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lahvKijX-ts/maxresdefault.jpg",Bio Bio Canal 9 (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/lahvKijX-ts/maxresdefault.jpg",Bio Bio Canal 9 (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/j0cVbiryZ3Gzq+gAFSuV+FTFNSF6giJV4H0ZUxr9sx6rJH1rnvGiC8KX3xYuDFmXJg==
 
-#EXTINF:-1 tvg-logo="https://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png",UES TV (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png",UES TV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:jLVZz88hbfWFW+nHpIvaw9vO5fWgUdX1u/6+WrYPdwQ+cSVEjwV2v5kNnsKTWyThKSkbHaLY88ow/ovCQO5Kcg==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m70PUPf.jpg",Antofagasta TV (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m70PUPf.jpg",Antofagasta TV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JqfvF2GiorZAy0UhQz7bu0hznp57SJHobBHRignELd9huKuRBXD7GZXldfpbBMJno20zpuDtm8vAZPK87Ke9ze8vTVs6DGMF+mZOOSudC3g=
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LHn9ofg.png",Contivision (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6N5OjYv.jpg",Emol TV (Chile)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:JqfvF2GiorZAy0UhQz7bu1idgfwkHnAGCeg3yQ9ANof+CAWPyKvMSAWd9bQjMnUuY3lAZTfv67oodWEZh2E7b5OeZXFpHii3XDMUF2+7jPY=
+#EXTSEC:JqfvF2GiorZAy0UhQz7bu+kw4W1nosdNwjbgTqpL4hCC02Lvu+kR8fo5uqrtkOxqHyj3pQeXQvPHK+I5olL4SgT5/cGzDZHsEZWYG7Nr3+eDiuAvo63qFrCW0tpHwkrl
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/campustv_cl.jpg",Campus TV HD (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/LHn9ofg.png",Contivision (Chile)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:JqfvF2GiorZAy0UhQz7bu0EJF3GkIcZ0CIgpWNlwxav+CAWPyKvMSAWd9bQjMnUuY3lAZTfv67oodWEZh2E7b5OeZXFpHii3XDMUF2+7jPY=
+	
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/campustv_cl.jpg",Campus TV HD (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JqfvF2GiorZAy0UhQz7bu0EJF3GkIcZ0CIgpWNlwxaukwIR3D2gROXApibjhUZ/gd8w5kxysfsyE5pVBD+xsbBpZ+OXQBIJT1NUFMkm05pkW3IHk4ATot9nfGw+ge1TT
 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/UMAG_TV_Chile.jpg",Umag TV (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.freeetv.com/images/03_logo/UMAG_TV_Chile.jpg",Umag TV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4rmZHPuS2UVQvICE/xfkdWfVZhduiQKD9HuWb1fjkj1de15/ILLCi1v17qP/woeUAT+lJIBUL/9Dj1k1dVcXp8zPqnaCxwBBIi1kifVvzPo=
 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/UMAG_TV_Chile.jpg",Umag TV 2 (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.freeetv.com/images/03_logo/UMAG_TV_Chile.jpg",Umag TV 2 (Chile)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:4rmZHPuS2UVQvICE/xfkdR7TABAkad+Z3M+tlGbX4NDGFhfl1tHH5zeca78sUp82vbod3dE2Gbjbl5obosbpR7FRxe1snrZUSFsLbbgl3p/uDkjf1F2CYKsr3lXyRCwI
+#EXTSEC:4rmZHPuS2UVQvICE/xfkdR7TABAkad+Z3M+tlGbX4NDGFhfl1tHH5zeca78sUp82UcfQwUpOiBR7hQ8BSRniPyyBqbL3aUIMhlSKquJEtm/uDkjf1F2CYKsr3lXyRCwI
 
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/vtv2-valle-televisin-570.jpg",VTV 2 (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/759599537904320513/Ntc6rF-Q_400x400.jpg",Capissima Multimedia (geo, Chile)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:pJZYmlWLucSlPfkXmG2L5U5jYG+JBXOTSRXD9OZl63bLVSIzzfk1ZIXzL1p1TLJC3ZgsO+Uc+LeiH0ZwT/4QUQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/vtv2-valle-televisin-570.jpg",VTV 2 (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5fIlOFgpCVmnAKXi8px1531jZDvIJFTboyBSdz5cCFaZz/ckPvdGumTV8q4jRv6t0o698AXe45vymJphUn9w1+4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Descarga2.jpg",Canal 2 (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Descarga2.jpg",Canal 2 (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/jzJKYSLoPdPo/S+r1/icdULy9PMcsJfLZHBxtTsQGACapSfQrpAJZnD0ea5fRVvbdw==
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cl-t13.jpg",T13 Noticias (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cl-t13.jpg",T13 Noticias (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:omnOCr2pNhp0TGPkrGW8hBy9SyNbM6mDo2LLmpWeFTtsJA8vfK3QwT20Pqq6ll+/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1024px-TeleSUR-Logo.svg.png",Telesur (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1024px-TeleSUR-Logo.svg.png",Telesur (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:pQewIgox9lldwUU8SFz1oqNAjAEXbf8QDUE+AMKlyKJWLJRiJkJ0hBD07VpcXec6y1ufiQva+xNA8Pat/IEt4IOK4C+jreoWsJbS2kfCSuU=
 
@@ -1292,9 +1304,17 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Y/WCEHdOE9ewzjWJ0nbMUB4U8ixSYruoiz9O8d+UhJLYiNnPhfVrMCfcWiJQfWhClaOQVrAzRJHMjV2mt8c9xA==
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1037548274243301376/q-YS4nEJ.jpg",Nuble Digital (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1037548274243301376/q-YS4nEJ.jpg",Nuble Digital (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/j3iFO4MRU+sk9pjYZYH7I7pLfvIpkn2g1ZoLpufMWdkxirtsJTz0ClETMvWmK1l4SQpUHxShFViAzJ9s/QhKrDXHSsICFQ//l5BfM13dDtMo
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://norteimagen.cl/wp-content/uploads/2019/01/iquiqueTV_logo-560x560.jpg",Iquique TV (geo, Chile)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:9DgUN6Au+VglO9q9xs/hCzKwFav5AoSgJWjnqmLSuQ21fQV+SdZyJzgujYauQkBkshSytNqaryCXOIGndkVUtA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/710193965283336192/iOJ3Jihf_400x400.jpg",Pucón TV (Chile)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:JqfvF2GiorZAy0UhQz7bu+t67gF2ivKhCEf52vV2X5NjP01hJtsqCk7PIsz82wcz7RMCShY1wkKyfqtOcNPEv/Sn+ASeCdVGJ5XpWB1R19aVo5BWsDNEkcyNXaa3xz3E
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/897eGEd.png",VC TV HD (Chile)
 https://feedlix.net/videos/promo.mp4
@@ -1302,11 +1322,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a7iI5NO.jpg",Quinta TV (Chile)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:ettpGO2PLlzML3zuAWQnXrsc8zhl3gvql1QntjV8Cbw0AqoNctrqHFv+j7wAISCC3ZgsO+Uc+LeiH0ZwT/4QUQ==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.pintana.cl/wp-content/uploads/2018/08/01_sidebar_pintanaTV.png",Pintana TV (Chile)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4rmZHPuS2UVQvICE/xfkdchAZ0rIz4RIcHsVjo/1WMqorrywDhFe0KYstm7zKml/un2E5oLtxZUI+UoQVRFxzA==
+#EXTSEC:hHupQcLNmmMND7UZssftVnB20Pus855kmv0Yw2PLCu6biedWo0wmsvw5E16v2jT4veIO/tVogw9UdkAWU1YLyQ==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/televida_cl.jpg",Tele Vida (Chile)
 https://feedlix.net/videos/promo.mp4
@@ -1316,19 +1332,19 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:itnDH3TH4aYzjBtr4DF/ghq6w/X3qs722ZYwzD+mbzzxepbrIQyU8of7E97cNi1T7g5I39RdgmCrK95V8kQsCA==
 
-#EXTINF:-1 tvg-logo="https://hipodromo.cl/hipodromochile/images/prv/wk-big-img-12.jpg",Teletrak (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://hipodromo.cl/hipodromochile/images/prv/wk-big-img-12.jpg",Teletrak (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/j3AE4O3AoKWWX7xX+02FyGR0JKXuWVwO4kf+kWUkc87bsMy2xE3UMtG72of4yOOycKM/19ot4u2shOxhw2w53q8dHWAlTr7ys/a91VkAXV3V
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lsg8u59.png",Real Madrid TV (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lsg8u59.png",Real Madrid TV (geo ES, Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:698rflH+tPaCC7M9b55JIUv8EWpIPD/KH6nChdaQOaOe1A6k20PAZ6JMHm1hzus+Ii6YZnp7JXCJslJ/jbe2xA==
 
-#EXTINF:-1 tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png",Carolina TV Chile
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.wurtlitzer.info/imagenes/radios/carolinatv.png",Carolina TV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrG308N4Ij5miCcttDo/jzJKYSLoPdPo/S+r1/icdUJMhUzFE9ec70Fmyo2KV+NX/CI6RZgalL7WWbfvonLSjiR9a57xogvCl98WLgxZlyY=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/portal_foxmix.jpg",Portal Foxmix TV (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/portal_foxmix.jpg",Portal Foxmix TV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:KpQd4fxOWpGcuqgGf4+pZKg8dAgBUfod18QSg3gmapVYe3qkDBZqV89wcrCJfTxlRT+YR0Mt65INjTLqejcne8qqksrVbwHED1cADQ08sUA=
 
@@ -1336,33 +1352,29 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4rmZHPuS2UVQvICE/xfkdaUfp/9u7QjkWL+MvKjayn7YaSTVTCUTcEuAX6dfvnVxg4rgL6Ot6hawltLaR8JK5Q==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CcLr5lh.png",El Conquistador FM (Chile)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/rcktv-cl.png",RCK TV (Chile)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:n43v67Q3BA/5+LAMzbQu0YWc/PnZnYNUawYT1fhJMmn9nsuIi4OEzNx1LxIcx/SQ7g5I39RdgmCrK95V8kQsCA==
+#EXTSEC:7H1sAwaJe9EDu40GCCVD60bp6BRFDx1vd4RszprBOM1/ezk3ra4qw5LD/ahx+5zV8x8Kfu5jxeuO0Po4aqxdAoOK4C+jreoWsJbS2kfCSuU=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GQWiS9Q.png",Maxima Radio TV (Chile)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:0DWGJtZACu+Uh6m8Cmt0xNWGF9KW30Jmn6ZrLx7wbNG55zTLu9l2bTZUHS3FNaG+ttfZEJ5qrVLKcXvVRoZk3CR9a57xogvCl98WLgxZlyY=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aBPSij2.png",Telemusica (Colombia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CcLr5lh.png",El Conquistador FM (Radio CL)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:YOAjp1sV608h4YaxraVyVO4u7p6TgZ7y98NU30FNungDF8fm6IHzrT2nAFSkSU/ou81OzampM2hTy+Qtpb61tXb7FdXvthLpu0h//E+TGXhJy5q7qWJYTDOMdb483+IATszDHoF5xpraPMXtT0hPSQ==
+#EXTSEC:jrInftGwMQdbWZzW1YmkjVG1D+m+S4iCbRovtx4CwXtATHcXHB+XFMTiaMimUvFV
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v8Iu8EK.png",Amordiscos TV (Colombia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/29DQNPy.png",Tele Medellin (geo, Colombia)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:YOAjp1sV608h4YaxraVyVO4u7p6TgZ7y98NU30FNung4ONrbiASxaYQLglb9a/pSFb1QAi1/05j9db++lW2iyZag7dwQ1ktOfCfOvZi6f6R6F1ycaLt2fjXGT/2inisvZYRRZYPK4JZt0s2aKpz6tQ==
+#EXTSEC:dih13z7GoXtCkPIkL9BFi5RXwb8WuBEvt/uiBWfrx1z/f9zfXUvPDtDqqpNvJjv6Hx0QiQZYK052LJXTKpMnAiPFqQy+S0DNSSX4gUIBrvajTj3L74A3zcOSo0WOXibAlaOQVrAzRJHMjV2mt8c9xA==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WVxg8A.jpg",Melody Channel (Colombia)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IaIlmQiu3VPqSlsxUxT6oOCFZabxjTWUTzTDA0ar7hKu8vNFZNDzQdVsk7snun2R3ZgsO+Uc+LeiH0ZwT/4QUQ==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/29DQNPy.png",Tele Medellin (Colombia)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:G5dKyBgcAe9dzMWdMakhRlVlGEHS34NWYIw3h85yhi+bAVOUNtkqxNB6U9rhs0tIBWbyf1fKwcQXnqX+27Zb3KXp8L3NLl/TKfRH3K22O/w=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i5wyEor.png",Telecaribe (Colombia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i5wyEor.png",Telecaribe (Colombia)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:bZH8bM6p0PANwP/h/8YxuP/MfdGRFfytL4MFLR8wfvVbWcE/JcyHEnDEycKolRo5dgyULRJtfQ985mmqyWzyRL4JGOmR/br9VLWSwgBfZ/g=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg",Canal 2 (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Qj+MisCvBwevx74hvOinfXa4F86GtHfnA7a3Kk4mQVuk57mgDAwTL5a2doGkgRdIqjL/O9dDEgTQ09IzRJFEkrp9hOaC7cWVCPlKEFURccw=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Hlrdeds.png",Canal Capital HD (Colombia)
 https://feedlix.net/videos/promo.mp4
@@ -1370,11 +1382,11 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f3c5TIR.png",Canal CNC Medellin (Colombia)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:t4TNNcynFw/smN200R60HsNi8mAqZjIqK1LEOLSOFp2FBPg8gKDRDhsFQTpLe57YjWkKvoZxwkBPjs9oOGRydg==
+#EXTSEC:mMeenrtTJDyMseo+DxQBE+JzGyq+eThHVkZpbbsacT6spzS2YY220aAO2XtvtlVSlaOQVrAzRJHMjV2mt8c9xA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG",Canal Tro (geo, Colombia)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:dih13z7GoXtCkPIkL9BFi5RXwb8WuBEvt/uiBWfrx1yW+WaQVSrCs/iVTxRgcxGlw58yRCvfQ6TLII2d28mwIqUn0K6QCWZw9HmuX0Vb23c=
+#EXTSEC:dih13z7GoXtCkPIkL9BFi5RXwb8WuBEvt/uiBWfrx1zT6tGpVGdl1pb1Y68Ms1JkCI5KZXZ9Fl0vdT2hYEYXGbrN7oon+FeJJPBmrv50tCy4YK9XjwKus5PIYmGoO07k
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/teleantioquia2_co.png",Tele Antioquia 2 (geo, Colombia)
 https://feedlix.net/videos/promo.mp4
@@ -1384,143 +1396,223 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:G5dKyBgcAe9dzMWdMakhRlVlGEHS34NWYIw3h85yhi+AOYZ8sYtIm2SQ97cwdvSiTjCTZbF4N8gdOE+vCmI6KfT95dIuA7k0ma3IMeBj42E=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2BpgO62.png",Canal 8 Teleenvigado (Colombia)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:HcxN6Gv1c9QVQ2WJJFr7hgSvZuekkrbeatc9gLelPWtqgPb4+HnHMVn+2giYVSSemEhFXvxOboNMFfTr9zVWAhB+yxbmaiJD3iwXydsD+b4=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S3oXZHo.png",Cosmovision (Colombia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S3oXZHo.png",Cosmovision (Colombia)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:fbBVCNWwcurShzRDTVU29xFhIH82+ZSK/cYHyuHxM5c6Fo47vy86BqBRg64GkM5uf5O0ZxmCkOYb88QIN75/KA==
 
-#EXTINF:-1 tvg-logo="https://tvnglobal.tv/wp-content/uploads/2017/10/tvnglob.png",TVN Global (geo, Colombia)
+#EXTINF:-1 tvg-id="Canal Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png",Canal Trece (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:fawEwUF0HR6i++VVHqbpxYsn2zEn66qYvqFr511RU1de2UwX+sD4XmO1ORjbBiaE5X40sAmti1Zhs0/UUt8ObTOy4WzJ/Xm0bZ3t23B9iVDuDkjf1F2CYKsr3lXyRCwI
+
+#EXTINF:-1 tvg-id="Canal Trece" tvg-logo="https://pbs.twimg.com/profile_images/1038809513665671169/bd1QvPBw_400x400.jpg",PYC Noticias (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:OXu2BhmNldJXSQTH8AgTkYe6uoCkOVbv//BNYGLJd6cKoVG4zzlbADvDvH7Y+ZrT39I54/6w3oyvNwU88nEIzZ/kCkAz2miXb/PCywdcBWE=
+
+#EXTINF:-1 tvg-id="TVN" tvg-logo="https://tvnglobal.tv/wp-content/uploads/2017/10/tvnglob.png",TVN Global (geo, Colombia)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:HcxN6Gv1c9QVQ2WJJFr7hgSvZuekkrbeatc9gLelPWtqgPb4+HnHMVn+2giYVSSemEhFXvxOboNMFfTr9zVWAiYRMIuwzspmb/eOjDGRhWY=
 
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/telepacifico-3309.jpg",Telepacífico (Colombia)
+#EXTINF:-1 tvg-id="NTN24" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-ntn-24-8914.jpg",NTN 24 (Colombia)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Fl82oT4BWEz1/KiIicl7RXXquG4l4LmYu+EI09mFsSxQoxlziGa7Bya6KdkWGOQX5BvZ5FlIHntOpKxURq3Kh0GfsCLdnXvrKWm64mjaZUU=
+#EXTSEC:qApUsmZLdBVriPUYvo6Vy8va8WYYFtRPo0N7VMuVN8OPNt+y7wv3DhpFOdyXM9nBZFtkx534IMnM2lFlXJj7QvdiXCwTdKpyFLizxIO2f+35XUTO8HyXaq0qRQTpxp2aqwHNUVGT0GLjbRX7nb84MZ90J8U1ZgSfdE60UoLothHgpw7sr4EbXnXXE1wGMtJIbmLXHV+kk4PXHFxa9IxqfQ==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4xNgb8H.png",Teleislas (Colombia)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1dltx3v5w0bQAKoQFjQdhOtEFZsAZrhWrQ5W+NpjXgtSvI6aEfF1BFL7n8E+6atGO2vd320h/eqlSJjufnFFnG0aJGC6eP5XbMJNH/NWksGDiuAvo63qFrCW0tpHwkrl
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bc0f530e511baac75d646e34842c8529.png",Zoom TV (geo, Colombia)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dih13z7GoXtCkPIkL9BFi5RXwb8WuBEvt/uiBWfrx1xOH7kuBNvaQ1MEMF67O0L8sBx0O2K1wKQ2D8xWBneIpgFQRuHSMN4PQx8DSqVUyvZV+Wn2ScqbN0/D3pa/jPhMuGCvV48CrrOTyGJhqDtO5A==
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-YxstSjc_V-Q/UTY2MO1jIDI/AAAAAAAADZY/_1KbXla9j94/s1600/tv-agro-logo.jpg",TV Agro (Colombia)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:gHLJxBfwFzyC7tkJGg8ZOWOpjh57VA4nhwK3ur9unPp/3eBTUmLvGnKjAbbzMb6NpNfFheIprQtAmGXcIdWf5w==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r4wZZb4.jpg",Telecafe (geo, Colombia)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dih13z7GoXtCkPIkL9BFi5RXwb8WuBEvt/uiBWfrx1yfNgWkIRYus1cBv+hB323iJOoi0XMfwhc5gOtEpz484YXSQi7KbydL/SBMU1rXq1IonMhgiwwK0twipdvV/t3O
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8A838yT.png",NTV Canal (Colombia)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:S7rihVu5SjA/P1LfBnGB31DezoKhXvNYJmLiN/G/nt2vA76Ngjl15D6wldj3Ecu7oTqLV/Pmglmx2R2t++hDqOrdWPll1xrptMhaoR4tAD8=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6d2fOjq.png",Suram (Colombia)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:yPDNyM2tyHBYgSuWqebjFLDg3ruC8pCWIY5F3YuIo7MxVhF7zD+08oswd/xAiHRuY11q9hJ6Z7uhoR4TPdnYt2BLsoozNKJ7ZKFXLiUJFt0=
-
-#EXTINF:-1 tvg-logo="https://tugotv.com/wp-content/uploads/2018/11/City-TV-1.png",City TV (Colombia)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BxGXVjsgBwLfamFuvoKJSgjy7h4f4ZuTe+QRCALauRux7TbkltPg2Xl7fuaw4qnfTU+BJDfQXg3hZYCIa2R5Mrq6FGwg5Enur3vhGugrsSth+DSnysShDx4rpdyBIX5NJH1rnvGiC8KX3xYuDFmXJg==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sRZN7Tn.png",Cali TV (Colombia)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:jDnTTmmaXLPQWvJP7mtq6+S2+U7MWYUbuXeMOYCI5l7lywMFf0CbHwTcRUo9fFjpr29FJY6w0uz3y1Xto4h62A==
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b7d5803eda0a1cc55c3b38fe8a70b469.jpg",CMB TV (Colombia)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dih13z7GoXtCkPIkL9BFi5RXwb8WuBEvt/uiBWfrx1zxU2n5pjm70QBGR/MnhvjFJOoi0XMfwhc5gOtEpz484YXSQi7KbydL/SBMU1rXq1IonMhgiwwK0twipdvV/t3O
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/fc2208377c43d0cc89e86bfc5ee0e10c.jpg",Oasis TV (Colombia)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:GXlUxSDteUl3kx3nLJdwMEV08816xCMOf5RyqyfeREr3NifKFc8zaeFQ6TFpqLbhxNpxAZNvul8SZ78yzs0/1Q==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png",Mundo Mas (Colombia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CREs19T.png",Mundo Mas (Colombia)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:0tcHiDatww0HMXo/y2nZALm21KKBorY4qiT5cukEw0qmL06lJ+1DU3dpLxzRC64IQjc30gxzpWbs18vBA71I6g==
 
-#EXTINF:-1 tvg-logo="https://www.devocionalescristianos.org/wp-content/uploads/2008/10/abn-avivamiento-200x1481.jpg",Avivamiento TV (Colombia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.wp.com/multicanaltvcali.com/wp-content/uploads/2018/07/logo400.png",Multicanal TV (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SQ69Y43SU4u1PVJz9nQ4x7Vz8onrLsaR6Ml3eTx9Qwzduqa4i7lAa3N339n93aPRZBOnf6sRJY8nsyEj8Wqd4g==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kady79t.jpg",UAO (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:NHJSSnsKBp3g4uesikFBCy/9rxfZex7TROS7tKzVpG64j0g89WQJpPp9f9RefCtabmEvG5p49hBaRD6Efw4yR5VLZsY8aKGg6EAJ6seFgVh32YDisSw23ccWydPaiyBs
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.colombia.com/canales/telepacifico-3309.jpg",Telepacífico (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:HRY9s119ZS6pLd3oo9jUtL6g73yfUwmzZkII1wtkHFgLC77mlI8ZIK00zDrEaGudw58yRCvfQ6TLII2d28mwIqUn0K6QCWZw9HmuX0Vb23c=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4xNgb8H.png",Teleislas (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:1dltx3v5w0bQAKoQFjQdhOtEFZsAZrhWrQ5W+NpjXgtSvI6aEfF1BFL7n8E+6atGO2vd320h/eqlSJjufnFFnG0aJGC6eP5XbMJNH/NWksGDiuAvo63qFrCW0tpHwkrl
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bc0f530e511baac75d646e34842c8529.png",Zoom TV (geo, Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:dih13z7GoXtCkPIkL9BFi5RXwb8WuBEvt/uiBWfrx1xOH7kuBNvaQ1MEMF67O0L8sBx0O2K1wKQ2D8xWBneIpgFQRuHSMN4PQx8DSqVUyvZV+Wn2ScqbN0/D3pa/jPhMuGCvV48CrrOTyGJhqDtO5A==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-YxstSjc_V-Q/UTY2MO1jIDI/AAAAAAAADZY/_1KbXla9j94/s1600/tv-agro-logo.jpg",TV Agro (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:gHLJxBfwFzyC7tkJGg8ZOWOpjh57VA4nhwK3ur9unPp/3eBTUmLvGnKjAbbzMb6NpNfFheIprQtAmGXcIdWf5w==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg",Más TV (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:NWBFFJwBGhi8My6FSGSrd7U13YLUjdYcsjxfGERZHA0xDrg13bwh4NhgS6zXvqDsn+QKQDPaaJdv88LLB1wFYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.colombia.com/canales/canal-c-2584.jpg",Canal C (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SQ69Y43SU4u1PVJz9nQ4x7Vz8onrLsaR6Ml3eTx9QwxmIf5vWcfDVOfPc/7OX+Us3GM9jhLI3spDSEgTaHh4cg==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r4wZZb4.jpg",Telecafe (geo, Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:dih13z7GoXtCkPIkL9BFi5RXwb8WuBEvt/uiBWfrx1yfNgWkIRYus1cBv+hB323iJOoi0XMfwhc5gOtEpz484YXSQi7KbydL/SBMU1rXq1IonMhgiwwK0twipdvV/t3O
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6d2fOjq.png",Suram (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:yPDNyM2tyHBYgSuWqebjFLDg3ruC8pCWIY5F3YuIo7MxVhF7zD+08oswd/xAiHRuY11q9hJ6Z7uhoR4TPdnYt2BLsoozNKJ7ZKFXLiUJFt0=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/24wikia/images/5/57/City.png",City TV (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:BxGXVjsgBwLfamFuvoKJSgjy7h4f4ZuTe+QRCALauRux7TbkltPg2Xl7fuaw4qnfTU+BJDfQXg3hZYCIa2R5Mrq6FGwg5Enur3vhGugrsSth+DSnysShDx4rpdyBIX5NJH1rnvGiC8KX3xYuDFmXJg==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.colombia.com/canales/eduvision-2592.jpg",Eduvisión TV (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:t4TNNcynFw/smN200R60HnomQOo3ITmkTUm+CSlih/oKZ3VXmlojLoaiml59iORxebAUpMCwWnqkw++zoW/TtA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRZN7Tn.png",Cali TV (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:jDnTTmmaXLPQWvJP7mtq6+S2+U7MWYUbuXeMOYCI5l7lywMFf0CbHwTcRUo9fFjpr29FJY6w0uz3y1Xto4h62A==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.colombia.com/canales/telepetroleo-2308.jpg",Telepetróleo (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:yo75WuIZEMFY8v9l3FN29MBmfIRRT0wTsmG5kCdtbR2TxizNvHzHusLnc2lIXz1TD6wieu0KlDRSJa93CODWE0XS8WGrZTF0J0CsZ/XRTaOCWCJR5DJ0dWlEhHfSSVOto5qFZM1AwVb1qc710CVIAg==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b7d5803eda0a1cc55c3b38fe8a70b469.jpg",CMB TV (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:dih13z7GoXtCkPIkL9BFi5RXwb8WuBEvt/uiBWfrx1zxU2n5pjm70QBGR/MnhvjFJOoi0XMfwhc5gOtEpz484YXSQi7KbydL/SBMU1rXq1IonMhgiwwK0twipdvV/t3O
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/teleamiga-1443.png",Tele Amiga (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:dih13z7GoXtCkPIkL9BFi8aMWsKwlUev8/qgK/AXsfDl+77OOZmZOFoXKa0R81B3TF0Rpb8TerwRonh7r0J8xCs1NBk++K0TmR+nfX+7DurKqpLK1W8BxA9XAA0NPLFA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eg47wmv.jpg",Televid (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:VbwI+taznC8MeGuCv+gQ5au9vjf2La9pWJ4DZiCibEIOCKDE83lymZuuXAKsV84F6rpdQgfM5SEGyVNmjRPRyVUMDXYGMyWXWAxZkRum3pzmRMYrSbOa1uXyk6ixaj/iEXFRz0ZTL58Eacq6tV52WrHx8bj4ozYRdav5MbaI6/Nk+RlxKJIJurASyUVcuAvlAv9qsgsPNNt7cxF3X4zsqneZINDyvJpCX6a2HaTGvwDqEenQ9jujccKn0bdi/iudEr+rGLWUgPGkm6/fzoMxSTtL7L3zlazptbJvJyCWwBP6lQ+QuDgEnQ/qr44Ai9NMsy4I5bqDD3TC9rXJi/JJwDjAKknLDUZ9ujND4vuTpSgfXcc6kSXxI2Px2MWHAijuoX8kv4GN9V3uTY6Hb4ODgUBrhpwTJSxtVQyDJLVB0djCDrICuFW32n1uemhfbsXQJ92T8xZBJXBu/9nd8buyag==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.devocionalescristianos.org/wp-content/uploads/2008/10/abn-avivamiento-200x1481.jpg",Avivamiento TV (Colombia)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zjR9gvfqMfEYkWAgXuDJDLrCpVf/uXHEd7wbNQefktAYJ11d6owDsChltwghfmOgRldYiomWZbjyujAd0yDr6a7GkiEwa8W6GpXeTtmGKCs=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7qSbS53.png",Telecaribe Deportes (Colombia)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7qSbS53.png",Telecaribe Deportes (Colombia)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XEeAGm1XxxpGGh/QNYMi9sJAVYPM3DVuyOiRkM0WWl4c8lNSKBXY97jSI51m87ctMpcRClAT2wXjERb3lwCD9dlCcHzzYdGYuvo0sMtypMN/k7RnGYKQ5hvzxAg3vn8o
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cr-teleuno-tv.jpg",Tele Uno (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg",Enlace TV (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:yo75WuIZEMFY8v9l3FN29MBmfIRRT0wTsmG5kCdtbR10YKAHodleGTN0/JUfLlgnA3BPMTG19WTxfkymjxuwXV0vH+nwAtGMIOIt855B4ZBCNzfSDHOlZuzXy8EDvUjq
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Ranchenato.png",Ranchenato TV (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:HcxN6Gv1c9QVQ2WJJFr7hnseY5PtgVhZ5Z9vsXES3fb5mOhCiFirVFjAIYcx89jhS/cNaJCENtnKxQiAsiubuyGRQJ41zj2ZwxWS61zBM/dFe3gJEpAGhOudGyYUg61O
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aBPSij2.png",Telemusica (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:YOAjp1sV608h4YaxraVyVO4u7p6TgZ7y98NU30FNunhIDDyyZak2iJ+JdFovi7q3hznBp2FpNOUG8GSMqVO4n6DfCOLbSnV4W0FXeWe6siaDiuAvo63qFrCW0tpHwkrl
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/v8Iu8EK.png",Amordiscos TV (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:YOAjp1sV608h4YaxraVyVO4u7p6TgZ7y98NU30FNunhIDDyyZak2iJ+JdFovi7q3LosCdTMTo1F/0VspyIxMZBpTl/cy1eoBw9Bg8nuAEuU4y6ISx8mDX2mw5ZyoL5B7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2WVxg8A.jpg",Melody Channel (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:YOAjp1sV608h4YaxraVyVO4u7p6TgZ7y98NU30FNunhIDDyyZak2iJ+JdFovi7q3ktM+wcsI0WSH1Ij3HsjeD59zxE183ckUBtlRZ4MqcJ9fPzHXlKAB/4s0dPE9v9xcun2E5oLtxZUI+UoQVRFxzA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.colombia.com/canales/buenisima-radio-tv-4865.jpg",Buenissima TV (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:whBRq9KtjQj8nSUY+jZEBRm6vFhrh6c/QBKIp1WmWIG/OdH1w6cLXCm959ozR31UyQIcF93fFAfivZUfUDUYSA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.colombia.com/canales/buenisima-radio-tv-4865.jpg",Buenissima Radio (Colombia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:BSHhwWNsLWDOfW6CLgjTGf9ZoB9uqWV2DoKVXlYBHAYCQElxgUlRUWmV6lGWCsLc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cr-teleuno-tv.jpg",Tele Uno (Costa Rica)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vLVABH+jyifhb1LoZKQs0Ke13Maw/3h0ncrBEW+uUO2GCQ4ROTqo7FnUOzb8VihoX6+s4fmQbIFXjoY9IIdBGg==
 
-#EXTINF:-1 tvg-logo="http://www.smotv.org/imagenes/logos/SMOSILVER.png",SMO TV (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/canal-trece-costa-rica.png",Trece Sinart (Costa Rica)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:c/AY0fBlGoIalV5y7Q3GvenkhsuWlcwquPoObs+oZEsTNnsOthk8AGrI5nDM27Gq
+#EXTSEC:5NWdph6noAWb5XQlbrQM1qqUYRG41zW4aFF8OJ6qdRS3tistKDdWrTkNzm8orVD0ITumWS/utZH34Q2Vld4zUu/W3E8J54XeMPxAH5Wh5WVAYuCQjuZdxOpCnPSSasgyibFE3+CJfdBSs+YyXqbAWbp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/ticavision.png",Ticavision (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/smo-tv-cr.png",SMO TV (Costa Rica)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:nLuKB8GL7WHY6Xo6mHOP4z8MgwEluRCf199kR9Z1/hAhdlD9yYPDPT7j8F1J4mtg
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/ticavision.png",Ticavision (Costa Rica)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XNpmqBGwTyeopEBm7ro5zL4vebwL5jCtehv2/JmdV1HNPnfipJ7/raRQMr0sTxzm7g5I39RdgmCrK95V8kQsCA==
 
-#EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/repretel_1.png",TV Repretel 2 (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://si.cultura.cr/sites/default/files/repretel_1.png",TV Repretel 2 (geo, Costa Rica)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:zhZjHRWGMIGw32PLN4/fJs1fg2aWjA6tjshSpZc5PGBwWd91BBPAjW8YXTBObwWMRookrH+1RWXB+y6GEBReaNdiwBSeHml0cg6zAL11+5gsOjFkQMxreQWbi6wuxb3YsvEMSEHcVarxBgQfrL08hlh+KqOO4ztFxLv4knrL6FE3fnZXU/pIhm5+C/t2+m2FZRyfgTvRT9bap6eORHDks5X2jon1WYiRcPBwvhjzAy7vtxGYflxQq38vqb7WFNoxjexQZCc1AwLmInkCnQaIAMNiETe0p0k4YYuKeGJiNH3vSJ6fSNZX6HFvlvOSEewheMrhtBrn3Xznm/F0KnLpKA6P9+AAC1EO3SWzxq/vCFxkX6trbonK2GE22B9KGoME
+#EXTSEC:zhZjHRWGMIGw32PLN4/fJs1fg2aWjA6tjshSpZc5PGBwWd91BBPAjW8YXTBObwWMRookrH+1RWXB+y6GEBReaNdiwBSeHml0cg6zAL11+5i0WJ4Ixfm06U7OUmFF4Xh/XY1NmSVxRPNQdM2h1tfFX62KnLcKeyFXi5xllT8RxmQnNJxDZ8rWjCed1Iybeiz4xsUXZ5FaDA8ZQUciEdaCOZwXuTHIhkM0MbmdnGe9Ft8fv/ytlF0/9tC2BGy8O+OvQApD68dvxiGLvTPgq8sGASFVxT7YzrYOgrsUgulEvqBuhxri+eq+hOtZvwQCZdlmEjbEZDBJNF8/wsggxWCFgpsBDCgVGYKACtwJ8RZahdSxSesFoupq1YRkedo0qHfN
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/600px-Repretel_4_logo.png",TV Repretel 4 (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/600px-Repretel_4_logo.png",TV Repretel 4 (geo, Costa Rica)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:zhZjHRWGMIGw32PLN4/fJjHigrdHbWdzGeSTtZqA6YBwWd91BBPAjW8YXTBObwWMUUEQiDkctpdQd5Ghz1aaWtdiwBSeHml0cg6zAL11+5gsOjFkQMxreQWbi6wuxb3YsvEMSEHcVarxBgQfrL08hlh+KqOO4ztFxLv4knrL6FED76Mohc+fcOBXul3n+FZ8ZRyfgTvRT9bap6eORHDks5X2jon1WYiRcPBwvhjzAy7vtxGYflxQq38vqb7WFNoxjexQZCc1AwLmInkCnQaIAMNiETe0p0k4YYuKeGJiNH1Ihkoarwv1ffK8qnL03SBYBOpF28yiYz6rsHlV2O7WJPr2Qvg3zLblSHjH0JcRGTtz28I1Nm6eQhJU09QHeGQ1
+#EXTSEC:zhZjHRWGMIGw32PLN4/fJjHigrdHbWdzGeSTtZqA6YBwWd91BBPAjW8YXTBObwWMUUEQiDkctpdQd5Ghz1aaWpnx3v+Pygdg+ON14YALnngkfWue8aILwpffFi4MWZcm
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/LogoRepretelC6.png",TV Repretel 6 (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/LogoRepretelC6.png",TV Repretel 6 (geo, Costa Rica)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:zhZjHRWGMIGw32PLN4/fJgA6IKw3iJ/90UuA6WYJOdRwWd91BBPAjW8YXTBObwWMmJjviK7GdPpfzdIvjnJE+NdiwBSeHml0cg6zAL11+5gsOjFkQMxreQWbi6wuxb3YsvEMSEHcVarxBgQfrL08hlh+KqOO4ztFxLv4knrL6FF106D3Rdb/4WRfDtagaf5UZRyfgTvRT9bap6eORHDks5X2jon1WYiRcPBwvhjzAy7vtxGYflxQq38vqb7WFNoxjexQZCc1AwLmInkCnQaIAMNiETe0p0k4YYuKeGJiNH37Ox5tHRND/y4Euu7bRNjrfdNkizL/C8wvV88vMtyfr9vypsv7+Y4qMTS4lh0seoBofCXsAUoyZzyFH5Ezp119
+#EXTSEC:zhZjHRWGMIGw32PLN4/fJgA6IKw3iJ/90UuA6WYJOdRwWd91BBPAjW8YXTBObwWMmJjviK7GdPpfzdIvjnJE+Jnx3v+Pygdg+ON14YALnngkfWue8aILwpffFi4MWZcm
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Repretel_11_actual.png",TV Repretel 11 (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Repretel_11_actual.png",TV Repretel 11 (geo, Costa Rica)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:zhZjHRWGMIGw32PLN4/fJuNcgfPCpjx6yCCwr70Wr3UaXO2XNH6lld998RgNt8sPoDST2o08Lk3fqsJuSOQP++9pzO4V1uIVo3PKbGpqKORD9kJ83HoO08b1/+RuSHZKLcxO9easQ3QGBmbnYSl1JwKSMiffW/kyO8ncLoZxYC9W7z1uWASJ6rJZG5WY2sYdbwzQ36slxlTmUwFBuW5KxI1dZ6v+hXm4N1qY+A7I2uQvGDqlrIyudiH39DJe2RAQYVsiucvTiz4JnlmMdKLLLt8cdINae1h7JKYQUS0PGDR6YtLdTwrAymJLzGxBcr4y0qIQvOTLvJvTEu3ilJhSal8OgnZeUoudqtJZC3ieK6KdGtX/bIaEETqH6XvSe/N/
+#EXTSEC:zhZjHRWGMIGw32PLN4/fJuNcgfPCpjx6yCCwr70Wr3UaXO2XNH6lld998RgNt8sPoDST2o08Lk3fqsJuSOQP+yqRSix0c8kvVZf9rSLBWuLKqpLK1W8BxA9XAA0NPLFA
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg",Telered (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg",Telered (Costa Rica)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:0EjitArhqWJzvKzoRAsyhgqiB6leBsJP9yI0vihPKltx5dh/HRTobPu+yps/DogRGqKs5wtPSuC9ToTFd4ZzWLp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/stv_sanvito_cr.jpg",STV San Vito (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/stv_sarapiqui.png",STV Sarapiquí Canal 9 (Costa Rica)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:0EjitArhqWJzvKzoRAsyhkwiK9KFWOZfEZO551tYjS2YQa4CgzRsJiSx6QHu9hQO7g5I39RdgmCrK95V8kQsCA==
+#EXTSEC:http://tiquiciatv.com:1935/stv/envivo/chunklist_w315183151.m3u8
 
-#EXTINF:-1 tvg-logo="https://telesurcostarica.com/images/Logotipo-TeleSUR-2017-500px-Blanco.png",TeleSur Canal de los Ticos (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Teletica_1982.png",Teletica 7 (Costa Rica)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5NWdph6noAWb5XQlbrQM1r9DnSWS2L9Qd6KMUdOC5ZEhPnGg4NsUt5f8VFik2SOleeEh0t84rrmcdz/MR6fHfZuen78WVGFV60lZsdLTP0XKt9Lfo1KPjMJX/YR4Nv8N6cnZsY87Tyvtoxgc8kUmerp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://telesurcostarica.com/images/Logotipo-TeleSUR-2017-500px-Blanco.png",TeleSur Canal de los Ticos (Costa Rica)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XNpmqBGwTyeopEBm7ro5zK33h/NZGsSLSBfS/BZj3Bmg+Fs8QILsbbavvHG+JOizebAUpMCwWnqkw++zoW/TtA==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/multimedios_cr.png",Multimedios (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/multimedios_cr.png",Multimedios (Costa Rica)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:LaIrhZtpZbt9lwUIRBqfvTwYVYYNX3MThvpS+vITtRPaNA5Nz1E7QgltcbiZNKYI4aJ2U6lzeMix7ILSMxhxhw+J+jhS2N1Gdx/idaC3TL4=
 
-#EXTINF:-1 tvg-logo="https://www.limontv36.com/gallery_gen/314cea1de7e0e690d4275dcec61d5ca2_590x373.png",Limón TV (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-02/los-santos-tv-costa-rica.png",Los Santos TV (Costa Rica)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:flzx2tYW33VSV14DKnKCZdDD55Hs/3ROLX7phUuc7JnBkql7nOGVjOoRkm990UnhcVQGAgDp83uxPM9xdNkd45/kCkAz2miXb/PCywdcBWE=
+#EXTSEC:v0hotDrTOowF/DAfQ35W4KY3Zp1TJ8ncYkf0Ouhfu+mbPBCzklimYpceSGJGB23iojcg2vv8wJDZ1UNX1ob1+Q==
 
-#EXTINF:-1 tvg-logo="https://www.ucr.ac.cr/medios/imagenes/2014/canal_ucr_p.jpg",Canal UCR (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-02/506-cr-tv-costa-rica.png",506 CR TV (Costa Rica)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:wyWLA69RlfCtD3/Y73WTJ8Q3bovO7P80IdecsEGph7LELZETzZCUuNkWBAHM+tphAbo42NAdceXDsQJF5/FYpA==
+#EXTSEC:DkhgGy5G4XtkT4GlfQPC/fk5j/aywMMIY+LbsQ8hpW56jZQXrDZQh+ylJSwchNNkqeqVTJ8wtJ1Vgfcz9opoGzky9jUQsnZ43yKNI/UUkpy6fYTmgu3FlQj5ShBVEXHM
 
-#EXTINF:-1 tvg-logo="https://radioextremacr.com/img/logo.png",Extrema TV (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-02/radio-best-music-tv-costa-rica.png",RBM TV (Costa Rica)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:rIq3n33WsQqoT9Iciu+p1Mb6cIbiDFrISv7O8/tK7z9MVG9F76aUpd26hP0ht5hBvxTEs9rzXbUjh8A9paAFxbp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-01/tvretro-palmares-costa-rica.png",TV Retro Palmares (Costa Rica)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:CcoEo1lS1muiu2Dhk6oSy6amy2RDUNhbzLL9mOqD1WLe4F08SbBUwGUUuUQJU/SZ
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/vision-america-cr.png",Visión America TV (Costa Rica)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Nd87IZ77zzI7UbNF1metCrt2JuOi2ltELu9uxpzNAsYdm/Ja8HW4SyW7sEjsB+lRzDpKP1xjMuoj9Pzpby1BdjpI9CEVzPfTO9PcdRY9DbItPu0CRGtkm8YSVcBiqS+h
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://radioextremacr.com/img/logo.png",Extrema TV (Costa Rica)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Ak/PE6FhVvmqU762f17YsukEx0pOuZyxyfqUPDr+A9vWMdZXVUcXVvDn7D7QlyOI/r6NzU+ACuMOYmKE9XXr/w==
 
-#EXTINF:-1 tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png",TV Sur Canal 14 (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png",TV Sur Canal 14 (Costa Rica)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Nd87IZ77zzI7UbNF1metCrt2JuOi2ltELu9uxpzNAsb6zRoYd++axxrCHac+4+G0K7ZlQhzRX6YsmuAJ5lX7wN2YLDvlHPi3oh9GcE/+EFE=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/esperanzatv.png",Esperanza TV (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/esperanzatv.png",Esperanza TV (Costa Rica)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XNpmqBGwTyeopEBm7ro5zHN4vqOmffLJqqS77WBS9sAH0+GeC+/+KsK/VHf0NumklaOQVrAzRJHMjV2mt8c9xA==
 
-#EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/telefides_canal_40_2.png",Telefides (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.freeetv.com/images/reydddd/images2012/enlacetv.png",Enlace TV (geo, Costa Rica)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:9n77zft172AcoGWe8nOAqPFUlqdMCwB0NJ+SDaZ0cXIV/29hHby3rT7HkA9d0dTf+7Oyd/PMQ2P68gynZCLrEl+vrOH5kGyBV46GPSCHQRo=
+#EXTSEC:Ed+Is5CdOjwkm16PEbqWPncYMwBSbwxKoLt+KNiTuYqLKARU93v2dbZLUFlLlCbTK+5uEY25H0oHExb7DRvIbYOK4C+jreoWsJbS2kfCSuU=
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6OcH0YtYc18/hqdefault.jpg",CTNI (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/6OcH0YtYc18/hqdefault.jpg",CTNI (Costa Rica)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:YEbirTreYURJjYpmQiH6Bfll2zpr7aQ7kP3beYE+/jsLEKCTaibW9zSHRsOlXGooeZskJPIwdC189Uo/CQDTl6U84gIazJbwjTigvwknoRG9HWx/w0GxyZBw8R55mzIGBzerRo1gdK7glYuF8yBCVA==
 
@@ -1528,15 +1620,31 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:oG/+e9o5IYYhKX8GsmDL5aqfvTqefDk9UyIjI2dxuZN+BDdXpfEWtzhoEH8U8jTX
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/colosaltv.jpg",Colosal (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://thewatchtv.com/wp-content/uploads/2018/06/Watch-EJTV-Enlace-Juvenil-Live-TV-from-Costa-Rica.jpg",Enlace Juvenil (Costa Rica)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:VbwI+taznC8MeGuCv+gQ5au9vjf2La9pWJ4DZiCibELqv5VOGA8RRK2sfkI/cDfps1xYktUH6OgJB1bMKX3WhEEzIwB4bCZDinSmkvMNmfHWpPuy57LwxRoNl3ypRpPGtQ7QCaw6anJPErI0HjebqA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/portal_foxmix.jpg",Portal Foxmix TV (Costa Rica)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KpQd4fxOWpGcuqgGf4+pZKg8dAgBUfod18QSg3gmapVYe3qkDBZqV89wcrCJfTxlRT+YR0Mt65INjTLqejcne8qqksrVbwHED1cADQ08sUA=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/oldies-hits-cr.png",Oldies Hits TV (Costa Rica)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:7H1sAwaJe9EDu40GCCVD6xb2hFBM5w61Shla6VAbSuGPxuZxH5x19xe7SY+GjsNaRlHjKvciIm3okFl9QvNn+rp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/W6kFO5i.png",VM Latino (Costa Rica)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:flzx2tYW33VSV14DKnKCZdDD55Hs/3ROLX7phUuc7Jlj7J91Lig/c7fXBzmY8s9HQoYBbsNF8fdg16a7AV3xNQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/colosaltv.jpg",Colosal (Costa Rica)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:RTAoLwq39YkGwWLHZ9eRbhVHdddJBpq+GMEZuDEnjJi+pp+l5n0FtbxxURB4b8B9+t/qW5x1fvbOq9lKNfxJPg==
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ae880030940666ef7e2e65868184de45.png",88 Stereo FM (Costa Rica)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ae880030940666ef7e2e65868184de45.png",88 Stereo FM (Costa Rica)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XNpmqBGwTyeopEBm7ro5zLcF/zfVkmnv0kUOniT++bsXYeVDsw6z9HGbCyGLYKWsm+odBwhs+2GSCF1QA9Qkjbp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-logo="https://havanatimes.org/wp-content/uploads/2015/09/Radio-Marti.jpg",TV Marti (Cuba)
+#EXTINF:-1 tvg-id="" tvg-logo="https://havanatimes.org/wp-content/uploads/2015/09/Radio-Marti.jpg",TV Marti (Cuba)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ZxFL7A25/gkKc4MOvpQtMpXrAM/uCC0kyD5MkR62wN3kAmeVN7xC1eiGhydM65wgyz7tMttUzjCBnitAU1trxQ==
 
@@ -1548,47 +1656,63 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Y/WCEHdOE9ewzjWJ0nbMUB4U8ixSYruoiz9O8d+UhJLYiNnPhfVrMCfcWiJQfWhClaOQVrAzRJHMjV2mt8c9xA==
 
-#EXTINF:-1 tvg-id="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/RTEspanol.ru.png",RT Español HD (Cuba)
+#EXTINF:-1 tvg-id="RTDoc.TV" tvg-logo="https://feedlix.net/tv/ru/RTDocEnglish.ru.png",RT Documentary HD (Cuba)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Y/WCEHdOE9ewzjWJ0nbMUB4U8ixSYruoiz9O8d+UhJLYiNnPhfVrMCfcWiJQfWhClaOQVrAzRJHMjV2mt8c9xA==
+#EXTSEC:KDUtT0a57FPsRWXo65sNqh4U8ixSYruoiz9O8d+UhJLn4oRveGxalJdEQ1ct0HcGlaOQVrAzRJHMjV2mt8c9xA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_espanol.png",CGTN Español (Cuba)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:wuAhxWJePAzoOCJox6MbMPaF/xj9LCFJdehpPuKyv4SsYawzu+TXFPTh+xzjmuIs
 
+#EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png",CGTN Documentary (Cuba)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:yxHBfDzCqK/a8o2EedOl7qsNvedso7uhgaG7tGthdhQRYblB8eJL0fqXFjNhjZI2
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9D9G4co.png",TCFM Tele Curacao
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zrx6y17DsrZTMwfJUHK7pPpxY0FzsTdmS72HDHjzqUGTMnMc0wteln3SM8qCsEuaS4taaIdoA2H4HdcKba6dwtmDtQG5JKc2tcRjyrx4f2e3E0+T5zB733V8EI5jEWnb3ZgsO+Uc+LeiH0ZwT/4QUQ==
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/de/5e/01de5ee9420db9142415f0410f310da2.jpg",NOS Pais (Curacao)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/01/de/5e/01de5ee9420db9142415f0410f310da2.jpg",NOS Pais (Curacao)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:lgvbNbb0NoluTbZSr6bQQ7Uv4zAz+ldQkl8mX5aqB2nr8pua5xOeCt5rOrwgTSd571Zh1w5MHaCAgcjcanbIig1qQlZXVrxpdMimCaWzDkQXp3k9a1S3t8HxbmE71JjTp4LuwmG4wkE7b3II1rZX/tzAV3AIqdZw4N6uM9uDwH0JW5ucz8PVKaAbwMEe0ibSIkAwh8RDPBVV5g3QX3Tx1SbN8CrDsgjp3Aj6HIx3SIly6ld6frk8XqGj4VEBSQLvUms5yvDi6LLMJtENV222GgbywrWUxZXdoMGGks38tts=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png",RTS (Ecuador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png",RTS (Ecuador)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:URy/ZqDJtLFzOCUsY6oNuZ8/gRiumpgBitG4V3AwYU2DiuAvo63qFrCW0tpHwkrl
+#EXTSEC:L0UaHBNHPWfvihZOPq60RxIYUvKjEu185qzuzygRi+5YJoY+8q+gpw+ia7v2PYtF
 
-#EXTINF:-1 tvg-logo="https://www.radiocre.com/wp-content/uploads/2015/06/logo-ecuavisa.jpg",Ecuavisa (Ecuador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/609089962995253248/nKo10DTs_400x400.png",Telerama (Ecuador)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:URy/ZqDJtLFzOCUsY6oNuU2QEqXe8qkzhh19w5UN8IuDiuAvo63qFrCW0tpHwkrl
+#EXTSEC:UDTfecLAX1lQ3NUtVWkmiBlGxKtY/3+w5R2n1IEX8Bs6Rglm/4feUkRqWEO9+OHJun2E5oLtxZUI+UoQVRFxzA==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/zaracay_ec.png",Zaracay TV (Ecuador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://photoartinc.com/wp-content/uploads/2018/03/tc-photos-7.png",TC Mi Canal (Ecuador)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:L0UaHBNHPWfvihZOPq60RxIYUvKjEu185qzuzygRi+4vJfu4nQZ8eFDAkqaDhABH
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.multicanalcatamayo.com/wp-content/uploads/2021/03/Logo-para-pagina3-300x69.png",Multicanal Catamayo (Ecuador)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:5KfqLClNQHoXJ4coOR37m3yZ/31bRvzjAlJkGYQOoDeTDbLwmSr5QRuJEP8XT2HcfjJbh3wDkZWh8RxuGCvEgA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radiocre.com/wp-content/uploads/2015/06/logo-ecuavisa.jpg",Ecuavisa (Ecuador)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:L0UaHBNHPWfvihZOPq60RxIYUvKjEu185qzuzygRi+76scerrUa8AHhZmq1IXazK
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/zaracay_ec.png",Zaracay TV (Ecuador)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Jb9ec6LidlIZy8gkjuy6D1/sFeaOxjragj0ezWPM5Po2SdTuUqeJxqaMhpLOQUe7+dcX5s5+3XvS1qCxocftfSRX+giWTiLstxkvLqdC8bHuDkjf1F2CYKsr3lXyRCwI
 
-#EXTINF:-1 tvg-logo="https://pajantv.com/wp-content/uploads/2018/02/a79c12_f434c94e39cc47ee974f8180bdab49ab_mv2.png",Canal Uno (Ecuador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://pajantv.com/wp-content/uploads/2018/02/a79c12_f434c94e39cc47ee974f8180bdab49ab_mv2.png",Canal Uno (Ecuador)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:URy/ZqDJtLFzOCUsY6oNufv3wZJfRlq8RVydV64dZByDiuAvo63qFrCW0tpHwkrl
+#EXTSEC:L0UaHBNHPWfvihZOPq60RxIYUvKjEu185qzuzygRi+5Y83Gyks2sDlZ4n8/cAnW5
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/of0fNUU.png",Teleamazonas (Ecuador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/of0fNUU.png",Teleamazonas (Ecuador)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4IWi1UOeqNDA74oAXwdfzOdj5U+TUl93a4cbhTX+dd0JVi2xKufmA5IaOOs6KpZlqg/HLkLutiZRntfqJbHu2YXOw+MB5+YKS/N0n6iILu0=
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1283904488462585856/8hGJmUDj_400x400.jpg",TV Manabita (Ecuador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/2c0c3a77e41135193f0d7790ba36711e44b7bf7574ab651ac3e61c2589de014a.png",Ecotel (Ecuador)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:pd6mH9W9sOrFLEVgR23bvp3t6umT4kH1iX++rC9CP/9OVZR0kmUFJFqsZTo4ZMrz7g5I39RdgmCrK95V8kQsCA==
+#EXTSEC:4sZdB3y8E1cPlBwLCDDuoe4pvrWMJzzB6fCyXF1cJqzfxPx6ASMA0ny8+o5db2inun2E5oLtxZUI+UoQVRFxzA==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/otOhIe8.png",UCSG TV (Ecuador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/otOhIe8.png",UCSG TV (Ecuador)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:DqnHzcHznzYl7WSpldkL9xj1DfZhHh8kE6p/Vv/kRZiql9+gCE5jjmUyg8VxxYLaOF9WvC7sxkBRm1O1GyN0JQ==
 
@@ -1596,81 +1720,125 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:pQewIgox9lldwUU8SFz1oqNAjAEXbf8QDUE+AMKlyKJWLJRiJkJ0hBD07VpcXec6t/iNeD1cwRG9qPL2panP37p9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5N6sQQcE-uE/hqdefault.jpg",Asomavision TV (Ecuador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://blixtv.com/images/gamatv.jpg",Gama TV (Ecuador)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:L0UaHBNHPWfvihZOPq60RxIYUvKjEu185qzuzygRi+4vJfu4nQZ8eFDAkqaDhABH
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/5N6sQQcE-uE/hqdefault.jpg",Asomavision TV (Ecuador)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:OnqMr8ba9FubupBz2zFlM2P7UTjeILHPWHlHwAWAiXk5tzI5guCU/DOouPLffKlBUFAU5fOpkdgboAaWWV9OCA==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8D1LrKO.png",Canela TV (Ecuador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8D1LrKO.png",Canela TV (Ecuador)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:67ZwH8XxZvKP0GhSDjJMgzz8Pc9oSa4ur7gm8K8lh7fFw+BTUCZ+qjh59l4sff10+fesjrg4VGztfMB/AdrAjYOK4C+jreoWsJbS2kfCSuU=
+#EXTSEC:67ZwH8XxZvKP0GhSDjJMgzz8Pc9oSa4ur7gm8K8lh7ehW5N1kngmQN94VUY4aOUUu/Ic1qY3PCAXjTXgU9o3S4OK4C+jreoWsJbS2kfCSuU=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iNmceyy.png",Wow TV (El Salvador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iNmceyy.png",Wow TV (El Salvador)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Yz/eBTrpnKWrO4yEpYuFXsMztbQNHNTH3xZiMhQuNHQKXj2eKtkFpzW+5zT/5QSqJ0frekYXzcJyOqBXepG+Ug==
 
-#EXTINF:-1 tvg-logo="https://orbitatv.com/wp-content/uploads/2020/10/ORBITA-C25-blanco-scaled.jpg",Orbita TV (El Salvador)
+#EXTINF:-1 tvg-id="" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-25-sv.jpg",Orbita TV (El Salvador)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:BMF6b9qdxR0POn5rtOXbElRN6RmDJrxnLuzCDjIBP7Al50STDWHJ/Oqg2RhUZ+8VLMTuT8VpOktMyH+GfKoE/a9vRSWOsNLs98tV7aOIetg=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AonXAXu.png",Elim TV (El Salvador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AonXAXu.png",Elim TV (El Salvador)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:VIltRSyIvoceDt0RZutucgh/HoUrlQpLWgvkb8gyRXPxHlB82DFAwM6jaBYFsYDEEqJB0yMaYwiV4s1xZ+/ILD7iJeZIkL6JDdwSezceopo+zNjQ1ikWGqnCl8anjkDx
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7IsALe9V0Dc/hqdefault.jpg",Meganoticias (geo, El Salvador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/7IsALe9V0Dc/hqdefault.jpg",Meganoticias (geo, El Salvador)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:pDquuUeOxPItmgbCjPDxxiSYbRCBOBbNVHf3mABC2alsYKKBDS58BQsqZun+iCQ9TvUNyaq4e2pfg8EaKtsKfLp9hOaC7cWVCPlKEFURccw=
+#EXTSEC:pDquuUeOxPItmgbCjPDxxiSYbRCBOBbNVHf3mABC2alsYKKBDS58BQsqZun+iCQ9Qk3nGjeuJI5CtUA/4+ne/D7oHa17p0w9jxrTNsq6LxlKClpWX4Qm9Z6fb+N9++nn
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e9/02/64/e902646835ece5574b255ecefa3d667f.png",Canal 21 (geo, El Salvador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/e9/02/64/e902646835ece5574b255ecefa3d667f.png",Canal 21 (geo, El Salvador)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:BT0CAjUs4NJRS890LQMF0JdcodNja+EK2nZxGZS1dT0gWyw2XXFNN1/AVzG/BstCXPWy32auMoflnApSBlqmPANPlkP5KpWBpfFbZp0/GmRr+ErEpRPRLE4mQUqAK4Is
+#EXTSEC:pDquuUeOxPItmgbCjPDxxiSYbRCBOBbNVHf3mABC2amx8FK1IVcbfUan5Kh4nYqoUGAQMFUZ48BKLL1Spoj2jz7oHa17p0w9jxrTNsq6LxlKClpWX4Qm9Z6fb+N9++nn
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TRV.png",TRV (geo, El Salvador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/TRV.png",TRV (geo, El Salvador)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:pDquuUeOxPItmgbCjPDxxiSYbRCBOBbNVHf3mABC2anfGfDnq3t2H7fZxNtWm4TNXxTSsDiRhhuUcBEEBoYLDhHec/7d/qAG3aiEmJScvFI=
 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/canal_33_el_salvador.jpg",Canal 33 (El Salvador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/CtuPEiRWIAAMDXI.jpg",TV Cret (El Salvador)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:DAJtM0jFBOUy52HgomgJZEc4AptqCmf9tm4w2QobknR2PzUPPA1JqO212EDQBiGdUlXnwLGOnHa3edXmdsR/6ftSkWQkJsce71eYr1VD4ves4uWva/1P2/BJBTh9mqg20P23lrcbBh6faC4KqMiIEQ==
+#EXTSEC:GWOXCkA8At4No7QvcJiIwqBOmXJdtAX3mn0K1YAc1PzTm8z0Msf+26Aemm2aLkYl
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/soltv_sv.png",Sol TV Morazón (El Salvador)
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SlzJgoN.png",Television Católica (El Salvador)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:CKXHq2ld2Kv8VvEA0pciQppur2GSxEDzr4CGz0FQzr1yTQjmpwCuxa4bozNnQzX5YqB2412cTRcx02kDDSOg2w==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://theitseries.com/wp-content/uploads/2020/10/El-Camino-Live-TV-Channel-El-Salvador-min-375x195.jpg",El Camino Tv (El Salvador)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:pL9f4nRWkH75sMzrkiuZXXCH8GaMpRGlwM9oDaSML7tPfC+U0QBIJDvGBoaJNZaQkTQZbFNMr45kvVDywK1WA85aX/fBLsQZDOF7cVdnRFM=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.freeetv.com/images/02_logo/canal_33_el_salvador.jpg",Canal 33 (El Salvador)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:DAJtM0jFBOUy52HgomgJZEc4AptqCmf9tm4w2QobknTwIh6K4+qHBGZPnUqyREAgCD4RYjT2Ua2L41BOFhOo3JBuI+8T1/euihJNMRPkLzp+UW4PFC80EcUSupGVulkj
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVX_El_Salvador.png",TVX (El Salvador)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:0y8GRjX6zMTs6gxFlcDx7v+fhz0T7dr3dkRXH7aOM7SSHiLsmQaipMnd/8HMO6QPVewbLOgNtvF9ejc7nYOIEQvDddusd3fbpibjQ0TXUoFsvovkBYV8XcnO1sCPYAfHSYXwOFEvDvf6PJWWW3FkYZm448akLH0Rk0W4mDNud34gNJPvlmaU3FslkfaFohhudSweTYBVvpX+SbgmRYmjfTQgKHEtcceULIdd68sotr5n2MYZqW6uHtZbE62KsmSwIC29Y6gTeg5eReoc9CPNytGY91acEu5C/BpohWghXy2Sx2R8BaHK0m/TNVG3EAYW36MigVl1VqNMQsNW2fSlJPDyPddHLLzTJXXbT1edcJiT7WDh+0Fhy+hjD+sKId0USR5xaGvR95ijy2tHpHHds1Dz/5JloQzJCrL6/YGWCgZldjzaaBThIT2zSBh/e61n6jIWwkg+YJBAL14I8Vz+h8ag+KCisM5OrcNNVC0P5wk0jN6bPCLY+wgnY2BT5F27IgGQlfCSRKcdCfKset2jMLkiF4T+7aav3Gw9LWXGPTYYF0LeWccEmTLkUKgw85B+sMBpWNjl5sx931fGvMtxRH+7J/+mniw/DvXn18VXWMAqeZm9Gd8QV/iluKRBSx7DVUhJkqo8DIxI6Px5IMDMwcn28Z6glRdtXj+N47Abzp75dlkH/q37kTobn/uHpRcvf0DBa8gAiYWVa4ICDZeGQqCzgEvNc7Fsbkye27bNQc8AfSGlJSbB8uqZJOfSNMu0sQ639CdNl1zKvjNnWJhI9CR9ICMSSKwsubr0TWkKmVHJxyYTvwXB05RDgYws9irnc5nLX3WmDKxBF7MlSWlloNhp0x8w91du4z3+e65Az+d0M4+V+wxMsCo+q/WYQFVTAeHTA3wrN/++bZVPbHSWTWSqmTuLL6TOGFRrrj5JmaTlSfteiMVIdb655AhiKrnEucJloatKaBmNBSqz0pxpOOB9Zn5zuv2VfIvMeAuE6UE2YMieJ8drwtfYyeDLEB4PaVOJJyFhAW+Mgd3TmN5H/Swq+7VrQg1e6OWCG+fMBr6DhTV5movx7H59I4+aGgYoTYn4cA6PMEZSqOThYQiFAZxM+KAD2IzyCc3Pl5gIuIiQ4CEK7ATSLdUvViY0FcsbghVN8sZGcslF7Vzpns+W8pvnN2ZRde9yqRYe8qR8jPAFBsbFzxacFqf4vlTyoDjMwEeSLmoJsWshsKJ3T2bwkey5tRcTpSQPpdKC36RQLUP580NyWwS8ApiR1LAooFhmIs3okXZaFdOVCOcP9240+GxskP/Q3iTDjS39sK2efRFYeE0ZuyBvm+0/uiXpm8MP5LUayFmumEOUngCPcKxqMspQIkuQi39CITI8WE5/sqYyVx3O8HraNKZhRqv7uP8zun2E5oLtxZUI+UoQVRFxzA==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/12/fc/08/12fc082734cad47a4fe3f40f25f006a1.png",TU TV 11 (El Salvador)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:mrJthoqKzlNux2FYNcNCmCEG9vsn/4yAfx9R47AwtP791/JSPMypD9mlwveCVTd2FtyB5OAE6LfZ3xsPoHtU0w==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/soltv_sv.png",Sol TV Morazón (El Salvador)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:oG/+e9o5IYYhKX8GsmDL5VQEVEPg7ZY/W9eQ2gdi6QPfiVsmvmBn+JG2zTmmIh87Ys/u1SGcEun8zZ7skmSHwQ==
 
-#EXTINF:-1 tvg-logo="https://televisiontma.pagesperso-orange.fr/Images/Logo-TMA-pour-annonceurs.png",TMA Caraibes (Guadeloupe)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/mi-pais-tv.jpg",Mi País TV HD (El Salvador)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:DbPbRfUadlAmpa391Yzv7fk0fEktxkUqAZASrFKnMDz4cnNMde0qdNLjqoaLjYXvr29FJY6w0uz3y1Xto4h62A==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://televisiontma.pagesperso-orange.fr/Images/Logo-TMA-pour-annonceurs.png",TMA Caraibes (Guadeloupe)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XMza6itfytgodEb0MWA7CKYXKAup26CNfSXwxhH6Em1/k7RnGYKQ5hvzxAg3vn8o
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/guadeloupetv.png",Guadeloupe 4 (geo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/guadeloupetv.png",Guadeloupe 4 (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JnRa+iz2suIcIFeKrZL1JsG8CUux/SwPDGAjXFWxqqdQhTuYqeClxd2HjHGsmQ0VNxy0IRSGNjRxL6J3TDSPbrp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-logo="http://www.centraltv.fr/wp-content/uploads/logo-teveka.jpg",Teveka TV (Guadeloupe)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 (Guadeloupe)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjw39e2lrovOxk37uyGcnN8LThNUI4PwUjk3MnFQHyrGHg==
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/logo-teveka.jpg",Teveka TV (Guadeloupe)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XtN93Q5uzvIbj2fGujRMe22vezQ7Pk14KcMvh/zy43Nmel/QXd0RRJhXQiA5lH9jdx10r/Jg5fCmj6WD47EiRA==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/tvfamille.png",TV Famille (Guadeloupe)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/tvfamille.png",TV Famille (Guadeloupe)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:4T7TlJZnpbrQErLkUYWtIsw/UmQQAWb/oBARyVzaHBKE/a7Gfe86oPWOOhifJ0nqlF3s43TDppHJAQ2+TYgQLLp9hOaC7cWVCPlKEFURccw=
+#EXTSEC:4T7TlJZnpbrQErLkUYWtIsw/UmQQAWb/oBARyVzaHBKE/a7Gfe86oPWOOhifJ0nqCvw6/dfbaYGwopFsJN9whWNRw1d2hX8NCuwqvWlap4o=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/tvq_guatemala.png",TVQ TV (geo, Guatemala)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/cropped-gtvicon-1.png",Guatevision (geo, Guatemala)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2Ua3PZrjC5lmbTe50cVHXlRO6U6WTud8aN0zB4SpazenFkDrR+LRN5JrkvrbU7mxwo2TJe5BRoJZnuUoFuKZ5lX4Dgx9RuWPrndW9VGDjcY=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/tvq_guatemala.png",TVQ TV (geo, Guatemala)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JnRa+iz2suIcIFeKrZL1Jgv5ZyxJcZ/+BqK7M/SS1eI9JA2PK3MmEy4VX2+KDKHDqjY0LBlqpDhECN/akcP32LNp5/D8FJmXbOITYFAL/2pr+ErEpRPRLE4mQUqAK4Is
 
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple18/v4/47/c0/5d/47c05d4b-4f78-d170-84dc-d564569ec8d1/source/512x512bb.jpg",USAC TV (geo, Guatemala)
+#EXTINF:-1 tvg-id="" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple18/v4/47/c0/5d/47c05d4b-4f78-d170-84dc-d564569ec8d1/source/512x512bb.jpg",USAC TV (geo, Guatemala)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2Ua3PZrjC5lmbTe50cVHXlRO6U6WTud8aN0zB4Spazfw1kjI/P3slvM/4AT80t97MUwOeP6WCQtpsypt0WAR8YFU74QaVwid/hRzxXp1qqU=
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-antigua.png",Canal Antigua (geo, Guatemala)
+#EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-antigua.png",Canal Antigua (geo, Guatemala)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2Ua3PZrjC5lmbTe50cVHXlRO6U6WTud8aN0zB4SpazddgK/oa+JaujHhyJyj6jpJqHnZ5ieVTrKOlKexd/o7gY4kv8p5akB0SxveXY+VBoE=
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-antigua-deportes_m.png",Antigua Sports (geo, Guatemala)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-antigua-deportes_m.png",Antigua Sports (geo, Guatemala)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2Ua3PZrjC5lmbTe50cVHXlRO6U6WTud8aN0zB4SpazdAFmQbLeVjbfbUx13PMJQnV8UnI9ibnV2sJUbq+Rvqkc6Csj/dNGg53CQT4yGn3e4=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/teleboston.jpg",Teleboston TV (Haiti)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fc474702a05c6c10c7186d240a664e28.png",Presencia TV (Guatemala)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:lTaEJeRdaYP19eDdWRVdMrY28AEr/uMSO1buGmkx1gYlG4zyzdqxvemxQjyVeZQG3ZgsO+Uc+LeiH0ZwT/4QUQ==
+#EXTSEC:PPJkS5avas7OMImxi9xfhOLp+V0PKbrOxuipmZwULixfryDdxQVF5vdMwiTUJaRq5Y8LGbTKfflBSRStlbGkzDxgKOYd5XIAdgilWl7shFeDiuAvo63qFrCW0tpHwkrl
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canal27.org/wp-content/uploads/2019/01/logo_c27f4.png",Canal 27 de la Esperanza (geo, Guatemala)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:JnRa+iz2suIcIFeKrZL1JjxFdZAG155oymFZ7kimfsI9JA2PK3MmEy4VX2+KDKHDGbtEBDm+5pYd3aBoS8vrD7p9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/teleboston.jpg",Teleboston TV (Haiti)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:MSJdduKw19hrzgePZ8F/mMehZFkE++3qtg0VYPACgjxdwAWRJrGVzbF8Ks79zjg5ILZeB2Vt1QYUdWs+GyV9Nu4OSN/UXYJgqyveVfJELAg=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vZmlq9N.jpg",Tele Louange (Haiti)
 https://feedlix.net/videos/promo.mp4
@@ -1678,95 +1846,115 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/kajou-tv_logo.jpg",TV Kajou Channel 9 (Haiti)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:DVFFZ3floG/WQb8K27rDp31d4GVPQywzBkkQM+uF7+kMyAW8ME6lFnYNDoKjbBbzBtlTYZJiKb9y0jPz2aZj3rp9hOaC7cWVCPlKEFURccw=
+#EXTSEC:DVFFZ3floG/WQb8K27rDp31d4GVPQywzBkkQM+uF7+lOwzJEZpcnZf4EfhaX3TYEqOAqhLnGOsYOKYVDnQr1IuKBDb/7MFcJWEbJytQ8VPc=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yYoEk8m.png",Radio Tele Eclair 4 (Haiti)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:6mqSYRVy0napCf2e6sGLWfPPvEWChO9+FoZyo2BnDcJQ0vt5eLgX6X+LEZbAew3vg4rgL6Ot6hawltLaR8JK5Q==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uisopuM.png",Nago TV (Haiti)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cwoMLw3qKaSfpe9b0junuzf9C0+EcZA/2um/vwiU3lwz1XQ/ok0g5B0l/hD5oGYSg4rgL6Ot6hawltLaR8JK5Q==
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/dbm.png",DBM TV (Haiti)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:LmEPgduxjQa7CFxi/Fil5ueKl7iHfp/wKau/BJnt+SnFRjEs09uk3vcAjlWGRR4+uSp5kI5FD0ha7+g8kujJLBqbhOQuVJFYg7t7GAlrZIfU0rh9S+DEDq0hjO1/1eWf
+#EXTSEC:aX7/pzCzAqaUksQydUFTWF1tMF6hqpiaCA2vvYeotZUjI9/hAUKxGUSxz/LTWsUK3mo2Qh/hyDl9bH3RxfkBRg==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5nYeBNN.jpg",Tele Haiti
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ez+DlbYCJdsg60PAg3gtvEybCUnZpfDNL5Y/5RaTrShgtiaSBb+lV/ZshoBHUK/er29FJY6w0uz3y1Xto4h62A==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mIMat1y.jpg",Sercano TV (Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uisopuM.png",Nago TV (Haiti)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cwoMLw3qKaSfpe9b0junuzf9C0+EcZA/2um/vwiU3lwz1XQ/ok0g5B0l/hD5oGYSg4rgL6Ot6hawltLaR8JK5Q==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/dbm.png",DBM TV (Haiti)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:LmEPgduxjQa7CFxi/Fil5ueKl7iHfp/wKau/BJnt+SnFRjEs09uk3vcAjlWGRR4+uSp5kI5FD0ha7+g8kujJLBqbhOQuVJFYg7t7GAlrZIfU0rh9S+DEDq0hjO1/1eWf
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mIMat1y.jpg",Sercano TV HD (Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:d08f6ZjqGjzZBaW8QVCjSLIZMHgYByZKIPMFLKTSZMhwIsKQ5O1GQqzGlHcMIcxTrocsGKJUZOBBqfJmkE2CsbiEvaZtvwrIVxjhVtrm1ABxBX5nJQBMOWDXi7r+maDY
 
-#EXTINF:-1 tvg-logo="https://canalmvc.com/wp-content/uploads/2019/08/note.png",MVC (Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://canalmvc.com/wp-content/uploads/2019/08/note.png",MVC (Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:GXlUxSDteUl3kx3nLJdwMEV08816xCMOf5RyqyfeREqV+eOvF4/yOsY/FQ4TQPsVw0dGClNUw5NoHY/aJk8HemkTAi7l4Uutbdlm06VF6C8yLbctzFSk+F+jH8VyAIGq
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/campustv-hd.jpg",Campus TV HD (Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/campustv-hd.jpg",Campus TV HD (Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:n24zSGud87yyxbqOPMcv7DRTkM/UbEGB9hip6dJ517iibBh8jAWubsfxAxEFQYLsun2E5oLtxZUI+UoQVRFxzA==
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TEN-TV-Honduras.png",TEN HD (Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TEN-TV-Honduras.png",TEN HD (Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:d08f6ZjqGjzZBaW8QVCjSLIZMHgYByZKIPMFLKTSZMhhLkb3bo0xcOUY4ni72dQ6HwP8X8Ee7THDYd9H7u7YfJgN3EVndVUhWOtI7AXERbkP/2oZwbo0J1fTF7XQFjC8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/globo-tv-honduras.jpg",TV Globo Honduras HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/globo-tv-honduras.jpg",TV Globo Honduras HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:DbPbRfUadlAmpa391Yzv7fk0fEktxkUqAZASrFKnMDz68EEYyEbfc1sAJV9tRLQ2r29FJY6w0uz3y1Xto4h62A==
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_teleceiba_m.png",Teleceiba (Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/hn_teleceiba_m.png",Teleceiba (Honduras)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:UM970OnIuiSRNBicSYib4hx/NM3gN9Eg+yiYBDA1gpqnCLlYXcO7TfrM7zNiJZt2syrRV007a9stnpfeKGfEOw2hN83E9nQIyDIiG+s/4Rg=
+#EXTSEC:UM970OnIuiSRNBicSYib4rWFoNo2KwWa/T2cX7MTmCznXAgVdQUS60JMposkcAe6
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mmxfC0F.png",TSI Televicentro (geo, Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/ltv-hn.jpg",LTV (Honduras)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:k4pXBxFyk7vT4gsVaIQCtYzMe2jB4tRjx69LfRI7tOAIlhARgrvlPMPsOr8fWP2W6OOBZErBHGM07sovHnZbkAK3VR8AGJtW4pwl9DQ4Fck71vdoMo0CseydLV/L3RI2xtH9OmcMEcB4NJk5UOnGr7p9hOaC7cWVCPlKEFURccw=
+#EXTSEC:RqCqdDmHtM7xJUR1rYMBJhMPU+M3fSUC74P73meMFCQ/ywcBulnOcvTjhxToj5353ZgsO+Uc+LeiH0ZwT/4QUQ==
 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/jbn_honduras.jpg",JBN TV (geo, Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.freeetv.com/images/02_logo/jbn_honduras.jpg",JBN TV (geo, Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2Ua3PZrjC5lmbTe50cVHXlRO6U6WTud8aN0zB4Spazc1kN0M8Z7bedUwPdbHua5aZr0one2sEO+8XuKOZ/p1QRS+9FfsqfsrYsLU1bEpBiA=
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0zn8qLvmZdc/hqdefault_live.jpg",HCH TV (Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/0zn8qLvmZdc/hqdefault_live.jpg",HCH TV (Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:NRyazHKZ9v1fDBglTz8haufEbxylBhVc47p3rSNVQxjxy2QfLRosCILy9ae5oTyQS/0se0Y0bb9llbHR9+GZt8Vm+RXolB7eq1ZJ66z4uvs=
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/favicons/d29582be5673770111a78d77db5250ddfe9f346e879798c941287de5.png",CHTV (Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Televicentro_HN_logo_2020.png/640px-Televicentro_HN_logo_2020.png",Televicentro (geo, Honduras)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:k4pXBxFyk7vT4gsVaIQCtYzMe2jB4tRjx69LfRI7tOAIlhARgrvlPMPsOr8fWP2W6OOBZErBHGM07sovHnZbkAK3VR8AGJtW4pwl9DQ4Fck71vdoMo0CseydLV/L3RI2xtH9OmcMEcB4NJk5UOnGr7p9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/favicons/d29582be5673770111a78d77db5250ddfe9f346e879798c941287de5.png",CHTV (Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:znJPmYC7D8CABSA2EpDP12YwXAU5CCE0+/syCexwpDjNnR0/eUpFjNG89FB7E1yWzxZcLtHh9gJnsR2x2zOsTf/xWwzFoYZ4xsprS+8ga1c=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qRHwhND.png",Cholusat Sur (Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qRHwhND.png",Cholusat Sur (Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5cbzKBUxuI2O4cUQ4ApFkyRbFYqAHZBzHWV9byrrP7e7U/oBjEq1NKXP9n/tvWNaqItuspUA8UtksUh++cKqfW778OC9fzjwu+frfA09EEg=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wHQOLAL.png",CCI TV HD (Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wHQOLAL.png",CCI TV HD (Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:t+9Inh4WfAPUGUJ5wVx5sf2GmQUGIgTNhU/E0BsdI1Z9onEkXZO37iRC5StWK6kcyqqSytVvAcQPVwANDTyxQA==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ImxGqTN.jpg",Q'hubo/Si TV (Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://stnhn.com/wp-content/uploads/2020/08/STN-HONDURAS-LOGO-FINAL-e1596496434561.jpg",STN (Honduras)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:n24zSGud87yyxbqOPMcv7GhiiwV9B/UPJSmLOLzoekngn+Bjaubiv2x2CcRC1ilbun2E5oLtxZUI+UoQVRFxzA==
+#EXTSEC:RqCqdDmHtM7xJUR1rYMBJhMPU+M3fSUC74P73meMFCQ7vMhcQTDZ1+1JzSGWA1u53ZgsO+Uc+LeiH0ZwT/4QUQ==
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/tvcris.png",Ebenezer TV (Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ImxGqTN.jpg",Q'hubo/Si TV (Honduras)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:RqCqdDmHtM7xJUR1rYMBJhMPU+M3fSUC74P73meMFCR1X/4Ns/GYyy8kCv5dB17jI9RgKNk2ZbX+dIAywj7uNTrKEVGYFlca1X1cm5iT/dw=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/tvcris.png",Ebenezer TV (Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:+1JoqjQLLJceknJxUCgxYm7ZjvfYF3hmrGvvLQrv3y0coJZODUxFG1qXy47MUvDg+1M2h/c37OV0iV1UXoEkjw==
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/49b7f977965945878dcbf3511d83c6ab.png",Canal 6 (geo, Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1262498886305923073/2SBUwUGY.jpg",Canal 6 (geo, Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2Ua3PZrjC5lmbTe50cVHXlRO6U6WTud8aN0zB4SpazekcA300nGRZDb2ejlxoH8S/3QB08AdhiY0cAdanVGrMSIumGZ6eyVwibJSf423tsQ=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ame/metrotv_hn.jpg",Metro TV (Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/dios-te-ve-hn.jpg",Dios Te Ve TV (Honduras)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:lAM3D2tWNRQamtx0ZoUL2b8L9qK6Oh/6xreeMk+lRGq8FYkwDuXLm7xeiXmsG7T8/b6L7spy9YU+F3Vc1p5Wsw==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/hn-dios-te-ve-kids-8087.jpg",Dios Te Ve Kids (Honduras)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:lAM3D2tWNRQamtx0ZoUL2b8L9qK6Oh/6xreeMk+lRGrn3ykTtYjrLLbjylScBvU3hwoRZKmTnu3MJa8nx1dzPQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/metrotv_hn.jpg",Metro TV (Honduras)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:lAM3D2tWNRQamtx0ZoUL2bShsgK+4TucVTHH7vEY66H8Eepxvem9U/hBuFMIGvfBeJ1v7xDtT6Zkq2J3OwFu+A==
 
-#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/09/Maya-TV.jpg",Maya TV (Honduras)
+#EXTINF:-1 tvg-id="" tvg-logo="https://hondu.tv/wp-content/uploads/2016/11/Canal-19-1-Metropolis.png",Canal 19.1 Metropolis (Honduras)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:znJPmYC7D8CABSA2EpDP12YwXAU5CCE0+/syCexwpDjFt/Fy4HPIZPcepWfu5D3DdE0nJCLjAoqO14tFVkBoXO9b+SS6Bl6jYixikP9n99I=
+#EXTSEC:n24zSGud87yyxbqOPMcv7LAB5MSmnvQ4RDF6uMrW3G+peVSW3VEJK0+gCTDvyFs3un2E5oLtxZUI+UoQVRFxzA==
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/41p8txVQjME/hqdefault_live.jpg",Mello TV (Jamaica)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/41p8txVQjME/hqdefault_live.jpg",Mello TV (geo, Jamaica)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:NQhR3u7xq2ybW7mvjrc50qYz7Ub+F0TeAbQ1KVhawf/q9S497PQbEGOqeTdl0KgmTyoY8+z5oFbbMQ0TCj+j3FiUxA/bUdlZIw6btVxrP6SeZv0SCovOBgnuCDyvZkuS
+#EXTSEC:NQhR3u7xq2ybW7mvjrc50qYz7Ub+F0TeAbQ1KVhawf/q9S497PQbEGOqeTdl0KgmTyoY8+z5oFbbMQ0TCj+j3CkDvNHpAyzPlLTMo4EpYqPE2nEBk2+6XxJnvzLOzT/V
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mercyandtruth.tv/wp-content/uploads/2021/05/cropped-mtm-globe.png",MTM TV (Jamaica)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:G12LiUtTu7FvHJ9fToua14/xnOmXhrS/psfUH1GPqUkTbEx5gEIGqCEbx7gtRQ+QQjc30gxzpWbs18vBA71I6g==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mx/las_estrellas_mx.png",Las Estrellas (geo, Mexico)
 https://feedlix.net/videos/promo.mp4
