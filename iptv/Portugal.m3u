@@ -180,13 +180,21 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4L+vjOUwyma0FmZsVI2n7e3VfgODH1G5Y+ud1b1UYONxg==
 
-#EXTINF:-1 tvg-id="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/RTEspanol.ru.png",RT Espanol HD
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Y/WCEHdOE9ewzjWJ0nbMUB4U8ixSYruoiz9O8d+UhJLYiNnPhfVrMCfcWiJQfWhClaOQVrAzRJHMjV2mt8c9xA==
+#EXTSEC:cafromm8AYjXl+J9lV+3uUu4njXfiRmSMkaDlHHgxgVyc75YD/jgV8kKEb4HX+5hbmycH7hckkrpO5T9eDV1lw==
 
-#EXTINF:-1 tvg-id="RT.TV" tvg-logo="https://feedlix.net/tv/ru/RTEnglish.ru.png",RT HD
+#EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg",RT Español HD (4500kb)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:zAh/r+uP+n9npwlT72+n/qsNyGFidlXuGkP4QLtmjXO2SfDkGWfGOHcRUWSv6Po1g4rgL6Ot6hawltLaR8JK5Q==
+#EXTSEC:l0Cfgipc0yUYUonzHrV0U4FDAO5n1RC53hjfwQSosSkcBUFghgqG07uQy/O6V1Mg7SFj6BtmqBwT/ilh85XlMQ==
+
+#EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg",RT Español HD (2500kb)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:l0Cfgipc0yUYUonzHrV0U4FDAO5n1RC53hjfwQSosSmSq14y2njxfL7nk+STZj5P7SFj6BtmqBwT/ilh85XlMQ==
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JOmQYbeAI2wOF6zxjY9wuq87SFj6BtmqBwT/ilh85XlMQ==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_espanol.png",CGTN Espanol
 https://feedlix.net/videos/promo.mp4
