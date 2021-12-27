@@ -700,13 +700,21 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:IXxewokXHkXKUq58FYUu4Icd+pKzcBUxWt7BinitRUAL+nxIL3wYHBVPPd9qdr4GLy7DcXER8oPmCrQ/uXXqew==
 
-#EXTINF:-1 tvg-id="RT.TV" tvg-logo="https://feedlix.net/tv/ru/RTEnglish.ru.png",RT News HD (Greece)
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (4500kb) (Greece)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:zAh/r+uP+n9npwlT72+n/qsNyGFidlXuGkP4QLtmjXO2SfDkGWfGOHcRUWSv6Po1g4rgL6Ot6hawltLaR8JK5Q==
+#EXTSEC:cafromm8AYjXl+J9lV+3uUu4njXfiRmSMkaDlHHgxgVqie0JaQo7X8PPlqfte379bmycH7hckkrpO5T9eDV1lw==
 
-#EXTINF:-1 tvg-id="RTDoc.TV" tvg-logo="https://feedlix.net/tv/ru/rt_doc_en.jpg",RT Documentary HD (Greece)
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (Greece)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:KDUtT0a57FPsRWXo65sNqh4U8ixSYruoiz9O8d+UhJLn4oRveGxalJdEQ1ct0HcGlaOQVrAzRJHMjV2mt8c9xA==
+#EXTSEC:cafromm8AYjXl+J9lV+3uUu4njXfiRmSMkaDlHHgxgVyc75YD/jgV8kKEb4HX+5hbmycH7hckkrpO5T9eDV1lw==
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (4500kb) (Greece)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JNzukjJQ6axbRZsTcEOQv1M7SFj6BtmqBwT/ilh85XlMQ==
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (Greece)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JOmQYbeAI2wOF6zxjY9wuq87SFj6BtmqBwT/ilh85XlMQ==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 (Greece)
 https://feedlix.net/videos/promo.mp4
@@ -1048,13 +1056,21 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:o/t/fRKBLTHSn/cRJslsWVjKiiWTzBYjgaSDh/J/Ght6NKNeEYjXTJA4ILutxTy7+XgBoxqoLTL67YP+DZeFD8qqksrVbwHED1cADQ08sUA=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png",RT News HD (Moldova)
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (4500kb) (Moldova)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:zAh/r+uP+n9npwlT72+n/qsNyGFidlXuGkP4QLtmjXO2SfDkGWfGOHcRUWSv6Po1g4rgL6Ot6hawltLaR8JK5Q==
+#EXTSEC:cafromm8AYjXl+J9lV+3uUu4njXfiRmSMkaDlHHgxgVqie0JaQo7X8PPlqfte379bmycH7hckkrpO5T9eDV1lw==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/rt_doc_en.jpg",RT Documentary HD (Moldova)
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (Moldova)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:KDUtT0a57FPsRWXo65sNqh4U8ixSYruoiz9O8d+UhJLn4oRveGxalJdEQ1ct0HcGlaOQVrAzRJHMjV2mt8c9xA==
+#EXTSEC:cafromm8AYjXl+J9lV+3uUu4njXfiRmSMkaDlHHgxgVyc75YD/jgV8kKEb4HX+5hbmycH7hckkrpO5T9eDV1lw==
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (4500kb) (Moldova)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JNzukjJQ6axbRZsTcEOQv1M7SFj6BtmqBwT/ilh85XlMQ==
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (Moldova)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JOmQYbeAI2wOF6zxjY9wuq87SFj6BtmqBwT/ilh85XlMQ==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 (Moldova)
 https://feedlix.net/videos/promo.mp4
@@ -1596,13 +1612,21 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5D48yIT+szB9bDEIonQDFL06i69afzhPo46cttM8JIN5iCLzcXUIS/NYTMNeoAdMdFWSOnp0fPAbvAWjZk+oIg==
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png",RT News HD (Serbia)
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (4500kb) (Serbia)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:zAh/r+uP+n9npwlT72+n/qsNyGFidlXuGkP4QLtmjXO2SfDkGWfGOHcRUWSv6Po1g4rgL6Ot6hawltLaR8JK5Q==
+#EXTSEC:cafromm8AYjXl+J9lV+3uUu4njXfiRmSMkaDlHHgxgVqie0JaQo7X8PPlqfte379bmycH7hckkrpO5T9eDV1lw==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/rt_doc_en.jpg",RT Documentary HD (Serbia)
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (Serbia)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:KDUtT0a57FPsRWXo65sNqh4U8ixSYruoiz9O8d+UhJLn4oRveGxalJdEQ1ct0HcGlaOQVrAzRJHMjV2mt8c9xA==
+#EXTSEC:cafromm8AYjXl+J9lV+3uUu4njXfiRmSMkaDlHHgxgVyc75YD/jgV8kKEb4HX+5hbmycH7hckkrpO5T9eDV1lw==
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (4500kb) (Serbia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JNzukjJQ6axbRZsTcEOQv1M7SFj6BtmqBwT/ilh85XlMQ==
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (Serbia)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JOmQYbeAI2wOF6zxjY9wuq87SFj6BtmqBwT/ilh85XlMQ==
 
 #EXTINF:-1 tvg-logo="https://jugmedia.rs/wp-content/uploads/2019/06/tv-leskovac.jpg",TV Leskovac (Serbia)
 https://feedlix.net/videos/promo.mp4
@@ -2128,13 +2152,25 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:o/t/fRKBLTHSn/cRJslsWVjKiiWTzBYjgaSDh/J/Ght6NKNeEYjXTJA4ILutxTy7Ld8ut0xPpSyIVL0Fk6mcAA==
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png",RT News HD (Ukraine)
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (4500kb) (Ukraine)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:zAh/r+uP+n9npwlT72+n/qsNyGFidlXuGkP4QLtmjXO2SfDkGWfGOHcRUWSv6Po1g4rgL6Ot6hawltLaR8JK5Q==
+#EXTSEC:cafromm8AYjXl+J9lV+3uUu4njXfiRmSMkaDlHHgxgVqie0JaQo7X8PPlqfte379bmycH7hckkrpO5T9eDV1lw==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/rt_doc_en.jpg",RT Doc HD Русский (Ukraine)
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (Ukraine)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:g1y6HmqsOlIRq1IWAYjOPY014AJZxr7OpVtxdAlOkTfDwBBMAofNKV/2CQ6xeWTS
+#EXTSEC:cafromm8AYjXl+J9lV+3uUu4njXfiRmSMkaDlHHgxgVyc75YD/jgV8kKEb4HX+5hbmycH7hckkrpO5T9eDV1lw==
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Doc HD Русский (Ukraine)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Q6Z6L41egUaRz12H9zxZpcJPrvZuQXQ0C3C9ZwChdL26fYTmgu3FlQj5ShBVEXHM
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (4500kb) (Ukraine)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JNzukjJQ6axbRZsTcEOQv1M7SFj6BtmqBwT/ilh85XlMQ==
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (Ukraine)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JOmQYbeAI2wOF6zxjY9wuq87SFj6BtmqBwT/ilh85XlMQ==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 (Ukraine)
 https://feedlix.net/videos/promo.mp4
