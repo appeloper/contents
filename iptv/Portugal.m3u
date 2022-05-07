@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png",RTP 1 (geo)
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPHD_monocromaticoAzul_horiz_RGB.png",RTP 1 HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmLVglv9BO+v2i5+SjYerC/WtSh+JFRR6r+ZTtX/R5uvU=
+#EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmOPisSFX1834rrD8B4hIVcZOeZXFpHii3XDMUF2+7jPY=
 
 #EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png",RTP 1 (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:7PphGz+p9R/cmXzwmne7MLVMTO4he2tnzr4nUF60cYvzWVyZyaiOqoEQDmIbOvm3RhUSRt7HrpxMlVJ8sPwgsrKg7Y2BPFsTzVkZLux0/u4=
+#EXTSEC:mvbX0jFIBQ11LDP+s351Y2LwkICGpZ0Y79l+xoUqleef3LMJ65/anV3Tl3s2JS1Z
 
 #EXTINF:-1 tvg-id="RTP 2" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png",RTP 2 (geo)
 https://feedlix.net/videos/promo.mp4
@@ -14,15 +14,19 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="RTP 2" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png",RTP 2 (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:nx6dFjL9oE7pDnnuxWBjoZcpfwfZhgaZJRArdGfgx/+5EdbIcAvDQ1CBvIHwKtBjsPy4hhNJhajy5WB/fO2oaskCHBfd3xQH4r2VH1A1GEg=
+#EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmtQ8/LJ81LwmqS9D4OUc7jpOeZXFpHii3XDMUF2+7jPY=
 
 #EXTINF:-1 tvg-id="SIC" tvg-logo="https://feedlix.net/tv/pt/Sic.pt.png",SIC
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uBZV6CMDQKyJw8fyazZ+JMAkqoxHf5rhgZloqG9HeBZAHEIHTA7x0I+FnyskIAkN
+#EXTSEC:dHQvoATz2OnRhno3zjXP9BXAYoeqNyP7jpkc8gdztp6DiuAvo63qFrCW0tpHwkrl
+	
+#EXTINF:-1 tvg-id="SIC" tvg-logo="https://feedlix.net/tv/pt/Sic.pt.png",SIC (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Djy1xt7ot5Shm4OmPf9HQp52OekjHMhSO1mcEKd1XPwitLWnPG5ymKuMgg+InXTAnf9ivS/kUDb8WydsJ2sYMtN+diuY0RJCG1mbZgUAL7R53NP2+5DGjXtimG88Ir6G
 
 #EXTINF:-1 tvg-id="TVI" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png",TVI
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxnAWDZw/0pd6YBGSeg0ZGBe9ESDtkXZIRt7uvTr/FvoWV4FhsyOUc/S/KXEoyGa60mhpqKbIUfmIwnlO4LN/KhXHcKKBiypbJH9U2HM2DSBxFRUZIPWfO8+30JPQuaYLKiEeqrpIXqIDR0MmRnCkRvVOgIEHpZm96jI6voJ2JN+WagQlAeURhWeVevUHpRBJKAQcJfx+a+SSne0iNwV5Qj7mW2Qx2PCuBqIxv75jjwqGaREFsuA2Nj3og3/nIIMnFSrpvmzN3hUYym1TQkRBzUGQyOO8qeX2zjKgD82XtlLQ
+#EXTSEC:2iURNfrWN1Qm9N79iTibxnAWDZw/0pd6YBGSeg0ZGBe9ESDtkXZIRt7uvTr/FvoWV4FhsyOUc/S/KXEoyGa60mhpqKbIUfmIwnlO4LN/KhUUxZRVabzP5JT5cO9vDnLY0POCXu+VKrgXe5Rh27l7FoZuhFghrDg3Q0TkyHlTFMt0w2ATCJfaZJlA+1mFVla+kzH+ykRMr68lDnGfvpo/jgQcJfx+a+SSne0iNwV5Qj5i8mxkhihZsz1Gmh6jRXWt1SO5c5D8VSeL7kuZ3MZhITOc3URhBNIRFggHq0c6M2a7IkZDGOf90NYYEe29tOaL
 
 #EXTINF:-1 tvg-id="RTP 3" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png",RTP 3
 https://feedlix.net/videos/promo.mp4
@@ -34,19 +38,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="SIC Notícias" tvg-logo="https://feedlix.net/tv/pt/SicNoticias.pt.png",SIC Notícias
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:uBZV6CMDQKyJw8fyazZ+JCJPQjSxD+LMMA1UU4oGTvS1BU4M+xwi2L1yghKQVLb2
-
-#EXTINF:-1 tvg-id="SIC Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/SICinternacional.jpg",SIC Internacional
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:uBZV6CMDQKyJw8fyazZ+JJ6op+dSKBTuiplk8fOpnVYp60ASUlqXuM5W+sU14wp9
-
-#EXTINF:-1 tvg-id="TVI 24" tvg-logo="https://feedlix.net/tv/pt/Tvi24.pt.png",TVI 24
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxnAWDZw/0pd6YBGSeg0ZGBfQgLP0bZUnDCTsyBBIfgSMBDMedgToZGEkg2N2ftW35zLQxKXl1tIP+0cru+RZ1sfod/dj0Y0Z6pMrTz1RU5uG5UM7+t5yxkGhocCIQE59O2mci9JzW5ky7ScCzjIYL1sMwsCRR/g+y7KZsdflVRQKCskiOaVj7ftH0qzJP4qiY7Fk61GoAOassWo3o6NfdVtCvDQ/5bhhtfVLDppqxOmePSCqOkyKwIQBqsUbkKe7SZBkjYnzK+0vbLtUYKmuU4UAc7VHjE/JLqRcNaT0OpVQ+5JVZUSJ1R50qqHPT6FQPg==
-
-#EXTINF:-1 tvg-id="CMTV" tvg-logo="https://feedlix.net/tv/pt/Cmtv.pt.png",CMTV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:gDLaBDQL0hwj9eUChVqf3e8I7MMqB2LIf9p+rQJLMTWIWTYVcmpdg4TeeYxEFyJk
+#EXTSEC:b7U8GJ6JO+pMyEAPm9dMJUOD/cDk7jT9PzcIe6xa4zXmTqqXm14b4Nw/UNDiPRFK
 
 #EXTINF:-1 tvg-id="RTP I" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPInternacional_negativo_horiz_RGB.png",RTP Internacional
 https://feedlix.net/videos/promo.mp4
@@ -1149,9 +1141,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:NqVhCP9+CuPJsPpSyBag96ZhJ/1Rqc905BZT+5AmkmN+t/Ih0jUG9qGIPoEqtRpxZ1XUdwRHJCq/gEgKk77tHA==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/fm80.png",FM 80 Funky Music (Radio FR)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/fm80.png",FM 80 Funky Music (Radio FR)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:TVbyivxpzjwkIpvzZ7Lot0ROPqqhyfKUhKF2xs9gGmAUgl1vux/VQxjkY0Owas1l
+#EXTSEC:BZy05UG/8yerGW/YPyOjmoCnD+gEJNytYudYL6zhVQ6OcVLHr6+IWwvUYEyZPgccN/zDtI6UohEHRUvmvScsAA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/10/Radio-Latina-France.jpg",Latina (Radio FR)
 https://feedlix.net/videos/promo.mp4
