@@ -4,9 +4,13 @@
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmOPisSFX1834rrD8B4hIVcZOeZXFpHii3XDMUF2+7jPY=
 
-#EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png",RTP 1 (op.2)
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png",RTP 1 (op.1)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mvbX0jFIBQ11LDP+s351Y2LwkICGpZ0Y79l+xoUqleef3LMJ65/anV3Tl3s2JS1Z
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png",RTP 1 (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:BHC+vFi+F2dkzvVTUb4QKK4l0NSJ5wa4Sl3aAr/IKILjMqSOqNXtzvE3Ymmfwvet
 
 #EXTINF:-1 tvg-id="RTP 2" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png",RTP 2 (geo)
 https://feedlix.net/videos/promo.mp4
@@ -26,7 +30,19 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="TVI" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png",TVI
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxnAWDZw/0pd6YBGSeg0ZGBe9ESDtkXZIRt7uvTr/FvoWV4FhsyOUc/S/KXEoyGa60mhpqKbIUfmIwnlO4LN/KhUUxZRVabzP5JT5cO9vDnLY0POCXu+VKrgXe5Rh27l7FoZuhFghrDg3Q0TkyHlTFMt0w2ATCJfaZJlA+1mFVla+kzH+ykRMr68lDnGfvpo/jgQcJfx+a+SSne0iNwV5Qj5i8mxkhihZsz1Gmh6jRXWt1SO5c5D8VSeL7kuZ3MZhITOc3URhBNIRFggHq0c6M2a7IkZDGOf90NYYEe29tOaL
+#EXTSEC:2iURNfrWN1Qm9N79iTibxu6YeK86uL2UmcJowAL4rQBpeaYMnPL9ZkQr7XIAkzwP5VZ+tziikQkRxPg++Z7q7zQ2LN1tB0yF2LdyqGsrYOI8xQZWQ16yaJczefZr9uTHQhj82SotH/uspw/P7jGPErdJmrTvZHbEXl2n6mfpXLQAUeEM9voPk7MFF6/32TegECjMz0GNx/xYXra0pYKR47d1PO5I5eKWX/L9UM3SuTHAbcTnOELF9myyYvpPUbXyGOYHN1Ee/rJaSyyx/cuvyw71BpRveLCtxBHrRFAlaTwSIBe4ojYpKfyO7AX5wDsN2iRPDJKaexnzI8vlhFIoaW1z86Qh/lJoPjU1qoNiuOY8wEZFT88sy7kD6uibt7ygGVkbEio74NxcMU6MusPnCw==
+
+#EXTINF:-1 tvg-id="TVI" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png",TVI (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2iURNfrWN1Qm9N79iTibxoY/2jAPUxp944p0hy9pNSziOyYpiyONrbGnmekEJZRnWGku16Md/Q3sC+MvmHrygVRGRDievd43vCY9v+OhqAo=
+
+#EXTINF:-1 tvg-id="TVIFIC.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2iURNfrWN1Qm9N79iTibxoY/2jAPUxp944p0hy9pNSxXsoD0NqPXiCqfqTeX6eez85mVjLBEpOThD6y/La+T6yux1gpn1DDGhOCtx4OHDiG1chfKr93YSo6pJ2tEnCnbg4rgL6Ot6hawltLaR8JK5Q==
+
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2iURNfrWN1Qm9N79iTibxoY/2jAPUxp944p0hy9pNSwoqTkxkVXEB99LzDD2kQt6pYd5Zc+rnApNGxvt5/3AUejetHV9ZaIVuEB9I+PcFv86/ZFkwrhQtRySyR1C48dalaOQVrAzRJHMjV2mt8c9xA==
 
 #EXTINF:-1 tvg-id="RTP 3" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png",RTP 3
 https://feedlix.net/videos/promo.mp4
@@ -47,10 +63,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPInternacional_negativo_horiz_RGB.png",RTP I (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mvbX0jFIBQ11LDP+s351Y+x4LKlnf0Oq+QYhXbGKVqd0bGJahh08wcc2qO0cLFU3nvLewYT7LbUTVLyFuo4jTswhWzaI4bgIlT/PHOKB8hw6LpLe4O73cap65BvmaUxn
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/szYOy8S.jpg",Euronews
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Srs/Bsg07ffwdRVBABbYwqRYm89N0Hqy4okCjwHWmZuXvJFOUuqlxTB0PS7qNcfpzKZCislxjhhwL5diw6KFEO4OSN/UXYJgqyveVfJELAg=
 
 #EXTINF:-1 tvg-id="RTP MEMORIA" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtpMemoria_negativo_horiz_RGB.png",RTP Memória
 https://feedlix.net/videos/promo.mp4
@@ -160,9 +172,21 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:PTUipkkhWbLV0upoPjlCkBQtbrrlBtDpMfpySu79D/YpT1SuDx55G7s7hKot38DeJ2yqCwwr3iribb0mz+JgRQ==
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/szYOy8S.jpg",Euronews
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:Srs/Bsg07ffwdRVBABbYwqRYm89N0Hqy4okCjwHWmZuXvJFOUuqlxTB0PS7qNcfpzKZCislxjhhwL5diw6KFEO4OSN/UXYJgqyveVfJELAg=
+
+#EXTINF:-1 tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal (off TVI 24)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2iURNfrWN1Qm9N79iTibxulGYJC36dQi4rfX5aHc3VH1h3BuKsOw3V7TmJdPoWlb/cfg/3pHdGtS7fGijzEQzVjKV1JyZpaDDVq6aJuTiK9pLOO17J2/MSWx4ruJhfn3TllqJx8xTEBoOkEXcFMYy3+TkzCqIytkFPvBhacV5fx+/8EXCpbdbYt2HZBFu/gGU91rvDj2c6DmGk99xR/NWGsq2qWQa2kO6CnYrx7YrSY8qzqQy7nEGiqy/MfnUq30W5IJfHBpVaAHnpO3J3jADh92OSaOH45uJU0FSCZwdw9mcTGD+7aQd2AxieLOYx4ckAtPWbPt6NmqgAAmbiS+a8JjOfTi126ibu2i0N+53VZJK4tI7EOzpo3KDchP/Qjk
+
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24 Horas
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:PTUipkkhWbLV0upoPjlCkBQtbrrlBtDpMfpySu79D/aQFdRQp+vYZ+FHEwtvmjwVsrpz/TFf4zJ2PQS0yvd+Dg==
+
+#EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg",RT Español HD (sem censura)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:mwwOYuJQpaNSFjag7tetnyazXTaYZRLv3Pni0POhYKX//JL861sQd773Ij9or2SCRhNDFl5eDExcnJLrnhXqCklpTxbBgLADY2OZkr59SOaaSTOu5ktOQ0S4Oh0NTuy/8tG1b2Xvr6rUcmL9XkVbB2D4So6OBlJYvzukunP5Mf2efo3qyzsrCZnQWCnudB/H9mzn9B7ccWbwcePiGTwvrQ/VpBBgfPWKEOTmjtbJSeMz8wUfc/5nUyVIs4OYCQysoa/BOQMfpCLvousoC41wSFjoj/+mpwAtJsFpsiSG498Vrw4Hm/nTf3C2MMCZ6zUTPOHxKHKuzMPRwRRGopUUlKNICAeSxb7I3hkpa4pwVwHrn6QFpPceHKigml94CqU2U4n611KEQR4V88p9gmbI/pD9nVbxpss8cOCF0rDd2bAx3muOZQvJUj/evHMcsMq05neIUkXz6m1+ZkvrLhM7Jvw6lEbm02tKhNgvJz47id3Rr6fPrqhxMQb0976Vewy0WIwjMCjwL9p+xf/ZlaOepRubu2nosUZuJkmonfrfAbR1BF09tAA965rTYx2YE1G7zkJuBk279QDLHxY9weVs/PlmyKBy1fCetSAyJhB41OkYY43WcenfLWmJIQ+Au9Q5WRYgQhvW/FJcfXUahBuOCeiNWu9wDflzqDEZ5+WLC3H4dKT3t/3uj3Rqv1/ZFkveA4BRnPEcZHZ7EsV520nwFsGc215DzyQOKabGiY6NDfiUjcOMMNYesw0ld/D1k1zRO71bcP1znqp5ejqZlhvGw3HPF8KtkbNnGNSdjYwgaVt+Mb3ll++34KH7YaToXNiFZ45FNp79Y1BpgpKHtvwyDwBUjQc0wlZnqXIj1JBAkw3PfmrJzLflhrZ8/qg0CxAErg//mYhhjW5Ihi3Jf5uyBkvZLPeGZ/C2zE+T9JNQz6qGUHcyJ+w6yEGlGK2TV/bKa7PiiFB9QufkQqBrfAx5NAH8aniLl8LnxqxoyzLpyC0QBAzEUi9cssgRpqESNfVHfKdjG9bnDG261Kh7AZ9TQr9ztldGfzCtuEbqF4fHnorlw5dWj+wrVCic4REmXLR72lx5RJwsD835/Kfxtqaf8g==
 
 #EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg",RT Español HD (censurado)
 https://feedlix.net/videos/promo.mp4
@@ -175,6 +199,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:TstpKKx/emDV1jfRmWWha3p9BtLc0XmcRbsGxSlVm4Vdj1jAXIQ3g9CrPW+xm7sSlxG2B9sKgzZSmQ34gBa0uSR9a57xogvCl98WLgxZlyY=
+
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (op.3)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cKEwoGK+ouuCza/TYpeiimj7mcrGbRGqkwLPfJpakrphDYmbvavMuInrL+z+s+Nl
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_espanol.png",CGTN (espanol)
 https://feedlix.net/videos/promo.mp4
@@ -240,6 +268,18 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zzKhtuuPSbG7Szz094/wPZTtfyyZ+Sb7VTlBCoIY3QJZHHtqIjvprs+s61XXDxZp/wHR9iXb2jmJbaaiZ7KVYesEiKcCF41Tiu0H1V49TPY=
 
+#EXTINF:-1 tvg-ID="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (sem censura)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:mwwOYuJQpaNSFjag7tetnyazXTaYZRLv3Pni0POhYKX//JL861sQd773Ij9or2SCRhNDFl5eDExcnJLrnhXqCklpTxbBgLADY2OZkr59SOaaSTOu5ktOQ0S4Oh0NTuy/8tG1b2Xvr6rUcmL9XkVbB2D4So6OBlJYvzukunP5Mf2efo3qyzsrCZnQWCnudB/H9mzn9B7ccWbwcePiGTwvrQ/VpBBgfPWKEOTmjtbJSeMz8wUfc/5nUyVIs4OYCQysoa/BOQMfpCLvousoC41wSFjoj/+mpwAtJsFpsiSG498Vrw4Hm/nTf3C2MMCZ6zUTtkqR/o0V5Gbao49gCawHfaXoOGYyfjbp4nFB1SZyQZ3IxBJT2x0gRajxHXlA+gpHKvHYwO9OELKYKKJ+K4CDkJD9nVbxpss8cOCF0rDd2bAx3muOZQvJUj/evHMcsMq05neIUkXz6m1+ZkvrLhM7Jvw6lEbm02tKhNgvJz47id3Rr6fPrqhxMQb0976Vewy0WIwjMCjwL9p+xf/ZlaOepRubu2nosUZuJkmonfrfAbTq1Xs+bDNjnecTfnxK7wh+zkJuBk279QDLHxY9weVs/GBzYuXrHbraBS1fWPudG/0YY43WcenfLWmJIQ+Au9Q5WRYgQhvW/FJcfXUahBuOCeiNWu9wDflzqDEZ5+WLC3HuXyL3P7TIUd40UlvlDO+3+9PxjKcjjIFGHlQPjQYNGdPwcfvDnt0Kqa0kZMXEsjxG0Ghx/0U3O6XycwrKAG/jTicIvCkSjAMBiJfLkmzJ459sSLcWm4jpqgLvEQcDwRucHTMRcaNKKikSmR8pYXF19VvLIaQtI0RONH0I8Gt2zTUcr8ynvLUoHH0UfgHmjR+9E/BnfN/uOvLVPYa29AcX/YvDguGjAcv74ufVrhHu6GC/AUbQ4Q0iRXtmuoJ9U/LhR/4zrEB+547VbAAaacpK0Nnu32fTyDsE27MxcPqZ9naZtMnvaGp8EDB1dcv6j+C8FS+xOntRgVLV8P5mKnCeYgFPTvL7bOHIpyrssZ7eAQrCqf7zYylX0dtER9rVNtuJo6rC5zAUyOBHABNRcwYvSOcDlVwLP0XW9jDDUCoXkA==
+
+#EXTINF:-1 tvg-ID="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:HOgEWOZ5jCMHJNaxGmW0zgjA7JvnKJL1BAoQn6s+OOsMmO4/rFG2E9fppw2Sg+TXqq5sZ1K3Z14tXqlZH+ppkJ+JmCV+F1gjupmi7QiChEv8UhSxVMyHY2jzJaEGCRAMdx10r/Jg5fCmj6WD47EiRA==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Doc HD (RU)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:TZ6OU7/wM95XbboPK9gn4BioNMO/gOLs5wEy3rPCduDuDkjf1F2CYKsr3lXyRCwI
+
 #EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png",CGTN Documentary
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:yxHBfDzCqK/a8o2EedOl7qsNvedso7uhgaG7tGthdhQRYblB8eJL0fqXFjNhjZI2
@@ -304,6 +344,18 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:SMF24MV7uzwfWTWiCLiCTMoQkmiu6gkA2AqVsj4DLyrk6G+uZbfXXTb6J9jeTvvhJH1rnvGiC8KX3xYuDFmXJg==
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/GospelCartoon.png",Gospel Cartoon
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:SMF24MV7uzwfWTWiCLiCTGN3jAcK92HIdbqyUezd4Oi1AS7SpmnSpqGOKnlWNaxyd0tCv+61PgnAlmzspYGTC5/kCkAz2miXb/PCywdcBWE=
+	
+#EXTINF:-1 tvg-id="Nick Clássico" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Nick-Clássico.jpg",Nick Clássico
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:xlDdLKdV89dl1fxaiRhUROnN2qmI+7Jv0x47QwnrBy3BfNYJi9KneZ1/cc66a4iEUPYY+b/R+EA8G2nj/ekbn0i06ulvw+Jxjo4DNF04/llKjte8A9xGs/f7abObEYhF656UlryWfdkT9ps4NORbwbS1DVf0vWB/Zl5WsaUXNH24OhN03oOzdLjOgAd7WAeejLLoDt7n2GzqELmqFMKbpPqhcSOl29f9sSZC01t2muRduTKIz2gVdiOr5/xCvv/iyVfR9W/IvDshheQ3stMFEksUQAxy6CVuBeBRa3gdWabcCYFmpCiTpsCG64pnPnZdjaoJtzvXLNdD3xDE0NAcTKP8GDZtPptqnqGFWThp6G6PpWrOHfb7tFrf/q5PDcuY
+
+#EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png",BabyFirst
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:xlDdLKdV89dl1fxaiRhUROnN2qmI+7Jv0x47QwnrBy3BfNYJi9KneZ1/cc66a4iE2xzDd6qoIRSHcFui2Fl5KMIcvJs3Ai4hwfDLIoy+b86i4EluTFIm5EGPr3xygOC/656UlryWfdkT9ps4NORbwbS1DVf0vWB/Zl5WsaUXNH24OhN03oOzdLjOgAd7WAeejLLoDt7n2GzqELmqFMKbpPqhcSOl29f9sSZC01t2muRduTKIz2gVdiOr5/xCvv/iyVfR9W/IvDshheQ3stMFEksUQAxy6CVuBeBRa3gdWabcCYFmpCiTpsCG64pnPnZdjaoJtzvXLNdD3xDE0NAcTKP8GDZtPptqnqGFWThp6G6PpWrOHfb7tFrf/q5PDcuY
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 1
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:n0aqfuXQBIDgXkcxWYfgQckikpKypA4vFmPboZ5Nn745GxbInLvenR9cCvdfHUo5JH1rnvGiC8KX3xYuDFmXJg==
@@ -319,18 +371,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:n0aqfuXQBIDgXkcxWYfgQckikpKypA4vFmPboZ5Nn745GxbInLvenR9cCvdfHUo57XrVIOXisMe0V1iBoRvQvUg6Woqik1vZ3cl6W9wRl9I=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/CBC_Olympics_400x400.png",Olympic Channel HD (geo, US)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KMNbJIMRhBDDp2kdF+mESPHvT5c9Y24VZS0TNkPizURRUbyhxajioYHtv8p3R7Hr01YoBjLcIwyZZuBO0Do96Q==
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png",Real Madrid TV (geo, ES)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IgZE43BMVCTMLPTD+g2BGMNMVU4xwagy1HNV6GB9KUF2OaAP+671OQtsH7i+r7HJZ9T5Cx/8wC4bdq2GBGgtDYFU74QaVwid/hRzxXp1qqU=
-
-#EXTINF:-1 tvg-id="FCBayernMunchenTV.de" tvg-logo="https://i.imgur.com/b6tcf2i.jpg",FC Bayern München TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6kbg8SXd9g5Yvu+2qq1zDrSmkT7zfeL4MbY7bAE98Hmd4JSFl3CFo8mTOkq4afTVi5bAQObYvq1H+OuA5XsLULF8+Dc99h9rJyGD0vI93F+h8S3S78XXEXOxyMalKJzk3slnvCdSLrMXqqcUrqrhcZ/kCkAz2miXb/PCywdcBWE=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/RedBullTv.png",Red Bull
 https://feedlix.net/videos/promo.mp4
@@ -372,10 +412,6 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4OXQocg6fAAHcU6N0RzcnF2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9tv+KlnYC80fENz6uG+OZ0n/826gyP/QBi6AJdeKQdR9rULEffZ0+x5wGJOE/+0+nY6xCn77T/Aw1GpFY2FSEE5sLnFGZMVogoKz5P2ATXM2Ok80EJgTq4ndzdF85n17m
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion Johannesburg HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4OXQocg6fAAHcU6N0RzcnF2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy921kHP1nTLviWcQ3EDjnxJuw/muu6QaoIJFKTppWVyDct1Ky+mWWYN4qmx3uJUkrtbg1+4MQ4EmNZf37I9Kcn/pWjkFawM0SRzI1dprfHPcQ=
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",FTV Midnight Secrets HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9YHBBniz21tw4TcBHxDLuT3IeMRRL4e5vNYJvxDUjHoKJTdu97r0Ar+bWXT2todp1uZhDkF/KIDWnPjEkWPTiczXPggJvipjn+DZg8uWpRD219JMXW/x5kPwcZJtPogOc
@@ -388,14 +424,6 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4OXQocg6fAAHcU6N0RzcnF2nY0L/yDSFEZPCsvYdoRbFS4i2gQjD+zWxsO6tP1tnzRSOrRlLot0YGhBQHp+RSjBpYEdpkYxISXxVoZ+tpIbRhMFi551qUlsPczrybsEyAjtvuoCYHIyacn1d2AlkPJiWKZtaYHBcYwg5P1p47aaDiuAvo63qFrCW0tpHwkrl
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png",Runway TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4RpNC/vguVi8Eq0l+dLMgiE9Vxp60PLFhnG62PAXxaK9mCK5pJCrmTvaBSLoUWPlVl3ht56Bo6S/dDFpiy+NcC9cIlQA3MKXTUVvQ3OkSd50uLRuEf9txb3bZP+e9dzi9/hRHh7VOGM3xRqllLVdq0KwdH0h80zJ1ib5t9cpjQU=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/eur/hd-fashion-lifestyle-ua.png",HD Fashion
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:OVyo1tisOGXkRvMF9m7l3kqIkKn587YOXQ1wfTO9KgsP0Btoij0q2Ym+Pxhj2Ukin+QKQDPaaJdv88LLB1wFYQ==
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/id_fashion_de.png",ID Fashion
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:DNgcgoyTiH+n/uQfrv8/eT2M58oxVkFsMWsOIUX5uWm4HhhdKuWjRe350C4xAapSIrxwXOVzAmaPvUdrR3TX4Xnc0/b7kMaNe2KYbzwivoY=
@@ -404,13 +432,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:B73Ex3JU7Xjv50Hip1t5Pbs+NmvXLzIsfK0M0CIT0jLrifLywv3CmwPpeuZytKHvgVB0DVFY2D9rg5I0lf2sQSn9d/KfCzWeqeGVSeKS/IMdDK1G6pOu4LsooRQ2M7Ay
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/JasminTv.us.jpg",Jasmin TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1PwWrQIGJLmlM8nMJC5U28iuXkOzE3F1qMEczg302Ylajnr+VGGYCqJ0Jg61Oj9etF5Xr7wbWBa7iO0TWJprMu4OSN/UXYJgqyveVfJELAg=
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png",Miami TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:JyDxJvgBoVYsis0reDIjwN99Bd811vXQPm4An07uQ0C8A8g5EAkcxFG684hkT0OJpfD2A2MqtvC3G//kEZCGz6XFUU8YjpUTB2ARE05db7ptKhVd33few09P9k0A1ADYun2E5oLtxZUI+UoQVRFxzA==
+#EXTSEC:QVTwiCqnSbop9dMFRozNb+knFwppqPwHz5erWzs/Cv2TXruuw+vgbUPumvaZ1cu4wzpFdbV7VdB5UBupmN8rrtZ8nDfXLx7oc60dnDtaKRjIO1Gv+I0UlvVq9hfNHFyq
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png",Miami TV Live
 https://feedlix.net/videos/promo.mp4
@@ -418,7 +442,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png",Miami TV Latino
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:JyDxJvgBoVYsis0reDIjwN99Bd811vXQPm4An07uQ0Dsw67m119TFTthtvWJqSBEfSL71asG5EhG9Aiuxxb+bsDqOTvyySNJasLr+/k+qGr+E4dibvydM7dASIOxHe7D
+#EXTSEC:aPNes2HtAFdyK9s57BCpcWl6F/trZL3BjQ4JB5npscTUwb8IgSyHdqVhFuMHqngOxWsWo3StYpdA/h+yHruCx7Ok+vaByoL6mxs5SaUahOMonMhgiwwK0twipdvV/t3O
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/onfm_tv.jpg",ON FM TV
 https://feedlix.net/videos/promo.mp4
