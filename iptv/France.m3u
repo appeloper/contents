@@ -93,7 +93,8 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:MjeoFgBiIHjHra0tB6rdSF/eBDNR2LZN+AmajC5SA1RUectSRmyQFWGZEdnmoWLQayOkWho1LtIii44et82lpw==
 
 #EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (uncensored)
-https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/chunklist_b978000.m3u8
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:TstpKKx/emDV1jfRmWWha3p9BtLc0XmcRbsGxSlVm4Vdj1jAXIQ3g9CrPW+xm7sSlUzAisQPMxb8/lP+zjPdtTYlRueQNSKYMVCg+dT03lM=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/cctv_francais.png",CGTN Français
 https://feedlix.net/videos/promo.mp4
@@ -993,11 +994,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/fm80.png",FM 80 FUNKY MUSIC (Radio)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:BZy05UG/8yerGW/YPyOjmluz+ix5k5X/lUD+s5m6d0EUgl1vux/VQxjkY0Owas1l
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/fm80.png",FM 80 FUNKY MUSIC (Op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:TVbyivxpzjwkIpvzZ7Lot0ROPqqhyfKUhKF2xs9gGmAUgl1vux/VQxjkY0Owas1l
+#EXTSEC:BZy05UG/8yerGW/YPyOjmoCnD+gEJNytYudYL6zhVQ6OcVLHr6+IWwvUYEyZPgccN/zDtI6UohEHRUvmvScsAA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/Franceinfo.svg.png",France Info (Radio)
 https://feedlix.net/videos/promo.mp4
