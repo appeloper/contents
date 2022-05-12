@@ -30,7 +30,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="TVI" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png",TVI
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxulGYJC36dQi4rfX5aHc3VFpeaYMnPL9ZkQr7XIAkzwPbH1U6nJCrQqU+gvyUwYpZ1jKV1JyZpaDDVq6aJuTiK9pLOO17J2/MSWx4ruJhfn3lSR2p6LZSMs7p0LNd2X8P3+TkzCqIytkFPvBhacV5fxApS14l2PY9V5cPM0cNTKqiclGyyc0MBEFlZZam5PbfgDtZRMyOcFGBDolcpHccFaP4p1jlapXa9v++QTw+Ap8fRPF3bYtSwF/XhyFk8/NkQFIHS3xWW+DBIhcErLHOBQKYYPfPdv46SFv5MzUMFYm/rhiOFtRdXntHbPC4OuXIpq4cgsoUejFP75GYP14BYTLVxccoOSyrf94eJLwZJqv
+#EXTSEC:2iURNfrWN1Qm9N79iTibxre278mTxT+lKGGJuaXGEwbNfdfgQRI5ZHbi3vBapuLDbH1U6nJCrQqU+gvyUwYpZ+H0l7FIbfhTGoAmZdQ9Y30y0MSl5dbSD/tHK7vkWdbHEuWRNhm5AaTi5M5T7ArMGu3i6X1IIUwCsGMkKfoWBCqpFbpCOSzqBXuh2ouY6A/rjfZVjmg9zghhZdOT3ES9HXgT0+sqgGu/ZQn3294//pdvF4X86akc5/HvlSZ4HFsf8xEhkG2sngJ8NFSoDmHmCJmcHSGONMFU+E4uGrN+UCDUz74myjQwXQQl8PrlfZkUXLrlJB/eQY2Cm+U8EUokgRhl5FQagNgRnjVlS9VMBwQ=
 
 #EXTINF:-1 tvg-id="TVI" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png",TVI (op.2)
 https://feedlix.net/videos/promo.mp4
@@ -95,6 +95,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/TdmInfo.mo.png",TDM/Macau (CN)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:rGRymmT1an2AJ6f9+WaPvi9l+zb1BldoRQF/BGWvvgLOuqLINgabagdzDOXOsjVqQjc30gxzpWbs18vBA71I6g==
+
+#EXTINF:-1 tvg-id="SIC K" tvg-logo="https://feedlix.net/tv/pt/SicK.pt.png",SIC K
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:nP2zz25JjJ6zzbiWqdl3pewyK96ydtClAz+t6dieojc29+SuciOpGdGIsBBKJLGa
 
 #EXTINF:-1 tvg-id="PORTO CANAL" tvg-logo="https://feedlix.net/tv/pt/porto_canal.png",Porto Canal
 https://feedlix.net/videos/promo.mp4
@@ -166,7 +170,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal (off TVI 24)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxulGYJC36dQi4rfX5aHc3VHzYTwr78oC6NdKyOXjbumWV4FhsyOUc/S/KXEoyGa60mhpqKbIUfmIwnlO4LN/KhUkH6RCZwBxzWEOZFU5m7C12RbiAjZw0q4UXmU+U944L71UsUkstaTBshvj0efpyjB966LAMMvhvWpsnEXW75h2A6YwfPlaZbmQ0VBqwNXcgwQcJfx+a+SSne0iNwV5Qj4+rB1eMhnbHgAmEKEJ60CWG/cDkIOJII7mNpkmb9p4Rh6X9IGpu/XHPpVqJCDkfyPx3/sCapRLtNbx7HLB1Wb0
+#EXTSEC:2iURNfrWN1Qm9N79iTibxre278mTxT+lKGGJuaXGEwb1h3BuKsOw3V7TmJdPoWlb/cfg/3pHdGtS7fGijzEQzeH0l7FIbfhTGoAmZdQ9Y30y0MSl5dbSD/tHK7vkWdbHEuWRNhm5AaTi5M5T7ArMGusd5yRai0xg6gZAmuIN7ySCPZPZBAFZ1n66Ho4BjF43sYmQbsLCJY4g0wwhqFJJpqqxbexeESr8GM7OwIvIGqT4BjDqvrT5dxspnupnsLQY8xEhkG2sngJ8NFSoDmHmCCigGzVTVP9SMA8dpeJsK1f2grJmoBr3lwPx42cWjf7ilTY3EHCW4TjaN9Q2D0gV1WrAMfIcmq5X/BciLbnouMA=
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24 Horas
 https://feedlix.net/videos/promo.mp4
@@ -174,7 +178,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg",RT Español HD (sem censura)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:mwwOYuJQpaNSFjag7tetnyazXTaYZRLv3Pni0POhYKX//JL861sQd773Ij9or2SCRhNDFl5eDExcnJLrnhXqCklpTxbBgLADY2OZkr59SOaaSTOu5ktOQ0S4Oh0NTuy/8tG1b2Xvr6rUcmL9XkVbB2D4So6OBlJYvzukunP5Mf2efo3qyzsrCZnQWCnudB/H9mzn9B7ccWbwcePiGTwvrQ/VpBBgfPWKEOTmjtbJSeMz8wUfc/5nUyVIs4OYCQysoa/BOQMfpCLvousoC41wSFjoj/+mpwAtJsFpsiSG498Vrw4Hm/nTf3C2MMCZ6zUTPOHxKHKuzMPRwRRGopUUlKNICAeSxb7I3hkpa4pwVwHrn6QFpPceHKigml94CqU2U4n611KEQR4V88p9gmbI/pD9nVbxpss8cOCF0rDd2bAx3muOZQvJUj/evHMcsMq05neIUkXz6m1+ZkvrLhM7Jvw6lEbm02tKhNgvJz47id3Rr6fPrqhxMQb0976Vewy0WIwjMCjwL9p+xf/ZlaOepRubu2nosUZuJkmonfrfAbR1BF09tAA965rTYx2YE1G7zkJuBk279QDLHxY9weVs/PlmyKBy1fCetSAyJhB41OkYY43WcenfLWmJIQ+Au9Q5WRYgQhvW/FJcfXUahBuOCeiNWu9wDflzqDEZ5+WLC3H4dKT3t/3uj3Rqv1/ZFkveA4BRnPEcZHZ7EsV520nwFsGc215DzyQOKabGiY6NDfiUjcOMMNYesw0ld/D1k1zRO71bcP1znqp5ejqZlhvGw3HPF8KtkbNnGNSdjYwgaVt+Mb3ll++34KH7YaToXNiFZ45FNp79Y1BpgpKHtvwyDwBUjQc0wlZnqXIj1JBAkw3PfmrJzLflhrZ8/qg0CxAErg//mYhhjW5Ihi3Jf5uyBkvZLPeGZ/C2zE+T9JNQz6qGUHcyJ+w6yEGlGK2TV/bKa7PiiFB9QufkQqBrfAx5NAH8aniLl8LnxqxoyzLpyC0QBAzEUi9cssgRpqESNfVHfKdjG9bnDG261Kh7AZ9TQr9ztldGfzCtuEbqF4fHnorlw5dWj+wrVCic4REmXLR72lx5RJwsD835/Kfxtqaf8g==
+#EXTSEC:PZDtUBpIe4HaXSqTUlcOlkmQ0sm6eVECCW7sIfH2f4WoMxli8Ss+B8TPxLz/JqoR
 
 #EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (sem censura)
 https://feedlix.net/videos/promo.mp4
