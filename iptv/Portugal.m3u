@@ -23,7 +23,7 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="SIC" tvg-logo="https://feedlix.net/tv/pt/Sic.pt.png",SIC
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:dHQvoATz2OnRhno3zjXP9BXAYoeqNyP7jpkc8gdztp6DiuAvo63qFrCW0tpHwkrl
-	
+
 #EXTINF:-1 tvg-id="SIC" tvg-logo="https://feedlix.net/tv/pt/Sic.pt.png",SIC (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Djy1xt7ot5Shm4OmPf9HQp52OekjHMhSO1mcEKd1XPwitLWnPG5ymKuMgg+InXTAnf9ivS/kUDb8WydsJ2sYMtN+diuY0RJCG1mbZgUAL7R53NP2+5DGjXtimG88Ir6G
@@ -875,7 +875,7 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",A Radio Rock Super FM (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:yd21qQH62nibfTCeTfFC8pRTgLff/RJw7J1ZGaixi8P9dnOV3OtYD2Vcq2bLze3I7h6aSWtrXHc1YW/zK2CXvgH4r4gsBSFvdgN5cATjz+k=
-	
+
 #EXTINF:-1 tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png",Amália (Radio)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:xJq1ObW5jFSEcQt+aSTPgJtTIrrGuoTrI1OcGc9LbpU7EdQp+yvMzc2ueQh4Vt3s
@@ -898,7 +898,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png",Comercial (Radio)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:stQKQICos+VEkIPLbYjCmZoFqTLtQpO98UAVr7r3DcczKMTycTCXHlPl8cS1tK6ZCjAPRzYOD7aSXup4wt/+HcqqksrVbwHED1cADQ08sUA=
+#EXTSEC:on1E5n4cFIHdQbh1OX2spCugtPRScmhU5qgmhzzFErlmr1/56ayD4dqBeGn9KuwhyqqSytVvAcQPVwANDTyxQA==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOFESTIVAL.png",Festival (Radio)
 https://feedlix.net/videos/promo.mp4
@@ -918,19 +918,19 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="http://cdn.nexttv.sapo.pt/user/channels/33/c5f/8623/logodf0f58d2e1b083cc1c467dc57b19130d-200x200.png",MEO Music (Radio)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:IQT66vbGwdY0IXDyQWv3U1sBClwY7uyRU+h8H+6PX7Aw1Y6AG/95WOVKk2dB89Io
+#EXTSEC:IQT66vbGwdY0IXDyQWv3UwMzhReikTAyuHmOd9k7e0rledFYFdUQmI58N3qCQcNK
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.radiot.fi/img/channel-logos/radio-nostalgia.png",Nostalgia (Radio)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:IQT66vbGwdY0IXDyQWv3U/3SufsGovjOaVYQ98sxsTk=
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/tKrKYOR.png",Regional Rock (Radio)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nx6dFjL9oE7pDnnuxWBjod8Qm4tTpwIOTwVv6HNtyYvt/2LcFUshAch+MzUQe1F2
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/hUrEKgu.png",Regional Dance & DJS (Radio)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:nx6dFjL9oE7pDnnuxWBjod8Qm4tTpwIOTwVv6HNtyYvnAWo/FWv09hBlF8Z+QCiP
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aPZ5joL.png",Regional Love Songs (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:nx6dFjL9oE7pDnnuxWBjod8Qm4tTpwIOTwVv6HNtyYvNND2DZLG5EP2BA3pKZXzN
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1zntJ9S.png",Regional Oldies (Radio)
 https://feedlix.net/videos/promo.mp4
@@ -939,6 +939,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/x48qEMX.png",Regional Portuguesa (Radio)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:nx6dFjL9oE7pDnnuxWBjod8Qm4tTpwIOTwVv6HNtyYvYF7jPpQSKf5+mYcG00h4U
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/tKrKYOR.png",Regional Rock (Radio)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:nx6dFjL9oE7pDnnuxWBjod8Qm4tTpwIOTwVv6HNtyYvt/2LcFUshAch+MzUQe1F2
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_renascenca.jpg",Renascença (Radio)
 https://feedlix.net/videos/promo.mp4
