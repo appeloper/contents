@@ -282,7 +282,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-ID="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (sem censura)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:HOgEWOZ5jCMHJNaxGmW0zgjA7JvnKJL1BAoQn6s+OOsMmO4/rFG2E9fppw2Sg+TXsReb2nEgLqiRBKMT6wiQfCEmSwAMIvbrGYaDNpN3mixKC8KAuvVdgIzW7nfS2QJadx10r/Jg5fCmj6WD47EiRA==
+#EXTSEC:HOgEWOZ5jCMHJNaxGmW0zgjA7JvnKJL1BAoQn6s+OOsMmO4/rFG2E9fppw2Sg+TXc1sz2ROJlxpqVXhv/79ZpA93bSpuTCN/dRj5a8qZBQTYtpyM9kEfJ4KwGLE0tWp2dx10r/Jg5fCmj6WD47EiRA==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Doc HD (RU)
 https://feedlix.net/videos/promo.mp4
@@ -295,10 +295,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="Love Nature TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Love-Nature-TV.png",Love Nature TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:qoz7+ozlxOzdwQGgiulRV7US5dK4Tfqk2U+3wIr2F0NCNzfSDHOlZuzXy8EDvUjq
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg",TV Natureza
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMa/OawXoJkM2TSKxUtKa76ls/Bs1lQ5g39/4Dnz4ulMch14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLbnS0PnQSdslfkkG/SYz7tXiznuX1inHva4OzILQ3n9wHXqQoSjSIgtKAHkXW9w+RNiST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ly1o2e9.jpg",Animais de Estimação TV
 https://feedlix.net/videos/promo.mp4
@@ -611,6 +607,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4fun-tv-logo-5EA29A36E0-seeklogo.com.png",4Fun TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:sUBanA+XO4/aktM/TQhhdamoOPnmN4thSs9OCXw9DpdsS/J1krea/r/PMi1rmI5Zn+QKQDPaaJdv88LLB1wFYQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/baraza.png",Baraza HD Music TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:qAoH+6Rb35S/10hpwlOgRS3r59JGaf7XjuDlYy2ScawpyvWf7oUeTRCFT21oibHRr29FJY6w0uz3y1Xto4h62A==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/viva_ru.png",VIVA
 https://feedlix.net/videos/promo.mp4
@@ -1064,57 +1064,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5SplwZy+2CSw7+HT5T/Zo+6/lHBR62heYS7CvQVyqCnBQcmKjtik4HPYapXFojXP
 
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/475x297-c/desktop_metime_1623557114.png",Energy Me Time (Radio CH)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ch/logo_energy_zurich.png",Energy Zurich (Radio CH)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:fCiR+lW1V7qLJFDnXPn7Dfo01hrJutbr5ohwg6CZ259YY/iUCdDvcpAbMIBexB+boyOMEiGIuioTjOwB6r+ErQ==
-
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_dance_1496927248.png",Energy Dance (Radio CH)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:W5uGl3nMyIIOGMdLYfBhaOyAlISDRl/MGH1dfAzHS6gzNNzBYxxWUY8S0eur4HwtE2DFIyxVVjRr7jhgC6tzVg==
-
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_folk_1496927364.png",Energy Folk (Radio CH)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:fZK8sAz16gzaUexEIZ1xarc+FyYzzuw3N0OKQCcaPdr+nvJ5FsREQyHSqLK6IqYWgUiU7fVQsSpLdZFrxSOu5g==
-
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_french_1496927474.png",Energy French (Radio CH)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:XYBFp8YYZ5T6igD0mBhaBu+GlnfOaupaX42leFByn+54lQjjbeo2cmCq9EBiyNimNh3RA/vyQrNLAKD6VLzgJg==
-
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_german_1496927327.png",Energy German (Radio CH)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vvbQ2I6dHiu17OXQt8NnlbvRGpCkvrfVi2hZ5TaRHqyFq7d4e+cM7G8pSvNOOHgapUlWaimLw1+dtZsNpik+GQ==
-
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_hits_1512407288.png",Energy Hits (Radio CH)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:R99lr7SJWJjmlqQtAF6wqn0Bx4KYRr5IPAQuV2ygQus7a2f1mGz6HXtRtiJqAuTagUiU7fVQsSpLdZFrxSOu5g==
-
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_italy_1496927379.png",Energy Italy (Radio CH)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:eOWPG35hVpiFmLavuqN1KjVaEPSC8re1uSk+WnBieqths3TiQliy0DZ7MfwhrI1OP0W3+24dvP25f7iTn4ydNQ==
-
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_latin_1496927320.png",Energy Latin (Radio CH)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5m7e900zdGRqTMOm/tDlodp7sQDKd00jDNg3DN3ubpiGWa+TBa5vqLoVG+UO3cE+VNn2yJAEKPXNQcn0gqXj0A==
-
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_love_1496927291.png",Energy Love (Radio CH)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:H7WU1Ft2ZYyrxRzTe0lpQPvRZpr2zLsg/BamgkMmzvfS6SYi/DdKK8oR9Wf9U9kcgUiU7fVQsSpLdZFrxSOu5g==
-
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_mix_1496927357.png",Energy Mix (Radio CH)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:LZMhuqD4NvZ1RswAnnC3aBJBA1L/Thc20uzF81LZRqOAtLd1A93r56QXlQRSTvNrn0zy2iUJkmPwLwPbeIVxpQ==
-
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_partyhits_1496927446.png",Energy Party Hits (Radio CH)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Hw7/aFoJfQkNnMM8rxR3DaP4qmXAQYdN+no+FqQ8c4oRIDDrrt6mYxdIBwJjHx2IlilVl7FwnSIyaia9t78JRsH9AzsxRCzh8ZIoW3JyZLs=
-
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_pop_1496927535.png",Energy Pop (Radio CH)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:giKQ2u28Im+NDLl8gucvs+xRlcjGHahNJD5FMn3/JbzEaWdtHCFFLNBrMEuYAY5cn0zy2iUJkmPwLwPbeIVxpQ==
-
-#EXTINF:-1 tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/363x223-c/desktop_rock_1496927350.png",Energy Rock (Radio CH)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KgKudXFvGmVguv9gzu20wJsuLwykQ+kQXV44j3jKVSw/wm/Rc29PiWWVEigySzxGgUiU7fVQsSpLdZFrxSOu5g==
+#EXTSEC:kRGhfpbeZr/kDV3bfoX3SFnRMalzl3DLIzkpq3brXh3F4W71jxAnwK+CC5fS2ylYVPephJEWizUjp80lTihY7A==
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/42760.v2.png",A State of Trance (Radio DE)
 https://feedlix.net/videos/promo.mp4
