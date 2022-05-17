@@ -280,10 +280,6 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:afsFoKzfBiI4YPxcuPgIyUbVq72yACJJbbWOO2PDgQJ26DG2JBcX4XTvbdJGRaQa
 
-#EXTINF:-1 tvg-ID="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (sem censura)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:HOgEWOZ5jCMHJNaxGmW0zgjA7JvnKJL1BAoQn6s+OOsMmO4/rFG2E9fppw2Sg+TXc1sz2ROJlxpqVXhv/79ZpA93bSpuTCN/dRj5a8qZBQTYtpyM9kEfJ4KwGLE0tWp2dx10r/Jg5fCmj6WD47EiRA==
-
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Doc HD (RU)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:TZ6OU7/wM95XbboPK9gn4BioNMO/gOLs5wEy3rPCduDuDkjf1F2CYKsr3lXyRCwI
@@ -615,6 +611,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/viva_ru.png",VIVA
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:VUQtPG/hMeG5eqgQhhU6LuMwzT2eK3Nk12zYf5ltHdeFY803nNdqypwvkhVWfLFDedzT9vuQxo17YphvPCK+hg==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/1_hd_ru.png",1 HD Music TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ZmmuiKoVhbIScTeCwMCKiX/7O3+bWdzVywBXokkTYYI=
 
 #EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/news/ockostar655440.jpg",Ocko Star
 https://feedlix.net/videos/promo.mp4
