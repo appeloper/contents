@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 
 #EXTINF:-1 tvg-id="Россия 1" tvg-logo="https://feedlix.net/tv/ru/rossiya_hd.png",Россия 1 HD
 https://feedlix.net/videos/promo.mp4
@@ -16,13 +16,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:GsDipFMhvIDA2XR6LUG150uONX0iZ24F6xEzOhgC/TrLjiR/7Q7Db64WWQqBDsdHB1muaspD0nwmhtbEtntLVw==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/russiak.jpg",Россия К (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:/sZ1cw20t0nXJ0bTi5JibREOJ0sIz2L2OJONUPdDxCEo0AMCy1RJF4RIROaKh/bFp4uhlFaMTSe9cmaN0nKGRw==
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1200px-Rossiya-24_Logo.svg.png",Россия 24
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:GsDipFMhvIDA2XR6LUG150uONX0iZ24F6xEzOhgC/Toqg8kPNF3G0TwcSWoyX0t20bIznNPqeVKFUemPsLG6VA==
+#EXTSEC:/sZ1cw20t0nXJ0bTi5JibREOJ0sIz2L2OJONUPdDxCEo0AMCy1RJF4RIROaKh/bFp4uhlFaMTSe9cmaN0nKGRw==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1200px-Rossiya-24_Logo.svg.png",Россия 24 (op.2)
 https://feedlix.net/videos/promo.mp4
@@ -132,22 +128,6 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Lx8eOkLQnw9Vfvy8mRS79/pXnOMMxsvqHLAh5j36yg3FVX8JfCT2AsPhDNsQSC40
 
-#EXTINF:-1 tvg-id="volgograd-1" tvg-logo="https://feedlix.net/tv/ru/volvograd1.png",Волгоград 1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cKEwoGK+ouuCza/TYpeiirSOSUqGBJxfhkRlhsJ7RqbUdRSJhO4k1nfT+UyfjExmKJzIYIsMCtLcIqXb1f7dzg==
-
-#EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="http://xn--b1ats.xn--80asehdb/img/logo.png",МТВ Волгоград
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:44tb8lwG0mZRtX/ayq/xeQVv+Ed3MNoOl1drUGPAmZ2C2QS9MdZLnDe6YnAEp4ZzNJg32QgIEvwoJcfYO+KMVrFlaBbvmhqgzNuIsLjy4NOf5ApAM9pol2/zwssHXAVh
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ru-katun-24-7588.jpg",Katun 24
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:fjQCUSGA88ZQ2NQ2nefsOOL+GwLR/RPLhnT1b8nH9cLm7xc+bfNkwzq/F0jZUiv23mo2Qh/hyDl9bH3RxfkBRg==
-
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000430605705-b4f7xh-t500x500.jpg",Беларусь 24
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mSY0CoMhmm1bQUKVVpEKoqqCWAN5gq2syIqIEYhMZVG0pwkHbx7NVKFiE49kRhWS3GM9jhLI3spDSEgTaHh4cg==
-
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_russkij.png",CGTN RU
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/ppqa2COjUJcAH1V4ATBlKBkuHHG6/Mv1dwmaeCwZpvJmHTt+cbSHOSvrTE7DOCa
@@ -160,13 +140,97 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:yxHBfDzCqK/a8o2EedOl7qsNvedso7uhgaG7tGthdhQRYblB8eJL0fqXFjNhjZI2
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/IndiaToday/picture?width=200&height=200",India Today (english)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjzX6DjlcYPzKYL6xVaLwPHLThNUI4PwUjk3MnFQHyrGHg==
+#EXTSEC:2OI7Fni0aFj2Gh2kzkl1/kZKxGf6ZJtLL1bWNQtU4t6avxe98Vnzm5mfXUUwP0HoiMiiP6sGB8IlYGdRDux/Il67y0aA3T3jeTowJiRDLJ1CNzfSDHOlZuzXy8EDvUjq
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/dw_tv.png",DW
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000430605705-b4f7xh-t500x500.jpg",Беларусь 24
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:NhWRP5bsL7mCyEb5qRljuEv8EWpIPD/KH6nChdaQOaOxoRoYqz3BhWMhwbLe1m6Je/SSqTnELIXYNPBkhmn46zGew+Mk87Q205Mylz0bEPnUe9LG7rE+rk0Z57Tp6Wru
+#EXTSEC:mSY0CoMhmm1bQUKVVpEKoqqCWAN5gq2syIqIEYhMZVG0pwkHbx7NVKFiE49kRhWS3GM9jhLI3spDSEgTaHh4cg==
+
+#EXTINF:-1 tvg-logo="http://volgograd24.tv/tmpl/main/images/logo.png",Волгоград 24
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ORsqeXsP+6Ww7F65I5EGymEWhro88FmHKbgZed56gzzkgxPnkMF1e4dUTvRhtSxzbHdT1StmLIigZFcfCL9pbdyg/ARD3An3+zH0WdDEyHxwcI1aLioyTsb15xAn8tEroS9ZxdF9YNis/ih2Z9VeYZ/kCkAz2miXb/PCywdcBWE=
+
+#EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="http://xn--b1ats.xn--80asehdb/img/logo.png",МТВ Волгоград
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:44tb8lwG0mZRtX/ayq/xeQVv+Ed3MNoOl1drUGPAmZ2C2QS9MdZLnDe6YnAEp4ZzNJg32QgIEvwoJcfYO+KMVrFlaBbvmhqgzNuIsLjy4NOf5ApAM9pol2/zwssHXAVh
+
+#EXTINF:-1 tvg-logo="https://deloros.ru/assets/images/publications/k24_logo.png",Катунь 24
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:fjQCUSGA88ZQ2NQ2nefsOOL+GwLR/RPLhnT1b8nH9cLm7xc+bfNkwzq/F0jZUiv23mo2Qh/hyDl9bH3RxfkBRg==
+
+#EXTINF:-1 tvg-logo="https://hh.ru/employer-logo/2417062.png",IZ Известия
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:R60Ao1ooICcMyBMA/uMqouDBDsKn+33x//0zAd+iFrab7Uqqx6LQ7KBVcfxldLTVlaOQVrAzRJHMjV2mt8c9xA==
+
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/19/86/pp2.png",360 Новости
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:IW1cew/JOLt7A7PDTgtD3g/KrcKCrz5R/kI/THksjrGCm1h8A097ObHSYCrxNgebXyqBWqfd0AxeUPa7U5eLX43LKxBzl8+TQwb85j5VIGQ=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/logo-360-tv.png",360 TV HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:IW1cew/JOLt7A7PDTgtD3g/KrcKCrz5R/kI/THksjrGyNZ0Qc+2Tqid3QN+wLRjCIt/uyNh8eILXwtvOgJBooq6oQn5ZEgwS2ed9RL20HkW6fYTmgu3FlQj5ShBVEXHM
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/ldpr_tv_ru.png",ЛДПР ТВ
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:NbV20l0tISQIV9uaS6mmWrJcer88KpCt3hNGpLLUg04LK5Eu/lt+zax3vgMqSooLL7AKQiaoqDJ4mNz8LFTem7p9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/sochi24.png",Сочи 24 HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:7ONURBLTpzbf+UdFcSzEZnxryCZe6DFqC/Z0zfgl8O0n1BGzw22kxkRMMaN2odgYhFpVDpKS2Em81fz2VjnFQiKBlALyDEIzygGQNM5QJXW/kfUPkG1YzS8glpx/NqiRmX9ckO95XWELt9kudC6xAA==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/sochi24.png",Сочи 24 HD (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:/sZ1cw20t0nXJ0bTi5JibfdJRqolUgygRVDiOd0wXK0o0AMCy1RJF4RIROaKh/bFp4uhlFaMTSe9cmaN0nKGRw==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/sochilive.png",Сочи Live
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:mSY0CoMhmm1bQUKVVpEKonlgSyBuK7VxaIF8KJ2WIQNWpo4NIw52Vws/vJYgsK6npSfQrpAJZnD0ea5fRVvbdw==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lnhXsrp.jpg",TV Brics HD (русский)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:lYwA+bwkKEyEd5peqcu9aS0qZ4FkRTgN0mEWUWCdfF63azjt8pBHWmSLFxOT6gGCevPOGY6VKQyndrI/Om3borp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lnhXsrp.jpg",TV Brics HD (chinese)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:lYwA+bwkKEyEd5peqcu9aS0qZ4FkRTgN0mEWUWCdfF4WSUh3pq7E2W+gkxbRnEBBevPOGY6VKQyndrI/Om3borp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lnhXsrp.jpg",TV Brics HD (english)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:lYwA+bwkKEyEd5peqcu9aS0qZ4FkRTgN0mEWUWCdfF5okmASXAuHqnzS+VjFPMjbevPOGY6VKQyndrI/Om3borp9hOaC7cWVCPlKEFURccw=
+
+#EXTINF:-1 tvg-id="France24.TV" tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:NlBd/qAcJqCQVumSYH50wgaeU5SKPIJkKU36fNNzFpl0UkTo0STUv+Ml+Mq/PDW7rF+kmF9J409vukqlCzWqoQ==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/dw_tv.png",DW (english)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:D4VCqrbKef6ppA4u+1DoDZxq351co2ZhOCSThv5QlTuavxe98Vnzm5mfXUUwP0HoQPNmxlz8T7Wl+CgyL9kuhWfGRRJtQr8uzmbeKkrzRFmqTDmF5Ashy5Of5XEjfzI0
+
+#EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://feedlix.net/tv/de/dw_tv.png",DW (español)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:D4VCqrbKef6ppA4u+1DoDddd+vKc024ud1lvY986Vkqavxe98Vnzm5mfXUUwP0Ho+jvVYWQWrpthS5S6uvBsIYiy/3k3UB14eB+V8N9xsjA=
+
+#EXTINF:-1 tvg-id="RaiN.TV" tvg-logo="https://feedlix.net/tv/it/RaiNews.it.png",RAI News
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:XakB8AI5W7cIs3apC4sq6eBg32XY/DepmW7CH9GCyI9XXCCeFTNvSCOGbZgWn2Y3vMuC5X3EoKSMgIZ3FNdVppbGpM9kNdF7aq7KAQ70786B0dbVcK4IaQE+eGqkz3ZSun2E5oLtxZUI+UoQVRFxzA==
+
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24 Horas
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:PTUipkkhWbLV0upoPjlCkBQtbrrlBtDpMfpySu79D/aQFdRQp+vYZ+FHEwtvmjwVsrpz/TFf4zJ2PQS0yvd+Dg==
+
+#EXTINF:-1 tvg-id="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1024px-TeleSUR-Logo.svg.png",TeleSur
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:KcY9exbUXChCAdVdk1+DcxI+rNH1UDOh8m+iyjpi/x9Td2qP0ZC05NXYvixcSoU+Bp+dveKkpOQtdvsS8ti0tZWjkFawM0SRzI1dprfHPcQ=
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/presstv.jpg",Press TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:fktJUpD87p+O0+QRqNugTqsTd+l0BKKBPbWtbAP5HHx30C2Qc80tXB5UvyfxYWtt/qM58WvF/VOtBBrTRSzB9J/hOUyajNEe8qAlNoz4sVuVo5BWsDNEkcyNXaa3xz3E
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Free-Speech-TV.webp",Free Speech TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:WU2ygT8mkrz8v+dXnxYbP8qlWlY+jMofCGpqxcyDvrXRXe0ohFXxpmjs8wHRm/p2vn8gkNHwP1OgWmGA3XFRGGpQm5IXxHumiMy7Qk0rFlvUYfMsZdigystR065QYdO5FRvcSuHg7MuDNYRb1kiL0AlFGvzvdzFZu7cRb7zX3R2f5ApAM9pol2/zwssHXAVh
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/nhk_japan.png",NHK World
 https://feedlix.net/videos/promo.mp4
@@ -184,17 +248,13 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:UE2a9sIYv6hIsZt2Pi4cD89qPEJ+RBSPAtzE3j1H/Sa6iXByYYZUr3hmt96eLzaZ+UN4Hxp9PHVubIyxK8/IkQangqvaquzbqShvfHvJQGV5sBSkwLBaeqTD77Ohb9O0
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/presstv.jpg",Press TV
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/perviy_1_kanal_hd.png",Первый Кaнaл HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Oq6mNC/JhcX3IKnOwlZzrj4Hdo3DxYnQYbVF8S6Q1OZVKk/GqRYx8HdVdys+4yvK+67Su5J5e053jFx7oPKftw==
+#EXTSEC:hwgQd0RyqZeI2cYhdTizaLWBvJ+WW93c1tO6wsniR27GaGiba+ugmtvfZUmEQRj2GTScBSzllavITnPc+6cTVSO1i3m4jA4EmOmTvA4L5FY=
 
-#EXTINF:-1 tvg-id="RaiN.TV" tvg-logo="https://feedlix.net/tv/it/RaiNews.it.png",RAI News
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/perviy_1_kanal_hd.png",Первый Кaнaл (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:XakB8AI5W7cIs3apC4sq6eBg32XY/DepmW7CH9GCyI9XXCCeFTNvSCOGbZgWn2Y3vMuC5X3EoKSMgIZ3FNdVppbGpM9kNdF7aq7KAQ70786B0dbVcK4IaQE+eGqkz3ZSun2E5oLtxZUI+UoQVRFxzA==
-
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24H (spanish)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4L+vjOUwyma0FmZsVI2n7e3VfgODH1G5Y+ud1b1UYONxg==
+#EXTSEC:oLeiGM6tj8mj4UHY/VH6uNm+Ab1jEK7mZOoDCyyHeVq7RsQ/Y3m3CcnFX7La6/Gi5CIanSAVo+83cLppSTxzfxx/Gld9v/PAhuwYx3f51C0=
 
 #EXTINF:-1 tvg-logo="https://www.moldpres.md/uploads/news/2018/08/09/18007057_big1533804162.jpg",Мир +3
 https://feedlix.net/videos/promo.mp4
@@ -220,54 +280,18 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:r2so5nsiEAcO2Fcqhv053hjPON2UoGZpovrQXbyPtDfZsf6jpDMVY+5jnnCTGHS+5VNvn3/eoTp0B2pEOsEc+kMz6s6BbPxrnX7et1VBFQ0=
 
-#EXTINF:-1 tvg-logo="https://hh.ru/employer-logo/2417062.png",IZ Известия
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyLyhrU.jpg",CTPK HD (43 канал)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:R60Ao1ooICcMyBMA/uMqouDBDsKn+33x//0zAd+iFrab7Uqqx6LQ7KBVcfxldLTVlaOQVrAzRJHMjV2mt8c9xA==
+#EXTSEC:924gsDk/pgxwdqWB6wEflj/WvEyZ1dx/VQDRZo9i34XqwSvRpnhEeagqeiJPWc7t3ZgsO+Uc+LeiH0ZwT/4QUQ==
 
-#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/19/86/pp2.png",360 Новости
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IW1cew/JOLt7A7PDTgtD3g/KrcKCrz5R/kI/THksjrGCm1h8A097ObHSYCrxNgebXyqBWqfd0AxeUPa7U5eLX43LKxBzl8+TQwb85j5VIGQ=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/ldpr_tv_ru.png",ЛДПР ТВ
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NbV20l0tISQIV9uaS6mmWrJcer88KpCt3hNGpLLUg04LK5Eu/lt+zax3vgMqSooLL7AKQiaoqDJ4mNz8LFTem7p9hOaC7cWVCPlKEFURccw=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/sochi24.png",Сочи 24 HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mSY0CoMhmm1bQUKVVpEKonlgSyBuK7VxaIF8KJ2WIQOZ9vL3SKYCfpJtnCTiMDMYyQIcF93fFAfivZUfUDUYSA==
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/sochi24.png",Сочи 24 HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:/sZ1cw20t0nXJ0bTi5JibfdJRqolUgygRVDiOd0wXK0o0AMCy1RJF4RIROaKh/bFp4uhlFaMTSe9cmaN0nKGRw==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lnhXsrp.jpg",TV Brics HD (русский)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:lYwA+bwkKEyEd5peqcu9aS0qZ4FkRTgN0mEWUWCdfF63azjt8pBHWmSLFxOT6gGCevPOGY6VKQyndrI/Om3borp9hOaC7cWVCPlKEFURccw=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lnhXsrp.jpg",TV Brics HD (chinese)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:lYwA+bwkKEyEd5peqcu9aS0qZ4FkRTgN0mEWUWCdfF4WSUh3pq7E2W+gkxbRnEBBevPOGY6VKQyndrI/Om3borp9hOaC7cWVCPlKEFURccw=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lnhXsrp.jpg",TV Brics HD (english)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:lYwA+bwkKEyEd5peqcu9aS0qZ4FkRTgN0mEWUWCdfF5okmASXAuHqnzS+VjFPMjbevPOGY6VKQyndrI/Om3borp9hOaC7cWVCPlKEFURccw=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/perviy_1_kanal_hd.png",Первый Кaнaл
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BXXTJhBYNPaYIboA5CyTLg746h8VQuq2ijtyTRm6o5EULKEr05hV5ztK9e3voVDz
-
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-russkiy-roman.png",Русский Роман
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BXXTJhBYNPaYIboA5CyTLg746h8VQuq2ijtyTRm6o5FJYUKK0DL6UZnTo8S2ttLh
-
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/sovetskoe_kino_obychnyy.png",Советское кино
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/sovetskoe_kino_obychnyy.png",Советское кино (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zHfbvUWcTG7U3OpH6KWCgAMhs03Yo9KB2PXlmm1zHqfKO6qCw+QG7SBbdbsH09koguYC4TiGINm0/v9ok9hHGHF1YYYITybskfMISCn7YC5IyvRmzTT0q3Syt5OADS4F
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/zee_tv_ru.jpg",Zee TV (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:63PLRalC8i3/zd+y9qdn2F/6DFG9DLXzT4kLRrkktA6Ie3mmnO0ntGA9g5xXAagzdx10r/Jg5fCmj6WD47EiRA==
-	
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/zee_tv_ru.jpg",Zee Cinema (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:63PLRalC8i3/zd+y9qdn2LDPjWCNYpyJfkgd7XvgSpNPE0QE+xEcHSahxJ5rTNRsamN+/rCfDOYdXR2kGRWBUg==
