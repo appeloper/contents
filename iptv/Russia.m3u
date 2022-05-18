@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 
 #EXTINF:-1 tvg-id="Россия 1" tvg-logo="https://feedlix.net/tv/ru/rossiya_hd.png",Россия 1 HD
 https://feedlix.net/videos/promo.mp4
@@ -140,6 +140,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:yxHBfDzCqK/a8o2EedOl7qsNvedso7uhgaG7tGthdhQRYblB8eJL0fqXFjNhjZI2
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/IndiaToday/picture?width=200&height=200",India Today (english)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2OI7Fni0aFj2Gh2kzkl1/kZKxGf6ZJtLL1bWNQtU4t6avxe98Vnzm5mfXUUwP0HoiMiiP6sGB8IlYGdRDux/Il67y0aA3T3jeTowJiRDLJ1CNzfSDHOlZuzXy8EDvUjq
+
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000430605705-b4f7xh-t500x500.jpg",Беларусь 24
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mSY0CoMhmm1bQUKVVpEKoqqCWAN5gq2syIqIEYhMZVG0pwkHbx7NVKFiE49kRhWS3GM9jhLI3spDSEgTaHh4cg==
@@ -164,13 +168,17 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:IW1cew/JOLt7A7PDTgtD3g/KrcKCrz5R/kI/THksjrGCm1h8A097ObHSYCrxNgebXyqBWqfd0AxeUPa7U5eLX43LKxBzl8+TQwb85j5VIGQ=
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/logo-360-tv.png",360 TV HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:IW1cew/JOLt7A7PDTgtD3g/KrcKCrz5R/kI/THksjrGyNZ0Qc+2Tqid3QN+wLRjCIt/uyNh8eILXwtvOgJBooq6oQn5ZEgwS2ed9RL20HkW6fYTmgu3FlQj5ShBVEXHM
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/ldpr_tv_ru.png",ЛДПР ТВ
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:NbV20l0tISQIV9uaS6mmWrJcer88KpCt3hNGpLLUg04LK5Eu/lt+zax3vgMqSooLL7AKQiaoqDJ4mNz8LFTem7p9hOaC7cWVCPlKEFURccw=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/sochi24.png",Сочи 24 HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:MjbBh2nMj5pJ53nA5dUbTbZBVzgYaUNzm9iEHMzagoZx8CdvIsbO2Y9LqR1WuozrlaOQVrAzRJHMjV2mt8c9xA==
+#EXTSEC:7ONURBLTpzbf+UdFcSzEZnxryCZe6DFqC/Z0zfgl8O0n1BGzw22kxkRMMaN2odgYhFpVDpKS2Em81fz2VjnFQiKBlALyDEIzygGQNM5QJXW/kfUPkG1YzS8glpx/NqiRmX9ckO95XWELt9kudC6xAA==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/sochi24.png",Сочи 24 HD (op.2)
 https://feedlix.net/videos/promo.mp4
@@ -242,11 +250,11 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/perviy_1_kanal_hd.png",Первый Кaнaл HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:oLeiGM6tj8mj4UHY/VH6uNm+Ab1jEK7mZOoDCyyHeVq7RsQ/Y3m3CcnFX7La6/Gi5CIanSAVo+83cLppSTxzf0Q3wuSLAj1BqdtQ2P1dOZg=
+#EXTSEC:hwgQd0RyqZeI2cYhdTizaLWBvJ+WW93c1tO6wsniR27GaGiba+ugmtvfZUmEQRj2GTScBSzllavITnPc+6cTVSO1i3m4jA4EmOmTvA4L5FY=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/perviy_1_kanal_hd.png",Первый Кaнaл (op.2)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:QPOoS8CsowpQhW6eTCXDuzQAWtHp6EyzbdLzNbaaEwmngIBjXhyMb1fH7AlIBtG6un2E5oLtxZUI+UoQVRFxzA==
+#EXTSEC:oLeiGM6tj8mj4UHY/VH6uNm+Ab1jEK7mZOoDCyyHeVq7RsQ/Y3m3CcnFX7La6/Gi5CIanSAVo+83cLppSTxzfxx/Gld9v/PAhuwYx3f51C0=
 
 #EXTINF:-1 tvg-logo="https://www.moldpres.md/uploads/news/2018/08/09/18007057_big1533804162.jpg",Мир +3
 https://feedlix.net/videos/promo.mp4
@@ -272,18 +280,18 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:r2so5nsiEAcO2Fcqhv053hjPON2UoGZpovrQXbyPtDfZsf6jpDMVY+5jnnCTGHS+5VNvn3/eoTp0B2pEOsEc+kMz6s6BbPxrnX7et1VBFQ0=
 
-#EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-russkiy-roman.png",Русский Роман
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyLyhrU.jpg",CTPK HD (43 канал)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:BXXTJhBYNPaYIboA5CyTLg746h8VQuq2ijtyTRm6o5FJYUKK0DL6UZnTo8S2ttLh
+#EXTSEC:924gsDk/pgxwdqWB6wEflj/WvEyZ1dx/VQDRZo9i34XqwSvRpnhEeagqeiJPWc7t3ZgsO+Uc+LeiH0ZwT/4QUQ==
 
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/sovetskoe_kino_obychnyy.png",Советское кино
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/sovetskoe_kino_obychnyy.png",Советское кино (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:zHfbvUWcTG7U3OpH6KWCgAMhs03Yo9KB2PXlmm1zHqfKO6qCw+QG7SBbdbsH09koguYC4TiGINm0/v9ok9hHGHF1YYYITybskfMISCn7YC5IyvRmzTT0q3Syt5OADS4F
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/zee_tv_ru.jpg",Zee TV (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:63PLRalC8i3/zd+y9qdn2F/6DFG9DLXzT4kLRrkktA6Ie3mmnO0ntGA9g5xXAagzdx10r/Jg5fCmj6WD47EiRA==
-	
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/zee_tv_ru.jpg",Zee Cinema (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:63PLRalC8i3/zd+y9qdn2LDPjWCNYpyJfkgd7XvgSpNPE0QE+xEcHSahxJ5rTNRsamN+/rCfDOYdXR2kGRWBUg==
