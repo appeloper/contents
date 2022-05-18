@@ -184,17 +184,21 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:HOxDqa1cuO44XNNaFXRYbQHvPwCQ4f2NgJJhUCJdcuchJrESYsHthB1dyt1piWGHPfcfdmt4b87buDr0UCz0wiwNGWhISy5PJOhPv+GFFew=
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/caceres_tv.png",Cáceres TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:PLk4wmerUvjmcsWP/jagXyRSgZkVL4eW88UG3xqwoWfx8pbHjvNP1RVsRGh6CpDN
+
 #EXTINF:-1 tvg-id="CanalsurA.TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/Canal_sur_andalucia-01-1.png/revision/latest?cb=20181014214307",Canal Sur Andalucia
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:HOxDqa1cuO44XNNaFXRYbYZqnqa4bNj2I1l96S8jkhTNF1Vou0uZND55666k95LxMoKTQGlr/7etDok6EOGc0SR9a57xogvCl98WLgxZlyY=
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://feedlix.net/tv/es/tve1.png",La 1 HD (geo)
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://feedlix.net/tv/es/tve1.png",La 1 HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:PTUipkkhWbLV0upoPjlCkBQtbrrlBtDpMfpySu79D/YpT1SuDx55G7s7hKot38DeK9/1jMkVMmby4KKeJfAiWA==
+#EXTSEC:hM6/tiHrLBiw3+iikJJ0/sgwkNzgkryMbhusaoG6bI0y1oM2gf8lPCi2RMiIv+OK
 
-#EXTINF:-1 tvg-id="LA 2" tvg-logo="https://feedlix.net/tv/es/tve2.png",La 2 (geo)
+#EXTINF:-1 tvg-id="LA 2" tvg-logo="https://feedlix.net/tv/es/tve2.png",La 2
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:PTUipkkhWbLV0upoPjlCkBQtbrrlBtDpMfpySu79D/YpT1SuDx55G7s7hKot38DeJ2yqCwwr3iribb0mz+JgRQ==
+#EXTSEC:hM6/tiHrLBiw3+iikJJ0/mmfl9keuI/xvw2QK9caHyBFe3gJEpAGhOudGyYUg61O
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/szYOy8S.jpg",Euronews
 https://feedlix.net/videos/promo.mp4
@@ -555,6 +559,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png",Retro Plus Musica Romantica
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:m4Vk91bHOM3RGb3YNfNdErkVorSSPqbgD1e3k9Syokru4X7lN7Kw7TIOmbg4NXtNYu/87UbS1/ikR17IYJa6OVs2e1v/imGgFIKjRp9cdoqX4GxBIBkk0w++k8a+UfKen+QKQDPaaJdv88LLB1wFYQ==
+
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61hvF5ZSDvL.png",RTL 102.5
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:CMBB6oTpZCcM5lZAbqFigfT/ef+lWosTndzmeQUc4VvmU4NpOfnveed55jlqz8xkfypZ3tWHGeqvnr+3LBPZSExhznSFflL44IP3/ZPMhMJHmwj8cQ9EIAUwYkdkO0xwn+QKQDPaaJdv88LLB1wFYQ==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/tr/Power.png",Power HD
 https://feedlix.net/videos/promo.mp4
