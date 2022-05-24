@@ -832,21 +832,21 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:HOxDqa1cuO44XNNaFXRYbYs1Dmc4DYRwLVMOsmvPfMr3Ef7YLCTquB7lkwP5xDSKx2aAHzhWRKhwJMr5gd99ffqcmSNks2MevIbal2w2kSE=
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cordobatvonline/picture?width=200&height=200",Córdoba TV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cordobatvonline/picture?width=200&height=200",Córdoba TV (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:oKWEKo9gp25IY+Y0vPedk92TOGuZSSt1ZL0sEq3CHpMidaXUtZJXwbJ14jRyezjcxHSyDWj8YIcHLgdWdMq3Pw==
+#EXTSEC:oKWEKo9gp25IY+Y0vPedk92TOGuZSSt1ZL0sEq3CHpP+WrllIev4AHDUvqcp+/i73ZgsO+Uc+LeiH0ZwT/4QUQ==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/ptv-cordoba.png",PTV Córdoba
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:ze200/baQdA86lHkfoGXaSaRLdga7RcVmUFyfZqNstrP5UH5Yjcbhr6f4dRD3EJLn+QKQDPaaJdv88LLB1wFYQ==
+#EXTSEC:ze200/baQdA86lHkfoGXae233MwjZYOfNXs8wOchVVLP5UH5Yjcbhr6f4dRD3EJLn+QKQDPaaJdv88LLB1wFYQ==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/TVM.Cordoba/picture?width=320&height=320",TVM Córdoba
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:KMzkTmNmrNQDL7LUqftTrheBF4RUyYs3YkmT1Rb7TWACBYcWADDEPvmj4XVe8HeTyqqSytVvAcQPVwANDTyxQA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200",Mijas TV
+#EXTINF:-1 tvg-id="Mijas340TV.TV" tvg-logo="https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200",Mijas 3.40 TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:DeB6oGf8C68hRswXbl3I7WMs9byuxuDFWjqqde7Edk5nndLoyXS7PlR2DpmyKz0yebAUpMCwWnqkw++zoW/TtA==
+#EXTSEC:8InXjQh3OjjYEsTdM1R2aRZmHkzKjg6GKyPAxuLH+bVovkWZfcU2IZjtzg2LLtLfwprQY1X+TwnWV9ENdh2eOc8dZI60q5j2sjxmTyNDw8V53NP2+5DGjXtimG88Ir6G
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200",Onda Cádiz
 https://feedlix.net/videos/promo.mp4
@@ -854,11 +854,19 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal45television/picture?width=200&height=200",Canal 45 TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:clVIWJEZhO1ptBt+ox4KDNRO//vRpYcQ627XX5MRYzoiLphmenslcImyUn+Nt7bE
+#EXTSEC:ZLsUCO87y0dY4w2LZZYy5NryaGsnd6owjU6jsfslcwNky4WRmGYJKyWcH1Say2Ky7g5I39RdgmCrK95V8kQsCA==
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTV.Malaga/picture?width=200&height=200",PTV Málaga
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:ze200/baQdA86lHkfoGXaSaRLdga7RcVmUFyfZqNstpf909Mrz21d3u2z3cwaMXAun2E5oLtxZUI+UoQVRFxzA==
+#EXTSEC:ze200/baQdA86lHkfoGXaSaRLdga7RcVmUFyfZqNstqKdxiYfYYRsd3Ijxaiw6bIun2E5oLtxZUI+UoQVRFxzA==
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVGranada/picture?width=200&height=200",PTV Granada
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ze200/baQdA86lHkfoGXaSaRLdga7RcVmUFyfZqNstrVwFhxG+XyAbFAFW+bpjjVn+QKQDPaaJdv88LLB1wFYQ==
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvlinares/picture?width=200&height=200",PTV Linares
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:ze200/baQdA86lHkfoGXaXNSKA7ocUxfWR0Hw00EBx2JLn0KfjAWGQJy49/5rcHln+QKQDPaaJdv88LLB1wFYQ==
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200",Canal Sierra de Cádiz
 https://feedlix.net/videos/promo.mp4
@@ -866,19 +874,15 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200",Costa Noroeste TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:vbSNOeIxokGJm99TQqBQ6mm8oWU90vMfuOFXx8Bdw+enfO7ySj4dQI8GPYJEcO7Eky0bGKx5cA5FBs5X1Uelip/kCkAz2miXb/PCywdcBWE=
+#EXTSEC:PM4s8JOw9LXD1XYmuivezo64I5bMzK7Bd/VZNmqXsq6nfO7ySj4dQI8GPYJEcO7Eky0bGKx5cA5FBs5X1Uelip/kCkAz2miXb/PCywdcBWE=
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tuyalajandatv/picture?width=200&height=200",Tuya La Janda TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ZSXEMEysFSdRhaaS+zMRt7oKjmwRfdcxb+lGDC9CL+s=
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-D_XyUr4S7Dc/XLB8l6gqU8I/AAAAAAAAB98/LPLzmxsezGkPfTfyqIU5yFjVcikm4m9nACLcBGAs/s1600/ondamezquita.png",Onda Mezquita TV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/torremolinostv/picture?width=200&height=200",Torrevisión HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:LkTUGC2nUwjvimBtAVsjL3423Ouw5XivDUIynJRnUFDSYdg95Ps9MgYGRyLc9W+w26uF973q5A13eup2Lh+oOQ==
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/torremolinostv/picture?width=200&height=200",Torrevisión
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:G5dKyBgcAe9dzMWdMakhRlVlGEHS34NWYIw3h85yhi9f1gJugGX2QUf/qZWRbAXSCrVFES9k+4lGK0hDTdsGcaXp8L3NLl/TKfRH3K22O/w=
+#EXTSEC:VbwI+taznC8MeGuCv+gQ5au9vjf2La9pWJ4DZiCibEIOCKDE83lymZuuXAKsV84Fmr5d2ag4b5BG24o/Hd8kNb650ISHxiKIj/Bw+u4P4Rwl35hcs3nbAAINWcYEAWsTEXFRz0ZTL58Eacq6tV52WpE6PWG3l7WbBdtMXsyGZyVgeypopltsYhqgePtdh6Rt53K7d47tb5eeQb/syLwOje6C6bwAzKfcax6tQdLzX2rWKHqj/X1OC0B80Q19BjD8rd5GT1f/LQcuWW1xEozht3E5b04nzqpfGc7IWRQd6z0PNHy8C881MfZTz+hZVj9Cr7f0d+l80UN7HslAfP/Aq/Z89NjhTTovyVnu1QJErJrSn2f1ND7MPtFnlnoTfGsXfBgTsPXAv/TgR2v38WFtaPwo7C0ieFpLH/+bfmqBJj+hUYUI3n0XxATgGobhnhEo
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200",Diez TV
 https://feedlix.net/videos/promo.mp4
@@ -888,29 +892,13 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:X1Gw13kHyU5KrL14fdvIho64I5bMzK7Bd/VZNmqXsq4gQZQmZ0zyfTpzcu6bkp2cTOxsGa3jjRSPhmCftBtKs5WjkFawM0SRzI1dprfHPcQ=
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Fioncomunicaciones/picture?width=200&height=200",Fion TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:H+2ZkhdNk0WTpANwXt+I5tBAzyVK60P5zq+3tkK/f9s1vJ/ljCZRk1l/VrrqCyeDxHSyDWj8YIcHLgdWdMq3Pw==
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/BailenTv/picture?width=200&height=200",Bailén TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2c0MJjZEdwKAo6TG40cM1iW7R3/ekzOZTYdAgeU/fvavhnl9Ba0GLppw00DYSJ+byQIcF93fFAfivZUfUDUYSA==
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/SalTelevision/picture?width=200&height=200",Sal TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:PSElnNhxw4Gg1XIOaIDIj3UemW8wgpoXauZcwBGwQjXRcTeo7UhfTOAlIkhh8QDH
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1323402078153285632/xCLDLju__200x200.jpg",Tele Gilena
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4OtZi7SFJvR7g5xY8JOYKVoBREDVDz/84/mbvCXzafPJbs2R3gmtHy2hZqmuoztDRcl8qHt1rA6Q9/oqrSA+np/kCkAz2miXb/PCywdcBWE=
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVGranada/picture?width=200&height=200",PTV Granada
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ze200/baQdA86lHkfoGXaY51+CC6ZoxdVhjlpNgM4qEbcuucWffcyDD+krIxu1J2
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/1194877927226871/picture?width=200&height=200",Campiña Sur TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:clVIWJEZhO1ptBt+ox4KDNvbqfAsAvu4z3zfypXfiIIiLphmenslcImyUn+Nt7bE
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101523104600501/picture?width=200&height=200",Islatel
 https://feedlix.net/videos/promo.mp4
@@ -918,11 +906,11 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/106272064368271/picture?width=200&height=200",Canal Coín
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:H+2ZkhdNk0WTpANwXt+I5o1ITX0rsnO9GVhdyEgGSN4G6IcGgU4kyfBElZ78c7TQN1wMuaZCYxT+Hh5ulTD4Xp/kCkAz2miXb/PCywdcBWE=
+#EXTSEC:k6qW5GlYP2RITGXNHCrk3hxqzSzbJbemtI626ykULbHr7yWSiV3kObJVoetyrVJg0whFenl/qT6qV4wqvA0OIg==
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1026753292322459648/KelWPobh_200x200.jpg",101 Tele Antequera
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Hi3GeVm2q0PecLVxOM0JvyyYyAZSw2EGecW33tpBW8o2NdMoQ5y96Z1YKMMg2Kc60/lvgRxdStzoqcvbqMmZQA==
+#EXTSEC:PM4s8JOw9LXD1XYmuivezmm8oWU90vMfuOFXx8Bdw+c2NdMoQ5y96Z1YKMMg2Kc60/lvgRxdStzoqcvbqMmZQA==
 
 #EXTINF:-1 tvg-logo="https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg",Trebujena TV
 https://feedlix.net/videos/promo.mp4
