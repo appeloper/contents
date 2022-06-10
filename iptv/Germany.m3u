@@ -84,9 +84,21 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:iRJouMIjNvrL+LnR4vOBiXb4onIJgr7i2jGEOeBphCvMevu7Cyu2YBoWLYnPazQ4RTQmhqsj4bP0c+qkrjCaUA==
 
+#EXTINF:-1 tvg-id="SWR.de" tvg-logo="https://feedlix.net/tv/de/swr_de_fernsehen.png",SWR Baden-Wurttemberg (geo)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:uwwZ8y2Tw7z4zbv29o5nz7jRwW2O3KyY1Jt2Z8LMXm7n8AkuAxbaxb7a7QeAheTwuD5JJvF3paewG/cX3ugosYOK4C+jreoWsJbS2kfCSuU=
+
+#EXTINF:-1 tvg-id="SWR.de" tvg-logo="https://feedlix.net/tv/de/swr_de_fernsehen.png",SWR Rheinland-Pfalz (geo)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:q7dlGAimFblnDR3lyj5nx7jRwW2O3KyY1Jt2Z8LMXm7n8AkuAxbaxb7a7QeAheTwtGq1FnQdBPrGg5Yzyuy54IOK4C+jreoWsJbS2kfCSuU=
+
 #EXTINF:-1 tvg-id="MDRS-Anhalt.de" tvg-logo="https://i.imgur.com/WVkYbb6.jpg",MDR Sachsen (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:IQOTCTHUIOv58yTiBN8gkrjRwW2O3KyY1Jt2Z8LMXm7CT5buJYk/EgKykm9WKURBjoxUfUlihQz/y3Tb2l0ZZO4OSN/UXYJgqyveVfJELAg=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/cytec/tvlogos/master/mdr.png",MDR Sachsen-Anhalt (geo)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:hD8yDlhDjWMcY3puOb2LGrjRwW2O3KyY1Jt2Z8LMXm5VnuHDeBjxNAfKToMIOmacC91EjM55craHyQnNgFQo5+4OSN/UXYJgqyveVfJELAg=
 
 #EXTINF:-1 tvg-id="MDRS-Anhalt.de" tvg-logo="https://i.imgur.com/FkYKXZi.png",MDR Thuringen (geo)
 https://feedlix.net/videos/promo.mp4
@@ -96,21 +108,17 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:di2MXZLZWpY2DHgS1U/Rv+z/ymAqQ8iSfoW1o+5DketPuWq0lZeISqdJBjDlHZwVG6o4sWqUaYawL4N09LjsVJ98Vj3ZpRwfmiDQaH/OYlmVo5BWsDNEkcyNXaa3xz3E
 
-#EXTINF:-1 tvg-id="NDR.de" tvg-logo="https://feedlix.net/tv/de/NDR_Fernsehen_2017.png",NDR HD
+#EXTINF:-1 tvg-id="NDR.de" tvg-logo="https://feedlix.net/tv/de/NDR_Fernsehen_2017.png",NDR HD Niedersachsen
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:pt8KH83usEZ7DNSKoy/Zh6f1Nc2EMCGOCmEAdgXzMfx/+vlqP5g9OeyngkJw5oZDROVhr4NbW9QI/yAAsjEzUVQs3YDz5x+zjwPTaJgFkC/Qqi2+fAf2S/mIOH0jP3f4
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/Logo_RTL_Luxembourg.png",RTL Lux
+#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern Ⓖ" tvg-logo="https://feedlix.net/tv/de/NDR_Fernsehen_2017.png",NDR Mecklenburg-Vorpommern
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:NHJSSnsKBp3g4uesikFBC9lBDXYvqqy6CeJGF6mA48aOMNPsAwdQSfkskMpRw3i/UhxBKCVau+xnc9/1mR9fgA==
+#EXTSEC:1/3HuJIhGXxDHZvWDH9N4PmLVzPLVdgxRgG67Aa9j90QE6T7AjPQXb/IYq+qJTN2+pyZI2SzYx68htqXbDaRIQ==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/Logo_RTL_Luxembourg.png",RTL Lux Zwee (geo)
+#EXTINF:-1 tvg-name="NDR Schleswig-Holstein Ⓖ" tvg-logo="https://feedlix.net/tv/de/NDR_Fernsehen_2017.png",NDR Schleswig-Holstein
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:NHJSSnsKBp3g4uesikFBC4IwDfH3eHOkMCwZ7SXLW7Pofb6dvmhh/fPD0Pq2PPxXn5r7JFEkZ/5mkOF7LnHm65MzK7/ZADKdiykf54x6fWPFMOsy7qr33OHKPU8o4drEd/VSka2TVsWEA7PghpeyDMSGBhLCXo95IwLst78HE3Y=
-
-#EXTINF:-1 tvg-id="nrwision" tvg-logo="https://i.imgur.com/RkF2Kmx.png",NRWision HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:89F+bM5g2j6gcvEg45u+72lLvfRN1DJ8v9xCaQizEtNB9CBzlutYlekGV480SGK7z6Nzf7qBvVLgOdvH2edC3e4OSN/UXYJgqyveVfJELAg=
+#EXTSEC:1/3HuJIhGXxDHZvWDH9N4PmLVzPLVdgxRgG67Aa9j91V7RkH1NppdGBgrbwUSqLx+pyZI2SzYx68htqXbDaRIQ==
 
 #EXTINF:-1 tvg-id="One.de" tvg-logo="https://feedlix.net/tv/de/festival_one.png",One HD (geo)
 https://feedlix.net/videos/promo.mp4
@@ -118,7 +126,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="Hamburg1.de" tvg-logo="https://feedlix.net/tv/de/hamburg1.png",Hamburg 1
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:L/Z6OH9ygVZ+PMr/8hJMag/uqeSSk1kBgUocTNk1SLBKLtit1YZgLOL2d4pJU+4u
+#EXTSEC:iG1aIIRbLEEEW4hMe3HQI5mwC6c+wbJZBiCHBhwVNVEreoQBL/IhNnegHUXJWwBhUp3Q3IeLk0D5r9tbPUnM2ZCCJWhwFj+5fbdb9dgEapbGN0VO6NDh5etN2byAI/CLrOATLjiiLWsGOySp6QfyKGmrgyKzAN+LfTwPVCqBOZS8nKbSr4QN5hgZ8paBGnV1un2E5oLtxZUI+UoQVRFxzA==
 
 #EXTINF:-1 tvg-id="Dresden Fernsehen" tvg-logo="https://feedlix.net/tv/de/dresden.jpg",Dresden TV
 https://feedlix.net/videos/promo.mp4
@@ -130,25 +138,21 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PFcB2hx.png",Allgau TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:+1cXMsFHEvylJsKOjyPJUbvrJla8ciUgW8OVWTNkqO+i+MiJxQ5uHTv1bG02mducLBvfFFJqkadP3SRV34VznXxzbpRLj9scfEgCFDOpync=
+#EXTSEC:9KzmLXqT9gyeig0toE15105yA3/K2fDMdYds+PqPp7CoPpaQr6fKuPpfrslEOzBqcnPXbUPH2vj5xjClpDELcAgcK6eh9OXRJZR9by4MEDK6fYTmgu3FlQj5ShBVEXHM
 
-#EXTINF:-1 tvg-id="BR Fernsehen Nord.de" tvg-logo="https://feedlix.net/tv/de/br.png",BR Fernsehen Nord HD (geo)
+#EXTINF:-1 tvg-id="BR Fernsehen Nord.de" tvg-logo="https://feedlix.net/tv/de/br.png",BR Fernsehen HD (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:+oPqnwfYndiCS5LOyZKsGZdcodNja+EK2nZxGZS1dT0lG9eXHgbIabESpEGNEmFCaIfuSrOenDPAkoC7E2tm9o2tzH8siplEVUa5BFcQKBM=
-
-#EXTINF:-1 tvg-id="BRFernsehen Sud.de" tvg-logo="https://feedlix.net/tv/de/br.png",BR Fernsehen Süd HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:U3ISqEBQx8/MOpbeFMu8aNi/WsvqOphUEQVLBRXPIUd2GUVj/Rgnfl2H7XGhZKDE5P+OcEaClprMVi6qyk73ZxS+9FfsqfsrYsLU1bEpBiA=
+#EXTSEC:k9caYfm4MGCXX8N9v+BS3UysSOjVj8IAsYteelLXCOQsKzj4Iqrs1MC0DRCQQDIHCfFMAFCLkfxr0ugaktbvtI2/xr+xPKI3PqgIYfjnzeVvcnyXQ+D0mvAgMHEnB563esJJTxa37V41dIvY4gsBt8ehbUcO/Jus36uUC4F5mIY=
 
 #EXTINF:-1 tvg-id="ARD-alpha.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/1200px-ARD_alpha.svg.png",ARD-Alpha (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ak/PE6FhVvmqU762f17Ysm/NK/uHhJ9Hi+yjEHo25rOMBLxIjJioxc6tc4Rb/vEGLOTT5HbxxtT5AHuCVkg2mA==
+#EXTSEC:+oPqnwfYndiCS5LOyZKsGZdcodNja+EK2nZxGZS1dT1zBWP1NMnlD3ISVrQ74hiYLvwpgVUs02wHfSxJriGis5WjkFawM0SRzI1dprfHPcQ=
 
 #EXTINF:-1 tvg-id="SRFernsehen.de" tvg-logo="https://feedlix.net/tv/de/sr_hd.jpg",SR Fernsehen HD (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:xltC4gu/7dpd3wCpZ7x2KEv8EWpIPD/KH6nChdaQOaNZK5xULnkavARKPeDTummHaJTygN85vwAbl6zyxtvTWDf8wqeYe3bGWZOlOne+QYSCasza2T0lKm/ey8T+eY8eKE232cp6cPbcKr1QBdlBdA==
+#EXTSEC:OZDylZdJTt2Nt37VRr9tQkysSOjVj8IAsYteelLXCOSGipne8+OFGI9N0CDELDkeNSRd1qZkuMX8Hh7Ts66h3NnChbTzz6ahGeNMI/C/J22wxX2sh5O/lJ4VVTMJhQOgEooARf75DyYTgFs8/bfmqcVm+RXolB7eq1ZJ66z4uvs=
 
-#EXTINF:-1 tvg-id="ChemnitzFernsehen.de" tvg-logo="https://i.imgur.com/7wABSuo.png",Chemnitz Fernsehen
+#EXTINF:-1 tvg-id="SachenFernsehen.de" tvg-logo="https://pbs.twimg.com/profile_images/684510693786255361/s3NQE9De_400x400.jpg",Sachsen Fernsehen
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Bw0ZYzqsAwG6ykxPyTEMb05yA3/K2fDMdYds+PqPp7B52dTPuDQtAR4BbCnU6ua7AlRx3GZaiMjgQ0LEnxq+SPAydYtC036zmQGkcMNvQE/KqpLK1W8BxA9XAA0NPLFA
 
@@ -168,6 +172,18 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:G2LcNd6khaIUjdaYhGDRik5yA3/K2fDMdYds+PqPp7BRz3PzOLgr/JVS8e5LfohY/t9mSWp+W6v0YQUhdfLCscixMNfLxVXacdqbUR3G3IW6fYTmgu3FlQj5ShBVEXHM
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/Logo_RTL_Luxembourg.png",RTL Lux
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:NHJSSnsKBp3g4uesikFBC9lBDXYvqqy6CeJGF6mA48aOMNPsAwdQSfkskMpRw3i/UhxBKCVau+xnc9/1mR9fgA==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/Logo_RTL_Luxembourg.png",RTL Lux Zwee (geo)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:NHJSSnsKBp3g4uesikFBC4IwDfH3eHOkMCwZ7SXLW7Pofb6dvmhh/fPD0Pq2PPxXn5r7JFEkZ/5mkOF7LnHm65MzK7/ZADKdiykf54x6fWPFMOsy7qr33OHKPU8o4drEd/VSka2TVsWEA7PghpeyDMSGBhLCXo95IwLst78HE3Y=
+
+#EXTINF:-1 tvg-id="nrwision" tvg-logo="https://i.imgur.com/RkF2Kmx.png",NRWision HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:89F+bM5g2j6gcvEg45u+72lLvfRN1DJ8v9xCaQizEtNB9CBzlutYlekGV480SGK7z6Nzf7qBvVLgOdvH2edC3e4OSN/UXYJgqyveVfJELAg=
+
 #EXTINF:-1 tvg-id="WELT.de" tvg-id="WELT.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Welt_TV_Logo_2016.png",WELT (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:iRIk6NKGni+FwgRnRLi8lXR9/MnwtqMkCfzJKedPt5C2wqsaYXiL4xOxrVOyOJEUlTCdDn7mCoz3h+YJq4kjXh6krljJnp/3QrjVFJQojQg=
@@ -178,27 +194,23 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-logo="https://feedlix.net/tv/de/dw.jpg",DW Deutsch
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:2NkIbVgKRmczclm14qsoOkv8EWpIPD/KH6nChdaQOaOCsiCeqr/MnjPvpMbDnb7cTStLdAlyeJkyEXHytCZXtTGew+Mk87Q205Mylz0bEPnUe9LG7rE+rk0Z57Tp6Wru
-
-#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-logo="https://feedlix.net/tv/de/dw.jpg",DW Deutsch Plus
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:l9ka4PRLh+WHoMT2liypIWk2su3IihvFvwCLkKGYWXh/fyzIdRJt24MXYHubwkaAwfYul38zI9+FV/dqGfME4MiqLC/1elmXOcEeiJ1bhXIzaG0zd9O9JGd9qRNxQO1S
+#EXTSEC:D4VCqrbKef6ppA4u+1DoDa4OdH2AIB6vowCRospSKTKavxe98Vnzm5mfXUUwP0HoHdcYK1NK1kapJNKAJUJ1ezp48AxjrFAWUSn6YTQz9SqqTDmF5Ashy5Of5XEjfzI0
 
 #EXTINF:-1 tvg-id="DeutscheWelleEnglish.de" tvg-logo="https://feedlix.net/tv/de/dw_en.png",DW English
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:NhWRP5bsL7mCyEb5qRljuEv8EWpIPD/KH6nChdaQOaOxoRoYqz3BhWMhwbLe1m6Je/SSqTnELIXYNPBkhmn46zGew+Mk87Q205Mylz0bEPnUe9LG7rE+rk0Z57Tp6Wru
+#EXTSEC:D4VCqrbKef6ppA4u+1DoDZxq351co2ZhOCSThv5QlTuavxe98Vnzm5mfXUUwP0HoQPNmxlz8T7Wl+CgyL9kuhSWFRKDGFz+Ckz8owyd+V/yqTDmF5Ashy5Of5XEjfzI0
 
 #EXTINF:-1 tvg-id="DeutscheWelleEspanol.de" tvg-logo="https://feedlix.net/tv/de/dw_es.png",DW Spanish
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:5qYqxQivkOnCpRbzuTxes0v8EWpIPD/KH6nChdaQOaPLSSqS8fDJ4qe6ZJhviIX44/Rs0RxVf/nFvM2iDd4HlzGew+Mk87Q205Mylz0bEPnUe9LG7rE+rk0Z57Tp6Wru
+#EXTSEC:D4VCqrbKef6ppA4u+1DoDddd+vKc024ud1lvY986Vkqavxe98Vnzm5mfXUUwP0Ho+jvVYWQWrpthS5S6uvBsITTmo22omcW1P6o7RN3Yx5mqTDmF5Ashy5Of5XEjfzI0
 
 #EXTINF:-1 tvg-id="DeutscheWelleArabic.de" tvg-logo="https://feedlix.net/tv/de/dw_ar.jpg",DW Arabic
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:W2jBA3zQptQ6FdnATWno/kv8EWpIPD/KH6nChdaQOaOhNN1mHquZtcqw24DaLOaknEr9JLKgll/cdT7cOhyI4jGew+Mk87Q205Mylz0bEPnUe9LG7rE+rk0Z57Tp6Wru
+#EXTSEC:D4VCqrbKef6ppA4u+1DoDdGFcypkwHXBbGDQv33cSRuavxe98Vnzm5mfXUUwP0HoxsFpSsWOji4xHnAXriyZRSG89NL1HxoTU/yJoXd7vzaqTDmF5Ashy5Of5XEjfzI0
 
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="https://i.imgur.com/mdn1EUn.png",Tagesschau 24 HD
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:1rvlmU8jlWFcQcNcrRIioRtNkUn5v9kztbGl4rAnh6ZsbapCNILtTY1GwAt/bAszd+lJhukK3xttRmRCULH1ApWjkFawM0SRzI1dprfHPcQ=
+#EXTSEC:GmgAUlagRqot9qGpnTMbsDzmE8d5+TKrCiBvcIs1lY6o8wKUJS8iTYXlcwK09yMpuh0A7ZSC03WrxhSlf+WM2oj07PGlv41iEOJRE7MUB8E+hoElGdzFV8SOBnALOFed
 
 #EXTINF:-1 tvg-id="TVA.de" tvg-logo="https://feedlix.net/tv/de/tvactuelle.jpg",TV Aktuelle HD
 https://feedlix.net/videos/promo.mp4
@@ -214,11 +226,7 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="Parlamentsfernsehen2.de" tvg-logo="https://feedlix.net/tv/de/bundestag.png",Deutscher Bundestag 2
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:ROeNdhMo1T6+kasLf48EZLW0IEmgIZ80SNAYKRuXC/iLdz2//mzSSO5O8Kkdg4ANYUyMj9GoCBZ+whPgu8MZIZWjkFawM0SRzI1dprfHPcQ=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qx2uHRU.png",Bloomberg TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6F68Virnz99KbY4Bo7Z/u0UOLQydFvL84KzKVK5QLAE0LLw7oX7+3eVB9kLKgnrqWmt0H42CXH5+/p+GCnb3C8kCHBfd3xQH4r2VH1A1GEg=
+#EXTSEC:PDo6pTghK7q5YyXWbnBWYeEPL9EKduoXaGnH6omQ16I0J670PTEoSw3lE4SpGzBHIZlu8T0ffyrOCJBB7qZilQ==
 
 #EXTINF:-1 tvg-id="oe24TV.de" tvg-logo="https://tvheute.at/images/channels/OE24TV--1746762434-01.png",OE24 TV
 https://feedlix.net/videos/promo.mp4
@@ -228,32 +236,29 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Srs/Bsg07ffwdRVBABbYwplJ1rQVUIwaj881n30bIsqXvJFOUuqlxTB0PS7qNcfpzKZCislxjhhwL5diw6KFEO4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24
+#EXTINF:-1 tvg-id="BLOOM.meo.pt" tvg-logo="https://feedlix.net/tv/us/BloombergTV.us.png",Bloomberg TV Europe
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjzDoLuyJNuEaHKjAHEyYWGpThNUI4PwUjk3MnFQHyrGHg==
+#EXTSEC:6F68Virnz99KbY4Bo7Z/uw2Jdc4O/H8/jfquU0WR54MCNwgGMm3u0ful5oS1NW6cI2Pf8xEmq9sS8/yJSNC5DcqqksrVbwHED1cADQ08sUA=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 (english)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 (geo)
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjzX6DjlcYPzKYL6xVaLwPHLThNUI4PwUjk3MnFQHyrGHg==
+#EXTSEC:RnVJlfMbUYLh+Nm/9VTmqrNKUhHLhbRQks2LFlnJx+Rir+TicXqgCI2zw3x4PpM/3A3q6vjIUlJyUJwIyV+nzoOK4C+jreoWsJbS2kfCSuU=
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-de.jpg",RT DE HD (4500kb)
+#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-de.jpg",RT DE HD (censored)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1FsCBxyJE7IbunR5quizrD94JGlsC1JTHDnXXYxt41Kh3rKnk/tqs5K1iSRmcYvv9ZK9kE4mQuz4TprAA4BS6Q==
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-de.jpg",RT DE HD (2500kb)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1FsCBxyJE7IbunR5quizrD94JGlsC1JTHDnXXYxt41JA/J1SmXdG1bmsSPC0Ppqf9ZK9kE4mQuz4TprAA4BS6Q==
-
 #EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (uncensored)
-https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/chunklist_b978000.m3u8
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:cKEwoGK+ouuCza/TYpeiimj7mcrGbRGqkwLPfJpakrphDYmbvavMuInrL+z+s+Nl
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (op.2)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:A7uEVpvOurDbPW1POsCoeV7qZDHshjQV6m78Gb09vQsFeCE/b1b58MG7Vfa2w7KuiSqA45S877AC9L7POvgdyfr9oG6Yjnxu4XqSzLvHtCvejMLVSklEunQtwsniiP0Vg4rgL6Ot6hawltLaR8JK5Q==
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (censored)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JOmQYbeAI2wOF6zxjY9wuq87SFj6BtmqBwT/ilh85XlMQ==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/sky_uk_news.png",Sky News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:3TCw7TxQz11Ve/WY9seWbunt3fk8fkYbDvfayyoJVQUIcPcE5axlkJJMI6qlPYa1sxkZgqrsjLqNEasBEYGvSw==
 
 #EXTINF:-1 tvg-id="CNN International" tvg-logo="https://i.imgur.com/pqgYjPd.png",CNN International
 https://feedlix.net/videos/promo.mp4
@@ -265,19 +270,19 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn.png",CGTN News
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Bf8aSMZ87edMEd3nPhsVtYQa9rPucEFHY5Q/QpYM0mfy+ZqEno7wnuSroRJLaCMr
+#EXTSEC:Bf8aSMZ87edMEd3nPhsVtZ6o+oyA85jSocOlqVnuo/B/k7RnGYKQ5hvzxAg3vn8o
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png",CGTN Documentary
+#EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png",CGTN Documentary
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:yxHBfDzCqK/a8o2EedOl7n1YTJhAJ5a9s0X1bQi0MRTJmHTt+cbSHOSvrTE7DOCa
+#EXTSEC:yxHBfDzCqK/a8o2EedOl7qsNvedso7uhgaG7tGthdhQRYblB8eJL0fqXFjNhjZI2
 
 #EXTINF:-1 tvg-id="RaiN.TV" tvg-logo="https://feedlix.net/tv/it/RaiNews.it.png",RAI News
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XakB8AI5W7cIs3apC4sq6eBg32XY/DepmW7CH9GCyI9XXCCeFTNvSCOGbZgWn2Y3vMuC5X3EoKSMgIZ3FNdVppbGpM9kNdF7aq7KAQ70786B0dbVcK4IaQE+eGqkz3ZSun2E5oLtxZUI+UoQVRFxzA==
 
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24H
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24 Horas
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4L+vjOUwyma0FmZsVI2n7e3VfgODH1G5Y+ud1b1UYONxg==
+#EXTSEC:PTUipkkhWbLV0upoPjlCkBQtbrrlBtDpMfpySu79D/aQFdRQp+vYZ+FHEwtvmjwVsrpz/TFf4zJ2PQS0yvd+Dg==
 
 #EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png",Al Jazeera
 https://feedlix.net/videos/promo.mp4
@@ -286,10 +291,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/nhk_japan.png",NHK World
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vRYhQajgTsaeHMzpYaW/orqiDtizfCXmhaBG+UMr37R6L2zgWcBI2DA6CwnJ53eI7J8zgNJxCThsb1twBk54gK1ip4cPgkGjWFvoZqz2yaa6fYTmgu3FlQj5ShBVEXHM
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/onu_tv.png",ONU TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:uh3ZWjBwtJlAAHOIrePeRDqw1nZlVw5lM7jTzhPcxs/nOvVqg4pj9iT8aAp5P+tpHqfDgCmFzRuQ2EJ7unGS8aiio0at+ZqXd5u4xhCZX3evhwhQaEZQiKOm9qAy8zvcrP0/O8uDXC09m3053XlAUA==
 
 #EXTINF:-1 tvg-id="rbbBerlin.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rbb_fernsehen_HD_Logo_2017.svg/1280px-Rbb_fernsehen_HD_Logo_2017.svg.png",RBB Berlin HD (geo)
 https://feedlix.net/videos/promo.mp4
@@ -874,10 +875,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="http://a3bikini.com/wp-content/uploads/2018/04/a3bikini_24_7.png",A3 Bikini
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:B73Ex3JU7Xjv50Hip1t5Pbs+NmvXLzIsfK0M0CIT0jLrifLywv3CmwPpeuZytKHvgVB0DVFY2D9rg5I0lf2sQSn9d/KfCzWeqeGVSeKS/IMdDK1G6pOu4LsooRQ2M7Ay
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/JasminTv.us.jpg",Jasmin TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1PwWrQIGJLmlM8nMJC5U28iuXkOzE3F1qMEczg302Ylajnr+VGGYCqJ0Jg61Oj9etF5Xr7wbWBa7iO0TWJprMu4OSN/UXYJgqyveVfJELAg=
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://liquidskyberlin.weebly.com/uploads/8/2/4/5/8245388/3944225.jpg",Alex TV
 https://feedlix.net/videos/promo.mp4
