@@ -72,6 +72,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:j6AQHHjOdAPNhwMr08vfv5Bm67A5JEr5XMOfMaxsOtWMwr4h1EkFyS8xrklbWd5B+iZKxU8yaOQ22BTusqRsvbp9hOaC7cWVCPlKEFURccw=
 
+#EXTINF:-1 tvg-id="Baden TV" tvg-logo="https://docplayer.org/docs-images/73/68560926/images/10-1.jpg",Baden TV Sud
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:b6X7wuNJaleWgQ5lybMdD4NT0f1n+JXdwsO7rIj3jCHlPVnSa1ppD1kEAAYHtM6RyQIcF93fFAfivZUfUDUYSA==
+
 #EXTINF:-1 tvg-id="MunchenTV.de" tvg-logo="https://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png",Munchen TV 1
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Wu7RXUaJNJnMXp6hzlWvSeRteuJblkb537pIjJ+ZjHoeu/2iNPYcNFKbI4B9mvRbtt1/Q4+5fjipz5/lpCmhtqSvxoIaMafdPjBF24E2CcruDkjf1F2CYKsr3lXyRCwI
@@ -244,6 +248,10 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:RnVJlfMbUYLh+Nm/9VTmqrNKUhHLhbRQks2LFlnJx+Rir+TicXqgCI2zw3x4PpM/3A3q6vjIUlJyUJwIyV+nzoOK4C+jreoWsJbS2kfCSuU=
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 (english)
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:+MvgCd5XvmP8toWRPGfeeCbJ0gRQ3Q8eU2tMhl59l+eRY9uveGoDtlzlRY7eO30G
+
 #EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-de.jpg",RT DE HD (censored)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1FsCBxyJE7IbunR5quizrD94JGlsC1JTHDnXXYxt41Kh3rKnk/tqs5K1iSRmcYvv9ZK9kE4mQuz4TprAA4BS6Q==
@@ -259,6 +267,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (censored)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JOmQYbeAI2wOF6zxjY9wuq87SFj6BtmqBwT/ilh85XlMQ==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/sky_uk_news.png",Sky News
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:7dhjiwgYbQsW7nbC9MM1/lGZALnt/86OQPb5keRFH5it4XSfNq4FGH7NyVNg+oNLey7Q/0KI72FgjSQrV8Sg9g==
 
 #EXTINF:-1 tvg-id="CNN International" tvg-logo="https://i.imgur.com/pqgYjPd.png",CNN International
 https://feedlix.net/videos/promo.mp4
