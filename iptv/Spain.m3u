@@ -1125,8 +1125,7 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4LDKP+plBd6V0L0a+WPvJ9QKJzIYIsMCtLcIqXb1f7dzg==
 
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png",Real Madrid TV HD (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IgZE43BMVCTMLPTD+g2BGMNMVU4xwagy1HNV6GB9KUF2OaAP+671OQtsH7i+r7HJZ9T5Cx/8wC4bdq2GBGgtDYFU74QaVwid/hRzxXp1qqU=
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png",Real Madrid TV HD (english)
 https://feedlix.net/videos/promo.mp4
