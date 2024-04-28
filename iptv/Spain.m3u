@@ -13,8 +13,7 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:hM6/tiHrLBiw3+iikJJ0/mmfl9keuI/xvw2QK9caHyBFe3gJEpAGhOudGyYUg61O
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://feedlix.net/tv/es/tve2.png",La 2 (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:gbJ1/UNPIlsWSrpQ8FnlZiRD5oZLvHnpmvHYOvzRGsiLzhPaOr44ulOyPiXU6xroxZVbyUuBMQz57LEV10D1FCt2xxxf72C8XBqUpVv7ntSbGqOtqEcCdG9XOMpyiZ+p
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24 Horas
 https://feedlix.net/videos/promo.mp4
@@ -25,48 +24,40 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:hM6/tiHrLBiw3+iikJJ0/tkzwFfexX/DVKbUINDdMBhFe3gJEpAGhOudGyYUg61O
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",+24
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:gbJ1/UNPIlsWSrpQ8FnlZiRD5oZLvHnpmvHYOvzRGsiHSEuk/Y3pZgEAPEVE/4r5so9jT8VLDtQRTK4Xa9rB4IOK4C+jreoWsJbS2kfCSuU=
+https://ztnr.rtve.es/ztnr/6108696.m3u8
 
-#EXTINF:-1 tvg-id="La1_CAT.TV" tvg-logo="https://feedlix.net/tv/es/tve1.png",La 1 Catalunya (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KdGCLaZ3vZf2/r43T3D/90XodhsAgkf1rrcv8tglCtcsXgWmVGTXEjVgXoWvHCLQ3P1KZUryLQfRKL546U4OYgLjzU1T97SKNqs2JPIWPkFfGbMCe0vFvhH10rLlwZF4
-
-#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://feedlix.net/tv/es/Tv3Catalunya.png",TV3
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:rcaTIHtcYbqG/6PUC+NKparQY5TLMmnsMNZm9RmGI94XIfEGmn6yVYoc1/Og3RBxIqrfcPnYuPQF0lZFMu1cSQ==
-
-#EXTINF:-1 tvg-id="324.TV" tvg-logo="https://feedlix.net/tv/es/Tv3Catalunya24.png",TV3 24
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:rcaTIHtcYbqG/6PUC+NKparQY5TLMmnsMNZm9RmGI96XxGhf/SikKMoUsjW+T3jmIqrfcPnYuPQF0lZFMu1cSQ==
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TVE Int. Europa",TVE Int. Europa
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg",La 1 Catalunya
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4L9FIjg72ppjCmKDriB2xTyPoaBJRncxVfEjgZwCzhXnQ==
+https://ztnr.rtve.es/ztnr/3293681.m3u8
 
 #EXTINF:-1 tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200",La 2 Catalunya
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4IncTQ90zOGHSQb5jY3r6kVPoaBJRncxVfEjgZwCzhXnQ==
+https://ztnr.rtve.es/ztnr/3987218.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png",24h Catalunya
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4LFUBOGN5oiArcIuHfASSvGKJzIYIsMCtLcIqXb1f7dzg==
+https://ztnr.rtve.es/ztnr/4952053.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg",CCMA Exclusiu 1 (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:rcaTIHtcYbqG/6PUC+NKpYWRlxFmlzx1M2hBk1Dbn9Qqe1dzHFSbrUJ0TZtiJ3mZWH4jQxiTD/91jYRnKIbGMYOK4C+jreoWsJbS2kfCSuU=
+#EXTINF:-1 tvg-id="TVC.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="Int. Europa" tvg-name="TV3.CAT",TV3 CAT
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg",CCMA Exclusiu 2 (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:rcaTIHtcYbqG/6PUC+NKparQY5TLMmnsMNZm9RmGI978YvcjxLNvGi+Cx7gjuhg3WH4jQxiTD/91jYRnKIbGMYOK4C+jreoWsJbS2kfCSuU=
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 1",3CAT Exclusiu 1 GEO CAT
+https://directes-tv-cat.ccma.cat/live-origin/oca1-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/NiusDiario/picture?width=320&height=320",Nius HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:H5LBle+yXmHaRVILrOSaCbg5UfPu1ENdmx9jJN6ozXV/FHP1QSGXpvzijMultKmXYzoe/g/+8BHnLyKNtixx7Toukt7g7vdxqnrkG+ZpTGc=
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 2",3CAT Exclusiu 2 GEO CAT
+https://directes-tv-cat.ccma.cat/live-origin/oca2-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg",Negócios TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:klTzYsZN7ZdPNNTMWNSPUP5UVzwsr6oFApUVVE8PyyxF0O1o1j15BIjIanrg60IQ
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 3",3CAT Exclusiu 3 GEO CAT
+https://directes-tv-cat.ccma.cat/live-origin/oca3-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="Informativos" tvg-name="El País",El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+#EXTINF:-1 tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="Informativos" tvg-name="Negocios TV",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="Informativos" tvg-name="El Confidencial",El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg",7NN Noticias
 https://feedlix.net/videos/promo.mp4
@@ -161,16 +152,14 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:bxOAsFBU+FAYrJlOiICIUc8OwFgYq2rdOwm1qviIrU1/4siDVXFzMmmYzsNj+lQ3+pyZI2SzYx68htqXbDaRIQ==
 
 #EXTINF:-1 tvg-id="Cuatro.TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/Cuatro_2012.png/revision/latest?cb=20190107090927",Cuatro HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:caVb1jSdz/fqM9EO1oX4xU5r+/NNaJQhKC+kbVLDxHGClM4LYfo1/fcLBXrdTwecyYrp4cDdgAW/43MfAyY9ow==
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/chunklist_b3628000_vo.m3u8
 
 #EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://feedlix.net/tv/es/LaSexta.png",La Sexta HD (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:AjotvFaWfyleacMN+mq6bt40dX7b4Gb8UTm4fHvjMtUoQlyEWHpjbhdw9HIiHMeH+LHYLwG1noi40D8iZYxKhg==
 
 #EXTINF:-1 tvg-id="LaSexta.TV" tvg-logo="https://feedlix.net/tv/es/LaSexta.png",La Sexta HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:zxzx2YnY5x9kfzoUmWHdty96Gnque8ArXiB+yTyY9JohiBAi9dj5SCNTS/rTUBKhn+QKQDPaaJdv88LLB1wFYQ==
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:11_HD.smil/chunklist_b3628000_vo.m3u8
 
 #EXTINF:-1 tvg-id="Mega.TV" tvg-logo="https://feedlix.net/tv/es/mega.jpg",Mega HD (geo)
 https://feedlix.net/videos/promo.mp4
@@ -181,12 +170,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:zxzx2YnY5x9kfzoUmWHdty96Gnque8ArXiB+yTyY9Jpu2TGB9JltcdEhBBWawxyL
 
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://feedlix.net/tv/es/telemadrid.jpg",Telemadrid
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:yp/+CpEVaPu4cya7dSWIvFh45kqA5DkrRG0pXcfSQ7D25vE5FJTpAE1E/Oa3LK11tl4CnU5elP22TCkav+SA2EoDqB2CVKQPWg1Z9NTjTEme9HpdkmxDt3xOV2UfGzacgJi229k3bzdBsxN97DPeeg==
+https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-id="LaOtra.TV" tvg-logo="https://feedlix.net/tv/es/laotra.jpg",La Otra
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:yp/+CpEVaPu4cya7dSWIvFh45kqA5DkrRG0pXcfSQ7D25vE5FJTpAE1E/Oa3LK11tl4CnU5elP22TCkav+SA2EoDqB2CVKQPWg1Z9NTjTEluNdvkoQK9w/9XocNB/hlQCmaBM4YfoqyDrApl9vUGgQ==
+https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco.TV" tvg-logo="https://feedlix.net/tv/es/Telecinco.png",Telecinco HD (geo)
 https://feedlix.net/videos/promo.mp4
@@ -199,6 +186,9 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/Divinity_2012.png/revision/latest?cb=20180117171741",Divinity (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:MXkdBYNdzstEQyrai6OV+wxarvmTN2aGCw4ZCLoVpzMMT/cRYZ3HPXeF0H8LJzN3s5u9XSTr+xpXSc/Bk5A+2w==
+
+#EXTINF:-1 tvg-id="Divinity.TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/Divinity_2012.png/revision/latest?cb=20180117171741",Divinity (op.2)
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:18_HD.smil/chunklist_b2700000_vo.m3u8
 
 #EXTINF:-1 tvg-id="Neox.TV" tvg-logo="https://feedlix.net/tv/es/antena_neox.png",Neox HD (geo)
 https://feedlix.net/videos/promo.mp4
@@ -221,8 +211,7 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:6pe+Afqke1M1vchkAafZ9G2p+ln4sx+zZ7ZFlOxxL6RrTSqHWXXGc/NZCoynRjDkIQ6mHFvWCpJAeQ1ST4uoy3OkqPcqs7AKeC68qV0UNmvKqpLK1W8BxA9XAA0NPLFA
 
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://feedlix.net/tv/es/trece.jpg",Trece TV (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ttNYjH8XLRuYJOC+WHmVTDwDi6NsYhE5bdBlxa/6GGE3eR58ZeiLLri0n9b1pfv8
+https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
 #EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://feedlix.net/tv/es/Energy.png",Energy (geo)
 https://feedlix.net/videos/promo.mp4
