@@ -244,9 +244,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Srs/Bsg07ffwdRVBABbYwqRYm89N0Hqy4okCjwHWmZuXvJFOUuqlxTB0PS7qNcfpzKZCislxjhhwL5diw6KFEO4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal (off TVI 24)
+#EXTINF:-1 tvg-id="CNN HD.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Qienn+3XDeusCFPV2Go6vE8EOY1JsJKrv9IX34Y427fNnzlvdbqNodESLNYA1Np7EPb7draRqQ4DrL5Writ5DA==
+#EXTSEC:tckM1YhWX7dKwpsNOtIQGcttllGbWIFtGOSiKNHPVVllmQ6NWXbSb9Hho7jjQPoB7g5I39RdgmCrK95V8kQsCA==
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24 Horas
 https://feedlix.net/videos/promo.mp4
@@ -320,7 +320,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:afsFoKzfBiI4YPxcuPgIyUbVq72yACJJbbWOO2PDgQJ26DG2JBcX4XTvbdJGRaQa
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Doc HD (RU)
+#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:TZ6OU7/wM95XbboPK9gn4BioNMO/gOLs5wEy3rPCduDuDkjf1F2CYKsr3lXyRCwI
 
