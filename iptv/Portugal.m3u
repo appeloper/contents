@@ -17,8 +17,7 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmtQ8/LJ81LwmqS9D4OUc7jpOeZXFpHii3XDMUF2+7jPY=
 
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nx6dFjL9oE7pDnnuxWBjoZcpfwfZhgaZJRArdGfgx/+5EdbIcAvDQ1CBvIHwKtBjsbvSGbvr+3vVnc0KILcqickCHBfd3xQH4r2VH1A1GEg=
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3 (op.2)
 https://feedlix.net/videos/promo.mp4
@@ -29,24 +28,20 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmP57Iocvq72eBlXW46o9jR9ApwwoW0Gde0r+KMDktr7YkfWue8aILwpffFi4MWZcm
 
 #EXTINF:-1 tvg-id="RTP Memória.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtpMemoria_negativo_horiz_RGB.png" group-title="General",RTP Memória
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nx6dFjL9oE7pDnnuxWBjoZcpfwfZhgaZJRArdGfgx/+5EdbIcAvDQ1CBvIHwKtBjAP75Jy4ipZyq2unK4ede6t2YLDvlHPi3oh9GcE/+EFE=
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP Memória.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtpMemoria_negativo_horiz_RGB.png" group-title="General",RTP Memória (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmKFomV24F41gGBcPK40rk8CYoPpgx7u6Fp/sA8+l7wEpMAAjmPT8YSEHA9lRW2pkK
 
 #EXTINF:-1 tvg-id="RTP Açores.pt" tvg-logo="https://feedlix.net/tv/pt/RtpAcores.pt.png" group-title="General",RTP Açôres
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nx6dFjL9oE7pDnnuxWBjoZcpfwfZhgaZJRArdGfgx/+5EdbIcAvDQ1CBvIHwKtBju8DLhKfNiNiXx5ztXqXg7Pl9ZNa86gminIaE3TlO6dc=
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP Madeira.pt" tvg-logo="https://feedlix.net/tv/pt/RtpMadeira.pt.png" group-title="General",RTP Madeira
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nx6dFjL9oE7pDnnuxWBjoZcpfwfZhgaZJRArdGfgx/+5EdbIcAvDQ1CBvIHwKtBjW2w8CbWWGTMhkaApiPPILiwNGWhISy5PJOhPv+GFFew=
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8
 
 #EXTINF:-1 tvg-id="RTP África.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" group-title="General",RTP África
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nx6dFjL9oE7pDnnuxWBjoZcpfwfZhgaZJRArdGfgx/+5EdbIcAvDQ1CBvIHwKtBjs4NFn4tEuxqgJZArw+PQnPl9ZNa86gminIaE3TlO6dc=
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SIC HD.pt" tvg-logo="https://feedlix.net/tv/pt/Sic.pt.png" group-title="General",SIC
 https://feedlix.net/videos/promo.mp4
@@ -96,25 +91,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:k4pXBxFyk7vT4gsVaIQCtYzMe2jB4tRjx69LfRI7tOCcQhyjV68K79pZIIFTZaPfpyLRU3mOCbX00gtZyDqQ1KzsV8sim43zZXcRsEtuY8N/ejTdIOXTvtWRwEeHB2n7l0nmFNPiqAHeBKzzsQJ8L+4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-id="Canal l1 HD.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-11.png" group-title="Sports",Canal 11
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:FD2Y9paDvBQ/R8045Df1claDwDITWIPQrD6p+L4Pp2/q3Iy/pspIHKTuKcPSCzgekudNMzAhV5W/kQFwbJm9xVr3DiunNjd6C7iKSci7mvp53NP2+5DGjXtimG88Ir6G
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/afmo/Tvm1.mz.png" group-title="General",TVM Moçambique
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:GsuCHi4PMNDgWEfp0xV5OcDIzI9OcBkni8Cz/P4D4kvPw/FSirWB2Bido/wc2X2aiAc9oxIIT08M0GpStBhjmtGEfPusnBBVNm4UDlvX+rNGuek0fFXmPIGX87q0T1CH
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Soico.png" group-title="General",TV Soico Moçambique
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:JnRa+iz2suIcIFeKrZL1JshXokiAz1vKqNpcRpkW9WG0GDZZ0G8Y8YNDIDne6sWISyObzfW/Wl7pK/XY5UcLQ7Np5/D8FJmXbOITYFAL/2pr+ErEpRPRLE4mQUqAK4Is
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/TdmInfo.mo.png" group-title="General",TDM/RTP Macau
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:rGRymmT1an2AJ6f9+WaPvkcRcEJKRl3KvD+5vwMNbU4a69zQA0tI4r19/akww28BQjc30gxzpWbs18vBA71I6g==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/TdmInfo.mo.png" group-title="General",TDM/Macau (CN)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:rGRymmT1an2AJ6f9+WaPvi9l+zb1BldoRQF/BGWvvgLOuqLINgabagdzDOXOsjVqQjc30gxzpWbs18vBA71I6g==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://famaradio.tv/wp-content/uploads/2023/11/Fama-radio-e-televisao-Retangulo-fundo-azul-1-e1699897642904.png" group-title="General",Fama TV
 https://feedlix.net/videos/promo.mp4
@@ -189,17 +168,30 @@ https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:u+H91oYjwh9phsqa5dZNnWCkSuq6aurl5BRCIOB+/pfdHtS4Q/SoOjBgESnnjHBZXifC+9mOh7L31qAyJgrKPMqqksrVbwHED1cADQ08sUA=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/TvMana.png" group-title="Religious",TV Maná
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:42O8t2Ywz4X1c0kEH3CLRL59x8tSUUjNWOTneG65BnIK+xDLobIGVdoBQpOAZQ0fbvB2mN74Yb7V0uvRFRQTLp/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-id="" tvg-logo="https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png" group-title="Religious",KTV Angola
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w329371841_b413000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/TvMana.png" group-title="Religious",TV Maná 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w1129799276_b413000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/TvMana.png" group-title="Religious",TV Maná 2
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w166153924_b413000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvmana-mocambique.com/wp-content/uploads/2023/05/LOGO_TV_MOZ.png" group-title="Religious",TV Maná Moçambique
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w738321579_b413000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.stvplay.org/uploads/3/0/1/1/30114993/published/logo-sobrenatural-tv-white-bold.png" group-title="Religious",Sobrenatural TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ze200/baQdA86lHkfoGXaa2drmjIklp/WW1xMxfEtAihaDIvOiMxVEaf66bGB01gvIYlr20kH8XqycR9yf5CuiR9a57xogvCl98WLgxZlyY=
 
 #EXTINF:-1 tvg-id="TVGAL.TV" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="Regional",TV Galicia (ES)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:zjddT63M2cLuN3texGySsi96xn4yLrE9aY6S73jpPcAIgY77jUeZXe60mlXYFxyU
+https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Extremadura.TV" tvg-logo="https://feedlix.net/tv/es/canal_extremadura.jpg" group-title="Regional",Extremadura TV (ES)
+https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="CanalsurA.TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/Canal_sur_andalucia-01-1.png/revision/latest?cb=20181014214307" group-title="Regional",Canal Sur Andalucia (ES)
+https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Extremadura.TV" tvg-logo="https://feedlix.net/tv/es/canal_extremadura.jpg" group-title="Regional",Extremadura TV (ES)
 https://feedlix.net/videos/promo.mp4
@@ -221,13 +213,11 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:hM6/tiHrLBiw3+iikJJ0/mmfl9keuI/xvw2QK9caHyBFe3gJEpAGhOudGyYUg61O
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/onu_tv.png",ONU TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:CJ60O3vjinJZ97GQPM/e/V672RNHSj2uQuMx1MeYUxyH324QBc25gyWFwKEpiXRhGt7TOu40tIHIHBtVwSvtVxkunCvQ5evq8v0lwEej3zT22XPyRztwZHyaqve0TP/Ah43QfunG8Roy1OviscofDWGdzHAj38RmxpHWr1I5iRcjw6QoIIakMnF4NOFMjooe5+If4YNKe+t7vEOqijBfW39xbIlr1J3mzAvahgYN+Onh5LqDlZ5qwiaECIZTdRQDcxnUksZ1oGiwpzFnkidJJ8I9+EZkfsQia0mvlGkr21M/qdV4OF+SO4kgU088g566E2YIHLhNiXFNrAS5I3gOf/yMtzY1hGA2MGGCDauvW9wov1QNTiNlmHT9+oO5EB42w5rMDV41VyhCMHGwJNU8TCfHnUXIscdSmjF57qAie0fNtbjP2dLnepigU6KGyaA+FxtHVJXRnoReNXgZmJnjorY+sfJ2IwyhTrtFdN5R668=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/onu_tv.png" group-title="News",ONU TV
+https://klive.kaltura.com/s/env/cluster-1-d.live.nvp1/live/hls/p/2503451/e/1_0xggphk4/tl/main/st/0/t/KLrN19oThzBylMCnERoJNQ/index-s32.m3u8?__hdnea__=st=1715032321~exp=1715118721~acl=/s/env/cluster-1-d.live.nvp1/live/hls/p/2503451/e/1_0xggphk4/tl/main/st/0/t/KLrN19oThzBylMCnERoJNQ/index-s*~hmac=02b7230dc1f13b43cef6695b7892cbbc8248c8b792ccacf9ed520a68e8b3faf5
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="News",Euronews
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Srs/Bsg07ffwdRVBABbYwqRYm89N0Hqy4okCjwHWmZuXvJFOUuqlxTB0PS7qNcfpzKZCislxjhhwL5diw6KFEO4OSN/UXYJgqyveVfJELAg=
+https://r.mjh.nz/PlutoTV/619e6614c9d9650007a2b171-alt.m3u8
 
 #EXTINF:-1 tvg-id="CNN HD.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="News",CNN Portugal
 https://feedlix.net/videos/promo.mp4
@@ -403,16 +393,11 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMQ7P/gah07/b77UvHwkzXfr+kg5BbpQLhsngSw2qfe0xh14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLcWih77+a9E1E/UMp4FnP6qT1Vu53jlcN5ORtcgxHnZ2YbY27imdFk+oZOHf64DUj9iST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg" group-title="Kids",TV Galicia Infantil
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:FKIdxi3HFA0rvB8uiVSLUN6e7VZ47m91zIXI2pTuA7z3d6jswr4Q2hLRTSeilw/en+QKQDPaaJdv88LLB1wFYQ==
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=320&height=320" group-title="Kids",Peque TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:gA+wviMAipjoR2Ph7344QW60vBotUyYOOoblgWaY4rTrO9tRhSNClK7ieKj7c63sKavsePmecLOiv92R2by1ng==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IYAUy9V.png" group-title="Kids",Locomotion TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NyWthGeM3pPlJqQtD9Q0vPxX4C7uUpf4rDgPFNmgiQ5/k7RnGYKQ5hvzxAg3vn8o
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/RetroCartoon.png" group-title="Kids",Retro Cartoon
 https://feedlix.net/videos/promo.mp4
@@ -592,8 +577,7 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:mVkuoOT0N0rLZ4Iw7sgawfOQ4RRGtHHqhgHvghg35AXi5DY++l8019uhwQzzl5d86RQdWSryanwBARPGGHpYOygEUQhhxEqqqAb5RKMoSKuVo5BWsDNEkcyNXaa3xz3E
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosMusic.pt.png" group-title="Music",Kuriakos Music
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:DTguGI6Cgbjw4WRHTjKbRnIy1K8fVhoXLTeiv1QWKzcUnGCwjOJpkUVzrY6y5hmEr29FJY6w0uz3y1Xto4h62A==
+https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Qwest Jazz and Beyond (Rakuten TV)
 https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8
