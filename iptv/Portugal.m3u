@@ -116,13 +116,12 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:rGRymmT1an2AJ6f9+WaPvi9l+zb1BldoRQF/BGWvvgLOuqLINgabagdzDOXOsjVqQjc30gxzpWbs18vBA71I6g==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/fama_tv.png" group-title="General",Fama TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://famaradio.tv/wp-content/uploads/2023/11/Fama-radio-e-televisao-Retangulo-fundo-azul-1-e1699897642904.png" group-title="General",Fama TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ze200/baQdA86lHkfoGXaTIEQfyWehC+AJRXANWpGUtuW+r+ywLV3zBT7z2P3NgbK7sxqpQmUV5tAIfx2Xvwv/aTBx/hwpJSqNClQgyskBo=
 
 #EXTINF:-1 tvg-id="ARTV" tvg-logo="https://feedlix.net/tv/pt/Artv.pt.png" group-title="Parliament",AR TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:PSDQVc74oNMEno1rBPLJyuLf0j8m4EUdT/QK+jmAewP6/qKJQ2L/5T9757h3h17lkA1dDobjEAZGftnU9yOxWIbxfMDPk+5DwN0BQm866UIY6Ff5xrNVbpd5BJYAlwW4
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Cinema",MyTime Movie Network (BR)
 https://feedlix.net/videos/promo.mp4
@@ -133,8 +132,7 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:an1eYV968w7ejvd2Um2yAmlHsxjOfpHpGupUPqCjDOgnR+t6RhfNwnI6oFd6kb5S
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosCine.pt.png" group-title="Cinema",Kuriakos Cine
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:DTguGI6Cgbjw4WRHTjKbRinWidBWnR3/nyJenb6rnx1MBkW5liovdURcDdVjlXnH7g5I39RdgmCrK95V8kQsCA==
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="Cinema",Gospel Movie TV
 https://feedlix.net/videos/promo.mp4
@@ -184,9 +182,8 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mGCGq9mkHoIkAUp/TpbUQGJ24DBUvVXFjxo+Zg8npCWsPDMC5opYuLuNAwjp6P6MiF76OBgnYvfhYQaoIz70b+4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-id="KURIAKOS TV" tvg-logo="https://feedlix.net/tv/pt/KuriakosTv.pt.png" group-title="General",Kuriakos TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:42O8t2Ywz4X1c0kEH3CLROBIpER2AmdiGIJgk0X4heoLqekRkbwFFpUHgfS2olIH
+#EXTINF:-1 tvg-id="KURIAKOS TV" tvg-logo="https://feedlix.net/tv/pt/KuriakosTv.pt.png" group-title="Religious",Kuriakos TV
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANCAO NOVA" tvg-logo="https://feedlix.net/tv/pt/CancaoNova.pt.png" group-title="Religious",Canção Nova
 https://feedlix.net/videos/promo.mp4
@@ -363,8 +360,7 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmNcuc14yVwju9HNT98mnFu3mwFKTAsFp6pMPvs6Fv07Q=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosKids.pt.png" group-title="Kids",Kuriakos Kids
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:DTguGI6Cgbjw4WRHTjKbRgD9cFt/7toczTnvtuif0QLiqhezU2K5R5ve6rjvtr+07g5I39RdgmCrK95V8kQsCA==
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/br/cartoon_latino_tv.png" group-title="Kids",Cartoon Latino 1
 https://feedlix.net/videos/promo.mp4
