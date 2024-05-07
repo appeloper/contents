@@ -287,10 +287,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:TZ6OU7/wM95XbboPK9gn4BioNMO/gOLs5wEy3rPCduDuDkjf1F2CYKsr3lXyRCwI
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Rakuten Family
-https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentary",Rakuten Documentaries
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RakutenDocu.jpg" group-title="Documentary",Rakuten Documentaries
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary (english)
@@ -340,6 +337,12 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosKids.pt.png" group-title="Kids",Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://imgur.com/3bvMvx2.png",Rakuten Family HD
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Clan_TVE_logo.svg",Clan HD
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/br/cartoon_latino_tv.png" group-title="Kids",Cartoon Latino 1
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:LtnE72BbyOZO8F3/26OK1FiMPxPiF4JU1v/1STHjiZapY4s6AyJ5nokezmJ4WSZDFn+jyqz0rHEH1dlbWAnF15/kCkAz2miXb/PCywdcBWE=
@@ -384,16 +387,13 @@ https://feedlix.net/videos/promo.mp4
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=320&height=320" group-title="Kids",Peque TV
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:gA+wviMAipjoR2Ph7344QW60vBotUyYOOoblgWaY4rTrO9tRhSNClK7ieKj7c63sKavsePmecLOiv92R2by1ng==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/RetroCartoon.png" group-title="Kids",Retro Cartoon
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:SMF24MV7uzwfWTWiCLiCTMoQkmiu6gkA2AqVsj4DLyrk6G+uZbfXXTb6J9jeTvvhJH1rnvGiC8KX3xYuDFmXJg==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/GospelCartoon.png" group-title="Kids",Gospel Cartoon
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:SMF24MV7uzwfWTWiCLiCTGN3jAcK92HIdbqyUezd4Oi1AS7SpmnSpqGOKnlWNaxyd0tCv+61PgnAlmzspYGTC5/kCkAz2miXb/PCywdcBWE=
 	
 #EXTINF:-1 tvg-id="Nick Clássico" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Nick-Clássico.jpg" group-title="Kids",Nick Clássico
 https://feedlix.net/videos/promo.mp4
@@ -423,24 +423,19 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:C9pmnXwG5vMgRW70s3BKLRmN51LI0UoT9VSn3WjL0OU1wOM34VvsQQXgCE8QxVOY7g5I39RdgmCrK95V8kQsCA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/fuel_tv.png" group-title="Sports",Fuel TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:H7ULqxZsrVr1/aijCVwxe65t8TUc/xYSg5OkSHm4f8MS4Vsen564ahs0VtGnasZUle/HeXIb+wWrmC9XcLe+08mqrHSr+FETKzqQetu161S6fYTmgu3FlQj5ShBVEXHM
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fuel.png" group-title="Sports",Fuel TV
+https://bit.ly/3vCaVZr?profile=inspirationFreeTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/RedBullTv.png" group-title="Sports",Red Bull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:T3iLbl6h73W0cf6XNmOxLcFyCeG+hRwYY1utx9l2GthxTwYdLUChNpj8AhDAmWAaPu3hZ6BgGhFk/Zfg0UMxGq4uC8xmhUmaNJ5Vn52SjrA=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/Eurosport1.jpg" group-title="Sports",Eurosport 1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:WOYZexlpVbF/1q8IGWr06mlrsOm7VBlBhTOzgwYzDdFmEpd5rPDspSotbdrKt3e6QVu3LNlACevMXPereydnfA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/Eurosport2.jpg" group-title="Sports",Eurosport 2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qWynRnVp1HkIEAZaXUgj3fOhuf3e94zgPcxjMklCjf5/k7RnGYKQ5hvzxAg3vn8o
-
-#EXTINF:-1,FIFA Plus 
+#EXTINF:-1, tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200008JG_20231229T002804SQUARE.png_20231229002805.png" group-title="Sports",FIFA Plus 
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="Sports",Teledeporte
+https://bit.ly/49obbKU?profile=inspirationFreetv.m3u8
 
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png" group-title="Sports",Real Madrid TV HD (geo)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
