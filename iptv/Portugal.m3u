@@ -273,7 +273,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:TZ6OU7/wM95XbboPK9gn4BioNMO/gOLs5wEy3rPCduDuDkjf1F2CYKsr3lXyRCwI
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RakutenDocu.jpg" group-title="Documentary",Rakuten Documentaries
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/rakuten_doc.jpg" group-title="Documentary",Rakuten Documentaries
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary (english)
@@ -442,17 +442,14 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1a1kRd3b+CaSHBUF3h6YKtu0wNZqK1CbkbrZ+0MowgJAnyfE5HjraCwHPLV20GX//cimg1zie8xV0BYfeqVsZXoYu4o10+63hbrEovT/tHaVo5BWsDNEkcyNXaa3xz3E
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png" group-title="Lifestyle",World Fashion Channel International HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:RBzpIArq49kBPZsX/xL/pKjKy849dEj6Bnnq/5y+LbexrCsbbnX6KNkp4XGJRLCLv0LYylUT9HdSK7PkTknCiQ==
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png" group-title="Lifestyle",World Fashion TV HD
+https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_ru.png" group-title="Lifestyle",World Fashion Channel Russia HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ESEIuMJfEURn7CppWTwLPajKy849dEj6Bnnq/5y+LbdRVz0HKRa64zDK5BaGBR5gv0LYylUT9HdSK7PkTknCiQ==
+https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/GlobalFashion.jpg" group-title="Lifestyle",Global Fashion Channel
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vFXSMAJYzUR75PAwVSocawpT+3hjn4vjgQw+GVpEs8oqdpfLKQIKVm/6ZCq+e9k/JtCeEk0KDAOzBIQHgYzFikeXEQvQbEYFihMiJ9QAkfa7WrIZH6HH/zaDGf4BSgYUn+QKQDPaaJdv88LLB1wFYQ==
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV HD
 https://feedlix.net/videos/promo.mp4
@@ -471,12 +468,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:Dx4SmL6uPWbdb8dv5ot6eF2nY0L/yDSFEZPCsvYdoRZcIWaqBYeQhL6mymgr/fdSzK7guOcbkPx+VGh96tFWQ+4OSN/UXYJgqyveVfJELAg=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Midnight Secrets HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9YHBBniz21tw4TcBHxDLuT3IeMRRL4e5vNYJvxDUjHoKJTdu97r0Ar+bWXT2todp1uZhDkF/KIDWnPjEkWPTiczXPggJvipjn+DZg8uWpRD219JMXW/x5kPwcZJtPogOc
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV New York HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4OXQocg6fAAHcU6N0RzcnF2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9zUywEicmpyBF+Ys+aRrQsv5+eiltWujmF8ieS6lNboyn/G2SnW+/PrAstic5NVD4I4r8BUsxj3Grh/rLxrXF55Un3wS4MVJS9FZYV4D3OIU282ARU0oDZ9S8UEPeqdqA
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Paris HD
 https://feedlix.net/videos/promo.mp4
@@ -486,35 +481,26 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:GZE+WZKI82nQnomJG3EhFGAPe51GQI5PDsW+BDZNeQ65PzL+5+htCd4u0EhOE/FjJzQEyJKy+X25fuYaC5mGVhW9yuNHfyDx/NN/xXboXeWTnmVxaR4ot1wzFBdvu4z2
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Portugal HD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Singapura HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4OXQocg6fAAHcU6N0RzcnF2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9tv+KlnYC80fENz6uG+OZ0n/826gyP/QBi6AJdeKQdR9rULEffZ0+x5wGJOE/+0+nY6xCn77T/Aw1GpFY2FSEE5sLnFGZMVogoKz5P2ATXM2Ok80EJgTq4ndzdF85n17m
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_hd_gmt__vm6_43433_default_1597_hls.smil/chunklist_b5228000_t64MTA4MA==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Tokyo HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9O2DivK9RLKnZd6Qb5caIkOJ1V5aiU+nloG2ixrC99nR4PIj366Av3CCoNE2v/OPwkMinI2obukyumVyv+kacJO18nu4cSN8Jg9AQGmWN9Z+DiuAvo63qFrCW0tpHwkrl
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png" group-title="Lifestyle",Runway TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:zrxe5myxx0jdarLHvlwf9TThUZO13Muf8T/cIvG7aQ67/KmN8pW4bMA94utK0Fj9+Q9QbW8PNN1/kCmLdui8q8TacQGTb7pfEme/Ms7NP9U=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/id_fashion_de.png" group-title="Lifestyle",ID Fashion
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:DNgcgoyTiH+n/uQfrv8/eT2M58oxVkFsMWsOIUX5uWm4HhhdKuWjRe350C4xAapSIrxwXOVzAmaPvUdrR3TX4Xnc0/b7kMaNe2KYbzwivoY=
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ffd00c575-ddd0-4d52-802d-c5239093e6d6%2F1920X1080_JPGrdx.jpg" group-title="Lifestyle",Plex Fashion TV Top Models
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Lifestyle",TV Fashionbox
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMQqGQkYFkL1D6ZgGMV2k6xekO2fp5tLhZlGhHcrRQDl+h14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLXn8AMbQGEzYgAEqCQXnvHhDD6KCzQOvD2kK4V6Uwk8TvUKQnlHrhxKFdAyXElf0atiST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://a3bikini.com/wp-content/uploads/2018/04/a3bikini_24_7.png" group-title="Lifestyle",A3 Bikini
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:B73Ex3JU7Xjv50Hip1t5Pbs+NmvXLzIsfK0M0CIT0jLrifLywv3CmwPpeuZytKHvgVB0DVFY2D9rg5I0lf2sQSn9d/KfCzWeqeGVSeKS/IMdDK1G6pOu4LsooRQ2M7Ay
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:QVTwiCqnSbop9dMFRozNb+knFwppqPwHz5erWzs/Cv2TXruuw+vgbUPumvaZ1cu4wzpFdbV7VdB5UBupmN8rrtZ8nDfXLx7oc60dnDtaKRjIO1Gv+I0UlvVq9hfNHFyq
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JyDxJvgBoVYsis0reDIjwN99Bd811vXQPm4An07uQ0C8A8g5EAkcxFG684hkT0OJzMRShnkw6w0bN1dJsSbotvlFuPtxwp0E/iOxw4wS6orp/HKUMBDijAqs5/tKAkQ8
 
@@ -523,37 +509,35 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:JyDxJvgBoVYsis0reDIjwN99Bd811vXQPm4An07uQ0D0avGftwPmzNFma0Pc6MiD7Sg10l53uohoTtPoBBCk1Bv0cBbL7UMKgW6GjvFygsSKxBlJACtA1o8G8xnghMCd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV Latino
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:aPNes2HtAFdyK9s57BCpcWl6F/trZL3BjQ4JB5npscTUwb8IgSyHdqVhFuMHqngOxWsWo3StYpdA/h+yHruCx7Ok+vaByoL6mxs5SaUahOMonMhgiwwK0twipdvV/t3O
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/chunklist_w888342636_b1896000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/onfm_tv.jpg" group-title="Music",ON FM TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/toplatino.png" group-title="Music",Top Latino
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mVkuoOT0N0rLZ4Iw7sgawfOQ4RRGtHHqhgHvghg35AXi5DY++l8019uhwQzzl5d86RQdWSryanwBARPGGHpYOygEUQhhxEqqqAb5RKMoSKuVo5BWsDNEkcyNXaa3xz3E
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/chunklist_w1184348296.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosMusic.pt.png" group-title="Music",Kuriakos Music
 https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/nasci_para_cantar.png" group-title="Music",Nasci para Cantar
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w510217612.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Qwest Jazz and Beyond
 https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/karibena.png" group-title="Music",Karibeña TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:SfA0J/m8//zhl7iy9Z0rsoEHslnm660JDvBivY9cMAliqvYAxwjca85jmu0RWD74un2E5oLtxZUI+UoQVRFxzA==
+https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibenatv_69045976-0638-4a55-a6a1/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/lamegamundial.png" group-title="Music",La Mega Mundial
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:tAMGoNxOVOs6ou8BwXYLdFVpVujrAQbrODtvs1yDp6HNhPgIZLunGUKOZAvE5HgwIEIQHLyiy2h5WmQBY7XaNw==
+https://server40.servistreaming.com:3477/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Music",Cadena Elite
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:EcmssVPdxJJnv3ryRQcFZMupYqIK44elZlvvC9SyX5nzzik0dlqGgLWNnvIoqeFohj2J3DgOJqJ/vEkVosF+FA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/top_music.jpg" group-title="Music",Music Top HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:h35gRvKXfBVZLlGdOudnkSxrpyeaBiB+8h9SZ92C0PvGEQmTV8qjSp/S97663cEFrucr2o+OCoV2CEp703RhDsdZjert8eVM3X+byrv33mWchTWhbtaP3AqA/swLYewmfjJbh3wDkZWh8RxuGCvEgA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/top_music.jpg" group-title="Music",Music Top
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/vintage_music.png" group-title="Music",Vintage Music TV
 https://feedlix.net/videos/promo.mp4
@@ -563,17 +547,20 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:hrNyxp+g3ZKeDvU3rWHd36Cnb+j/QWF1Ln9sQwt/aJZ6YBqfvWkoUEZXWP4Wc59BebAUpMCwWnqkw++zoW/TtA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="Music",Retro Plus Musica 60S-70S-80S-90S-00S
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:m4Vk91bHOM3RGb3YNfNdErkVorSSPqbgD1e3k9Syokru4X7lN7Kw7TIOmbg4NXtN27TBkBPNw+tudgSf+bhbLnyJ6l/UYgmG2tSVdYiBvhONaQq+hnHCQE+Oz2g4ZHJ2
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/retro_plus.png" group-title="Music",Retro Plus Classic
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="Music",Retro Plus Musica Romantica
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/jukebox-tv.jpg",Jukebox Radio TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:m4Vk91bHOM3RGb3YNfNdErkVorSSPqbgD1e3k9Syokru4X7lN7Kw7TIOmbg4NXtNYu/87UbS1/ikR17IYJa6OVs2e1v/imGgFIKjRp9cdoqX4GxBIBkk0w++k8a+UfKen+QKQDPaaJdv88LLB1wFYQ==
+#EXTSEC:QwkI001Y44noArjfNsfLBOECRLPFACRsQjBsSrHKB3XrsQg2YtV17yHIrTqHq9kuBpM19lnxANGqXtNEcz1sIEakNMZxRzXcl75OvRt8Wy8=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61hvF5ZSDvL.png" group-title="Music",RTL 102.5
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/music_box.png",Music Box Gold
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:CMBB6oTpZCcM5lZAbqFigfT/ef+lWosTndzmeQUc4VvmU4NpOfnveed55jlqz8xkfypZ3tWHGeqvnr+3LBPZSExhznSFflL44IP3/ZPMhMJHmwj8cQ9EIAUwYkdkO0xwn+QKQDPaaJdv88LLB1wFYQ==
+#EXTSEC:cKEwoGK+ouuCza/TYpeiiv/1JTkiSRB8mks31Nsl+WvSSZWjbmwes0B8Uqzj9402u7ToIt8b4wiBVempL3ZqtQ==
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/1mushd.jpg",1 Music HD
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:LKiEUAvDQbeWZdXKzqtmGgrEeO7Qrmrc2fFdFcCpgGmf5ApAM9pol2/zwssHXAVh
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/tr/Power.png" group-title="Music",Power HD
 https://feedlix.net/videos/promo.mp4
@@ -599,13 +586,8 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:72AZ6G0AfR8x80MmY0TPAcdG+zMOO0WH4RekHIOPsB4=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/MolaTv.png" group-title="Music",Mola TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:yva2A486LyQCgVAB49MIWlzZxfhgMr7pSxOHBQ4ug6ZVY8+7lmiI0shXxSkdOYgA
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/m2o_it_tv.png" group-title="Music",M2O TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:DmKuLidsE/M9EmPPG6U7N//R0L+TvD8UL6KiYYl1qH4l/ZXO09Mz/SfVpChKMsnf7+krdr0XThCXBonKoMZ8DHQoPVt/PVrqQKTr/cCDZzZzA4M/2JAr/oX0zongvoOkIatRFpLt5tjDSrIPKTEaypWjkFawM0SRzI1dprfHPcQ=
+https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8	https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="Music",Trace Latina
 https://feedlix.net/videos/promo.mp4
@@ -627,41 +609,24 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:sUBanA+XO4/aktM/TQhhdamoOPnmN4thSs9OCXw9DpdsS/J1krea/r/PMi1rmI5Zn+QKQDPaaJdv88LLB1wFYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/baraza.png" group-title="Music",Baraza HD Music TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qAoH+6Rb35S/10hpwlOgRS3r59JGaf7XjuDlYy2ScawpyvWf7oUeTRCFT21oibHRr29FJY6w0uz3y1Xto4h62A==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/viva_ru.png" group-title="Music",VIVA
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VUQtPG/hMeG5eqgQhhU6LuMwzT2eK3Nk12zYf5ltHdeFY803nNdqypwvkhVWfLFDedzT9vuQxo17YphvPCK+hg==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/1_hd_ru.png" group-title="Music",1 HD Music TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ZmmuiKoVhbIScTeCwMCKiX/7O3+bWdzVywBXokkTYYI=
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/baraza.png" group-title="Music",Baraza HD TV
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Music",Deluxe Music
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:9+JII65CHarhV7OBoAYyDVth8grmQ3MpQ3xB+naGtv4Gu91Zs+CbcwuNDozrnjyxc29j0N9aELL14ydsSz2pOAFVj8oyRXbI4BOybhZpsyun6mmtXxe2VAtnaR+P1f/hHJ/VDmj6QO5URKWqhSfEQQ==
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/663addd47e1b1_13018905_2405080205_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.infosat.de/sites/default/files/news/ockostar655440.jpg" group-title="Music",Ocko Star
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:x8NVMv6ngP+2aDb/X9KpXf74SHQL5H7nnN/2t8BFK7K37ti8LwyInU5ypkyAULbf4BlloZWLKHwg2p7pzY8WAA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f5/c3/1818/2/c175.png" group-title="Music",21 Radio TV Rock'n Pop
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:G5dKyBgcAe9dzMWdMakhRlVlGEHS34NWYIw3h85yhi8W7lo4R/ktBhY30FilBJHSGvf4ycJ4XT1WfcGKAqx9p/T95dIuA7k0ma3IMeBj42E=
+https://live.creacast.com/radio21/smil:radio21.smil/chunklist_w758890797_b628000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="Music",Hot Rock TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qbPYWY23pnZeLbQcWWXThbowbukL76gtOF5nWLgQbQNp9FvTTB2AJhkd3W+xjOTRUNL7eXi4F+l/ixGWwHsN74OK4C+jreoWsJbS2kfCSuU=
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/6/6367.1672197098.png" group-title="Music",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5df3HJ77mn46pTCUg9o6KKWTWCD56vFEQAPq81pzqxlJ5k6weTeUKOmFiokASSNGyqqSytVvAcQPVwANDTyxQA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/12/1e/ef/121eef890f53671537f4cd45a3977538--typo-logo-logo-s.jpg" group-title="Music",Metal TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5BnBM4eFMsYRmtQGK9xnFL6Bk69fIkLeCIQsK56gu9CmwxYHEktgxcf/Y9LPJLQA
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
 #EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Music",Vevo 2K
 https://r.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
@@ -699,25 +664,20 @@ https://r.mjh.nz/PlutoTV/5da0d83f66c9700009b96d0e-alt.m3u8
 #EXTINF:-1 channel-id="pluto-61d4c2817a823d00070ba53e" tvg-id="61d4c2817a823d00070ba53e" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Music",Vevo True School Hip-Hop
 https://r.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
 
-#EXTINF:-1 tvg-id="Sexy KPOP TV" tvg-logo="https://m3upt.com/logos/Sexy-KPOP-TV.png" group-title="Music",Sexy KPOP Music TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:FNEB+LF/FNemb9yH3U7G/RKH19rGs5YHMxaZ75kqJxuSJCIVOb7ujvByTDBuEmM87g5I39RdgmCrK95V8kQsCA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Music",KPOP Music TV
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/V2Beat.tv.png" group-title="Music",V2Beat
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:0XwRE4eK6rou4CUKD5yYBVC6toUbWBz+xZe3/7ArW9QGAUyIQ/nkyL2SkEbhFC1S7g5I39RdgmCrK95V8kQsCA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/eurodance90.png" group-title="Music",Eurodance 90
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/IbizaGlobal.png",Ibiza Global TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:Pdb0xrE6qbxCSFkAqCmalu0Pu7asQdlUQDDVqCV+h/GNUxm4Vew3ejiqJwgPAySmg4rgL6Ot6hawltLaR8JK5Q==
+#EXTSEC:T1BRCSTycKucyNUdVFbibimw1BRZWSoE67fxAXCeON38iKxu3fl2snpSzqAv2hrGn+QKQDPaaJdv88LLB1wFYQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static1.squarespace.com/static/57e016db6b8f5bbe95acde7d/t/5b620bab352f53819eb8df27/1533152171765/2017_DSTV_Logo_Silver+2.png" group-title="Music",Dancestar TV
+#EXTINF:-1 tvg-logo="https://www.sonus.fm/img/sonus_logo.png",Sonus FM TV
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:YYsIWAr0BSTLgwhr/2zBdwpT+3hjn4vjgQw+GVpEs8rfVwsbxWCcG60ArsFA2pBMI3LCZFpM1Jk1ZTR92TXSJ5/kCkAz2miXb/PCywdcBWE=
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://ritsatv.ru/files/poster/medium/300102.png" group-title="Music",Ritsa TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0y8GRjX6zMTs6gxFlcDx7v+fhz0T7dr3dkRXH7aOM7SSHiLsmQaipMnd/8HMO6QP5GCNsiVzbhaPezGfiz4WFx67vX1hoLoUJei+ASQU2H9roRDQKrwtuiK1+0sXzcm1f/I/3Lp/29buHSPC8xHoy5aGrDHUpad4ZONxfe5bdNAzjDZgK17tEVBVi/zJ1hNgMZ+nBxjL5RxfD23xEGdnTc55NIwLwZY8nnnId5NwRpqLM3VrVcvgEB3mN0GTX1xpaHm/0NbgBcAI51WdQMjiV5dM9FJt3dWkn0wn+4pUDP6VfFx0s7yAX6kPTSpWuf853LXTKw8v3K8WMnCq51Kc5lk6lN2sqOk2e2brdI439KxOS9CxlXxQvHb2jLgLDMys2fZsH2DfdAIgsEXKSjBjfL7qWN3jdOwKgsg3hKD1x4bKq+A4vHDnGZsCFeRcbz6/ZGd+tDbwSU0E2JZwMJqC34OhEFjdfOr4NdNrYWXCLKrS0SLnVrHmgFwJNtrEwwKO0Mkl+N/Fk6UXrhuuyaWMhwaycbpTZ7Q7uMur8palFnEKGndFS84bqmqWyEVr8Y8v+E7Bte9hEHvVKCHQ77Vb4sG4tsOSeNKEVgc0DtwTwvs9oZBxf9tu7XtUYvzC5IiY6DbSJR8JJ3ujga11yZY0Btk7DoOxxeMLwsBG9zkwPWDeII6Yi1OtyhnoMLSKALaVwBeWUpXHtC3K2J1qyw6bbM+ffchuDgZKuWtlCtgAqa+pf8hwF89//PqT6mHKvTDmPdPrhi+Vq/KdTSiOwJTXOUoPVc6uqxuklXZfkOVEaxZNwpAtyPa47mN9b9SQtRse6LdiRHZPw3wyuINZoRN/o6gokUXFt5kLnw8dfpuX1VOASuhczwixTBvyVu/fFQ82kJR38BJBfEDsHFZP+OBanh/GJ0qzLwBsmOqdaym0yrfUVLkWht0nXMHD/5FLTR/yFD+gBjlP0b52R1mdJJSYhXijed28kNwXFI4cK27NRoXxCuH/kstpxM5NHxqhY0K8S4Q2OP+I35NwSHKN9qSqEaROUSJhiDudiP7mvQVo8XY/XH4eVGaxBHC3L1vYA/U1eDKePSjgyJ88MnLXmMoBx0bmukg4CX2+tNW2No+s/1jh3pmhiyFNF650LBHnbTmP3unKw1qsaO4TEWPRLWV8dLEujHMW065wOvM/N0i2PtrgkJkyRLr/n0KSCFaZxVnl29TS0VVrEGHQhJJw8f9NcK1Vlx4/iximQSY/LjQNConv+SxL3y+PIxUa/GpeH1kUYRK8GTmcNvWiOVgvfUgJLs9gxz+CfYnoaiake7MIQZz3J3dyGf6oqxzhuBE7yRm0ltt2AlMxjdAmYF4M+hoS2Ey8T5bUJLF7LXQE7yxS6EmDiuAvo63qFrCW0tpHwkrl
+#EXTSEC:ffOOY002ji4BWxc5AUXmaqJd5XImURPk/V7KVAzZzohmHKgpiBBxZUDJumsEFNauebAUpMCwWnqkw++zoW/TtA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Livecam Lisboa (Belém)
 https://feedlix.net/videos/promo.mp4
