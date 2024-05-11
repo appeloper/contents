@@ -1074,11 +1074,14 @@ https://install.akctvcontrol.com/speed/broadcast/139/file-3128k.m3u8
 #EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Irish Setter Club of ANS HD
 https://install.akctvcontrol.com/speed/broadcast/141/file-3128k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Clan_TVE_logo.svg",Clan HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://feedlix.net/tv/es/clan_tv.png",Clan HD
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="Kids",TVG Xabarin
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/m6twKCy.png" group-title="Kids",Boing
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=320&height=320" group-title="Kids",Peque TV
 https://feedlix.net/videos/promo.mp4
@@ -1153,10 +1156,6 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png",Real Madrid TV HD (geo)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png",Real Madrid TV HD (english)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2IqL9C//mccoK5G1O3ES8umdElmp+XsiM6x2/FiqXurUzUdjY/IyPqMZ1aqgoZu00FRBoGIRLeieUR3ebUod9oE4U2EPLAlEHMU4jNx2vF8=
-
 #EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320",Esport 3 (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:rcaTIHtcYbqG/6PUC+NKpXHjLTh19ObypkNVuElRYaKKMVf1QmM6y1YLT1WGTYIeEp4WWq4oIL7W2rlLtKTH77p9hOaC7cWVCPlKEFURccw=
@@ -1164,6 +1163,21 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320",Esport 3 (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:rcaTIHtcYbqG/6PUC+NKparQY5TLMmnsMNZm9RmGI951KqMVg9RgegQp3N8/fGav9qbGSNMoGdpd9WBNLoDR2pWjkFawM0SRzI1dprfHPcQ=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/Dd4wsYSVMAAfi3l.jpg" group-title="Sports",Al Kass 1 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtyuwqa/master1080.m3u8
+	
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="Sports",Al Kass 2 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uycevvnb/master1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-Z8EFJ23IYzs/WvMZe_2OsSI/AAAAAAAAO4s/g9BptSgzjv0KMoFZ42hS_htEtRTMMAGJACLcBGAs/s1600/alkaas3.png" group-title="Sports",Al Kass 3 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavbc/master1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142520385.png" group-title="Sports",Al Kass 4 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtyuwqa/master1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cne-eg.com/uploads/logos/2018314320255.png" group-title="Sports",Al Kass 5 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master1080.m3u8
 
 #EXTINF:-1 tvg-id="5f1ac8588734f8000823b7de" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png",TV Action Sports
 https://feedlix.net/videos/promo.mp4
@@ -1188,6 +1202,12 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/garage_tv.png",El Garage TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:qgJSJToSXjDKSds6hmw1VFQlNDnO6zv5ByzMgh0CgYsIPdg1zRxR6COW/BS0AnFL7e4RwZ5jpNqSgxVgriEqo+kCfc1npEPuk7EdCsJRIciElTJryEMOdeiJRzcSY/Ok
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png",World Fashion Channel International HD
 https://feedlix.net/videos/promo.mp4
