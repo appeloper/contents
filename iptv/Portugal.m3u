@@ -318,8 +318,11 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://imgur.com/3bvMvx2.png",Rakuten Family HD
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Clan_TVE_logo.svg",Clan HD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://feedlix.net/tv/es/clan_tv.png",Clan HD
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/m6twKCy.png" group-title="Kids",Boing
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png" group-title="Kids",Anime TV
 https://feedlix.net/videos/promo.mp4
@@ -403,21 +406,32 @@ https://bit.ly/49obbKU?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png" group-title="Sports",Real Madrid TV HD (geo)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/Dd4wsYSVMAAfi3l.jpg" group-title="Sports",Al Kass 1 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtyuwqa/master1080.m3u8
+	
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="Sports",Al Kass 2 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uycevvnb/master1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-Z8EFJ23IYzs/WvMZe_2OsSI/AAAAAAAAO4s/g9BptSgzjv0KMoFZ42hS_htEtRTMMAGJACLcBGAs/s1600/alkaas3.png" group-title="Sports",Al Kass 3 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavbc/master1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142520385.png" group-title="Sports",Al Kass 4 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtyuwqa/master1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cne-eg.com/uploads/logos/2018314320255.png" group-title="Sports",Al Kass 5 HD
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master1080.m3u8
+
 #EXTINF:-1 tvg-id="Abu Dhabi Sports" tvg-logo="https://i2.wp.com/www.millereponses.com/wp-content/uploads/2018/11/abudabisport1-frequence-nilesat-badr-arabsat-hotbird.jpg" group-title="Sports",ADSports 1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:PZ7jaNwl2WUEr5yxlu6lX9u0wNZqK1CbkbrZ+0MowgJNcO8BnGE3qsVwszDRHvbYSxx+B1sL+en8Caynsm/IpXoYu4o10+63hbrEovT/tHaVo5BWsDNEkcyNXaa3xz3E
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-logo="https://icon2.kisspng.com/20180612/cba/kisspng-abu-dhabi-sports-itu-world-triathlon-abu-dhabi-201-live-stream-5b1ff68a062101.4910889015288213860251.jpg" group-title="Sports",ADSports 2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:DqlT9T2ut515IAgnXbZH2du0wNZqK1CbkbrZ+0MowgKnc7Bw3O48wZgAk/Up356mUZP0FJfHG5dFXHLNnbB4m3oYu4o10+63hbrEovT/tHaVo5BWsDNEkcyNXaa3xz3E
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 3" tvg-logo="https://2.bp.blogspot.com/-kfiJbuPvLtI/WuM6ZjY-4kI/AAAAAAAAGzw/MO5IEfCPvNMrNQER_L5wwG6R5ixfyo-2gCLcBGAs/s1600/1abooo.jpg" group-title="Sports",ADSports 3
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:W2tb4+FC7I7ZO4sw/Ygn49u0wNZqK1CbkbrZ+0MowgIiGOAWiJWQrsARx7lKrRxF449Pc14xw07jbGXs+19yTXoYu4o10+63hbrEovT/tHaVo5BWsDNEkcyNXaa3xz3E
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel3/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 4" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-4.png" group-title="Sports",ADSports 4
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1a1kRd3b+CaSHBUF3h6YKtu0wNZqK1CbkbrZ+0MowgJAnyfE5HjraCwHPLV20GX//cimg1zie8xV0BYfeqVsZXoYu4o10+63hbrEovT/tHaVo5BWsDNEkcyNXaa3xz3E
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel4/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png" group-title="Lifestyle",World Fashion TV HD
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
