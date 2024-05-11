@@ -259,78 +259,55 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMQ7P/gah07/b77UvHwkzXfr+kg5BbpQLhsngSw2qfe0xh14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLcWih77+a9E1E/UMp4FnP6qT1Vu53jlcN5ORtcgxHnZ2YbY27imdFk+oZOHf64DUj9iST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiGulp_hd.png",RAI Gulp HD (geo IT)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiGulp_hd.png" group-title="Kids",RAI Gulp HD (geo IT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyRZNoFUWtluJltRwrOWBkgP+uyMgniVS+YunPPoRxtI0=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiYoYo_hd.png",RAI YoYo HD (geo IT)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiYoYo_hd.png" group-title="Kids",RAI YoYo HD (geo IT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyvRjcTKjjvx1LC+pfHVDUE9XrF/OrtIfTH29xvXrwXnA=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/RetroCartoon.png",Retro Cartoon 1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://imgur.com/3bvMvx2.png",Rakuten Family HD
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://genialltv.com/uploads/tv_image/retro-tv.png" group-title="Kids",Retro Cartoon 1
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:SMF24MV7uzwfWTWiCLiCTMoQkmiu6gkA2AqVsj4DLyrk6G+uZbfXXTb6J9jeTvvhJH1rnvGiC8KX3xYuDFmXJg==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/RetroCartoon.png",Retro Cartoon 2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Tt5DeEDU4VWerwsdQK9C8uN5cta80so9Yzgmq1v20US2gxZJcSDzgk2U4nvN3xG4rVOxBylHtF1fFqjmh9M+oA==
+#EXTINF:-1 tvg-logo="https://www.masralyoum.net/content/uploads/2019/09/02/ede0ddd6c5.jpg" group-title="Kids",Sat7 Kid
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_source/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.topky.sk/big/2509479.jpg/TV-JOJ-FOTO--TV-JOJ-TV-RIK.png",Rik
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:D/PKJnRIAwt0NEm5NCq2wPPd7wnWV8wKrXotPVnaqqjv9XAOrjKjeP/0hUvlRFq3
-
-#EXTINF:-1 tvg-logo="https://www.masralyoum.net/content/uploads/2019/09/02/ede0ddd6c5.jpg",Sat7 Kids
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:oiRRT9XEpK+wrGj/xzAZf7DrEP/PyZug6cPjM+dZvs+eR8WQI9mAYfpJjBNpIUQ8C47+LD4AsfHezvdCuutvxB1BHwaZIqxfLCwXB64anIZiExiSERvxIPqS+M7CI9WYlaOQVrAzRJHMjV2mt8c9xA==
-
-#EXTINF:-1 tvg-logo="https://smilik.tv/wp-content/uploads/2017/11/24_.png",Смайлик ТВ
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Bj9+bfb0bq1uVA7PqrNZ5HFFD3P2HLEXFn8JZU//lO387kl/+0jNmQrxxDEtrx5CCIGO+41HmV3utJpV2BcclA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RzPOwqI.png",Space Toon
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Space Toon
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:TTdXGMTiq6BIQTEPZhna2CnyRaF88S3oPVjh74+w6BHAHOA+Hbvf/4YfvgLVyTHNS5+Hcyl/OcaEG6ZfIg/Vr0I3N9IMc6Vm7NfLwQO9SOo=
 
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/super-tv.jpg",Super!
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KXGkwU34RB4hdMXucP/skg6b4+fDTmPqP/Mdq5p/zlvwIibo9FnNn/lGeRC7JIghOFoeHmyoer5loA3zu44yTtwdVC4QP2uL6ER8yjxFk4+vhwhQaEZQiKOm9qAy8zvcrP0/O8uDXC09m3053XlAUA==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wOxnItQ.png" group-title="Kids",Taha TV
+https://media2.livaat.com/TAHA-TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonkrazy.png",Toon Krazy TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivD02v5va+aUdUeiUsbAQGcuMtaNwoS1FS5f4IuO1rBSZgJeqmvKq6gBbwhu9Fg63YrSRb8RXcHEQoxzYwc33zd8=
+#EXTINF:-1 tvg-id="Tamyr.ru" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="Kids",Тамыр
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMGPz8Ui5buWrhFGijKwZhMOvHccCfevNLHL/bw7JnfL+6fYTmgu3FlQj5ShBVEXHM
+#EXTINF:-1 tvg-id="STSkids.ru" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="Kids",SТS Kids
+http://stream02.vnet.am/DisneyChannel/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMgLuuqO7sKmI4uX8GJQefuMSpsswJUR65yYshNUesmDZJgTDvBFTuiLeTp0hDLhujFIJdb7sf1UMY5GNDsGrNZQ==
+#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies
+https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 3
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMgLuuqO7sKmI4uX8GJQefuMSpsswJUR65yYshNUesmDZAoMOcqjRjTGJE+WJ1+7+cFIJdb7sf1UMY5GNDsGrNZQ==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 1
+https://asp6.toonamiaftermath.com/livehttporigin/est/eKyHtW-YsWFAH-chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 4
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMgLuuqO7sKmI4uX8GJQefuMSpsswJUR65yYshNUesmDaXzRpVMUYftJMnTONnC0zE
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 2
+https://asp6.toonamiaftermath.com/livehttporigin/est/eKyHtW-YsWFAH-chunklist.m3u8?streamDelay=180
 
-#EXTINF:-1 tvg-id="TRT Çocuk" tvg-logo="https://feedlix.net/tv/tr/TrtCocuk.png",TRT Çocuk HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:bnKGtIaH0rpkmbTMQvUxr5NYzlA2HTjcV9XM25TAhbwbFUfDN/hwWOyOScE1L207laOQVrAzRJHMjV2mt8c9xA==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 3
+https://asp6.toonamiaftermath.com/livehttporigin/est/eKyHtW-YsWFAH-chunklist.m3u8?streamDelay=120
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ca/tvo_kids.png",TVO Kids
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vsRcsEHUjXjZ2GmNpEVb1We+vsiiegX9YEGMeMN3vdoAbzF0jUYkpFZ/BA9nktrycsH4OUd8QPL9+OBa4lO/x51Uw1IJXMIZMMgEwt7siihV+A4MfUblj653VvVRg43G
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 4
+https://asp6.toonamiaftermath.com/livehttporigin/est/eKyHtW-YsWFAH-chunklist.m3u8?streamDelay=60
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/eur/wzra_kids.png",WZRA Kids
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:hbDdUhvw1b2E0KKtSqqN/XbVtbNdYFrLWVWJaKrwaDqDiuAvo63qFrCW0tpHwkrl
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="Kids",TVG Xabarin
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png",3eesh Al Aan TV
+#EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://feedlix.net/tv/pt/ZigZag.png" group-title="Kids",Zig Zag
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:mwwOYuJQpaNSFjag7tetn3g394cWJTxKHv8DCd79qfXk1WZ7x8UIeDlZ4fQoRFTlGtnTp8M32mEKCD0hF+HuK7p9hOaC7cWVCPlKEFURccw=
-
-#EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://feedlix.net/tv/pt/ZigZag.png",Zig Zag
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:yZc13G1hTMxFpCQsPKxkpqgGjGIJx4Jvc78XL13ZM+s=
+#EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmNcuc14yVwju9HNT98mnFu3mwFKTAsFp6pMPvs6Fv07Q=
