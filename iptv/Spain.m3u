@@ -1153,6 +1153,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4LDKP+plBd6V0L0a+WPvJ9QKJzIYIsMCtLcIqXb1f7dzg==
 
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="Sports",Teledeporte
+https://bit.ly/49obbKU?profile=inspirationFreetv.m3u8
+
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png",Real Madrid TV HD (geo)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
@@ -1183,111 +1186,88 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master1080.m3u8
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTe6I355ctVZ2hh7EEO200aNQai/44KOaVbbg/N7p1AqHaTdizmgzV+G6ARdxZwe+5Uyxj5uv4fr8fFgete+I+WwAklTBd2Cri2RYu3a7MWvA4znJH+KPi3tzzR0dk3F1N/LjFjLSrlUAF7kwlgvvX7p0W0zdNkHGiVt21/tKE/EfFi6LzMjz3xxLB1WNtBg6HRJXVvAO6NywHTyvJLZ+pzustS8oyzwRdeKPr5FNrJBkJRKgfVz5kyA/gNj2W2turf0oKztVurBrTFxK/uQgi15gSo7gmJQSLGj8PZSUdzS2A3TUDmL7gKjL3LmVHZiGbFCZPWdO5pSbCTsgvl9D9aXMokqhB6uqxcZb5+mi9CsM9UH4+Ip8slzGJIm+G5VtBxGlZU3Orf157aMuvMB3I6LXiuP3SPiSExMdFRTjtOiOsOli7kMDUc2yLve56O0Q8RttBmX74KZ9kJjKm1WvZjabCB39aKbUyC2vKF6gWa9ddbZzTeD4ZboZGdcQcxI8XgOvuz42XFCUvx7AHmDlt90u+MGkg/uMpohZ6oduO37EaoKjL/qaDDOXWLqsVvavvk=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfchannel.png",Surf Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfchannel.png" group-title="Sports",Surf Channel
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:C9pmnXwG5vMgRW70s3BKLRmN51LI0UoT9VSn3WjL0OU1wOM34VvsQQXgCE8QxVOY7g5I39RdgmCrK95V8kQsCA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/fuel_tv.png",Fuel TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:H7ULqxZsrVr1/aijCVwxe65t8TUc/xYSg5OkSHm4f8MS4Vsen564ahs0VtGnasZUle/HeXIb+wWrmC9XcLe+08mqrHSr+FETKzqQetu161S6fYTmgu3FlQj5ShBVEXHM
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fuel.png" group-title="Sports",Fuel TV
+https://bit.ly/3vCaVZr?profile=inspirationFreeTV.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/channelfightofficial/picture?width=200&height=200",Channel Fight
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:HP++jZEgrLIAQiShgEs5za+7UKWJmjY5SgI4BEom8FOVrA2wotYbvVrjbTUmN5KoSdfcM35mXeUyEzSFWfa96YIwu2401nBx/hvEbhVWd4W8LlvZOrzU8DNzYJocGZHs
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/RedBullTv.png",Red Bull
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/RedBullTv.png" group-title="Sports",Red Bull
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:T3iLbl6h73W0cf6XNmOxLcFyCeG+hRwYY1utx9l2GthxTwYdLUChNpj8AhDAmWAaPu3hZ6BgGhFk/Zfg0UMxGq4uC8xmhUmaNJ5Vn52SjrA=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/garage_tv.png",El Garage TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qgJSJToSXjDKSds6hmw1VFQlNDnO6zv5ByzMgh0CgYsIPdg1zRxR6COW/BS0AnFL7e4RwZ5jpNqSgxVgriEqo+kCfc1npEPuk7EdCsJRIciElTJryEMOdeiJRzcSY/Ok
+#EXTINF:-1 tvg-id="" tvg-logo="https://tavilatam.com/wp-content/uploads/2022/04/TAVI_FIFAPlus.png" group-title="Sports",FIFA Plus
+https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png" group-title="Lifestyle",World Fashion TV HD
+https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_ru.png" group-title="Lifestyle",World Fashion Channel Russia HD (uncensored)
+https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/GlobalFashion.jpg" group-title="Lifestyle",Global Fashion Channel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_720p.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png",World Fashion Channel International HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:RBzpIArq49kBPZsX/xL/pKjKy849dEj6Bnnq/5y+LbexrCsbbnX6KNkp4XGJRLCLv0LYylUT9HdSK7PkTknCiQ==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_ru.png",World Fashion Channel Russia HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ESEIuMJfEURn7CppWTwLPajKy849dEj6Bnnq/5y+LbdRVz0HKRa64zDK5BaGBR5gv0LYylUT9HdSK7PkTknCiQ==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/GlobalFashion.jpg",Global Fashion Channel
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vFXSMAJYzUR75PAwVSocawpT+3hjn4vjgQw+GVpEs8oqdpfLKQIKVm/6ZCq+e9k/JtCeEk0KDAOzBIQHgYzFikeXEQvQbEYFihMiJ9QAkfa7WrIZH6HH/zaDGf4BSgYUn+QKQDPaaJdv88LLB1wFYQ==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9kj9666rs8J+1CUyXKftbJRW9yuNHfyDx/NN/xXboXeXEk8ER7TxzD/priowwYeZnlgfDrdZs69ZUfVgw0UwoOg==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV UHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV UHD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4OXQocg6fAAHcU6N0RzcnF2nY0L/yDSFEZPCsvYdoRbFS4i2gQjD+zWxsO6tP1tnzRSOrRlLot0YGhBQHp+RSjBpYEdpkYxISXxVoZ+tpIbRhMFi551qUlsPczrybsEyAjtvuoCYHIyacn1d2AlkPJiWKZtaYHBcYwg5P1p47aaDiuAvo63qFrCW0tpHwkrl
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV F-Men HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV F-Men HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRbyzNzMh+mQxMqsDZHthKlFREK8lAqLX8PSfMl4uvvtBeJ4rtprHTd57MS2B6W64GRIxTSOMGrSOLQYYMRV2qLVcJ7pqXMUC4LmBIzjCNcmjMqqksrVbwHED1cADQ08sUA=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV Johannesburg HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Johannesburg HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Dx4SmL6uPWbdb8dv5ot6eF2nY0L/yDSFEZPCsvYdoRZcIWaqBYeQhL6mymgr/fdSzK7guOcbkPx+VGh96tFWQ+4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV Midnight Secrets HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9YHBBniz21tw4TcBHxDLuT3IeMRRL4e5vNYJvxDUjHoKJTdu97r0Ar+bWXT2todp1uZhDkF/KIDWnPjEkWPTiczXPggJvipjn+DZg8uWpRD219JMXW/x5kPwcZJtPogOc
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Midnight Secrets HD
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV New York HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4OXQocg6fAAHcU6N0RzcnF2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9zUywEicmpyBF+Ys+aRrQsv5+eiltWujmF8ieS6lNboyn/G2SnW+/PrAstic5NVD4I4r8BUsxj3Grh/rLxrXF55Un3wS4MVJS9FZYV4D3OIU282ARU0oDZ9S8UEPeqdqA
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV New York HD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV Paris HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Paris HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9KQOmcpVbpADUwAPzyIWGGQYpNh9qWkw6G7Hbk301xuF3vCpIrvmZ3WGBBV+A1sAcvakf1J3chQZ0/buylp0OnAe8rVPZZh1hUrtJYwie67h8rtdK2+vM8BSIu3xSPQRl
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV Paris (op.2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Paris (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:GZE+WZKI82nQnomJG3EhFGAPe51GQI5PDsW+BDZNeQ65PzL+5+htCd4u0EhOE/FjJzQEyJKy+X25fuYaC5mGVhW9yuNHfyDx/NN/xXboXeWTnmVxaR4ot1wzFBdvu4z2
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV Singapura HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4OXQocg6fAAHcU6N0RzcnF2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9tv+KlnYC80fENz6uG+OZ0n/826gyP/QBi6AJdeKQdR9rULEffZ0+x5wGJOE/+0+nY6xCn77T/Aw1GpFY2FSEE5sLnFGZMVogoKz5P2ATXM2Ok80EJgTq4ndzdF85n17m
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Portugal HD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",Fashion TV Tokyo HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9O2DivK9RLKnZd6Qb5caIkOJ1V5aiU+nloG2ixrC99nR4PIj366Av3CCoNE2v/OPwkMinI2obukyumVyv+kacJO18nu4cSN8Jg9AQGmWN9Z+DiuAvo63qFrCW0tpHwkrl
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Singapura HD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_hd_gmt__vm6_43433_default_1597_hls.smil/chunklist_b5228000_t64MTA4MA==.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png",Runway TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:zrxe5myxx0jdarLHvlwf9TThUZO13Muf8T/cIvG7aQ67/KmN8pW4bMA94utK0Fj9+Q9QbW8PNN1/kCmLdui8q8TacQGTb7pfEme/Ms7NP9U=
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Tokyo HD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/id_fashion_de.png",ID Fashion
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:DNgcgoyTiH+n/uQfrv8/eT2M58oxVkFsMWsOIUX5uWm4HhhdKuWjRe350C4xAapSIrxwXOVzAmaPvUdrR3TX4Xnc0/b7kMaNe2KYbzwivoY=
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/plex_fashion.png" group-title="Lifestyle",Plex Fashion TV Top Models
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
 
-#EXTINF:-1 tvg-logo="http://a3bikini.com/wp-content/uploads/2018/04/a3bikini_24_7.png",A3 Bikini
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Lifestyle",TV Fashionbox
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:B73Ex3JU7Xjv50Hip1t5Pbs+NmvXLzIsfK0M0CIT0jLrifLywv3CmwPpeuZytKHvgVB0DVFY2D9rg5I0lf2sQSn9d/KfCzWeqeGVSeKS/IMdDK1G6pOu4LsooRQ2M7Ay
+#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMQqGQkYFkL1D6ZgGMV2k6xekO2fp5tLhZlGhHcrRQDl+h14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLXn8AMbQGEzYgAEqCQXnvHhDD6KCzQOvD2kK4V6Uwk8TvUKQnlHrhxKFdAyXElf0atiST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png",Miami TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:QVTwiCqnSbop9dMFRozNb+knFwppqPwHz5erWzs/Cv2TXruuw+vgbUPumvaZ1cu4wzpFdbV7VdB5UBupmN8rrtZ8nDfXLx7oc60dnDtaKRjIO1Gv+I0UlvVq9hfNHFyq
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hedex.tv/uploads/images/clip_443_1707747365_poster.png" group-title="Lifestyle",A3 Bikini
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png",Miami TV (op.2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JyDxJvgBoVYsis0reDIjwN99Bd811vXQPm4An07uQ0C8A8g5EAkcxFG684hkT0OJzMRShnkw6w0bN1dJsSbotvlFuPtxwp0E/iOxw4wS6orp/HKUMBDijAqs5/tKAkQ8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png",Miami TV Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV Live
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JyDxJvgBoVYsis0reDIjwN99Bd811vXQPm4An07uQ0D0avGftwPmzNFma0Pc6MiD7Sg10l53uohoTtPoBBCk1Bv0cBbL7UMKgW6GjvFygsSKxBlJACtA1o8G8xnghMCd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png",Miami TV Latino
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:aPNes2HtAFdyK9s57BCpcWl6F/trZL3BjQ4JB5npscTUwb8IgSyHdqVhFuMHqngOxWsWo3StYpdA/h+yHruCx7Ok+vaByoL6mxs5SaUahOMonMhgiwwK0twipdvV/t3O
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV Latino
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/chunklist_w888342636_b1896000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png",Cadena Elite
 https://feedlix.net/videos/promo.mp4
