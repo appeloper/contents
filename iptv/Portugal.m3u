@@ -161,6 +161,24 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mGCGq9mkHoIkAUp/TpbUQGJ24DBUvVXFjxo+Zg8npCWsPDMC5opYuLuNAwjp6P6MiF76OBgnYvfhYQaoIz70b+4OSN/UXYJgqyveVfJELAg=
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Cinema",Rakuten Action
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Cinema",Rakuten Comedy
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Cinema",Rakuten Romance
+https://rakuten-romance-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Cinema",Rakuten Thriller
+https://rakuten-thriller-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Cinema",Rakuten Top Free
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Cinema",Rakuten TV Shows
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KURIAKOS TV" tvg-logo="https://feedlix.net/tv/pt/KuriakosTv.pt.png" group-title="Religious",Kuriakos TV
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 
@@ -269,6 +287,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:afsFoKzfBiI4YPxcuPgIyUbVq72yACJJbbWOO2PDgQJ26DG2JBcX4XTvbdJGRaQa
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Documentary",Spotlight
+https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary",RT Documentary HD (english)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:TZ6OU7/wM95XbboPK9gn4BioNMO/gOLs5wEy3rPCduDuDkjf1F2CYKsr3lXyRCwI
@@ -288,9 +309,15 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTe6I355ctVZ2hh7EEO200aNQai/44KOaVbbg/N7p1AqHaw59pHX2z5bf6cSgrb9u6F2CB+Md0k4aeEy+xn1LZZbAklTBd2Cri2RYu3a7MWvA4znJH+KPi3tzzR0dk3F1N/LjFjLSrlUAF7kwlgvvX7p0W0zdNkHGiVt21/tKE/EfFi6LzMjz3xxLB1WNtBg6HRJXVvAO6NywHTyvJLZ+pzustS8oyzwRdeKPr5FNrJBkJRKgfVz5kyA/gNj2W2turf0oKztVurBrTFxK/uQgi15gSo7gmJQSLGj8PZSUdzS2A3TUDmL7gKjL3LmVHZiGbFCZPWdO5pSbCTsgvl9D9aXMokqhB6uqxcZb5+mi9CsM9UH4+Ip8slzGJIm+G5VtBxGlZU3Orf157aMuvMB3I6LXiuP3SPiSExMdFRTjtOiOsOli7kMDUc2yLve56O0Q8RttBmX74KZ9kJjKm1WvZjabCB39aKbUyC2vKF6gWa9ddbZzTeD4ZboZGdcQcxI8XgOvuz42XFCUvx7AHmDlt90u+MGkg/uMpohZ6oduO37EaoKjL/qaDDOXWLqsVvavvk=
 
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://images.fubo.tv/station_logos/TastemadeEnEspanol_m.png" group-title="Kitchen",Tastemade Español
+https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pets",Animais de Estimação TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMW/LmchUcYUKVCRTSZJpeW/k1uDCfjf/eXaNaF5+k2Buh14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLTXF+M7oH1966miXXIXIjDpvEfDxoiZwb16+ormbLjSJ+aZJwzWTQAmxYDqspNEcxtiST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
+
+#EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="https://mma.prnewswire.com/media/1905810/The_Pet_Collective_Logo.jpg" group-title="Pets",The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD (Dog TV)
 https://feedlix.net/videos/promo.mp4
