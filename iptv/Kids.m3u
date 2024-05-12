@@ -87,10 +87,6 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index
 #EXTINF:-1 tvg-id="BratTV.us" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Kids",Brat TV (1080p)
 https://brat-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/BTV10.kaku.png" group-title="Kids",BTV10 卡酷动画频道 Kids
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:97xVNsSg/yZEz4lgeHavq7deZ9FElTkCyMw6kyxgOkPuDkjf1F2CYKsr3lXyRCwI
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/cachipum.jpg" group-title="Kids",Cachipum TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:4rmZHPuS2UVQvICE/xfkdeJKkSBP16cNaRMy5bX7F6xQ0fi5tZF3xhSBE+6G32OefavkqyPPjbzRXW2hOm4Nmg==
@@ -293,6 +289,9 @@ http://stream02.vnet.am/DisneyChannel/mono.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies
 https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="https://mma.prnewswire.com/media/1905810/The_Pet_Collective_Logo.jpg" group-title="Pets",The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 1
 https://asp6.toonamiaftermath.com/livehttporigin/est/eKyHtW-YsWFAH-chunklist.m3u8
 
@@ -307,6 +306,15 @@ https://asp6.toonamiaftermath.com/livehttporigin/est/eKyHtW-YsWFAH-chunklist.m3u
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="Kids",TVG Xabarin
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg" group-title="Kids",TVG Pequerrechos (geo ES)
+https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/chunklist_b2200000.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg" group-title="Kids",TVG Cativos (geo ES)
+https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/chunklist_b2200000.m3u8
+	
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg" group-title="Kids",TVG Mociños (geo ES)
+https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/chunklist_b2200000.m3u8
 
 #EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://feedlix.net/tv/pt/ZigZag.png" group-title="Kids",Zig Zag
 https://feedlix.net/videos/promo.mp4
