@@ -75,6 +75,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Dh5U+/QmuxeZg0wo+zT2iVKdHTERAfKfYJjKo5MfjSIDjwIgz9qEfrR5qsdzOWUGE5YN+3LoWHdotC/Z4LfblK9vRSWOsNLs98tV7aOIetg=
 
+#EXTINF:-1 tvg-name="DanceStar TV" tvg-logo="https://dancestar.tv/images/swirl_2.jpg" group-title="Music",DanceStar TV
+https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/cf/cfc082217e29c2e541f5985ac000fa29.jpeg",FS1 HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:u+Cj+Opg+3I9Og/9SPu2jARaP27RKXW2Md2E2igdgo7zYZnOmAIX9B7xMiMZZ+KR
@@ -91,6 +94,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:QwkI001Y44noArjfNsfLBOECRLPFACRsQjBsSrHKB3XrsQg2YtV17yHIrTqHq9kuBpM19lnxANGqXtNEcz1sIEakNMZxRzXcl75OvRt8Wy8=
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/karibena.png" group-title="Music",Karibeña TV
+https://streamtv.onliv3.online:1936/karibtv/karibtv_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://zuendel-branding.com/media/krone_hit_1_small.jpg",Kronehit HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:BHHK1DwMCUgNT9Q47UI88zc134cgsOiFvo+pKAJ7kc327hqvlEUso5LWkAVpovYxkusxTDIUkPa/sAVZxgudZ5/kCkAz2miXb/PCywdcBWE=
@@ -98,6 +104,9 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pRbp0eZ.png",LA 90 FM
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:nx6dFjL9oE7pDnnuxWBjocXQ3vHy8ofJX5UEhXT/S6LCVTQav799lyt6HbGel4D3xYZ6SoI24WLMrLsGkK+GAZRsbpw57+lhvf4l+NojVzU=
+
+#EXTINF:-1 tvg-name="La Urban TV España", tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LusstsFeKa.png" group-title="Music",La Urban
+https://www.urbanrevolution.es:8443/live/TV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/lfmtv.png",LFM TV
 https://feedlix.net/videos/promo.mp4
@@ -114,6 +123,9 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/matur.jpg",Матур TB
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:oG7H/FfS6NDKMQoHJseOd54bpMtsKfu8U2psHP1/lLEhXBMZEEGTPfxtCRyuJKavEHs1S6NOD22i/y73vBgSzw==
+
+#EXTINF:-1 tvg-name="Molahits TV España" tvg-logo="https://feedlix.net/tv/mus/MolaTv.png" group-title="Music",Mola TV Hits
+https://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6245cf8ac69baf000718295a/colorLogoPNG.png",MTV Approved Hip Hop
 https://r.mjh.nz/PlutoTV/6245cf8ac69baf000718295a-alt.m3u8
@@ -307,6 +319,9 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
+#EXTINF:-1 tvg-name="RTL 102.5 Italia" tvg-logo="https://www.rotas.com/wp-content/uploads/2018/02/Logo-RTL-banner.jpg" group-title="Music",RTL 102.5 Italia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
 #EXTINF:-1 tvg-logo="https://citytraffic.ru/old/upload/1488369339.jpg",Шансон Радио TB
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:t9A82fTxmiB1TzYCY351NtUOsoi13UMEKoc3iGGQ7utJTqBeOx7Fw48umJLnAIIJf4x71PuIMgYVj39s2xEWyJ/kCkAz2miXb/PCywdcBWE=
@@ -314,6 +329,9 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jNC8da3.png",Sky Folk TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ZW5MLPJzzUg3hYlko+WxY6j9UxPxvfst7FjEqiVOcCI=
+
+#EXTINF:-1 tvg-name="Sol Música España" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Sol_Musica_Spain.jpg" group-title="Music",Sol Musica
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
 #EXTINF:-1 tvg-logo="https://billows.files.wordpress.com/2009/04/sorrriso.jpg",SorRriso TV
 https://feedlix.net/videos/promo.mp4
@@ -380,6 +398,9 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ffOOY002ji4BWxc5AUXmaqJd5XImURPk/V7KVAzZzohmHKgpiBBxZUDJumsEFNauebAUpMCwWnqkw++zoW/TtA==
 
+#EXTINF:-1 tvg-name="Spektra TV España" tvg-logo="https://www.spektratv.com/img/logo_intro.png" group-title="Music",Spektra
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://televisiontma.pagesperso-orange.fr/Images/Logo-TMA-pour-annonceurs.png",TMA Caraibes
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XMza6itfytgodEb0MWA7CKYXKAup26CNfSXwxhH6Em1/k7RnGYKQ5hvzxAg3vn8o
@@ -400,6 +421,9 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/V2Beat.tv.png",V2Beat
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:0XwRE4eK6rou4CUKD5yYBVC6toUbWBz+xZe3/7ArW9QGAUyIQ/nkyL2SkEbhFC1S7g5I39RdgmCrK95V8kQsCA==
+
+#EXTINF:-1 tvg-name="Verbena TV España" tvg-logo="https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg" group-title="Music",Verbena FM TV
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200010G2_20230321T235459SQUARE.png_20230321235500.png",Vevo '70s
 https://i.mjh.nz/SamsungTVPlus/CABC5200010G2.m3u8
