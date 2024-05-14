@@ -100,6 +100,9 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/karibena.png" group-title="Music",Karibeña TV
 https://streamtv.onliv3.online:1936/karibtv/karibtv_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/82/Kiss_TV_%282014-.n.v.%29.png" group-title="Music",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
 #EXTINF:-1 tvg-logo="https://zuendel-branding.com/media/krone_hit_1_small.jpg",Kronehit HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:BHHK1DwMCUgNT9Q47UI88zc134cgsOiFvo+pKAJ7kc327hqvlEUso5LWkAVpovYxkusxTDIUkPa/sAVZxgudZ5/kCkAz2miXb/PCywdcBWE=
