@@ -1092,7 +1092,7 @@ https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg" group-title="Kids",TVG Mociños (geo)
 https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/chunklist_b2200000.m3u8
 
-#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/m6twKCy.png" group-title="Kids",Boing
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Boinges.png" group-title="Kids",Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=320&height=320" group-title="Kids",Peque TV
@@ -1106,6 +1106,12 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png" group-title="Kids",Anime TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:SMF24MV7uzwfWTWiCLiCTLCIFlBzUog0A3eZfCnQr75dsAzgTZ0dsY2cmoKRArT3JH1rnvGiC8KX3xYuDFmXJg==
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b22af84bdf817ed88a396951cda5988b.jpg" group-title="Kids",Pitufo TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Kids",Jetsons TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://feedlix.net/tv/pt/ZigZag.png" group-title="Kids",Zig Zag
 https://feedlix.net/videos/promo.mp4
@@ -1131,6 +1137,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6
 
 #EXTINF:-1 tvg-id="PlutoTVTeenStars.es" tvg-logo="https://i.imgur.com/f0FXTXJ.png" group-title="Kids",Teen Stars
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="PlutoTVToonsClasico.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Kids",TV Toons Clásico
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/3ABNKids.png" group-title="Kids",3ABN Kids
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/SQs/chunklist.m3u8
