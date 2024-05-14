@@ -68,6 +68,9 @@ https://install.akctvcontrol.com/speed/broadcast/139/file-3128k.m3u8
 #EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="Kids",Ani
 http://streaming.tv-teleport.ru/Ani/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3eabf05ad0127a53af71227f1fe132a1.jpg" group-title="Kids",Ani TV
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png" group-title="Kids",Anime TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:SMF24MV7uzwfWTWiCLiCTLCIFlBzUog0A3eZfCnQr75dsAzgTZ0dsY2cmoKRArT3JH1rnvGiC8KX3xYuDFmXJg==
@@ -84,7 +87,7 @@ https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
 #EXTINF:-1 tvg-id="Balapan.kz" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="Kids",Balapan TV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://i.imgur.com/m6twKCy.png" group-title="Kids",Boing
+#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Boinges.png" group-title="Kids",Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="BratTV.us" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Kids",Brat TV (1080p)
@@ -137,11 +140,17 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids",Gulli
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Kids",Jetsons TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="KartoonChannel.us" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Kids",Kartoon Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-karusel-tv.png" group-title="Kids",Карусель
 http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/875c68d876502060f56b9303cf91a09e.jpg" group-title="Kids",Kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 		
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://i.imgur.com/pb94kIk.png" group-title="Kids",Kids Station
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
@@ -198,6 +207,9 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-id="Pingviin.ee" tvg-logo="https://i.imgur.com/b6xupqO.png" group-title="Kids",Pingviin
 https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b22af84bdf817ed88a396951cda5988b.jpg" group-title="Kids",Pitufo TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211
 
 #EXTINF:-1 tvg-id="PlutoTVAnimakids.es" tvg-logo="https://i.imgur.com/MSGZ3S9.png" group-title="Kids",Pluto TV Anima kids
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
@@ -273,7 +285,7 @@ https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:SMF24MV7uzwfWTWiCLiCTMoQkmiu6gkA2AqVsj4DLyrk6G+uZbfXXTb6J9jeTvvhJH1rnvGiC8KX3xYuDFmXJg==
 
-#EXTINF:-1 tvg-logo="https://www.masralyoum.net/content/uploads/2019/09/02/ede0ddd6c5.jpg" group-title="Kids",Sat7 Kid
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/9/92/SAT-7_Kids_-_logo.png" group-title="Kids",Sat7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_source/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Space Toon
@@ -306,6 +318,12 @@ https://asp6.toonamiaftermath.com/livehttporigin/est/eKyHtW-YsWFAH-chunklist.m3u
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 4
 https://asp6.toonamiaftermath.com/livehttporigin/est/eKyHtW-YsWFAH-chunklist.m3u8?streamDelay=60
+
+#EXTINF:-1 tvg-id="TRT Çocuk" tvg-logo="https://feedlix.net/tv/tr/TrtCocuk.png" group-title="Kids",TRT Çocuk HD
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRT Diyanet" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Kids",TRT Diyanet HD
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="Kids",TVG Xabarin
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
