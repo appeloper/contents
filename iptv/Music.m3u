@@ -111,7 +111,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:nx6dFjL9oE7pDnnuxWBjocXQ3vHy8ofJX5UEhXT/S6LCVTQav799lyt6HbGel4D3xYZ6SoI24WLMrLsGkK+GAZRsbpw57+lhvf4l+NojVzU=
 
-#EXTINF:-1 tvg-name="La Urban TV España", tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LusstsFeKa.png" group-title="Music",La Urban
+#EXTINF:-1 tvg-id="" tvg-name="La Urban TV España" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LusstsFeKa.png" group-title="Music",La Urban
 https://www.urbanrevolution.es:8443/live/TV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/lfmtv.png",LFM TV
