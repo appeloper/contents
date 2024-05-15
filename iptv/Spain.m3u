@@ -1113,6 +1113,33 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Kids",Jetsons TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f6d4c60d90805aad81d1b0cb5f566a5.jpg" group-title="Kids"Canela Kids ES
+https://stream.ads.ottera.tv/cl/240515cp2fv8k3ffmntq853a2g/854x480_1355200_2_f.m3u8?i=475_654
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72bf2ecca24095d1f015ae7c52749e68.jpg" group-title="Kids",Kids TV Español Latino
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/9af6f7ed-171e-40d4-9ceb-0332c171931a/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95cd63c87a3e478f54ab5af706844922.jpg" group-title="Kids",Mundo Pequeño ES
+https://stream.ads.ottera.tv/cl/240515cp2fmus25rmkgimd86ng/854x480_550000_3_f.m3u8?i=475_3366
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ebaf4e9bbdc1cfd28bc1138e879cff4.jpg" group-title="Kids",Planeta de Aventuras
+https://stream.ads.ottera.tv/cl/240515cp2g0c6ut1i75ufg4jsg/854x480_550000_3_f.m3u8?i=475_4311
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e164c1f449172affe344cb1f7420adce.jpg" group-title="Kids",Toon Goggles Español
+https://stream.ads.ottera.tv/cl/240515cp2fsh2uujvcocuu81i0/854x480_1355200_2_f.m3u8?i=475_514
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26309f3e115d9326a50aeb84c794f1fe.jpg" group-title="Kids",Toon Goggles Portugal
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f58965018411c0ef81df7c6b596ad54.jpg" group-title="Kids",Toonz Kids
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/70b9192f-ad7c-43f5-b65f-964375473edb/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.jpg" group-title="Kids",Zaz TV ES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/643723936bb6be8434f8ca9e5aa71697.jpg" group-title="Kids",Zona de Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
+
 #EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://feedlix.net/tv/pt/ZigZag.png" group-title="Kids",Zig Zag
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmNcuc14yVwju9HNT98mnFu3mwFKTAsFp6pMPvs6Fv07Q=
