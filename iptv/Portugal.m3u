@@ -266,14 +266,14 @@ https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w1182724625_b644100_sle
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png" group-title="News",Press TV (english)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 	
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Free-Speech-TV.webp" group-title="News",Free Speech TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/9806be74ba5860cbd39978bc9a53fcf9eca7aaf5bdf65d3d890d3c0b5ce3cc68.png" group-title="News",Free Speech TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:WU2ygT8mkrz8v+dXnxYbP8qlWlY+jMofCGpqxcyDvrXRXe0ohFXxpmjs8wHRm/p2vn8gkNHwP1OgWmGA3XFRGGpQm5IXxHumiMy7Qk0rFlvUYfMsZdigystR065QYdO5FRvcSuHg7MuDNYRb1kiL0AlFGvzvdzFZu7cRb7zX3R2f5ApAM9pol2/zwssHXAVh
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/sky_uk_news.png" group-title="News",Sky News (UK)
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.foxtv.com/static/orion/img/core/s/logos/fts-philadelphia-a.svg" group-title="News",Fox News Now
+#EXTINF:-1 tvg-id="" tvg-logo="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" group-title="News",Fox News Now
 https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="BLOOM.meo.pt" tvg-logo="https://feedlix.net/tv/us/BloombergTV.us.png" group-title="News",Bloomberg TV Europe
