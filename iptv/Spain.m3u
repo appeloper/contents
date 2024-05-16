@@ -1529,9 +1529,18 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:FvZq5nPsFi01+3mPirQb2Qo6+0m+yCoiqDjhJg3SiJZcBBfNNcbcifbAbn2BFUKji9suVS0I0EiwESqJ14lEFg==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c1/fe/1645/1/c175.png",Ibiza Global (Radio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c1/fe/1645/1/c175.png",Ibiza (Radio)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:tbv1YIxCvmlwi4ncgOBjbo7+TXzujcYWSSDO9sT0lpj0oH+foiQr3dHPlX0oyODv6cEh29qSVMJk72uSikKJrg==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/7afdcb8d911360d88a6406dfbe75e7bf.png",Ibiza Dance (Radio)
+https://radio2.vip-radios.fm:18021/stream-128kmp3-IbizaDance
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/831602b413509621496b828db326e081.png",Ibiza Hits (Radio)
+https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/bf0ae40e845cfb9f6831dcc0a103ac3c.png",Ibiza Relax (Radio)
+https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/cf/5c/14155/c175.png",Kiss FM (Radio)
 https://feedlix.net/videos/promo.mp4
