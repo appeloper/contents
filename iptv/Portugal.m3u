@@ -1149,9 +1149,11 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:vAR9BqNHJlalLK6opV66dDwLPQkbgya+vIW07mnpFTbNRAOG5XNFfEwo6/BdNbdQCmhQx1gEd7lUmIzGeoRgIw==
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d7a6c182f915b96c7ead65ff4c14de53.jpg" group-title="Radio",Kiss FM (Radio BR)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFMAAC.aac
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/15861.v12.png" group-title="Radio",Metropolitana (Radio BR)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NhiqzpXSOegExax2PQdB9H9fbOgJDRuBxp2TNCFHOvqEXiz/vXXujVoILDNHreZSTAAI5j0/GEhBwPZUVtqZCg==
+https://ice.fabricahost.com.br/metropolitana985sp
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/43404.v16.png" group-title="Radio",Nativa FM (Radio BR)
 https://feedlix.net/videos/promo.mp4
@@ -1162,12 +1164,7 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:85qp86gWvw26g6tSsXgzarHSUkKrFRw/ChrY0iDpBAgqhmnPCHVq4rS8auhQUmx0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/16939.v7.png" group-title="Radio",Saudade FM (Radio BR)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Mc/qbBF2O6kGL/o+p0GpQ9Dn085WtD0HIlDVl4inZ/nBQcmKjtik4HPYapXFojXP
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/35596.v5.png" group-title="Radio",Villa Mix (Radio BR)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5SplwZy+2CSw7+HT5T/Zo+6/lHBR62heYS7CvQVyqCnBQcmKjtik4HPYapXFojXP
+https://24363.live.streamtheworld.com/SAUDADE_FMAAC.aac
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ch/logo_energy_zurich.png" group-title="Radio",Energy Zurich (Radio CH)
 https://feedlix.net/videos/promo.mp4
@@ -1370,9 +1367,18 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:m9/rfJDzIRuRQ12VhD9lsKVHkiTMLMC3J8ZCzLm4WBSES+qiZ1IQL+CDa/go3/Yal5T845uWHDM9jSsBEgPhBw==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c1/fe/1645/1/c175.png" group-title="Radio",Ibiza Global (Radio ES)
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c1/fe/1645/1/c175.png",Ibiza (Radio ES)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:tbv1YIxCvmlwi4ncgOBjbo7+TXzujcYWSSDO9sT0lpj0oH+foiQr3dHPlX0oyODv6cEh29qSVMJk72uSikKJrg==
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/7afdcb8d911360d88a6406dfbe75e7bf.png",Ibiza Dance (Radio ES)
+https://radio2.vip-radios.fm:18021/stream-128kmp3-IbizaDance
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/831602b413509621496b828db326e081.png",Ibiza Hits (Radio ES)
+https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/bf0ae40e845cfb9f6831dcc0a103ac3c.png",Ibiza Relax (Radio ES)
+https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/cf/5c/14155/c175.png" group-title="Radio",Kiss FM (Radio ES)
 https://feedlix.net/videos/promo.mp4
