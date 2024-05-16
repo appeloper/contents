@@ -1325,14 +1325,6 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:khBMbzg+JseUOaLnfZib2wI0UyYGVQw12GQwy+PmQlwEJy2HA0lZJlMb2De6j4f/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Music",Cadena Elite
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:EcmssVPdxJJnv3ryRQcFZMupYqIK44elZlvvC9SyX5nzzik0dlqGgLWNnvIoqeFohj2J3DgOJqJ/vEkVosF+FA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg" group-title="Music",TV Galicia Musigal (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:khBMbzg+JseUOaLnfZib2wI0UyYGVQw12GQwy+PmQlwEJy2HA0lZJlMb2De6j4f/
-
 #EXTINF:-1 tvg-name="Sol Música España" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Sol_Musica_Spain.jpg" group-title="Music",Sol Musica
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
@@ -1342,7 +1334,7 @@ https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-name="Molahits TV España" tvg-logo="https://feedlix.net/tv/mus/MolaTv.png" group-title="Music",Mola TV Hits
 https://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-name="La Urban TV España", tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LusstsFeKa.png" group-title="Music",La Urban
+#EXTINF:-1 tvg-name="La Urban TV España" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LusstsFeKa.png" group-title="Music",La Urban
 https://www.urbanrevolution.es:8443/live/TV/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Verbena TV España" tvg-logo="https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg" group-title="Music",Verbena FM TV
