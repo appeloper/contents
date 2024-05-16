@@ -87,6 +87,9 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2iURNfrWN1Qm9N79iTibxulGYJC36dQi4rfX5aHc3VGVa1jWpm1ASP2aIMfMCzzykVHg+yVrpVFT9zdGOeyTkdwyb9VT/X9mblim5zIzJv9pbwAnslDiWWB+cbW7RIUbViP7TByAsZsV79R0m2xPg5/kCkAz2miXb/PCywdcBWE=
 
+#EXTINF:-1 tvg-id="TVI HD.pt" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c7585a7826b90bc38ac664cb10be0a4f.jpg" group-title="General",TVI África
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8?nimblesessionid=485411866
+
 #EXTINF:-1 tvg-id="Porto Canal HD.pt" tvg-logo="https://feedlix.net/tv/pt/porto_canal.png" group-title="General",Porto Canal
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:k4pXBxFyk7vT4gsVaIQCtYzMe2jB4tRjx69LfRI7tOCcQhyjV68K79pZIIFTZaPfpyLRU3mOCbX00gtZyDqQ1KzsV8sim43zZXcRsEtuY8N/ejTdIOXTvtWRwEeHB2n7l0nmFNPiqAHeBKzzsQJ8L+4OSN/UXYJgqyveVfJELAg=
@@ -94,6 +97,18 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/afmo/Tvm1.mz.png" group-title="General",TVM Moçambique
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:GsuCHi4PMNDgWEfp0xV5OcDIzI9OcBkni8Cz/P4D4kvPw/FSirWB2Bido/wc2X2aiAc9oxIIT08M0GpStBhjmtGEfPusnBBVNm4UDlvX+rNGuek0fFXmPIGX87q0T1CH
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85622a63246e88cadd968505db88bcf7.jpg" group-title="General",TV Zimbo HD Angola
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/8910ecec24a54efa912c2e020856882b/chunklist_b732000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b36111563fdd349672dbae745c75bd3.jpg" group-title="General",TV Independente de Cabo Verde
+https://cdn.live.br1.jmvstream.com/w/AVJ-13550/playlist/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/TdmInfo.mo.png" group-title="General",TDM/RTP Macau
+https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/TdmInfo.mo.png" group-title="General",TDM/Macau (CN)
+https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://famaradio.tv/wp-content/uploads/2023/11/Fama-radio-e-televisao-Retangulo-fundo-azul-1-e1699897642904.png" group-title="General",Fama TV
 https://feedlix.net/videos/promo.mp4
@@ -567,6 +582,9 @@ https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/nasci_para_cantar.png" group-title="Music",Nasci para Cantar
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w510217612.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd719ac59e43e0d13ae9154b18782f50.jpg" group-title="Music",TV Muzangala
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1968234030.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Qwest Jazz and Beyond
 https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8
