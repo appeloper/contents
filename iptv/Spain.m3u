@@ -1509,6 +1509,10 @@ https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCwVydC/rNSjOnfoACE18iYStJn5Lxk/o53KKT9yQn6qQiH07bOCtjH0dBdlgkSE06RuEItyjIEg+qM3NxBVsxHyosfkUae4kAfr1Ye/yoVG97TY0bIqodifAnVrksGK6ALWX8cFStWfkbBHerr1ZdWECjbM75M5L5jzX2cnSPDTDivS7NP5ml+yHMRQlypCQ7W6fYTmgu3FlQj5ShBVEXHM
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png" group-title="Nature",Drone TV
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:2HKJTANW/KwXEim0SduLwJfwTfbxSW3aLHMKHKA1OFKCaTXzh22rfwCypKXPMNnszZLviZBc6g7Zqj7QgCwtveie/lVOsWlOUg4VjtckMqNKnkEZBhXwFdzQ3ld3vjE6RosqUbr5KGX+mp5y37QshaoFq0qeWdlU3lSNAN4eEPAAInDYDVQFeywpOFzPOWGMpSfQrpAJZnD0ea5fRVvbdw==
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5fcff956f847548219d9ae06d1503362.jpg" group-title="Radio",1000 Hits España (Radio)
 https://c2.auracast.net/radio/8022/radio.mp3
 
@@ -1603,13 +1607,12 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:kRGhfpbeZr/kDV3bfoX3SFnRMalzl3DLIzkpq3brXh3F4W71jxAnwK+CC5fS2ylYVPephJEWizUjp80lTihY7A==
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/c6650538244e267e945bf5c45a4a4870.jpg" group-title="Radio",1 Oldies (Radio DE)
+http://stream.laut.fm/1-oldies/;stream.mp3
+
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/42760.v2.png" group-title="Radio",A State of Trance (Radio DE)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:fyWvqEFnLcjdQp3EDWydVO612BEZasirNIxOFN1tgiY=
-
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/81817.v19.png" group-title="Radio",Amazing Classic Hits (Radio DE)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:huehJ26ex8UOyth4ltAGd+B/26fW9vjwsVtdGl/cazePKNS+iphx3z9dqMe9Svunc/Ogvip7Hk4EdCbxR97ps8H9AzsxRCzh8ZIoW3JyZLs=
 
 #EXTINF:-1 tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=DE&name=14244-1430002.png&size=200" group-title="Radio",Big FM (Radio DE)
 https://feedlix.net/videos/promo.mp4
@@ -1619,17 +1622,24 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JXxKoAkMbEUlUQerNQLasjbKrnYHK4dfnM1AE0aGW5WmCLJ//gNajft7U0+VdJ/u
 
+#EXTINF:-1 tvg-logo="https://assets.radioplayer.org/276/2762592/600/600/kyafhsf4.png" group-title="Radio",Deluxe 2000 (Radio DE)
+https://audiostreams.deluxemusic.tv/2000/aac-64
+
+#EXTINF:-1 tvg-logo="https://assets.radioplayer.org/276/2762083/600/600/kyagluck.png" group-title="Radio",Deluxe Lounge (Radio DE)
+https://audiostreams.deluxemusic.tv/lounge/aac-64
+
+#EXTINF:-1 tvg-logo="https://assets.radioplayer.org/276/2762074/600/600/kyahkie1.png" group-title="Radio",Deluxe Music (Radio DE)
+https://audiostreams.deluxemusic.tv/music/aac-64
+
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/44697.v1.png" group-title="Radio",Disco (Radio DE)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:CRqNYWZQ30kQ3jVsWysvGlUjrl925yoF4kYymccjFmZ8PvPNtrlWgQSG3PLBfKKW
 
 #EXTINF:-1 tvg-logo="https://www.ringier.com/sites/default/files/images/energy_0.jpg" group-title="Radio",Energy NRJ (Radio DE)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5UCdyMGWd1aN5sCljqfdZiDe47vrhSm8RspWB//FOizGxVqB8R470QhvJ80Vhr4RQu5zWt3/j9STg8WSGWBf4w==
+https://frontend.streamonkey.net/energy-digital/stream/mp3
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/33024.v3.png" group-title="Radio",Klassik (Radio DE)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KTYsQ7ohLikFsekkqtYr3av1nDr12xO6abEIxJBg3++Kfcz1iUn+VTaEW2mazebrrKSWlZil1gEtXEsJkDVQ7Q==
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/6db1819050bb99968fbab3e62710b976.jpg" group-title="Radio",Kiss FM (Radio DE)
+https://stream.kissfm.de/kissfm/mp3-128
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/42856.v1.png" group-title="Radio",Metal Hammer (Radio DE)
 https://feedlix.net/videos/promo.mp4
@@ -1676,8 +1686,7 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:nx6dFjL9oE7pDnnuxWBjoRutGziyTnUNIwluVvD8AGBVkNO5kRYhwpJCzfUYTf24Ch+eelaHC0OhSEHDGlqsLA==
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/46965.v4.png" group-title="Radio",Deejay (Radio IT)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Oay9TnPYJo8qe6l6rzah74gDm5TanEzcXGVmMugwKLDYkrme/f1SYGbn88HadX9v2O8D4/pwqwRSeMbG43Yss/qcmSNks2MevIbal2w2kSE=
+https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/20498.v12.png" group-title="Radio",Monte Carlo (Radio IT)
 https://feedlix.net/videos/promo.mp4
@@ -1699,29 +1708,98 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ZjbUd+92Ozw97FPHzWxmfHdce3nm8Xob7KTSJovqHDYPSSLkqn0bwwNM8g59BUoC
 
-#EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png" group-title="Radio",A Radio Rock Super FM (Radio PT)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:yd21qQH62nibfTCeTfFC8sSwEx3zF0HX2Z5vrCi9wSyI3dgtfd1FtbgZlFdwWFIA
+#EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png" group-title="Radio",A Radio Rock - Super FM (Radio PT)
+https://play.radioregional.pt:8210/stream/2/;/stream.mp3
 
-#EXTINF:-1 tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png" group-title="Radio",Cidade FM (Radio PT)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KsDU5FyOIDENFpoqt5d51xXjr0FK9xBm71FD7J+AkJEz1G0duMf0QkGQC6YZgyBL
+#EXTINF:-1 tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png" group-title="Radio",Amália (Radio PT)
+http://link.radios.pt/amalia?1487014253471.mp3
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80.png" group-title="Radio",M80 (Radio PT)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KsDU5FyOIDENFpoqt5d51/6pzBGB0Vnd0IzBY42NPoU=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/cidade_fm.png" group-title="Radio",Cidade FM (Radio PT)
+https://stream-icy.bauermedia.pt/cidade.mp3
 
-#EXTINF:-1 tvg-logo="http://cdn.nexttv.sapo.pt/user/channels/33/c5f/8623/logodf0f58d2e1b083cc1c467dc57b19130d-200x200.png" group-title="Radio",MEO Music (Radio PT)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IQT66vbGwdY0IXDyQWv3U1sBClwY7uyRU+h8H+6PX7Aw1Y6AG/95WOVKk2dB89Io
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Logo_WB_HIPHOP.png" group-title="Radio",Cidade Hip Hop (Radio PT)
+https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIORFM80.png" group-title="Radio",RFM 80 (Radio PT)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ZWfb9yYDLQ94ihWMVdvPBeB/26fW9vjwsVtdGl/cazcURvfOuQVYh2NxzFoWUTICSEhV02h2T+Q5qiBvB2AEKg==
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qc88fglurkce.jpg" group-title="Radio",Cidade Latina FM (Radio PT)
+https://stream-hls.bauermedia.pt/cidlatina.aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png" group-title="Radio",Comercial (Radio PT)
+https://stream-icy.bauermedia.pt/comercial.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ybykwjqku6rh.png" group-title="Radio",Comercial Dance (Radio PT)
+https://stream-hls.bauermedia.pt/rcdance.aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q6clfyhqvcg5.png" group-title="Radio",Comercial Rock (Radio PT)
+https://stream-hls.bauermedia.pt/rcrock.aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOFESTIVAL.png" group-title="Radio",Festival (Radio PT)
+http://centova.radios.pt:9520/stream/1/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOHIPERFM.png" group-title="Radio",Hiper FM (Radio PT)
+http://195.23.85.126:9500/stream/1/
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_60s.png" group-title="Radio",M80 60's (Radio PT)
+https://stream-icy.bauermedia.pt/m8060.aac
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_70s.png" group-title="Radio",M80 70's (Radio PT)
+https://stream-icy.bauermedia.pt/m8070.aac
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_80s.png" group-title="Radio",M80 80's (Radio PT)
+https://stream-icy.bauermedia.pt/m8080.aac
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_90s.png" group-title="Radio",M80 90's (Radio PT)
+https://stream-icy.bauermedia.pt/m8090.aac
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_ballads.png" group-title="Radio",M80 Ballads (Radio PT)
+https://stream-icy.bauermedia.pt/m80ballads.aac
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_dance.png" group-title="Radio",M80 Dance (Radio PT)
+https://stream-icy.bauermedia.pt/m80dance.aac
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_disco.png" group-title="Radio",M80 Disco (Radio PT)
+https://stream-icy.bauermedia.pt/m80disco.aac
+
+#EXTINF:-1 tvg-logo="https://bauermedia.pt/upload/I/imgrd-indie-1200x630-square.jpg" group-title="Radio",M80 Indie (Radio PT)
+https://stream-icy.bauermedia.pt/m80indie.aac
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_pop.png" group-title="Radio",M80 Pop (Radio PT)
+https://stream-icy.bauermedia.pt/m80pop.aac
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_pt.png" group-title="Radio",M80 Portugal (Radio PT)
+https://stream-icy.bauermedia.pt/m80nacional.aac
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_rock.png" group-title="Radio",M80 Rock (Radio PT)
+https://stream-icy.bauermedia.pt/m80rock.aac
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_soul.png" group-title="Radio",M80 Soul (Radio PT)
+https://stream-icy.bauermedia.pt/m80soul.aac
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/chmagazine.pt/wp-content/uploads/2011/10/radio_nostalgia_logo.jpg" group-title="Radio",Nostalgia (Radio PT)
+http://centova.radios.pt:8435/;
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hUrEKgu.png" group-title="Radio",Regional Dance & DJS (Radio PT)
+http://streaming.radioregional.pt:8064/;
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aPZ5joL.png" group-title="Radio",Regional Love Songs (Radio PT)
+http://streaming.radioregional.pt:8058/;
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1zntJ9S.png" group-title="Radio",Regional Oldies (Radio PT)
+http://streaming.radioregional.pt:8052/;
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/x48qEMX.png" group-title="Radio",Regional Portuguesa (Radio PT)
+http://streaming.radioregional.pt:8040/;
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tKrKYOR.png" group-title="Radio",Regional Rock (Radio PT)
+http://streaming.radioregional.pt:8046/;
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_rfm.jpg" group-title="Radio",RFM (Radio PT)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
+
+#EXTINF:-1 tvg-logo="https://superbocksuperrock.pt/static/media/sbsr_logo.03f9bedf5b9fab799429.png" group-title="Radio",SBSR Superbock (Radio PT)
+http://centova.radios.pt:8435/stream/1/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/vodafonefm.png" group-title="Radio",Vodafone FM (Radio PT)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KsDU5FyOIDENFpoqt5d51+r9mGGAIvCJ6XxmYXvPty9igirAQswG6B0OyyiKKUQp
+https://stream.laut.fm/vodafone?ref=radiode
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/DNduSRSm8w.png" group-title="Radio",Absolute 60s (Radio UK)
 https://feedlix.net/videos/promo.mp4
