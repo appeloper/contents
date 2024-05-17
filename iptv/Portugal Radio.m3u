@@ -86,8 +86,6 @@ http://195.23.85.126:9500/stream/1/
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80.png" group-title="Radio",M80 (Radio PT)
 https://stream-icy.bauermedia.pt/m80.mp3
-ou
-https://stream-hls.bauermedia.pt/m8060.aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_60s.png" group-title="Radio",M80 60's (Radio PT)
 https://stream-icy.bauermedia.pt/m8060.aac
