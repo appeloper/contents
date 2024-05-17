@@ -1505,267 +1505,308 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-name="DanceStar TV" tvg-logo="https://dancestar.tv/images/swirl_2.jpg" group-title="Music",DanceStar TV
 https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
 
-#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-logo="https://i.imgur.com/7XsqSSZ.png",Stingray Naturescape HD
+#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-logo="https://i.imgur.com/7XsqSSZ.png" group-title="Nature",Stingray Naturescape HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCwVydC/rNSjOnfoACE18iYStJn5Lxk/o53KKT9yQn6qQiH07bOCtjH0dBdlgkSE06RuEItyjIEg+qM3NxBVsxHyosfkUae4kAfr1Ye/yoVG97TY0bIqodifAnVrksGK6ALWX8cFStWfkbBHerr1ZdWECjbM75M5L5jzX2cnSPDTDivS7NP5ml+yHMRQlypCQ7W6fYTmgu3FlQj5ShBVEXHM
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/58/3c/4337/c175.png",Cadena 100 (Radio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5fcff956f847548219d9ae06d1503362.jpg" group-title="Radio",1000 Hits España (Radio)
+https://c2.auracast.net/radio/8022/radio.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5e8d9678b0fbb50dbf530a354cb54852.jpg" group-title="Radio",1000 Hits Love (Radio)
+https://ais-sa2.cdnstream1.com/2210_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/6751f88cb0ea335396bd27bca3477663.jpg" group-title="Radio",1000 Oldies (Radio)
+https://ais-sa2.cdnstream1.com/2209_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/58/3c/4337/c175.png" group-title="Radio",Cadena 100 (Radio)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:m9/rfJDzIRuRQ12VhD9lsKVHkiTMLMC3J8ZCzLm4WBSES+qiZ1IQL+CDa/go3/Yal5T845uWHDM9jSsBEgPhBw==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/98/a9/101334/3/c175.png",Elixir FM (Radio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/05bd76ebbabdf58b05c0f8a48c5d71cb.jpg" group-title="Radio",Cadena Nostalgia (Radio)
+https://azura.abcorp.es/radio/8040/live
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5e625a9983bf0d6d2d05ccbc0869176c.jpg" group-title="Radio",Costa Del Mar Chillout  (Radio)
+https://radio4.cdm-radio.com:18020/stream-mp3-Chill
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/6720199712b35168959bf5b4f9abe591.jpg" group-title="Radio",Costa del Mar Dance (Radio)
+https://radio4.cdm-radio.com:18000/stream-mp3-Dance
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d211c44a0400df498876d1b930f22270.png" group-title="Radio",Costa del Mar Deep House (Radio)
+https://radio4.cdm-radio.com:18012/stream-mp3-Deep
+	
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/e353be43e8661ff55b14dacbe5abfcd9.png" group-title="Radio",Costa del Mar Funky (Radio)
+https://radio4.cdm-radio.com:18008/stream-mp3-Funk
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d3ede1fccf98b62cf7bee369cc1ff55a.png" group-title="Radio",Costa Del Mar Smooth Jazz (Radio)
+https://radio4.cdm-radio.com:18024/stream-mp3-Smooth
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1300764f97b7470bd8e03f15db92fc58.png" group-title="Radio",Costa Del Mar Zen (Radio)
+https://radio4.cdm-radio.com:18004/stream-mp3-Zen
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/98/a9/101334/3/c175.png" group-title="Radio",Elixir FM (Radio)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Gw+7KXaCFgfWDjxcHMoxpnAKUZF5uUltaASP2kpBVAlnsDl8tPJuqj14XpBUCgM6
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/52/46/40520/2/c175.png",Gozadera FM (Radio)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:FvZq5nPsFi01+3mPirQb2Qo6+0m+yCoiqDjhJg3SiJZcBBfNNcbcifbAbn2BFUKji9suVS0I0EiwESqJ14lEFg==
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/52/46/40520/2/c175.png" group-title="Radio",Gozadera FM (Radio)
+https://azura.abcorp.es/radio/8030/live
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c1/fe/1645/1/c175.png",Ibiza (Radio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c1/fe/1645/1/c175.png" group-title="Radio",Ibiza (Radio)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:tbv1YIxCvmlwi4ncgOBjbo7+TXzujcYWSSDO9sT0lpj0oH+foiQr3dHPlX0oyODv6cEh29qSVMJk72uSikKJrg==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/7afdcb8d911360d88a6406dfbe75e7bf.png",Ibiza Dance (Radio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/7afdcb8d911360d88a6406dfbe75e7bf.png" group-title="Radio",Ibiza Dance (Radio)
 https://radio2.vip-radios.fm:18021/stream-128kmp3-IbizaDance
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/831602b413509621496b828db326e081.png",Ibiza Hits (Radio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/c5a90dc5096f6368d90563153c55a5d5.png" group-title="Radio",Ibiza Deep (Radio)
+https://radio2.vip-radios.fm:18027/stream-128kmp3-IbizaDeep
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/77c48a68b414c015c40c75444a7c00ba.png" group-title="Radio",Ibiza Funky (Radio)
+https://radio2.vip-radios.fm:18030/stream-128kmp3-IbizaFunky
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/831602b413509621496b828db326e081.png" group-title="Radio",Ibiza Hits (Radio)
 https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/bf0ae40e845cfb9f6831dcc0a103ac3c.png",Ibiza Relax (Radio)
-https://radio2.vip-radios.fm:18024/stream-128kmp3-IbizaHits
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/bf0ae40e845cfb9f6831dcc0a103ac3c.png" group-title="Radio",Ibiza Relax (Radio)
+https://radio2.vip-radios.fm:18036/stream-128kmp3-IbizaRelax
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/cf/5c/14155/c175.png",Kiss FM (Radio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/54350a3be75e4c1ac8963134866f46a3.png" group-title="Radio",Ibiza Smooth Jazz (Radio)
+https://radio2.vip-radios.fm:18033/stream-128kmp3-IbizaSmooth
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/cf/5c/14155/c175.png" group-title="Radio",Kiss FM (Radio)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:sYnQUex62wb+uAx32u7IRqpur1Ig2YL0XgcP2eFbyAwJuLcDWY2X2tow92CzwFJxv5T+K8drj6GMe36UL2usag==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e0/74/34190/2/c175.png",Loca Urban (Radio)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:z+tpmBD5pQzLGNEvHAyw0OlDd7eF7Td4IHcxx6gTtEacUyrqW01WaOxMi+lRiguQQu5zWt3/j9STg8WSGWBf4w==
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e0/74/34190/2/c175.png" group-title="Radio",Loca Urban (Radio)
+https://s3.we4stream.com:2020/stream/locaurban
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4c/ce/10732/1/c175.png",Los 40 Principales (Radio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4c/ce/10732/1/c175.png" group-title="Radio",Los 40 Principales (Radio)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:wMzIdP1ys+iU+yUzbkaYe+GjsN/jqB2l7ZlkbOp1bBf8vBJhfUpuA7ufk+fzjDtvOekubLlxBvIk9yTHamaVUigRHbJiprZNgCDJLd98Nx4=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/2e/25/10988/2/c175.png",Los 40 Classics (Radio)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0j5nVqUIMP4EJ3xHsaNmoOB/26fW9vjwsVtdGl/cazcrIGOSuJNctmL2oBReXtb9ULCilheZjV8ATikl6aNtEA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/29c223924c2b1dfec9ce8474a6b275df.jpg" group-title="Radio",Los 40 Classic (Radio)
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC_SC
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f3/80/104854/1/c175.png",Melodia FM (Radio)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nhEhgVZhZ3lLpYM+6SxWOaPyLgTZXJqhXb0kR2JgFyCy4EhUgBNio7UwoXi/lSwlJFkzJS5afX17yAafg5YhYA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/208452ec6bf7362628874839501fbc97.jpg" group-title="Radio",Los 40 Dance (Radio)
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/14/79/14160/c175.png",Rock FM (Radio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b7353a92833af59e68906ab25c13374c.jpg" group-title="Radio",Slow (Radio)
+http://stream.laut.fm/1_slowradio
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d0e1e2b2dce91e16c1d2b3031856b802.jpg" group-title="Radio",Mega Hits (Radio)
+https://losmegaexitos.radioca.st/lms
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/14/79/14160/c175.png" group-title="Radio",Rock FM (Radio)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:DlHUB9KyxxV/53prGoxaVt4hMCSDsnwHBDE8tVuco98siJAKPiWbl8ldwOw/uHPyqz6uLt6y3eiYGOnEFRxaAQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ch/logo_energy_zurich.png",Energy Zurich (Radio CH)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ch/logo_energy_zurich.png" group-title="Radio",Energy Zurich (Radio CH)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:kRGhfpbeZr/kDV3bfoX3SFnRMalzl3DLIzkpq3brXh3F4W71jxAnwK+CC5fS2ylYVPephJEWizUjp80lTihY7A==
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/42760.v2.png",A State of Trance (Radio DE)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/42760.v2.png" group-title="Radio",A State of Trance (Radio DE)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:fyWvqEFnLcjdQp3EDWydVO612BEZasirNIxOFN1tgiY=
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/81817.v19.png",Amazing Classic Hits (Radio DE)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/81817.v19.png" group-title="Radio",Amazing Classic Hits (Radio DE)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:huehJ26ex8UOyth4ltAGd+B/26fW9vjwsVtdGl/cazePKNS+iphx3z9dqMe9Svunc/Ogvip7Hk4EdCbxR97ps8H9AzsxRCzh8ZIoW3JyZLs=
 
-#EXTINF:-1 tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=DE&name=14244-1430002.png&size=200",Big FM (Radio DE)
+#EXTINF:-1 tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=DE&name=14244-1430002.png&size=200" group-title="Radio",Big FM (Radio DE)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:sBhKowgUt8HBJO1IObvYMWD7+bJ8lVPTeiSdWnIrpWVYbFBJD17DQjIT/vdjzZiw
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/42852.v1.png",Classic Rock (Radio DE)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/42852.v1.png" group-title="Radio",Classic Rock (Radio DE)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JXxKoAkMbEUlUQerNQLasjbKrnYHK4dfnM1AE0aGW5WmCLJ//gNajft7U0+VdJ/u
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/44697.v1.png",Disco (Radio DE)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/44697.v1.png" group-title="Radio",Disco (Radio DE)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:CRqNYWZQ30kQ3jVsWysvGlUjrl925yoF4kYymccjFmZ8PvPNtrlWgQSG3PLBfKKW
 
-#EXTINF:-1 tvg-logo="https://www.ringier.com/sites/default/files/images/energy_0.jpg",Energy NRJ (Radio DE)
+#EXTINF:-1 tvg-logo="https://www.ringier.com/sites/default/files/images/energy_0.jpg" group-title="Radio",Energy NRJ (Radio DE)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5UCdyMGWd1aN5sCljqfdZiDe47vrhSm8RspWB//FOizGxVqB8R470QhvJ80Vhr4RQu5zWt3/j9STg8WSGWBf4w==
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/33024.v3.png",Klassik (Radio DE)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/33024.v3.png" group-title="Radio",Klassik (Radio DE)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:KTYsQ7ohLikFsekkqtYr3av1nDr12xO6abEIxJBg3++Kfcz1iUn+VTaEW2mazebrrKSWlZil1gEtXEsJkDVQ7Q==
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/42856.v1.png",Metal Hammer (Radio DE)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/42856.v1.png" group-title="Radio",Metal Hammer (Radio DE)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:9vsOk7TGb2DY9XhWPQrZeNUDSRXCGYc+YJgIEkUtOwnjNCyx4B4nGP/t1GkEGP+z
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/735.v14.png",Paloma (Radio DE)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/735.v14.png" group-title="Radio",Paloma (Radio DE)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:6tnb1x6nHI81oky0jYNsyKrVYMOC/RXD2a3gHT56UOVR1EhjP9QCerKqok7gYmiY
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/778.v5.png",Rock Antenne (Radio DE)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/778.v5.png" group-title="Radio",Rock Antenne (Radio DE)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ZuGPmphfdIQLnBOoMV1cYYudM6Td2GQfHpQ4nDqExfCDgzj7mG7Xf25CfAnLLsvG
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/5668.v5.png",Chante France (Radio FR)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/5668.v5.png" group-title="Radio",Chante France (Radio FR)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Z/Ljk3kAGJhGrIw5vrxrvCBstkwwGd8x8dmZbXGde5wYL3RroWHreBtlzNjV/ZdT1jrVCkI7jESnPp0nm3Qsug==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/fm80.png",FM 80 Funky Music (Radio FR)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/fm80.png" group-title="Radio",FM 80 Funky Music (Radio FR)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:BZy05UG/8yerGW/YPyOjmluz+ix5k5X/lUD+s5m6d0EUgl1vux/VQxjkY0Owas1l
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/10/Radio-Latina-France.jpg",Latina (Radio FR)
+#EXTINF:-1 tvg-id="" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/10/Radio-Latina-France.jpg" group-title="Radio",Latina (Radio FR)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:DOp21PfsU9qGlhzyaoLnGm+x3I5pH+F0st91GWv9O01NXkHJW0HvYqGlrSrQTXd0GkC2bqZN1NUR9r/Oz5JhAQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0b/Nostalgie_logo_2015.png",Nostalgie (Radio FR)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0b/Nostalgie_logo_2015.png" group-title="Radio",Nostalgie (Radio FR)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:TCtztJgAGqdKAKi3oCcpUvLmVieEvPBy1Qy8/0qn5peW2nad3faL7gwLok+LZaWL
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/6889.v6.png",NRJ Made in France (Radio FR)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/6889.v6.png" group-title="Radio",NRJ Made in France (Radio FR)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:5UCdyMGWd1aN5sCljqfdZq5jbbe0jjIQLSKiFrMIt4S53Ltx4ARUQPg1gQqj+nWfQu5zWt3/j9STg8WSGWBf4w==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/6249.v11.png",RFM 80s (Radio FR)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/6249.v11.png" group-title="Radio",RFM 80s (Radio FR)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:KWbeNUQtFu4U1yvr5KkUkSMgTSKxsrRcv9opI3AvUEwspDhBk9Xfijji6/Xwi7dt
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/64517.v3.png",Top Hits France (Radio FR)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/64517.v3.png" group-title="Radio",Top Hits France (Radio FR)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:O6Avqx1b0HkFa04OfHyyX/vc9mnFHb4yWzJ8kbXRh8c=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/18992.v2.png",Dancefloor 90s (Radio IT)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/18992.v2.png" group-title="Radio",Dancefloor 90s (Radio IT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:nx6dFjL9oE7pDnnuxWBjoRutGziyTnUNIwluVvD8AGBVkNO5kRYhwpJCzfUYTf24Ch+eelaHC0OhSEHDGlqsLA==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/46965.v4.png",Deejay (Radio IT)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/46965.v4.png" group-title="Radio",Deejay (Radio IT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Oay9TnPYJo8qe6l6rzah74gDm5TanEzcXGVmMugwKLDYkrme/f1SYGbn88HadX9v2O8D4/pwqwRSeMbG43Yss/qcmSNks2MevIbal2w2kSE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/20498.v12.png",Monte Carlo (Radio IT)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/20498.v12.png" group-title="Radio",Monte Carlo (Radio IT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ZjbUd+92Ozw97FPHzWxmfOwyooG9eOWATPWKUSzUiro3HKcukUWQP1TadZxWOdD3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/11268.v4.png",Nostalgia (Radio IT)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/11268.v4.png" group-title="Radio",Nostalgia (Radio IT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:BtXPV/gkTfO6+8gqHC6M5xmQ2eyXFm7Jit98BKT45Y1FJ4XP5gSD74PpjMVTl8JZ
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s63639/images/logog.png",Number One (Radio IT)
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s63639/images/logog.png" group-title="Radio",Number One (Radio IT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:U/O6U6TKbTi6PTsc1dvAI945RQpd96zSNK/KuL28sKUMoiM8yaeSJs5KQQZgNEk6L0zh3LckYd6+18EN7cfFlVF4WYmado5AE2X7fkGGdYE=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/14037.v7.png",Otto FM Italy (Radio IT)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/14037.v7.png" group-title="Radio",Otto FM Italy (Radio IT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:nx6dFjL9oE7pDnnuxWBjoWcN4DXnymQS+7LfzV7K1ILEut4qXbInD/n464OAIpnSwf0DOzFELOHxkihbcnJkuw==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/47354.v5.png",Virgin (Radio IT)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/47354.v5.png" group-title="Radio",Virgin (Radio IT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ZjbUd+92Ozw97FPHzWxmfHdce3nm8Xob7KTSJovqHDYPSSLkqn0bwwNM8g59BUoC
 
-#EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png",A Radio Rock Super FM (Radio PT)
+#EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png" group-title="Radio",A Radio Rock Super FM (Radio PT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:yd21qQH62nibfTCeTfFC8sSwEx3zF0HX2Z5vrCi9wSyI3dgtfd1FtbgZlFdwWFIA
 
-#EXTINF:-1 tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png",Cidade FM (Radio PT)
+#EXTINF:-1 tvg-logo="https://cidade.iol.pt/images/logo_CIDADE_2020.png" group-title="Radio",Cidade FM (Radio PT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:KsDU5FyOIDENFpoqt5d51xXjr0FK9xBm71FD7J+AkJEz1G0duMf0QkGQC6YZgyBL
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80.png",M80 (Radio PT)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80.png" group-title="Radio",M80 (Radio PT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:KsDU5FyOIDENFpoqt5d51/6pzBGB0Vnd0IzBY42NPoU=
 
-#EXTINF:-1 tvg-logo="http://cdn.nexttv.sapo.pt/user/channels/33/c5f/8623/logodf0f58d2e1b083cc1c467dc57b19130d-200x200.png",MEO Music (Radio PT)
+#EXTINF:-1 tvg-logo="http://cdn.nexttv.sapo.pt/user/channels/33/c5f/8623/logodf0f58d2e1b083cc1c467dc57b19130d-200x200.png" group-title="Radio",MEO Music (Radio PT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:IQT66vbGwdY0IXDyQWv3U1sBClwY7uyRU+h8H+6PX7Aw1Y6AG/95WOVKk2dB89Io
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIORFM80.png",RFM 80 (Radio PT)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIORFM80.png" group-title="Radio",RFM 80 (Radio PT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ZWfb9yYDLQ94ihWMVdvPBeB/26fW9vjwsVtdGl/cazcURvfOuQVYh2NxzFoWUTICSEhV02h2T+Q5qiBvB2AEKg==
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/vodafonefm.png",Vodafone FM (Radio PT)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/vodafonefm.png" group-title="Radio",Vodafone FM (Radio PT)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:KsDU5FyOIDENFpoqt5d51+r9mGGAIvCJ6XxmYXvPty9igirAQswG6B0OyyiKKUQp
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/DNduSRSm8w.png",Absolute 60s (Radio UK)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/DNduSRSm8w.png" group-title="Radio",Absolute 60s (Radio UK)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uacsluaVYA6tsIn0HAks4H0Y/J0h+IgyQ8YwLzDWhtm18DQjD2s4oF+9eVPS7f/41WiM4ud9e1lpWDFMtFzvsQ==
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/9NMsg3tphA.png",Absolute 70s (Radio UK)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/9NMsg3tphA.png" group-title="Radio",Absolute 70s (Radio UK)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uacsluaVYA6tsIn0HAks4H0Y/J0h+IgyQ8YwLzDWhtmaQiF2XrjwGF4eeNMEibCC1WiM4ud9e1lpWDFMtFzvsQ==
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/z7eH9WyRGS.png",Absolute 80s (Radio UK)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/z7eH9WyRGS.png" group-title="Radio",Absolute 80s (Radio UK)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uacsluaVYA6tsIn0HAks4H0Y/J0h+IgyQ8YwLzDWhtl6Vgvp2CtwZcZDEEHF6dp21WiM4ud9e1lpWDFMtFzvsQ==
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/6hzvaccHav.png",Absolute 90s (Radio UK)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/6hzvaccHav.png" group-title="Radio",Absolute 90s (Radio UK)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uacsluaVYA6tsIn0HAks4H0Y/J0h+IgyQ8YwLzDWhtnKvV5FE4DctmwS0alG9yaO1WiM4ud9e1lpWDFMtFzvsQ==
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/5zELPmDxdz.png",Absolute 00s (Radio UK)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/5zELPmDxdz.png" group-title="Radio",Absolute 00s (Radio UK)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uacsluaVYA6tsIn0HAks4H0Y/J0h+IgyQ8YwLzDWhtmpf4JIK2Tme1KCCXUj73Iz1WiM4ud9e1lpWDFMtFzvsQ==
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/jwryubggljnt.jpg",Absolute 10s (Radio UK)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/jwryubggljnt.jpg" group-title="Radio",Absolute 10s (Radio UK)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uacsluaVYA6tsIn0HAks4H0Y/J0h+IgyQ8YwLzDWhtlKr8M4McgjJ71S0IzxVcK/1WiM4ud9e1lpWDFMtFzvsQ==
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mnmntcbjh3ct.png",Absolute 20s (Radio UK)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mnmntcbjh3ct.png" group-title="Radio",Absolute 20s (Radio UK)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:uacsluaVYA6tsIn0HAks4H0Y/J0h+IgyQ8YwLzDWhtkB16FrvQ+Zs2FUatw1cTLP1WiM4ud9e1lpWDFMtFzvsQ==
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/KDbpxxdzcm.png",Absolute Classic Rock (Radio UK)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/KDbpxxdzcm.png" group-title="Radio",Absolute Classic Rock (Radio UK)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:yj92CZOxjtLhXxMvsHiKMttQvq7DtG8kE5xtlYG5SN8+WRHm4NxCwVD00fndYpb503bujDITHgmyrWdyzfqD6jW+U0WBqRrapsIsAWKlngc=
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/77587.v22.png",Greatist Hits (Radio UK)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/77587.v22.png" group-title="Radio",Greatist Hits (Radio UK)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:JX9j74Ztcikztk/QfhyLuaIC95X68s3dVuhOYKU2AG0NHnM4jb6QM+yisl9SkPdHAx6I5wGeE9r9tvsvTGS6Pg==
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/g7WPR57G5K.png",Kiss FM (Radio UK)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/g7WPR57G5K.png" group-title="Radio",Kiss FM (Radio UK)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:fCdLeaHTfVF9o3WUIPJFrGQR3KnxlQ0qZN9NwNItPbIxKuBh4xUGHRnrxlAixnFkCHlz5wjOGaevwxpBPjjV3g==
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/12062.v16.png",Virgin (Radio UK)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/12062.v16.png" group-title="Radio",Virgin (Radio UK)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:cOXKIoVoj7wRAwImHpiWgreSr1BiWWg2BsqCs5HXwfBxU8THb/vrfkZfojTPKMt3
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/jB4AJycGCT.png",1 FM Absolutely Country Hits (Radio US)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/jB4AJycGCT.png" group-title="Radio",1 FM Absolutely Country Hits (Radio US)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/X8vVMNgtWi6SxJ4ypApToOqprR/64IB/sJt5FbRU3N3hsYcg0XhtN59vtOgdkgP
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/10180.v1.png",100hitz Metal (Radio US)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/10180.v1.png" group-title="Radio",100hitz Metal (Radio US)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:tBenOrzqxwBM9ecvAag38/audPfY4Cug6HkbJcRphWA=
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/6222.v16.png",977 Hip Hop/RNB (Radio US)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/6222.v16.png" group-title="Radio",977 Hip Hop/RNB (Radio US)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:ZQM3n/1T5H2hUIDd/K2UV+B/26fW9vjwsVtdGl/cazd3qmSgQWv1Dy97O8kT4I+VSEhV02h2T+Q5qiBvB2AEKg==
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jgth6jlf8ulp.png",All the Best Oldies (Radio US)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jgth6jlf8ulp.png" group-title="Radio",All the Best Oldies (Radio US)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Iahj76rgq48P4TYQei9vnGd5ec6bKi5/bf1Tcs3HnZgX5+Jrydm5SlSTlBvVgG4FIesORWUy7HQV/wZ1DcPwHg==
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/65948.v6.png",Beautiful Instrumentals (Radio US)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/65948.v6.png" group-title="Radio",Beautiful Instrumentals (Radio US)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:u9OaKNd+yb6mG0FLNWVOqpcnURKW3fjG9sOWtqH27DiSVZsauXWnqvNAYoEnwZDuFBRtCG8+XN/weLXypR2wsQ==
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png",Big R Radio - 80s Metal FM (Radio US)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Radio - 80s Metal FM (Radio US)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:CBtGJ4qS6+OfrOAGst4tPe8i9XEmAbI3QgM++GldLdwrNhZv+EiCaw7hi/Gr6d+e
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png",Big R Radio - Classic Rock (Radio US)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Radio - Classic Rock (Radio US)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:CBtGJ4qS6+OfrOAGst4tPVgAiJWUaNuV8a8d1BSZpWiJ4uUie0WHeafDuKMh19ge
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/14819.v1.png",Hard Rock (Radio US)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/14819.v1.png" group-title="Radio",Hard Rock (Radio US)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:3msgh1Auji3236QzbXoXc4JPtdlQatoKOLkyZyvPGgURKaiwfTXQMLjRlDGFxvVX
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/10031.v52.png",NonStopOldies (Radio US)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/10031.v52.png" group-title="Radio",NonStopOldies (Radio US)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:AVOm/nF4NcMyJADTxp16Dip9hAiVXarfAYkxc430DOB0pCpZ6i5+la+MoLDBwrWL
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/enwj8elm2dej.png",Pulse EDM Dance (Radio US)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/enwj8elm2dej.png" group-title="Radio",Pulse EDM Dance (Radio US)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:37xsMBWnl2VphJPisahJO++sUWw/IYCjNH6fiU6uo/N+9i/6R07ewNS2uK7hsWaO
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/by9rcegw4mrd.png",Totally Hits (Radio US)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/by9rcegw4mrd.png" group-title="Radio",Totally Hits (Radio US)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:EcmZ1HgGU4zVIwq1BWBbqOB/26fW9vjwsVtdGl/cazcvaNTP7JdrXuYXGrq2Zdnitu8jemHCDoz4dZH57cuUPA==
