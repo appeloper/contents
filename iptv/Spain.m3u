@@ -1858,35 +1858,95 @@ http://centova.radios.pt:8435/stream/1/
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/vodafonefm.png" group-title="Radio",Vodafone FM (Radio PT)
 https://stream.laut.fm/vodafone?ref=radiode
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/DNduSRSm8w.png" group-title="Radio",Absolute 60s (Radio UK)
-https://live.absolute.sharp-stream.com/absolute60s.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/273/70s-80s-all-time-greatest.72faf0f0.jpg" group-title="Radio",70s 80s All Time Greatest (Radio UK)
+https://live.streamthe.world/70s80s
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/9NMsg3tphA.png" group-title="Radio",Absolute 70s (Radio UK)
-https://live.absolute.sharp-stream.com/absolute70s.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LcaRwmxgF9.png" group-title="Radio",Classic FM (Radio UK)
+https://media-the.musicradio.com/ClassicFM
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/z7eH9WyRGS.png" group-title="Radio",Absolute 80s (Radio UK)
-https://live.absolute.sharp-stream.com/absolute80s.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DJa9MLsnqk.png" group-title="Radio",Classic Oldies (Radio UK)
+https://securestreams6.autopo.st:2453/stream
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/6hzvaccHav.png" group-title="Radio",Absolute 90s (Radio UK)
-https://live.absolute.sharp-stream.com/absolute90s.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/679/classic-rock-station.3a3fd1f7.png",Classic Rock (Radio UK)
+https://classicrock.streeemer.com/listen/classic_rock/radio.aac
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/5zELPmDxdz.png" group-title="Radio",Absolute 00s (Radio UK)
-https://live.absolute.sharp-stream.com/absolute00s.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ewfckewzcrst.jpg" group-title="Radio",Dance Hits (Radio UK)
+https://listen.radioking.com/radio/1743/stream/125
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/jwryubggljnt.jpg" group-title="Radio",Absolute 10s (Radio UK)
-https://live.absolute.sharp-stream.com/absolute10s.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ayywdbzmun4u.png" group-title="Radio",Greatist Hits Non-Stop (Radio UK)
+https://s8.myradiostream.com/58238/listen.mp3
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mnmntcbjh3ct.png" group-title="Radio",Absolute 20s (Radio UK)
-https://live.absolute.sharp-stream.com/absolute20s.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/lhqtqzszwrvu.png" group-title="Radio",Heart_UK (Radio UK)
+https://media-ssl.musicradio.com/HeartUK
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/KDbpxxdzcm.png" group-title="Radio",Absolute Classic Rock (Radio UK)
-https://ais.absoluteradio.co.uk/absoluteclassicrockhigh.aac?direct=true
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zyupm3bngcfm.png" group-title="Radio",Heart 70s (Radio UK)
+https://media-ssl.musicradio.com/Heart70sMP3
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/77587.v22.png" group-title="Radio",Greatist Hits (Radio UK)
-https://edge-bauermz-02-gos1.sharp-stream.com/net2national.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dybmwxusgdpn.png" group-title="Radio",Heart 80s (Radio UK)
+https://media-ice.musicradio.com/Heart80sMP3
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/g7WPR57G5K.png" group-title="Radio",Kiss FM (Radio UK)
-https://stream-kiss.planetradio.co.uk/kissnational.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/j63pectanpay.png" group-title="Radio",Heart 90s (Radio UK)
+https://media-ice.musicradio.com/Heart90sMP3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/mmvGSBqcQB.png" group-title="Radio",Heart Dance (Radio UK)
+https://media-ssl.musicradio.com/HeartDance
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rFGM25552n.png" group-title="Radio",Heart FM (Radio UK)
+https://media-ssl.musicradio.com/HeartLondon
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/JJwWeXcrzQ.png" group-title="Radio",Hits Chilled (Radio UK)
+https://stream.rcs.revma.com/urxzbqd6q2uvv
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/VYVcEVA4Yq.png" group-title="Radio",Hits Dance (Radio UK)
+https://stream.rcs.revma.com/vd0vzdx5q2uvv
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/VATDskfZgL.png" group-title="Radio",Hits Easy (Radio UK)
+https://easyhits192-thehitsnetwork.radioca.st/http:/pollux.shoutca.st:8052/1
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/FxsmLbmNxg.png" group-title="Radio",Hits Forever (Radio UK)
+https://foreverhits56-thehitsnetwork.radioca.st/http:/pollux.shoutca.st:8531/1
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Mb9ANdFvzV.png" group-title="Radio",Hits Fresh (Radio UK)
+https://stream.rcs.revma.com/499xd9g3mzuvv
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/V375T87MYR.png" group-title="Radio",Hits Future (Radio UK)
+https://totalxs56-thehitsnetwork.radioca.st/http:/pollux.shoutca.st:8736/1
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/aJ9EpK6Pc7.png" group-title="Radio",Hits Pop (Radio UK)
+https://stream.rcs.revma.com/avg9pfvpxwuvv
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/T6bH7KGDN7.png" group-title="Radio",Hits Pride (Radio UK)
+https://pridehits192-thehitsnetwork.radioca.st/http:/pollux.shoutca.st:8493/1
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LLVBDn8xH5.png" group-title="Radio",Hits Rock (Radio UK)
+https://rockhits192-thehitsnetwork.radioca.st/http:/pollux.shoutca.st:8078/1
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3zVdbZTkdC.png" group-title="Radio",Hits Total (Radio UK)
+https://stream.rcs.revma.com/xw5tq4k6kzuvv
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/eMWHVvs9x9.png" group-title="Radio",Nation (Radio UK)
+http://listen-nation.sharp-stream.com/thamesradio.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vlsa3uefnu8s.png" group-title="Radio",Nation 60s (Radio UK)
+https://listen-nation.sharp-stream.com/nation60s.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KLFgFRrzAV.png" group-title="Radio",Nation 70s (Radio UK)
+http://listen-nation.sharp-stream.com/nationradio70s.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gmtjfmbh44zx.png" group-title="Radio",Nation 80s (Radio UK)
+http://listen-nation.sharp-stream.com/nationradio80s.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fenwrbs2dbhx.png" group-title="Radio",Nation 90s (Radio UK)
+http://listen-nation.sharp-stream.com/nationradio90s.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/sz9heypuarxf.png" group-title="Radio",Nation Dance (Radio UK)
+https://listen-nation.sharp-stream.com/clubnation.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/55d4xt6tatbd.png" group-title="Radio",Nation Love (Radio UK)
+https://listen-nation.sharp-stream.com/lovenation.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dd8u6fzczaz2.png" group-title="Radio",Nation Rocks (Radio UK)
+https://listen-nation.sharp-stream.com/nationrocks.mp3
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/12062.v16.png" group-title="Radio",Virgin (Radio UK)
 https://radio.virginradio.co.uk/stream
