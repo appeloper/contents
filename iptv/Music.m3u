@@ -1228,34 +1228,271 @@ https://listen-nation.sharp-stream.com/nationrocks.mp3
 https://radio.virginradio.co.uk/stream
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/jB4AJycGCT.png" group-title="Radio",1 FM Absolutely Country Hits (Radio US)
-https://strm112.1.fm/acountry_mobile_mp3?
+https://strm112.1.fm/acountry_mobile_mp3
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/10180.v1.png" group-title="Radio",100hitz Metal (Radio US)
 http://206.217.213.236:9100/
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/6222.v16.png" group-title="Radio",977 Hip Hop/RNB (Radio US)
-https://17563.live.streamtheworld.com/977_JAMZ_SC
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Country 80s (Radio US)
+http://listen.livestreamingservice.com/181-80scountry_64k.aac
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jgth6jlf8ulp.png" group-title="Radio",All the Best Oldies (Radio US)
-http://icyglb.smittystream.com:8000/allthebestoldies
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Country 90s (Radio US)
+http://listen.livestreamingservice.com/181-90scountry_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Country Front Porch (Radio US)
+http://listen.livestreamingservice.com/181-frontporch_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Country Highway (Radio US)
+http://listen.livestreamingservice.com/181-highway_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Country Kickin (Radio US)
+http://listen.livestreamingservice.com/181-kickincountry_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Country Real (Radio US)
+http://listen.livestreamingservice.com/181-realcountry_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Dance 90's Dance (Radio US)
+http://listen.livestreamingservice.com/181-90sdance_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Dance Energy 93 (Radio US)
+http://listen.livestreamingservice.com/181-energy93_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Dance Energy 98 (Radio US)
+http://listen.livestreamingservice.com/181-energy98_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Dance Chilled Out (Radio US)
+http://listen.livestreamingservice.com/181-chilled_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Dance Classic Energy (Radio US)
+http://listen.livestreamingservice.com/181-classicenergy_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Dance Studio (Radio US)
+http://listen.livestreamingservice.com/181-ball_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Dance Techno Club (Radio US)
+http://listen.livestreamingservice.com/181-technoclub_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Dance The Vibe of Vegas (Radio US)
+http://listen.livestreamingservice.com/181-vibe_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Acid Jazz (Radio US)
+http://listen.livestreamingservice.com/181-acidjazz_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing BeBop Jazz (Radio US)
+http://listen.livestreamingservice.com/181-bebop_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Classical Guitar (Radio US)
+http://listen.livestreamingservice.com/181-classicalguitar_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Classical Jazz (Radio US)
+http://listen.livestreamingservice.com/181-classicaljazz_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Classical Music (Radio US)
+http://listen.livestreamingservice.com/181-classical_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Fusion Jazz (Radio US)
+http://listen.livestreamingservice.com/181-fusionjazz_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Jazz Mix (Radio US)
+http://listen.livestreamingservice.com/181-jazzmix_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing The Breeze (Radio US)
+http://listen.livestreamingservice.com/181-breeze_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Trance Jazz (Radio US)
+http://listen.livestreamingservice.com/181-trancejazz_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing True Blues (Radio US)
+http://listen.livestreamingservice.com/181-blues_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Vocal Jazz (Radio US)
+http://listen.livestreamingservice.com/181-vocals_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 70s Super	(Radio US)
+http://listen.livestreamingservice.com/181-70s_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 80s Awesome (Radio US)
+http://listen.livestreamingservice.com/181-greatoldies_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 80s Country (Radio US)
+http://listen.livestreamingservice.com/181-80scountry_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 80s Lite (Radio US)
+http://listen.livestreamingservice.com/181-lite80s_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 80s RnB (Radio US)
+http://listen.livestreamingservice.com/181-80srnb_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 90s Alternative (Radio US)
+http://listen.livestreamingservice.com/181-90salt_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 90s Country (Radio US)
+http://listen.livestreamingservice.com/181-90scountry_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 90s Dance (Radio US)
+http://listen.livestreamingservice.com/181-90sdance_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 90s RnB (Radio US)
+http://listen.livestreamingservice.com/181-90srnb_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 90s Star  (Radio US)
+http://listen.livestreamingservice.com/181-star90s_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies Beatles (Radio US)
+http://listen.livestreamingservice.com/181-beatles_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies Classic Hits (Radio US)
+http://listen.livestreamingservice.com/181-greatoldies_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies Good Time (Radio US)
+http://listen.livestreamingservice.com/181-goodtime_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies Mellow Gold (Radio US)
+http://listen.livestreamingservice.com/181-mellow_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies Soul (Radio US)
+http://listen.livestreamingservice.com/181-soul_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop Classic RnB (Radio US)
+http://listen.livestreamingservice.com/181-classicrnb_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop Old School HipHop/RnB (Radio US)
+http://listen.livestreamingservice.com/181-oldschool_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop Power (Radio US)
+http://listen.livestreamingservice.com/181-powerexplicit_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop Power Top 40 (Radio US)
+http://listen.livestreamingservice.com/181-power_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop Smooth AC (Radio US)
+http://listen.livestreamingservice.com/181-smoothac_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop The Heart Love Songs (Radio US)
+http://listen.livestreamingservice.com/181-heart_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop The Mix (Radio US)
+http://listen.livestreamingservice.com/181-themix_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop The Office (Radio US)
+http://listen.livestreamingservice.com/181-office_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop The Vibe of Vegas (Radio US)
+http://listen.livestreamingservice.com/181-vibe_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop UK Top 40 (Radio US)
+http://listen.livestreamingservice.com/181-uktop40_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock (Radio US)
+http://listen.livestreamingservice.com/181-rock_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock 40 (Radio US)
+http://listen.livestreamingservice.com/181-rock40_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock 80's Hairband (Radio US)
+http://listen.livestreamingservice.com/181-hairband_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock Chloe (Radio US)
+http://listen.livestreamingservice.com/181-chloe_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock Classic Buzz (Radio US)
+http://listen.livestreamingservice.com/181-classicbuzz_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock Hard Rock (Radio US)
+http://listen.livestreamingservice.com/181-hardrock_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock The Buzz Alt. Rock (Radio US)
+http://listen.livestreamingservice.com/181-buzz_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock The Eagle Classic (Radio US)
+http://listen.livestreamingservice.com/181-eagle_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock The Point (Radio US)
+http://listen.livestreamingservice.com/181-thepoint_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock Yacht (Radio US)
+http://listen.livestreamingservice.com/181-yachtrock_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban 80's RnB (Radio US)
+http://listen.livestreamingservice.com/181-80srnb_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban 80's Lite RnB (Radio US)
+http://listen.livestreamingservice.com/181-80sliternb_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban Classic R&B (Radio US)
+http://listen.livestreamingservice.com/181-classicrnb_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban Jammin (Radio US)
+http://listen.livestreamingservice.com/181-jammin_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban Old School HipHop/RnB (Radio US)
+http://listen.livestreamingservice.com/181-oldschool_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban Party (Radio US)
+http://listen.livestreamingservice.com/181-party_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban Soul (Radio US)
+http://listen.livestreamingservice.com/181-soul_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban The Beat HipHop/R&B (Radio US)
+http://listen.livestreamingservice.com/181-beat_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban The Box (Radio US)
+http://listen.livestreamingservice.com/181-thebox_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban True R&B (Radio US)
+http://listen.livestreamingservice.com/181-rnb_64k.aac
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/65948.v6.png" group-title="Radio",Beautiful Instrumentals (Radio US)
-https://ais-edge08-live365-dal02.cdnstream.com/a87131
+http://s3.voscast.com:10038/stream
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Radio - 80s Metal FM (Radio US)
-http://bigrradio.com/iradio/80smetalHI.pls
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R 80s Metal FM (Radio US)
+https://bigrradio.cdnstream1.com/5186_128
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R 80s 90s Pop Mix (Radio US)
+https://bigrradio.cdnstream1.com/5183_128
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Alternative Rock (Radio US)
+https://bigrradio.cdnstream1.com/5189_128
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Classic RnB (Radio US)
+https://bigrradio.cdnstream1.com/5194_128
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Radio - Classic Rock (Radio US)
-http://bigrradio.com/iradio/classicrock.pls
+https://bigrradio.cdnstream1.com/5171_128
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Country Oldies (Radio US)
+https://bigrradio.cdnstream1.com/5195_128
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Golden Oldies (Radio US)
+https://bigrradio.cdnstream1.com/5198_128
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R The Love Channel (Radio US)
+https://bigrradio.cdnstream1.com/5207_128
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Rock Top 40 (Radio US)
+https://bigrradio.cdnstream1.com/5204_128
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/26822.v8.png" group-title="Radio",Classic Rock Florida (Radio US)
+https://streaming.live365.com/a06375
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/14819.v1.png" group-title="Radio",Hard Rock (Radio US)
 http://144.217.29.205/;stream.nsv
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/10031.v52.png" group-title="Radio",NonStopOldies (Radio US)
-http://s18.myradiostream.com:9676/;
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5b8f18dabd368b848e6f160815146078.jpg" group-title="Radio",Nerxus Dance (Radio US)
+https://stream1.thepuremix.net/nexusdance.mp3
+
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/7005f2748339573dc1cb8870764db05f.jpg" group-title="Radio",Nerxus Latin (Radio US)
+https://stream1.thepuremix.net/nexuslatin.mp3
+
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/394a18653f89d3fb028c4329358db299.jpg" group-title="Radio",Nexus Pop (Radio US)
+https://stream1.thepuremix.net/nexuspop.mp3
+
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/60f613b0357fbce9798d070c9abf718b.png" group-title="Radio",Power Hitz (Radio US)
+https://live.powerhitz.com/1power
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/enwj8elm2dej.png" group-title="Radio",Pulse EDM Dance (Radio US)
 http://naxos.cdnstream.com/1373_128
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/by9rcegw4mrd.png" group-title="Radio",Totally Hits (Radio US)
-https://23023.live.streamtheworld.com/T_RAD_HITS_S01_SC
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/710a916179ce162ddcf546f384054147.jpg" group-title="Radio",USA Dance (Radio US)
+https://stream2.rcast.net/66781
