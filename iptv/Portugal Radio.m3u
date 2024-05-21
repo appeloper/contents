@@ -45,6 +45,12 @@ https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qc88fglurkce.jpg" group-title="Radio",Cidade Latina FM (Radio PT)
 https://stream-hls.bauermedia.pt/cidlatina.aac/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/EN6YEx4trm.png" group-title="Radio",Classic Rock (Radio PT)
+https://online2.classicrock.pt/stream2
+
+#EXTINF:-1 tvg-logo="https://radiocomercial.pt/images/logo_big.png" group-title="Radio",Comercial (Radio PT)
+https://stream-icy.bauermedia.pt/comercial.mp3
+
 #EXTINF:-1 tvg-logo="http://radiocomercial.iol.pt/images/logo_big.png" group-title="Radio",Comercial (Radio PT)
 https://stream-icy.bauermedia.pt/comercial.mp3
 
@@ -172,7 +178,7 @@ http://streaming.radioregional.pt:8040/;
 http://streaming.radioregional.pt:8046/;
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_renascenca.jpg" group-title="Radio",Renascença (Radio PT)
-https://25643.live.streamtheworld.com/RADIO_RENASCENCAAAC_SC
+https://25643.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_rfm.jpg" group-title="Radio",RFM (Radio PT)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
