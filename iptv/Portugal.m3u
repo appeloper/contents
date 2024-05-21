@@ -1417,11 +1417,155 @@ http://listen.radionomy.com/fm-80
 #EXTINF:-1 tvg-id="" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/10/Radio-Latina-France.jpg" group-title="Radio",Latina (Radio FR)
 https://start-latina.ice.infomaniak.ch/start-latina-high.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0b/Nostalgie_logo_2015.png" group-title="Radio",Nostalgie (Radio FR)
-http://185.52.127.155/fr/30601/mp3_128.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/34/72/39873/9/c300.png" group-title="Radio",Nostalgie Best of 90 (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/55206/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/71/2b/139533/6/c300.png" group-title="Radio",Nostalgie Chansons Françaises (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30611/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/2e/a1/8119/6/c300.png" group-title="Radio",Nostalgie Dance Party 90 (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/55205/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/c8/60/12369/7/c300.png" group-title="Radio",Nostalgie Disco Fever (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30617/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/e7/3b/39880/7/c300.png" group-title="Radio",Nostalgie Italia (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30663/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/a3/e7/39879/7/c300.png" group-title="Radio",Nostalgie Les Plus Grands Slows (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30609/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/e1/b9/168603/4/c300.png" group-title="Radio",Nostalgie Poetes (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30619/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/1b/ec/8120/7/c300.png" group-title="Radio",Nostalgie Pop Rock (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30621/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/66/8f/140646/4/c300.png" group-title="Radio",Nostalgie Rock 70 (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/58118/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/cc/10/139534/4/c100.png" group-title="Radio",Nostalgie Rock 80 (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/56718/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/df/0f/39874/7/c300.png" group-title="Radio",Nostalgie Saturday Night (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30773/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/70/e1/39869/7/c300.png" group-title="Radio",Nostalgie Tubes Français (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30705/aac_64.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/6e/27/40008/7/c300.png" group-title="Radio",NRJ At Home (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/31011/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/34/c5/39979/7/c300.png" group-title="Radio",NRJ Best Hits Ever (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/31251/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/7c/77/40000/7/c300.png" group-title="Radio",NRJ Classic Rap France (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/55189/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/8a/26/26277/7/c300.png" group-title="Radio",NRJ Classic RnB (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/31095/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/cc/eb/12370/7/c300.png" group-title="Radio",NRJ Clubbin (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30017/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/43/25/39989/7/c300.png" group-title="Radio",NRJ Dance 90 (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/31099/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/54/99/39982/7/c300.png" group-title="Radio",NRJ Dance Hits (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/31131/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/41/44/39986/6/c300.png" group-title="Radio",NRJ Electro (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/55135/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/b0/c2/39971/7/c300.png" group-title="Radio",NRJ Euro Hot 30 (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/31407/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/ff/ac/39992/7/c300.png" group-title="Radio",NRJ Fiesta (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/31247/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/62/e8/39991/7/c300.png" group-title="Radio",NRJ Fiesta Latina (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/55210/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/fd/51/12500/8/c300.png" group-title="Radio",NRJ France Hits (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30037/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/79/8b/26281/7/c300.png" group-title="Radio",NRJ Funky (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/31035/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/f3/6a/39968/6/c300.png" group-title="Radio",NRJ Futurs Hits 2024 (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/58779/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/21/ee/39963/7/c300.png" group-title="Radio",NRJ Hasppy Hits (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/55127/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/10/9f/12372/10/c300.png" group-title="Radio",NRJ Hits (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30043/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/74/4a/39960/7/c300.png" group-title="Radio",NRJ Hits 90 (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/55274/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/c8/f2/39983/7/c300.png" group-title="Radio",NRJ Hits Remix (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/31019/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/14/88/168577/4/c300.png" group-title="Radio",NRJ IBIZA (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30031/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/a4/63/39993/7/c300.png" group-title="Radio",NRJ Kizomba (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/31523/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/2d/96/39959/8/c300.png" group-title="Radio",NRJ La Playlist 2000 (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/55275/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/df/7c/39990/7/c300.png" group-title="Radio",NRJ Latino (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30017/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/17/ad/26284/7/c300.png" group-title="Radio",NRJ Latino Hits (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/31409/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/16/34/12373/7/c300.png" group-title="Radio",NRJ Lounge (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30049/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/90/ee/26273/9/c300.png" group-title="Radio",NRJ Love (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30081/mp3_128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/6889.v6.png" group-title="Radio",NRJ Made in France (Radio FR)
 https://scdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/5e/26/39981/7/c300.png" group-title="Radio",NRJ No Repeat (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/31005/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/a7/b0/12374/8/c300.png" group-title="Radio",NRJ Nouveautés (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30023/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/fd/06/26280/7/c300.png" group-title="Radio",NRJ Party Hits (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30063/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/26/09/12375/7/c300.png" group-title="Radio",NRJ Pop (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30053/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/3f/2f/40009/8/c300.png" group-title="Radio",NRJ Relax (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/31161/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/20/33/11469/8/c300.png" group-title="Radio",NRJ Rap France (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30059/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/18/8e/26270/7/c300.png" group-title="Radio",NRJ Reggaeton (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/31023/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/0a/79/26279/7/c300.png" group-title="Radio",NRJ Reggae (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30075/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/ff/7c/12376/7/c300.png" group-title="Radio",NRJ RnB (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30011/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/4b/a7/12377/7/c300.png" group-title="Radio",NRJ Rock (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30055/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/f0/bc/26283/7/c300.png" group-title="Radio",NRJ Urban Hits (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30099/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/f1/03/26272/7/c300.png" group-title="Radio",NRJ Zouk (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30085/mp3_128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/6249.v11.png" group-title="Radio",RFM 80s (Radio FR)
 https://stream.rfm.fr/rfm-wr4.aac
@@ -1429,11 +1573,35 @@ https://stream.rfm.fr/rfm-wr4.aac
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/64517.v3.png" group-title="Radio",Top Hits France (Radio FR)
 http://91.121.59.45:8178/stream
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/CaPJzfPUsB.png" group-title="Radio",105 Dance 90 (Radio IT)
+https://icy.unitedradio.it/105Dance90.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/QWeMtjqdj8.png" group-title="Radio",105 Classics (Radio IT)
+https://icy.unitedradio.it/105Classics.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/063/radio-105fm.9705b3b5.png" group-title="Radio",105 Hits (Radio IT)
+https://icy.unitedradio.it/105Hits.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/DUpAj8QVmN.png" group-title="Radio",Company (Radio IT)
+https://sphera.fluidstream.eu/company.aac
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/18992.v2.png" group-title="Radio",Dancefloor 90s (Radio IT)
 http://streaming.radiodancefloor.it:443/;stream.nsv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/46965.v4.png" group-title="Radio",Deejay (Radio IT)
 https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/cf4dcf54480ca9b2124731a90fdf9903.png" group-title="Radio",Disco FM (Radio IT)
+https://icstream.rds.radio/disco_aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/radios-150px/76QzcCMb3h.png" group-title="Radio",Kiss Kiss (Radio IT)
+https://kisskiss.fluidstream.eu/KKItalia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5626fc2fd15c8d040ac61f11f9860201.jpg" group-title="Radio",M20 (Radio IT)
+https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cp9tj2klt7e2.png" group-title="Radio",Music Italia (Radio IT)
+https://energyitalia.radioca.st/index
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/20498.v12.png" group-title="Radio",Monte Carlo (Radio IT)
 https://icecast.unitedradio.it/RMC.mp3
@@ -1447,8 +1615,44 @@ http://wma02.fluidstream.net/RN1TV/livestream/chunklist_w860321532.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/14037.v7.png" group-title="Radio",Otto FM Italy (Radio IT)
 http://streaming.bitonlive.net:12000/ottofmita.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/47354.v5.png" group-title="Radio",Virgin (Radio IT)
-https://icecast.unitedradio.it/Virgin.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b76753db9d6121de7f08fcbb25b907c5.png" group-title="Radio",Radio One (Radio IT)
+https://hts04.kshost.com.br:8134/live/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/radios-150px/sfLT5tVZWG.jpg" group-title="Radio",Relax (Radio IT)
+https://radiorelax.streamingmedia.it/play
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5d3ad5c9313ebc296b1755ab54312153.jpg" group-title="Radio",Top Italia (Radio IT)
+https://manager5.streamradio.fr:1815/stream
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.virginradio.it/resizer/119/119/true/Webradio-Virgin-2020-Rock70-1588062930899.png--.png" group-title="Radio",Virgin Rock 70 (Radio IT)
+https://icy.unitedradio.it/VirginRock70.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.virginradio.it/resizer/119/119/true/Webradio-Virgin-2020-Rock80-1588062823994.png--.png" group-title="Radio",Virgin Rock 80 (Radio IT)
+https://icy.unitedradio.it/VirginRock80.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.virginradio.it/resizer/119/119/true/Webradio-Virgin-2020-AlternativeRock-1588062757869.png--.png" group-title="Radio",Virgin Rock 90 (Radio IT)
+https://icy.unitedradio.it/Virgin_03.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.virginradio.it/resizer/119/119/true/Webradio-Virgin-2020-AlternativeRock-1588062757869.png--.png" group-title="Radio",Virgin Rock Alternative (Radio IT)
+https://icy.unitedradio.it/VirginRockAlternative.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.virginradio.it/resizer/119/119/true/Webradio-Virgin-2020-RockBallads-1588062347185.png--.png" group-title="Radio",Virgin Rock Ballads (Radio IT)
+https://icy.unitedradio.it/Virgin_06.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.virginradio.it/resizer/119/119/true/Webradio-Virgin-2020-ClassicRock-1588062884404.png--.png" group-title="Radio",Virgin Rock Classic (Radio IT)
+https://icy.unitedradio.it/VirginRockClassics.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.virginradio.it/resizer/119/119/true/Webradio-Virgin-2020-HardRock-1588063067111.png--.png" group-title="Radio",Virgin Rock Hard (Radio IT)
+https://icy.unitedradio.it/VirginHardRock.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.virginradio.it/resizer/119/119/true/Webradio-Virgin-2020-RockHits-1588062672845.png--.png" group-title="Radio",Virgin Rock Hits (Radio IT)
+https://icy.unitedradio.it/VirginRockHits.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.virginradio.it/resizer/119/119/true/Webradio-Virgin-2020-RockParty-1588062511268.png--.png" group-title="Radio",Virgin Rock Party (Radio IT)
+https://icy.unitedradio.it/VirginRockParty.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/radios-150px/rp6ru8hVmA.jpg" group-title="Radio",Zeta (Radio IT)
+https://streamingv2.shoutcast.com/radio-zeta_48.aac
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/273/70s-80s-all-time-greatest.72faf0f0.jpg" group-title="Radio",70s 80s All Time Greatest (Radio UK)
 https://live.streamthe.world/70s80s
