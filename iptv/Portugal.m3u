@@ -1156,14 +1156,29 @@ http://strm112.1.fm/loveclassics_mobile_mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiorock.com.br/assets/player/img/icons/logo-bottom.png" group-title="Radio",89 FM Rock (Radio BR)
 https://20833.live.streamtheworld.com/RADIO_89FM_ADP.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/15850.v36.png" group-title="Radio",Alpha FM (Radio BR)
-https://20823.live.streamtheworld.com/RADIO_ALPHAFM_ADP.aac
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/67372.v6.png" group-title="Radio",Bossa Nova (Radio BR)
 https://radio2.vip-radios.fm:18009/stream-128kmp3-BossaNovaBrazil
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/356f9caa2d1f30417989e88aaa57fa23.jpg" group-title="Radio",Box Mix (Radio BR)
+https://stm16.xcast.com.br:7446/stream/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/996bf57ba5e5a2fdfc82f5107c4819fe.jpg" group-title="Radio",Classic Hits (Radio BR)
+https://player.srvaudio.com.br/player-ssl/9790/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/br/dance.png" group-title="Radio",Dance (Radio BR)
+https://stream.vagalume.fm/hls/1470161190169185/aac.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/53916.v11.png" group-title="Radio",Das Antigas (Radio BR)
 http://stream.radiodasantigas.com.br:9992/;stream.nsv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/br/ferias.png" group-title="Radio",Férias (Radio BR)
+https://stream.vagalume.fm/hls/1474482422796242/aac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/br/flashback_brasil.png" group-title="Radio",Flashback (Radio BR)
+https://stream.vagalume.fm/hls/151742478997108/aac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Hkpwbf5QCW.png" group-title="Radio",Geração Samba e Pagode (Radio BR)
+https://servidor.geracaoradios.com/listen/sambaepagode/stream
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d7a6c182f915b96c7ead65ff4c14de53.jpg" group-title="Radio",Kiss FM (Radio BR)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFMAAC.aac
@@ -1171,8 +1186,23 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFMAA
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/15861.v12.png" group-title="Radio",Metropolitana (Radio BR)
 https://ice.fabricahost.com.br/metropolitana985sp
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/43404.v16.png" group-title="Radio",Nativa FM (Radio BR)
-http://evpp.mm.uol.com.br:1935/band/nativa_sp/chunklist_w997393325.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b3d9829ade350e79f8c45d83ae53f607.jpg" group-title="Radio",Pop e Rock (Radio BR)
+http://cast2.youngtech.radio.br:8160/radio
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/35857.v15.png" group-title="Radio",Raízes do Brasil (Radio BR)
+http://srv1.braudio.com.br:7014/;stream.nsv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/br/rap_hiphop.png" group-title="Radio",Rap e Hip-Hop (Radio BR)
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/jf8ygbdkcab5.png" group-title="Radio",Samba FM (Radio BR)
+https://hts01.kshost.com.br:8428/live
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/br/samba_pagode.png" group-title="Radio",Samba e Pagode (Radio BR)
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/16939.v7.png" group-title="Radio",Saudade FM (Radio BR)
+https://24363.live.streamtheworld.com/SAUDADE_FMAAC.aac
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/35857.v15.png" group-title="Radio",Raízes do Brasil (Radio BR)
 http://srv1.braudio.com.br:7014/;stream.nsv
