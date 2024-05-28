@@ -293,7 +293,7 @@ https://edge-f.swagit.com/live/miamibeachfl/live-1-a/chunklist.m3u8
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:FHntWAW9HNWTKVT8kLT3NjbRCcHyaOf9L8kfE2kUm8VuSwY6NUkJYnSuFXqFXN3bnvIU2WZ8aBlDnL2beHYcag==
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-temple-university-tv-9370.jpg" group-title="General",Temple University TV
+#EXTINF:-1 tvg-logo="https://kleinsites.com/cmil/wp-content/blogs.dir/53/files/sites/53/2021/11/tutv-logo.png" group-title="General",Temple University TV
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/templeuni1/stream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://eastoftheriverdcnews.com/wp-content/uploads/2019/11/dc-gov-vector-logo.png" group-title="Government",District Columbia Network
@@ -306,36 +306,44 @@ https://tgn2.bozztv.com/nrbtv/nrbtv-live/tracks-v1a1/mono.m3u8?nimblesessionid=5
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/southeastern.png" group-title="General",Southeastern Channel
 https://selu-tv.cablecast.tv/live/stream-1/WIFI-1896k-720p/WIFI-1896k-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.kyforward.com/wp-content/uploads/2017/11/City-Logo-Files_Web_Horse_Blue_1.png" group-title="Government",Lex TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SLT8iSoDWZo/hqdefault.jpg" group-title="Government",Lex TV
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/darcizzle-poster-300x225.jpg",Fishing Outdoor Channel TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:TW8GO6sqPISGy2LvAXqUhteekKedUUpYDGO7P1eLkTG6fYTmgu3FlQj5ShBVEXHM
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/darcizzle-poster-300x225.jpg" group-title="Undefined",Fishing Outdoor Channel TV
+https://30a-tv.com/darcizzle.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/Investment-Pitch-Media-300x187.jpg",Investment Pitch News TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dUP0CwuPGmBPnQor+LhI4nznbrsFnkZcWeP+rVGTux2f5ApAM9pol2/zwssHXAVh
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/Investment-Pitch-Media-300x187.jpg" group-title="Undefined",Investment Pitch News TV
+https://www.30a-tv.com/InvPit.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2020/10/answers-roku-icon4-540.jpg",Answers That Count
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:TW8GO6sqPISGy2LvAXqUhiG5Kqe9FjSbSM/gM45pTt8=
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2020/10/answers-roku-icon4-540.jpg" group-title="Undefined",Answers That Count
+https://30a-tv.com/atc.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/12/HD_-1280px-W-x-720px-loomer-30a-tv-channel--300x169.png",Loomered TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:TW8GO6sqPISGy2LvAXqUhv0i0XuF6wgPj2uzfu8/FX0=
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/12/HD_-1280px-W-x-720px-loomer-30a-tv-channel--300x169.png" group-title="Undefined",Loomered TV
+https://30a-tv.com/loomer.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2020/03/nothing-slate-300x175.jpg",Nothing Scripted 24-7 TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:TW8GO6sqPISGy2LvAXqUhrHQonAgyYQnajQE2GIWgVtTUKFg21UDn5JF74fukQBF
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2020/03/nothing-slate-300x175.jpg" group-title="Undefined",Nothing Scripted 24-7 TV
+https://30a-tv.com/NothingScripted.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/sidewalks-poster-300x225.jpg",Sidewalks on 30A TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:TW8GO6sqPISGy2LvAXqUhnFnXYM/UTRG3EB+xlf/S026fYTmgu3FlQj5ShBVEXHM
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/sidewalks-poster-300x225.jpg" group-title="Undefined",Sidewalks on 30A TV
+https://30a-tv.com/sidewalks.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2020/05/Splash_HD_1280x720-300x169.png",Georgia Hollywood Review TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:TW8GO6sqPISGy2LvAXqUhpCYZpFqcqWmjp8AcBVV1Gk=
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2020/05/Splash_HD_1280x720-300x169.png" group-title="Undefined",Georgia Hollywood Review TV
+https://30a-tv.com/feeds/720p/47.m3u8
+
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2022/08/NautiStyles-Splash-low-res.png" group-title="Undefined",Nautistyles Luxury Yachts
+https://ssai.castify.ai/media/cbe59a36-2334-4f34-bca0-6c7c2ae5989c/mainManifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2023/02/we-love-cars-tv.jpg" group-title="Undefined",We Love Cars
+https://30a-tv.com/feeds/720p/54.m3u8
+
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2022/11/beachy-45-play-screen.jpg" group-title="Undefined",The Beach Real Estate TV Show
+https://30a-tv.com/feeds/720p/42.m3u8
+
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2022/11/lionel-play-screen.jpg" group-title="Undefined",Lionel Nation TV
+https://30a-tv.com/ln.m3u8
+
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2023/08/funny-videos_n-1024x576.png" group-title="Undefined",Ridiculous TV
+https://30a-tv.com/feeds/720p/63.m3u8
 
 #EXTINF:-1 tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png",AMG TV
 https://feedlix.net/videos/promo.mp4
