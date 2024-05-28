@@ -62,9 +62,6 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Now
 https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Now
-https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
-
 #EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png",Bloomberg TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1kH1Oypcfx0yvgB30fd/z1FyfqykGTO0n4/Qe168Ebl8nJFED7HJZEeQqfVOpI1ble7NMzvZucYNqxS+yqh5YaB+2XJE1nPXnwT4RACQVvGtiNsOn5V0tESzP3efzLbApenwvc0uX9Mp9EfcrbY7/A==
@@ -128,7 +125,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:anjB8EAIO8gUG+jd2tjL9euT9LAgyCnXztmFTOQXLIf4DtMidKG3qOYtEU3Xm8zp
 
-#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary",RT Documentary HD (english)
+#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary",RT Documentary HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:TZ6OU7/wM95XbboPK9gn4BioNMO/gOLs5wEy3rPCduDuDkjf1F2CYKsr3lXyRCwI
 
@@ -167,8 +164,7 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:afsFoKzfBiI4YPxcuPgIyUbVq72yACJJbbWOO2PDgQJ26DG2JBcX4XTvbdJGRaQa
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/ktvu_fox2.jpg",KTVU Fox2 News (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Sthg5VHBfhmrevZfOyCt7FQ9zQdaxZW+o4491mtFAItURmjeecZ7FeWZpcCxLTHs4NEh6+af/L7/zab2B6nXls5IFx4tKrfj9gItX/MyCJQ=
+https://dcs-live-uw1.mp.lura.live/server/play/o0m8DKpFqMnziJo7/rendition.m3u8?track=video-0&anvsid=m177610542-n649c983e6d1343dea375ac72b692573d&ts=1716896890&anvtrid=883f76a1e44c16c7f1225ecf5717977b
 
 #EXTINF:-1 tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",KERO 23 ABC
 https://feedlix.net/videos/promo.mp4
@@ -178,17 +174,11 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XpbhghrbxhhelhUEd1Y2F0CrFPi/F56iOHZPowqxqsRQXolhVLFjfE0nLDiUDKssisQXPSyiHLPlBQjpPLc2wSiInKSdNczr8FZNtKHuQmI=
 
-#EXTINF:-1 tvg-id="7NewsBostonWHDH.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png",WHDH 7News Boston
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vsRcsEHUjXjZ2GmNpEVb1We+vsiiegX9YEGMeMN3vdoAbzF0jUYkpFZ/BA9nktryxKRmcE9UxKU5J4X0YPBi0mKSttw1KmAakGwrFE0evQc+XyD+FVj8TMQvDVnM9Gy4
-
 #EXTINF:-1 tvg-logo="https://newschannel9.com/resources/defaults/wtvc/large16x9.jpg",WTVC ABC 9 Chattanooga
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:LBJxAncfl1sij2ive+b2YprIr4m+rMLJlwEOK3fYJMHwAT+HzeHHh2zQsKsxkL1ZeoTGR89SoYDMxluFeT/SBVX4Dgx9RuWPrndW9VGDjcY=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/kstu_fox13.jpg",KSTU Fox Salt Lake City (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:gi/TmdCxTNqZ5zHb2+wVeml2y/M+R3Q4oApUTgqO3GTKIlzkBYhuwBuilOHqo5NcjgWvcn2rNC5zSGOaMxCoKEUWBtZkW4wtz7WhAalB0fAFhDxCxVXrDxALKFfRyOsJA/xs/GxM9POjrZLsrYAYzSS/wbHc6nU8mes7mYzHTO/lCQoL3gXPyxY8KLoQovw6BtDaesL66kVkeMbcZOeN6gj+lTz8xGdWkw5Ft/Q/nsG/cfqf93+4Q2T2rB/6sm9Z2kLNHqzMZ1MuCF05C8DClrp9hOaC7cWVCPlKEFURccw=
+https://content-aeuf1.uplynk.com/channel/97ac1cbc0efe43568511e0f60f3a0497/g.m3u8?ad=sinclair_web&&ad.sz=640x480&ad.iu=4756%2FWTVC%2FWeb%2Fwatch&ad.ciu_szs=300x250&ad.impl=s&ad.gdfp_req=1&ad.env=vp&ad.vpos=midroll&ad.output=xml_vast3&ad.unviewed_position_start=1&ad.url=https%3A%2F%2Fnewschannel9.com%2Fwatch&ad.description_url=https%3A%2F%2Fnewschannel9.com%2Fwatch&ad.cust_params=kw%3D%26slug%3D%26vtype%3DLive-broadcast%26w%3D640%26h%3D480%%26split%3DA&ad.adUnit=%2FWTVC%2FWeb%2Fwatch&ad.paln=AQzzBGQEq3Fq5gcjCguQG_YNC6gUrcpUCsxF7kDGaZ3bTP0MZuw_7q_GjjsxRUa_lxIfdhxGDnPcK_BHN4Y3KbHwmjbGEx5iS0eChhOsw2AY1F-SwcsU9GQlcEsUoDB1nfWsZ4F2AGo80urL7p1oY_f8y_XHHmrl3cv75QXRrLyOpFDXj-u21rDOdvhNnCvaiyfgRSzKPN1BlVmDvyFPdfri3Y9s6LABO0p7z_vMl87gM-zj0oBM7TxA035GcdH_iEC77UZUsLDFvsW1xoqdqd7bhMMmDlUQLSyQyV_cLObDiMuxm4S9oBgBFUwQCJSD-LovBBneVsXStFC_LAVZanAscUyddA2amOvZKTrupV9X39bFqycgD-WJHN6co61IeroFFGPa03-FxGDUL66Y-zjj0kyWaIyIIMTWCr88jhIknyHTrRHyCkGy8ecu4SbRAkfT4RoinbS7QhAiO7hjB8xKDqeFpB7YKj3XzMWl6iB44qgP5PawyNl0mzA3KShXQI6Rl0RPDzwdLOO60VkLW5k2Ti1jiQVlnOCzkfvinsLJlyeV75Tjtdme4CMgmKuyra6Nmg3sxqbDNlAeMC5Vlrl3sGNO2Lki_6b7P7JI0TZk9guXz2vTkstfMjKjJrtJPba6NUiE4_BOF2DS9DuAxcpXxWRxbUdy_5EbutZKc_F4Qjb5zRfDk5EFhxHC0PUAXA92M1yC9G-64H5yPMiNONUJuAOoO-wzxZQb6jvpdxXr0k-YwTtt22Hn45eyIUu-41-zNvEMVQx9scxmwKa4Gy4Supyav-UQ10DY9G_iACjfHXHiHV7dUY_Gaxo-HS15t2gqzNq59YSRpYHGjE3zOp3vd2Ga7ZKFH35zm7Ds8nyfyMl5wiRGZlL-7Jmp-mNNixjA-gshHovwtbAjFTmUlpCn8B3Jjt9UIn9IxRdo4qS5sxE0ZqVxrzDzV2m8pP8w0eifLxWodN2hgXzFVf1RVLwj2CsEXBbQM9YCGF9Fu0-nWH6ZvvBBX2a1L5hCwMbg8IM5qkpCiGTM3tX7YV9iVBMkEQukj91KkMXWe5aqf2Nfv-zfvAXtM04YymVz8h0DY1XZNfxyeBiss1M5nWJqxUKYNhMj502Cbv2rvm6H9xZ2TAgd7hL8IYAtobJXSK6t4f_oaKZgD9Ok4FmnCPO2rR2ODSzMicPhEScdNvjCylTGLRknlgJX1t7nEo8nWQ4A4QjR6L3WUHZLgl5Xug..&ad.ppid=12b7f32a-b9ab-4261-946e-2c610fd61d10&pbs=e71a2456689b45a1bbc5af90366b4340
+	
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/kstu_fox13.jpg",KSTU Fox Salt Lake City
+https://content-aeui1.uplynk.com/channel/2d50e228be374422b9f2c11dba67d58f/c.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.fox13now.com%2F&ad.cust_params=user_id%3D60e9637c-637b-4485-a630-cd2cae915a55%26givn%3Dundefined&pbs=bbd4e53910eb40599d8600c1f0c43918
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSYez3V.png",Atlanta Channel
 https://feedlix.net/videos/promo.mp4
@@ -203,16 +193,10 @@ https://feedlix.net/videos/promo.mp4
 #EXTSEC:XpbhghrbxhhelhUEd1Y2F0CrFPi/F56iOHZPowqxqsRHcMXQH1eFHN5QPNg4rPURYAYQwDV0bu3sJDzA5iz21uDx+b6LbGsyHRGW+g5Sq0M=
 
 #EXTINF:-1 tvg-id="NEWSNET.us" tvg-logo="https://yournewsnet.com/wp-content/uploads/2018/11/NNLogo.jpg",News Net
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6mNamXWQ+BLCZYOEST7lrLIxkNVDYjH86n2FXUBr4MuaDloV+Ilm9+lNkR8+yQzG6mMtGoYdi2VDDbwH+GcoE69vRSWOsNLs98tV7aOIetg=
+https://univtec.g-mana.live/media/f7a2e644-2023-4241-85a4-9da6eb98fb56/mainManifest.m3u8?player.ssid=4662bdac-4ab0-4e0f-9b9b-c2cb45593a30&player.w=1050&player.h=591&player.url=www.newsnetmedia.com
 
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://i.imgur.com/S7ZbPTz.png",Cheddar
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2Rcou72Cc07ZXVLJCVbrAcw0DPC1cBIczOKY38Lpz9YU9o0jXQKdrs8O9ghAsh9y+67Su5J5e053jFx7oPKftw==
-
-#EXTINF:-1 tvg-id="Brut.us" tvg-logo="https://i.imgur.com/oWj3dQP.jpg",Brut.
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VLOlkuPU/600O9mkSNdJOldsvLzqMq/OwKl2fvS1jcJ7pxLNlT0D7Oa/rW131aib9ALRNHhFeebPo2It9y+ADA==
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/wftv9.jpg",WFTV 9 Orlando
 https://feedlix.net/videos/promo.mp4
