@@ -110,6 +110,9 @@ https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Free-Speech-TV.webp" group-title="News" group-title="News",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1027724048439156738/A7YOKx0Z_400x400.jpg" group-title="News",Infowars (only audio)
+https://freespeech.akamaized.net/hls/live/2024573/live2/audio_0_eng/audio_0_eng.m3u8
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png" group-title="News",France 24
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjzX6DjlcYPzKYL6xVaLwPHLThNUI4PwUjk3MnFQHyrGHg==
@@ -156,7 +159,7 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:afsFoKzfBiI4YPxcuPgIyUbVq72yACJJbbWOO2PDgQJ26DG2JBcX4XTvbdJGRaQa
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/ktvu_fox2.jpg" group-title="News",KTVU Fox2 News (geo)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/ktvu_fox2.jpg" group-title="News",KTVU Fox2 News
 https://dcs-live-uw1.mp.lura.live/server/play/o0m8DKpFqMnziJo7/rendition.m3u8?track=video-0&anvsid=m177610542-n649c983e6d1343dea375ac72b692573d&ts=1716896890&anvtrid=883f76a1e44c16c7f1225ecf5717977b
 
 #EXTINF:-1 tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="News",KERO 23 ABC
@@ -173,7 +176,7 @@ https://content-aeuf1.uplynk.com/channel/97ac1cbc0efe43568511e0f60f3a0497/g.m3u8
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/kstu_fox13.jpg" group-title="News",KSTU Fox Salt Lake City
 https://content-aeui1.uplynk.com/channel/2d50e228be374422b9f2c11dba67d58f/c.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.fox13now.com%2F&ad.cust_params=user_id%3D60e9637c-637b-4485-a630-cd2cae915a55%26givn%3Dundefined&pbs=bbd4e53910eb40599d8600c1f0c43918
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="News",Atlanta Channel
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41duBUD0OHL.png" group-title="News",Atlanta Channel
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XW30k+JlzfGQGyA3WtijondY6EUaLuuKWKGRzWL2vIwV2Un8LY12XduPBonaowLx7R0+Y/T3+SaJ2rx40GUwWw==
 
@@ -212,7 +215,7 @@ http://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/key_west_tv.png" group-title="News",WCAY Key West Florida
 https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/chunklist_w906172815.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ktvu.com/_wzln/img/82737b4.png" group-title="News",Fox Soul
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P19dGTIZZNM/sddefault.jpg" group-title="News",Fox Soul
 https://pubads.g.doubleclick.net/ssai/event/WlHnRMfUSu20Z8nX91Vx9w/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.q13fox.com/img/default-image.png" group-title="News",Q13 News Fox Seattle
@@ -255,7 +258,7 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://www.charlottecountyfl.gov/_/images/charlotte-county-logo.png" group-title="News",CC-TV Charlotte County
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/KTUU-TV_logo.png" group-title="News",KTUU TV
+#EXTINF:-1 tvg-logo="https://www.kfqd.com/wp-content/uploads/2015/12/ktuu-feature.jpg" group-title="News",KTUU Channel
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:fmHAKLTknDBIc5BizHeMAZeja1W+Y18FAWrEE3ZB4PnzR/ulvwyTXVHNBAoBE2U/t7CsQzuInTVC7WXLI0nmrTdWUgdYRcmgqLiFT5XUV/8NImKPejHPc9tD5uKX+QsEHZwxS+u5TUR2f9lLvVoCflNmmnHXfHpdakzkyd7B/maP0oKzMjM0LKyVGTosTe/Zf278tlA2nYRKkOfvQ+YHXjkegSkUZebN9369+RipMaNEiMAnxOWBEDwlHNOL/ugHUD+bTgtZ+rA9vWqqnYwsD7pDbap/kP+1d/G+IkLIH6FHZnkrP0Q51y/wjPD2TFzlhhIgilY1SEGPo8fh/SiZ6E+OiIwDMSTO3H4EeBAGgmeVZBg6x285+0v0ZdwXJZb2zt+03yWzk0NvGLZqb3TshbQQgDML5x83jXSthUt3XBqTaaRY6ne707aD/RHxffXx
 
@@ -277,56 +280,34 @@ https://ctntv.getstreamhosting.com:1936/WFGC/WFGC/chunklist_w150881091.m3u8
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:fGwtDb4yPLOSy4HDvXJuRRe/roVbBC/kAjqxepX0eDl8SxvqDVTpIUBSBn5UeJhythNO0vjnRmxXUxKf+ZXEUGcy5Qbiy7dKWD5UVCTmjdGDiuAvo63qFrCW0tpHwkrl
 
-#EXTINF:-1 tvg-logo="http://www.nettvplus.live/uploads/21/1-2102051P6463Q.jpg" group-title="General",KTOO 360 TV
+#EXTINF:-1 tvg-logo="https://www.ktoo.org/wp-content/uploads/2021/01/KTOO_Default-social-preview_3.png" group-title="General",KTOO 360 TV
 https://live-linear.global.ssl.fastly.net/persis/2147483647_KTOO360TV.stream_247/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HuFEXXs.png", The City of Miami
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:i6JEJD1wWyBAGAqNIaNFHsksH0nbkuHuCR2QjrdgAgsDbw5Kc8m7EZH8qeTuBf5DMWRhc6dUca0HSNEkJ2h4bjHcbdPOhmlsKXQIJbWY702K+L70GEh4jeDk5nzwNhzClaOQVrAzRJHMjV2mt8c9xA==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HuFEXXs.png" group-title="Government",The City of Miami
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/miamifl/G2076_003/chunklist.m3u8~
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3QAaaZj.png",Texas Student TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HuFEXXs.png" group-title="Government",Miami Beach
+https://edge-f.swagit.com/live/miamibeachfl/live-1-a/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://askcbi.org/wp-content/uploads/2012/02/TSTV.jpg" group-title="Education",Texas Student TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:FHntWAW9HNWTKVT8kLT3NjbRCcHyaOf9L8kfE2kUm8VuSwY6NUkJYnSuFXqFXN3bnvIU2WZ8aBlDnL2beHYcag==
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-temple-university-tv-9370.jpg",Temple University TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mwwOYuJQpaNSFjag7tetn7vJecWTO+MIY6G43TSVJB+xGD7WWcxrxKR3FY8HQ4K6s6geFnvRcD8+l5zsE4XOjckCHBfd3xQH4r2VH1A1GEg=
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-temple-university-tv-9370.jpg" group-title="General",Temple University TV
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/templeuni1/stream2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://trofire.com/wp-content/uploads/2016/03/fstv.jpg",Free Speech TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:7O2S11oHZXjQImLvtkB6yjIq8EDpngPlPVFLPw0+Wkx5eBTi2tkrpOns1lFj3kVauyGgKvB0z22YvB6WORJyZA==
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1027724048439156738/A7YOKx0Z_400x400.jpg",Infowars
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nBmzuSC+w5iaFzJjIT+EuX9YAAvcfBOyv+R2CYV0SZaBiVGuu48yRPgDSrMB3QIuocgu/31gtWbLqyuiXu1B4+4OSN/UXYJgqyveVfJELAg=
-
-#EXTINF:-1 tvg-logo="https://www.rd.al/wp-content/uploads/2019/03/voa.png",VOA
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:41ltctxG3ruHecNjOcAy5W35zZityck7NqsxHb4r6ZlkuPbwYPwHDT5fCObDCaCbwLhyjXIi/6O2L3Th+dgl9w==
-
-#EXTINF:-1 tvg-logo="https://eastoftheriverdcnews.com/wp-content/uploads/2019/11/dc-gov-vector-logo.png",District Columbia Network
+#EXTINF:-1 tvg-logo="https://eastoftheriverdcnews.com/wp-content/uploads/2019/11/dc-gov-vector-logo.png" group-title="Government",District Columbia Network
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:6nN8CQhdBE2yJkN4NrP4mksnIkRip7CbGRE8xi8XzNwLlK5qi2muVkryMW+nJu5Y
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/nrb.png",NRB TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:LOUikxsja/sut4iLD8DAThidNHLy7xCQCAxkDAFGB0CYzigNZOZUdxNs3bdHL/CXPWVOUeagY4Tek/5sOKjFqQ/hgXPetP79V5gJ4HG4pEc=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/nrb.png" group-title="Religious",NRB TV
+https://tgn2.bozztv.com/nrbtv/nrbtv-live/tracks-v1a1/mono.m3u8?nimblesessionid=51084459
 
-#EXTINF:-1 tvg-logo="https://www.bricartsmedia.org/sites/default/files/btv_purple.logo_.png",Bric Tv
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:QVF8EWlxRapOBnF0mMwDnuyZduPHVG5yS/48umW7hW77nL7qdUNVDmwgj/ixrmoJBqyezq/SYSkRyDQIUtofB1GYTUy34HlWVzDCCVgN4bxRHU9BpPKRTgWBc/esifjfQB1ASxTiSeIHIOmKfAHO3htF/Fw9n0YAFDAwIG0jyHcqlX8RIkQ/yUtVeXFl0BHAQ0W7GUR7/B8sqsN3LnnilA==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/southeastern.png" group-title="General",Southeastern Channel
+https://selu-tv.cablecast.tv/live/stream-1/WIFI-1896k-720p/WIFI-1896k-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/whoh-tv.png",WHOH TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:p9ynDR/8uBlnBhVikNnOosa234hUKupczmiPUcBFvRVB/V/Uw/O3SsO3CFxQqM4D5I26Bb9r+t51WImXtnfc1XkKKhRJ4O7Y5/KjJ9XWyQyDiuAvo63qFrCW0tpHwkrl
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/southeastern.png",Southeastern Channel
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:RRTvPlejXshORBWDYsUcVuQ2rJc97JTHYHSPCcZL2oU4sHOAZFND+2GtOJPx+XQgbn2IKT6BGurf3soJ7//a9g==
-
-#EXTINF:-1 tvg-logo="http://www.kyforward.com/wp-content/uploads/2017/11/City-Logo-Files_Web_Horse_Blue_1.png",Lex TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:882wCttobdYbZ8VExUTAdcksnC2IeLxSgrZp7JWpl53TqY+BtKLkqiSdoh2nnli9Su4gyxMQ6EbV5rCWas7anAXjoPBK6fDcP5Wp+6pmkC0=
+#EXTINF:-1 tvg-logo="http://www.kyforward.com/wp-content/uploads/2017/11/City-Logo-Files_Web_Horse_Blue_1.png" group-title="Government",Lex TV
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/darcizzle-poster-300x225.jpg",Fishing Outdoor Channel TV
 https://feedlix.net/videos/promo.mp4
