@@ -59,18 +59,21 @@ https://dai.google.com/linear/hls/pa/event/mir-uZYjTu6-8JLMHBTKhQ/stream/68b9e66
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nbc-news-2023-logo-6CFF9512D3-seeklogo.com.png",NBC News Now
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.foxtv.com/static/orion/img/core/s/logos/fts-philadelphia-a.svg" group-title="News",Fox News Now
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Now
 https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://i.imgur.com/XCbSfMb.jpg",Bloomberg TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Now
+https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png",Bloomberg TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1kH1Oypcfx0yvgB30fd/z1FyfqykGTO0n4/Qe168Ebl8nJFED7HJZEeQqfVOpI1ble7NMzvZucYNqxS+yqh5YaB+2XJE1nPXnwT4RACQVvGtiNsOn5V0tESzP3efzLbApenwvc0uX9Mp9EfcrbY7/A==
 
-#EXTINF:-1 tvg-id="BloombergTVUSLiveEvent.us" tvg-logo="https://i.imgur.com/XCbSfMb.jpg",Bloomberg TV Live Event
+#EXTINF:-1 tvg-id="BloombergTVUSLiveEvent.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png",Bloomberg TV Live Event
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:0jzwfGyZ5jaJseHioAEuzKnxreEhHK0voO8q4AHzr9UBuWp3yfEjEpOE/HFvaB85MRIIdxeY6dNQAT6ftJ7RczIp9nh55s+RpobfKmhvjWRZIZz6DTndWttSbiYq5rdWg4rgL6Ot6hawltLaR8JK5Q==
 
-#EXTINF:-1 tvg-id="BloombergTVUSPoliticsLiveEvent.us" tvg-logo="https://i.imgur.com/4UIqtXt.jpg",Bloomberg TV Politics Live Event
+#EXTINF:-1 tvg-id="BloombergTVUSPoliticsLiveEvent.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png",Bloomberg TV Politics Live Event
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1kH1Oypcfx0yvgB30fd/z+UB/BzRTU0a2Rmr4AsPMcbx0dHFx8cGxd8QYdwEAZQVgQN4xm1uaWYPoIwQJIcuCkitxWZNPX5m6EJcCzKWLfaPevx/BYQJe//g8UbuUNt5
 
@@ -78,19 +81,19 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1kH1Oypcfx0yvgB30fd/zwONpaIT4BU8Jryz0+QluKs+RrcCaM05Ocaj2Dg7RmZpgiS5TL5qw81Qzk+1dDqf3vGAkT2MQMRBZra3kbp7KYSkQqWpI1Q82nvhJZQetqUc2Vabq4InrG4sVILRL0hzWH5klzUg2Q3oSsj+BebtOJDfIeWaqp8H0vKK7oucfo0q
 
-#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/AtaKJmv.jpg",Bloomberg Quicktake
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://dp6mhagng1yw3.cloudfront.net/entries/13th/dbd1f7b3-388f-4bb8-ac6d-30bc4bbf0a55.png",Bloomberg Quicktake
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:0jzwfGyZ5jaJseHioAEuzKnxreEhHK0voO8q4AHzr9WSHIzjtEAn686UlA/HTPjx+tF0oG3aFHBgWsh0h1sJNCkTmjPeVJ/1PF9KAWatYusVGhBJHCKCn1oVhJ74iTI6bf1LaSK9bGF2UYVLjvO/Eb1k9Luz/xNWsEZ8UBgFqFU=
 
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-logo="https://i.imgur.com/UuO7vxr.jpg",Bloomberg TV Europe
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-logo="https://www.livehdtv.net/uploads/kanal/21463Bloomberg-TV-euro.png",Bloomberg TV Europe
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1kH1Oypcfx0yvgB30fd/zytvEcEHvCHplrp6bjr5zIxBXsDrW7tUBNyWoh4IYdYt2xf+w8xyDRym/pFlC6HlU41aNzYnaodPamaTuaaHUlqYL73+tLO+zC2ZIQlJ2Te/tQ7QCaw6anJPErI0HjebqA==
 
-#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-logo="https://i.imgur.com/3gi2eBn.jpg",Bloomberg TV Asia
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/jp-bloomberg.jpg",Bloomberg TV Asia
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1kH1Oypcfx0yvgB30fd/z2j805HGgcKyC1WupLvmx+/40CYnxOfrD1lcyFT7kMAQHDtRQvgW1Wkh6t119vkdDsq55DJsa453JIkppg1QIbo6AT7rAwcm/NOdr8fu36bLYmalMXP1mz30w5NxiXFTKLp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-id="BloombergTVAustralia.us" tvg-logo="https://i.imgur.com/VsvBUCa.jpg",Bloomberg TV Australia
+#EXTINF:-1 tvg-id="BloombergTVAustralia.us" tvg-logo="https://photos.live-tv-channels.org/tv-logo/au-bloomberg-tv-australia-3829.jpg",Bloomberg TV Australia
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1kH1Oypcfx0yvgB30fd/z2j805HGgcKyC1WupLvmx+/40CYnxOfrD1lcyFT7kMAQkwEuM66VWsQGt2MCUrsLn8q55DJsa453JIkppg1QIbrK96pK16v8fR8y1oiGJzFYYmalMXP1mz30w5NxiXFTKLp9hOaC7cWVCPlKEFURccw=
 
