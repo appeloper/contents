@@ -1,318 +1,226 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png",NASA Public HD
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png" group-title="Science",NASA Public HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:dSJzHPuPXRWlYMpVWq97M2nRpd2/l5YCy29bacWYwX1vc2Obk5V3L220jDsNlwXQr56ujUhDJCG+NnhbgNZuhyJ/eNi1QG4q1jb7kEBfjq66fYTmgu3FlQj5ShBVEXHM
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png",NASA Public HD (op.2)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png" group-title="Science",NASA Public HD (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:KZXKrde0K7lyOmJPvclDPdwmcz7d5HLSxkkMu/fG910+hvoFqsawcJhn5tV9oA68IbHpEYENT033haSNTITINO4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png",NASA Media HD
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png" group-title="Science",NASA Media HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:dSJzHPuPXRWlYMpVWq97M2nRpd2/l5YCy29bacWYwX2CR4XnhFfQe4SRAJ8uNQ2I9qc9/EM1H7d21HZctXCVi6/XxrkHE3dQ0Lk8ohCAVLGf5ApAM9pol2/zwssHXAVh
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png",NASA Media HD (op.2)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png" group-title="Science",NASA Media HD (op.2)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Z3h2GoFXBfkBMYwZVyp/ydwmcz7d5HLSxkkMu/fG911Udo880Fl7FVkpH57AYC0dUdppoT7SzEA64l3+izIayu4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/university_california.jpg",University of California TV
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/university_california.jpg" group-title="Education",University of California TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:m72OifUXt4jVe//2MK3GwkHh2yk8mURBfRSkwU3b9+esWqLKf8HzBQ7GVwHgwWuOjvV1DdZL4LqMN8fhx17TxmmnKVjTI+gIdZNWeE7Q7uI=
 
-#EXTINF:-1 tvg-logo="http://ualr.edu/tv/files/2006/10/NEW_Channel_Icon_Text.png",UALR University TV
+#EXTINF:-1 tvg-logo="http://ualr.edu/tv/files/2006/10/NEW_Channel_Icon_Text.png" group-title="Education",UALR University TV
 https://vbfast-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/cbsn.us.png",CBS News
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/cbsn.us.png" group-title="News",CBS News
 https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/e14f8c16-86f4-4f87-8b92-4b34f3568355:BRU/variant/6a59ccda82b3abca12e290e7ab99c8d7/bandwidth/2751944.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg",CBSN Bay Area
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg" group-title="News",CBSN Bay Area
 https://dai.google.com/linear/hls/pa/event/laLJwH1nS2KQAUQTF8z1Cg/stream/977b347f-967f-4daa-9d1c-7c69ccf9cdd2:GRQ/variant/f05458977b7d62af9a331d9782237831/bandwidth/3073400.m3u8
 
-#EXTINF:-1 tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/09/24/0d50a028-008e-4bc3-b644-d37bad126c61/logo-cbsn-boston-1920x1080.jpg",CBSN Boston
+#EXTINF:-1 tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/09/24/0d50a028-008e-4bc3-b644-d37bad126c61/logo-cbsn-boston-1920x1080.jpg" group-title="News",CBSN Boston
 https://dai.google.com/linear/hls/pa/event/dHA193vxQ_WqZNVoC-W5MA/stream/3b798410-6da3-497c-a175-534d3888820c:GRQ/variant/1036ba957a42558b9c30616c1b9b0efa/bandwidth/2988480.m3u8
 
-#EXTINF:-1 tvg-logo="https://chicago.cbslocal.com/wp-content/uploads/sites/15116062/2020/04/310-Chicago.png",CBSN Chicago
+#EXTINF:-1 tvg-logo="https://chicago.cbslocal.com/wp-content/uploads/sites/15116062/2020/04/310-Chicago.png" group-title="News",CBSN Chicago
 https://dai.google.com/linear/hls/pa/event/_xQBtL7ZSEClkNebaXzn8w/stream/5ec055ea-c992-47de-9413-64669c782100:GRQ/variant/0a5b7d713cf383517ab3b0a30c17a1f4/bandwidth/3072960.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1565427200303800321/JdRl6wN4_400x400.jpg",CBSN Detroit
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1565427200303800321/JdRl6wN4_400x400.jpg" group-title="News",CBSN Detroit
 https://dai.google.com/linear/hls/pa/event/xnyAMOsfSV2J1b-A3nROFQ/stream/df420ac8-f173-4074-9d47-4ade6decbda0:BRU/variant/a37fe4465b237aa74747ab49a4192e9e/bandwidth/3073338.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/03/kcnc-logo.png",CBSN Colorado
+#EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/03/kcnc-logo.png" group-title="News",CBSN Colorado
 https://dai.google.com/linear/hls/pa/event/E9CkyheTSKeGiOiICU_JBQ/stream/f68415b5-39c0-443c-942e-6dc24a0a3322:BRU/variant/6cd1215d4aa2006d3d3288d4e02a46f4/bandwidth/3072960.m3u8
 
-#EXTINF:-1 tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/8647cb8a-7032-435c-a7f9-a00b3eb1c29b/thumbnail/1200x630/1a70218bd337830ec5ce34ab29abaf20/logo-cbsnla-1920x1080-new.jpg",CBSN Los Angeles
+#EXTINF:-1 tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/8647cb8a-7032-435c-a7f9-a00b3eb1c29b/thumbnail/1200x630/1a70218bd337830ec5ce34ab29abaf20/logo-cbsnla-1920x1080-new.jpg" group-title="News",CBSN Los Angeles
 https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/715482e7-2dfd-483d-a11c-b13723e74739:BRU/variant/8896482e6fa701fdc71a89c042edbd3b/bandwidth/3072960.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Logo-minnesota-1920x1080.jpg",CBSN Minnesota
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Logo-minnesota-1920x1080.jpg" group-title="News",CBSN Minnesota
 https://dai.google.com/linear/hls/pa/event/c0XucO32RNKG8oeQ351a4Q/stream/41458631-8da5-4ac0-9d16-0d549308ef13:BRU/variant/99174a73d80602c69b9eed48af82ce91/bandwidth/3073435.m3u8
 
-#EXTINF:-1 tvg-logo="https://newyorkcenterforchildren.org/wp-content/uploads/2020/04/logo-cbsnny-1920x1080-new.jpg",CBSN New York
+#EXTINF:-1 tvg-logo="https://newyorkcenterforchildren.org/wp-content/uploads/2020/04/logo-cbsnny-1920x1080-new.jpg" group-title="News",CBSN New York
 https://dai.google.com/linear/hls/pa/event/jeTDC610T-OSPdiWhcl0Pg/stream/69b1be41-208e-4276-a020-64d03eb000dc:BRU/variant/0849d728086ff6b756408190899fffb5/bandwidth/3073743.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/featuredImage.jpg",CBSN Philadelphia
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/featuredImage.jpg" group-title="News",CBSN Philadelphia
 https://dai.google.com/linear/hls/pa/event/R2Kw0uvnQIW7fUmOseurzA/stream/80f20aa7-8ff0-4f7b-924b-1c1d1d98223f:GRQ/variant/23cf7f91b6721802be96dba461423cc8/bandwidth/3072889.m3u8
 
-#EXTINF:-1 tvg-logo="https://pittsburgh.cbslocal.com/wp-content/uploads/sites/15909642/2020/03/310-Pittsburgh.png?w=310&h=310&crop=1",CBSN Pittsburgh
+#EXTINF:-1 tvg-logo="https://pittsburgh.cbslocal.com/wp-content/uploads/sites/15909642/2020/03/310-Pittsburgh.png?w=310&h=310&crop=1" group-title="News",CBSN Pittsburgh
 https://dai.google.com/linear/hls/pa/event/mir-uZYjTu6-8JLMHBTKhQ/stream/68b9e665-2e94-430d-beef-f89008d2bd6a:GRQ/variant/f0ba405a9aad051b20b08a2b3389fc3a/bandwidth/2544709.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nbc-news-2023-logo-6CFF9512D3-seeklogo.com.png",NBC News Now
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nbc-news-2023-logo-6CFF9512D3-seeklogo.com.png" group-title="News",NBC News Now
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Now
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News" group-title="News",Fox News Now
 https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="News",Bloomberg TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1kH1Oypcfx0yvgB30fd/z1FyfqykGTO0n4/Qe168Ebl8nJFED7HJZEeQqfVOpI1ble7NMzvZucYNqxS+yqh5YaB+2XJE1nPXnwT4RACQVvGtiNsOn5V0tESzP3efzLbApenwvc0uX9Mp9EfcrbY7/A==
 
-#EXTINF:-1 tvg-id="BloombergTVUSLiveEvent.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png",Bloomberg TV Live Event
+#EXTINF:-1 tvg-id="BloombergTVUSLiveEvent.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="News",Bloomberg TV Live Event
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:0jzwfGyZ5jaJseHioAEuzKnxreEhHK0voO8q4AHzr9UBuWp3yfEjEpOE/HFvaB85MRIIdxeY6dNQAT6ftJ7RczIp9nh55s+RpobfKmhvjWRZIZz6DTndWttSbiYq5rdWg4rgL6Ot6hawltLaR8JK5Q==
 
-#EXTINF:-1 tvg-id="BloombergTVUSPoliticsLiveEvent.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png",Bloomberg TV Politics Live Event
+#EXTINF:-1 tvg-id="BloombergTVUSPoliticsLiveEvent.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="News",Bloomberg TV Politics Live Event
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1kH1Oypcfx0yvgB30fd/z+UB/BzRTU0a2Rmr4AsPMcbx0dHFx8cGxd8QYdwEAZQVgQN4xm1uaWYPoIwQJIcuCkitxWZNPX5m6EJcCzKWLfaPevx/BYQJe//g8UbuUNt5
 
-#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/05/51xZAebJMXL._SL1280_.jpg",Bloomberg TV+
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/05/51xZAebJMXL._SL1280_.jpg" group-title="News",Bloomberg TV+
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1kH1Oypcfx0yvgB30fd/zwONpaIT4BU8Jryz0+QluKs+RrcCaM05Ocaj2Dg7RmZpgiS5TL5qw81Qzk+1dDqf3vGAkT2MQMRBZra3kbp7KYSkQqWpI1Q82nvhJZQetqUc2Vabq4InrG4sVILRL0hzWH5klzUg2Q3oSsj+BebtOJDfIeWaqp8H0vKK7oucfo0q
 
-#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://dp6mhagng1yw3.cloudfront.net/entries/13th/dbd1f7b3-388f-4bb8-ac6d-30bc4bbf0a55.png",Bloomberg Quicktake
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://dp6mhagng1yw3.cloudfront.net/entries/13th/dbd1f7b3-388f-4bb8-ac6d-30bc4bbf0a55.png" group-title="News",Bloomberg Quicktake
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:0jzwfGyZ5jaJseHioAEuzKnxreEhHK0voO8q4AHzr9WSHIzjtEAn686UlA/HTPjx+tF0oG3aFHBgWsh0h1sJNCkTmjPeVJ/1PF9KAWatYusVGhBJHCKCn1oVhJ74iTI6bf1LaSK9bGF2UYVLjvO/Eb1k9Luz/xNWsEZ8UBgFqFU=
 
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-logo="https://www.livehdtv.net/uploads/kanal/21463Bloomberg-TV-euro.png",Bloomberg TV Europe
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-logo="https://www.livehdtv.net/uploads/kanal/21463Bloomberg-TV-euro.png" group-title="News",Bloomberg TV Europe
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1kH1Oypcfx0yvgB30fd/zytvEcEHvCHplrp6bjr5zIxBXsDrW7tUBNyWoh4IYdYt2xf+w8xyDRym/pFlC6HlU41aNzYnaodPamaTuaaHUlqYL73+tLO+zC2ZIQlJ2Te/tQ7QCaw6anJPErI0HjebqA==
 
-#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/jp-bloomberg.jpg",Bloomberg TV Asia
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/jp-bloomberg.jpg" group-title="News",Bloomberg TV Asia
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1kH1Oypcfx0yvgB30fd/z2j805HGgcKyC1WupLvmx+/40CYnxOfrD1lcyFT7kMAQHDtRQvgW1Wkh6t119vkdDsq55DJsa453JIkppg1QIbo6AT7rAwcm/NOdr8fu36bLYmalMXP1mz30w5NxiXFTKLp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-id="BloombergTVAustralia.us" tvg-logo="https://photos.live-tv-channels.org/tv-logo/au-bloomberg-tv-australia-3829.jpg",Bloomberg TV Australia
+#EXTINF:-1 tvg-id="BloombergTVAustralia.us" tvg-logo="https://photos.live-tv-channels.org/tv-logo/au-bloomberg-tv-australia-3829.jpg" group-title="News",Bloomberg TV Australia
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:1kH1Oypcfx0yvgB30fd/z2j805HGgcKyC1WupLvmx+/40CYnxOfrD1lcyFT7kMAQkwEuM66VWsQGt2MCUrsLn8q55DJsa453JIkppg1QIbrK96pK16v8fR8y1oiGJzFYYmalMXP1mz30w5NxiXFTKLp9hOaC7cWVCPlKEFURccw=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/abc_news_now.png",ABC News
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/abc_news_now.png" group-title="News",ABC News
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XpbhghrbxhhelhUEd1Y2F0CrFPi/F56iOHZPowqxqsTZGi2E0loZb/wUaxzPuT+See1Uj8Qji8A5fZNyjCFOTVmVf1kWQT0XqvN2+unlbKM=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png",Newsmax TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="News",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png" group-title="News",Press TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png" group-title="News" group-title="News",Press TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/sky_uk_news.png" group-title="News",Sky News
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/sky_uk_news.png" group-title="News" group-title="News",Sky News
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Free-Speech-TV.webp" group-title="News",Free Speech TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Free-Speech-TV.webp" group-title="News" group-title="News",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png" group-title="News",France 24
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjzX6DjlcYPzKYL6xVaLwPHLThNUI4PwUjk3MnFQHyrGHg==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/dw_en.png",DW
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/dw_en.png" group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg" group-title="News",RT News HD
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg" group-title="News" group-title="News",RT News HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:A7uEVpvOurDbPW1POsCoeV7qZDHshjQV6m78Gb09vQsFeCE/b1b58MG7Vfa2w7Ku85kpx3j/Ba/A+5LRCQ/i4Lq/egoc7trj0DfFXZw3XzWvb0UljrDS7PfLVe2jiHrY
 
-#EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg",RT Español HD
+#EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg" group-title="News",RT Español HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:anjB8EAIO8gUG+jd2tjL9euT9LAgyCnXztmFTOQXLIf4DtMidKG3qOYtEU3Xm8zp
 
-#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary",RT Documentary HD
+#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary" group-title="Documentary",RT Documentary HD
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:TZ6OU7/wM95XbboPK9gn4BioNMO/gOLs5wEy3rPCduDuDkjf1F2CYKsr3lXyRCwI
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn.png",CGTN News
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn.png" group-title="News",CGTN News
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Bf8aSMZ87edMEd3nPhsVtZ6o+oyA85jSocOlqVnuo/B/k7RnGYKQ5hvzxAg3vn8o
 
-#EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png",CGTN Documentary
+#EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:yxHBfDzCqK/a8o2EedOl7qsNvedso7uhgaG7tGthdhQRYblB8eJL0fqXFjNhjZI2
 
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/NDTV-24x7-logo-2.jpg",NDTV
+#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/NDTV-24x7-logo-2.jpg" group-title="News",NDTV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:+fSBq7P5tzBkcbdDuf6DcLEZyLdSFGT4TLj7Wf+TuGNZWpowToWnOnYfzZI5G5FTchY6afdnX5op6Sq3KLRE5/Mg8UMhfttOqpTnlxWBdtWOJL/KeWpAdEsb3l2PlQaB
 
-#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png",Al Jazeera
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:afsFoKzfBiI4YPxcuPgIyUbVq72yACJJbbWOO2PDgQJ26DG2JBcX4XTvbdJGRaQa
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/nhk_japan.png",NHK World
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/nhk_japan.png" group-title="News",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/asia_news.png",CNA NewsAsia
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/asia_news.png" group-title="News",CNA NewsAsia
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:MkHdV9uAhNWNSh8W11hiBCURLxgj19yYic1FuhlL7sA9mKo/tq+TABOMAn08oTqhPETVeP1qQBnBoAMRu+5epumKYAzqh8j/5cOILo0cH6OVo5BWsDNEkcyNXaa3xz3E
 
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24h
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png" group-title="News",RTVE 24h
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:hM6/tiHrLBiw3+iikJJ0/tkzwFfexX/DVKbUINDdMBhFe3gJEpAGhOudGyYUg61O
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png" group-title="News",Press TV
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
-
-#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png",Al Jazeera
+#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png" group-title="News",Al Jazeera
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:afsFoKzfBiI4YPxcuPgIyUbVq72yACJJbbWOO2PDgQJ26DG2JBcX4XTvbdJGRaQa
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/ktvu_fox2.jpg",KTVU Fox2 News (geo)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/ktvu_fox2.jpg" group-title="News",KTVU Fox2 News (geo)
 https://dcs-live-uw1.mp.lura.live/server/play/o0m8DKpFqMnziJo7/rendition.m3u8?track=video-0&anvsid=m177610542-n649c983e6d1343dea375ac72b692573d&ts=1716896890&anvtrid=883f76a1e44c16c7f1225ecf5717977b
 
-#EXTINF:-1 tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",KERO 23 ABC
+#EXTINF:-1 tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="News",KERO 23 ABC
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XpbhghrbxhhelhUEd1Y2F0CrFPi/F56iOHZPowqxqsTWx2XusFIlFInfOwLmoizF8MzUFXwxYCNsvHc7XjbY4jAj4MRCJl4//VCZlZTFPbA=
 
-#EXTINF:-1 tvg-id="3NewsNowKMTVTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png",KMTV 3News Now
+#EXTINF:-1 tvg-id="3NewsNowKMTVTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png" group-title="News",KMTV 3News Now
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XpbhghrbxhhelhUEd1Y2F0CrFPi/F56iOHZPowqxqsRQXolhVLFjfE0nLDiUDKssisQXPSyiHLPlBQjpPLc2wSiInKSdNczr8FZNtKHuQmI=
 
-#EXTINF:-1 tvg-logo="https://newschannel9.com/resources/defaults/wtvc/large16x9.jpg",WTVC ABC 9 Chattanooga
+#EXTINF:-1 tvg-logo="https://newschannel9.com/resources/defaults/wtvc/large16x9.jpg" group-title="News",WTVC ABC 9 Chattanooga
 https://content-aeuf1.uplynk.com/channel/97ac1cbc0efe43568511e0f60f3a0497/g.m3u8?ad=sinclair_web&&ad.sz=640x480&ad.iu=4756%2FWTVC%2FWeb%2Fwatch&ad.ciu_szs=300x250&ad.impl=s&ad.gdfp_req=1&ad.env=vp&ad.vpos=midroll&ad.output=xml_vast3&ad.unviewed_position_start=1&ad.url=https%3A%2F%2Fnewschannel9.com%2Fwatch&ad.description_url=https%3A%2F%2Fnewschannel9.com%2Fwatch&ad.cust_params=kw%3D%26slug%3D%26vtype%3DLive-broadcast%26w%3D640%26h%3D480%%26split%3DA&ad.adUnit=%2FWTVC%2FWeb%2Fwatch&ad.paln=AQzzBGQEq3Fq5gcjCguQG_YNC6gUrcpUCsxF7kDGaZ3bTP0MZuw_7q_GjjsxRUa_lxIfdhxGDnPcK_BHN4Y3KbHwmjbGEx5iS0eChhOsw2AY1F-SwcsU9GQlcEsUoDB1nfWsZ4F2AGo80urL7p1oY_f8y_XHHmrl3cv75QXRrLyOpFDXj-u21rDOdvhNnCvaiyfgRSzKPN1BlVmDvyFPdfri3Y9s6LABO0p7z_vMl87gM-zj0oBM7TxA035GcdH_iEC77UZUsLDFvsW1xoqdqd7bhMMmDlUQLSyQyV_cLObDiMuxm4S9oBgBFUwQCJSD-LovBBneVsXStFC_LAVZanAscUyddA2amOvZKTrupV9X39bFqycgD-WJHN6co61IeroFFGPa03-FxGDUL66Y-zjj0kyWaIyIIMTWCr88jhIknyHTrRHyCkGy8ecu4SbRAkfT4RoinbS7QhAiO7hjB8xKDqeFpB7YKj3XzMWl6iB44qgP5PawyNl0mzA3KShXQI6Rl0RPDzwdLOO60VkLW5k2Ti1jiQVlnOCzkfvinsLJlyeV75Tjtdme4CMgmKuyra6Nmg3sxqbDNlAeMC5Vlrl3sGNO2Lki_6b7P7JI0TZk9guXz2vTkstfMjKjJrtJPba6NUiE4_BOF2DS9DuAxcpXxWRxbUdy_5EbutZKc_F4Qjb5zRfDk5EFhxHC0PUAXA92M1yC9G-64H5yPMiNONUJuAOoO-wzxZQb6jvpdxXr0k-YwTtt22Hn45eyIUu-41-zNvEMVQx9scxmwKa4Gy4Supyav-UQ10DY9G_iACjfHXHiHV7dUY_Gaxo-HS15t2gqzNq59YSRpYHGjE3zOp3vd2Ga7ZKFH35zm7Ds8nyfyMl5wiRGZlL-7Jmp-mNNixjA-gshHovwtbAjFTmUlpCn8B3Jjt9UIn9IxRdo4qS5sxE0ZqVxrzDzV2m8pP8w0eifLxWodN2hgXzFVf1RVLwj2CsEXBbQM9YCGF9Fu0-nWH6ZvvBBX2a1L5hCwMbg8IM5qkpCiGTM3tX7YV9iVBMkEQukj91KkMXWe5aqf2Nfv-zfvAXtM04YymVz8h0DY1XZNfxyeBiss1M5nWJqxUKYNhMj502Cbv2rvm6H9xZ2TAgd7hL8IYAtobJXSK6t4f_oaKZgD9Ok4FmnCPO2rR2ODSzMicPhEScdNvjCylTGLRknlgJX1t7nEo8nWQ4A4QjR6L3WUHZLgl5Xug..&ad.ppid=12b7f32a-b9ab-4261-946e-2c610fd61d10&pbs=e71a2456689b45a1bbc5af90366b4340
 	
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/kstu_fox13.jpg",KSTU Fox Salt Lake City
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/kstu_fox13.jpg" group-title="News",KSTU Fox Salt Lake City
 https://content-aeui1.uplynk.com/channel/2d50e228be374422b9f2c11dba67d58f/c.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.fox13now.com%2F&ad.cust_params=user_id%3D60e9637c-637b-4485-a630-cd2cae915a55%26givn%3Dundefined&pbs=bbd4e53910eb40599d8600c1f0c43918
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hSYez3V.png",Atlanta Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="News",Atlanta Channel
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XW30k+JlzfGQGyA3WtijondY6EUaLuuKWKGRzWL2vIwV2Un8LY12XduPBonaowLx7R0+Y/T3+SaJ2rx40GUwWw==
 
-#EXTINF:-1 tvg-id="Newsy.us" tvg-logo="https://i.imgur.com/eEqyFBX.jpg",Newsy
+#EXTINF:-1 tvg-id="Newsy.us" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="News",Newsy
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCyrxmfFp+d4lxGk0HY0FDFGvaj0FJmtvClF9sejEYvpFMR0sg1o/GCHBy4HVnTKtz8=
 
-#EXTINF:-1 tvg-id="LasVegas13ActionNews.us" tvg-logo="https://i.imgur.com/QbkW7zY.png",Las Vegas 13 Action News
+#EXTINF:-1 tvg-id="LasVegas13ActionNews.us" tvg-logo="https://i.imgur.com/QbkW7zY.png" group-title="News",Las Vegas 13 Action News
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:XpbhghrbxhhelhUEd1Y2F0CrFPi/F56iOHZPowqxqsRHcMXQH1eFHN5QPNg4rPURYAYQwDV0bu3sJDzA5iz21uDx+b6LbGsyHRGW+g5Sq0M=
 
-#EXTINF:-1 tvg-id="NEWSNET.us" tvg-logo="https://yournewsnet.com/wp-content/uploads/2018/11/NNLogo.jpg",News Net
+#EXTINF:-1 tvg-id="NEWSNET.us" tvg-logo="https://yournewsnet.com/wp-content/uploads/2018/11/NNLogo.jpg" group-title="News",News Net
 https://univtec.g-mana.live/media/f7a2e644-2023-4241-85a4-9da6eb98fb56/mainManifest.m3u8?player.ssid=4662bdac-4ab0-4e0f-9b9b-c2cb45593a30&player.w=1050&player.h=591&player.url=www.newsnetmedia.com
 
-#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://i.imgur.com/S7ZbPTz.png",Cheddar
+#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://i.imgur.com/S7ZbPTz.png" group-title="News",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/wftv9.jpg",WFTV 9 Orlando
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dV5OIlsPvDJ3O2tKWYgI8mexOYfAOOIr6kIc1lY7vVWIzBCI4E/j0fKJgAxAds9PNWfpstXuRS+VdpEyUspNCWDY8ccMc8v63Gvkg3ly9LV70qmk5TOU8fWDW1ugyssj6hZV7K3Km5t8Gx4KCj0kkAbErvNbbWNDAl3XRFkrnhZoAAuZ5jYCRNnV+rO2fpDFIRN8qQR7EDcAkPEFann4XHZAFc0q5cWSXF3f847fFP6Htf8Qq3dfH76iLKB6tanqg4rgL6Ot6hawltLaR8JK5Q==
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8Etyyah27N4/hqdefault.jpg" group-title="News",WBRZ-TV Baton Rouge
+https://d1wdgbxqfhyvfu.cloudfront.net/wbrz-live-1/smil:wbrz-live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1058469392688836609/vHXurVod_400x400.jpg",Boston 25 News Massachusetts
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:x6kvNRmL6IkaycoB5DNaJe2RApLfYsiwtz8XIcowIu+IzBCI4E/j0fKJgAxAds9PNWfpstXuRS+VdpEyUspNCWDY8ccMc8v63Gvkg3ly9LV70qmk5TOU8fWDW1ugyssjJTxspXCUwryy25VUAhnF0Jlx0iw8K4BVJcm79iNBRljmYyUL4fCCX2Xmal/HrRujHmoVm2O3RPiRG97bzW+P393YJRX8+hVQJj95q1A+mIwvIF/aO3xqCTenj/7nQT7Og4rgL6Ot6hawltLaR8JK5Q==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" group-title="News",WCCB News Charlotte
+https://dai.google.com/linear/hls/pa/event/pyU3fu_aTzSGVZrUvBodaQ/stream/62e33322-3815-4925-97df-979277b96218:GRQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/fox13_memphis.jpg",FOX 13 Memphis
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:PbJLsQgs35m3fWpEdThMs5u7eni1rVCAMTpz9ZMjy2eIzBCI4E/j0fKJgAxAds9PNWfpstXuRS+VdpEyUspNCWDY8ccMc8v63Gvkg3ly9LV70qmk5TOU8fWDW1ugyssjTLF1i2ScxQVEz2rnL9cdWKhHEcRmTXuffk7/wAqgi3GRxTwoFXxSjAzYgnkf7w4IH9xqjsTI5v4NINxRK4yBwh1BzrZX9ojK8qDpKkKfFmQWX8CjI4xf4NJ+J93v+OGIg4rgL6Ot6hawltLaR8JK5Q==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/newschannel9.png" group-title="News",News Channel 9 ABC
+https://content-aeuf1.uplynk.com/channel/a4008fd8cf3e454a927406859636baae/d.m3u8?pbs=e1818dcd271141f699fe1a4220dccb9b
 
-#EXTINF:-1 tvg-logo="https://www.coxmediagroup.com/wp-content/uploads/2017/01/JAX%20CBS47%20ACTION%20NEWS-300x126.png",CBS 47 Action News Jax
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:su4whKuWrUxHT2yCd6Tm3IGMnuceqL//uzPrh97j39eIzBCI4E/j0fKJgAxAds9PNWfpstXuRS+VdpEyUspNCWDY8ccMc8v63Gvkg3ly9LV70qmk5TOU8fWDW1ugyssj5CkoMWdkP05+ROJLyBAYT2QBWTnDGvzKbxSZ7FMXX8W00sC1OVaExlfBMaOX/TspfCWsb8Mpsn+6jNafbAO4Ga9R3fwgb0Jugm8W+yn51nFoD05z84qs/PNBWXCZ4Ft6g4rgL6Ot6hawltLaR8JK5Q==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/notv.png" group-title="News",NOTV HD New Orleans
+https://5ed325193d4e1.streamlock.net:444/LiveTV/NOTVHD/chunklist_w1570003858.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/DeveloperBlogs/AmazonDeveloperBlogs/legacy/KIRO7_NEWS_blu_text._CB520201523_.png",KIRO 7 News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:k7FVlrAkB24YOfpBmS7KucpIqRkXzvL8ZWbBTCsedbmIzBCI4E/j0fKJgAxAds9PNWfpstXuRS+VdpEyUspNCWDY8ccMc8v63Gvkg3ly9LV70qmk5TOU8fWDW1ugyssjCuqE8Xm3P0dQdwbSy7Av7hXrXBYGIJ9B1Xp5eip4QofyRn8LxZexIAIuPaG28R6WuMTDscgFdn5M5EpFLFj+4ao+AK+7riAPq/6Yqrc7aWze9kYh46XEH1QE3UgxZfyag4rgL6Ot6hawltLaR8JK5Q==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Kesq-hd-logo.png/300px-Kesq-hd-logo.png" group-title="News",News 3 Palm Springs
+https://dai2-playlistserver.aws.syncbak.com/cpl/22046797/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIyMjA0Njc5NyIsImNpZCI6MjIyODAsInNpZCI6MTE5OSwibWQ1IjoiYjkzMDQ4ZTBhMDAyZTliNTkxMWI5ZWVkNTgwYzBmODEiLCJpYXQiOjE2ODE3Njg4NjUsImlzcyI6IlN5bmNiYWsgKFRHKSJ9.Dz7v9duOQcxtwGtOh7ZTWHQ47ehbC7_WsmC2NsMWl6k
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/cbs4_indianapolis.jpg",CBS 4 News Indianapolis
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:WF+peDOfwz8MLD3gtPczG/ZNiJGgpR+uFvys3XLYjxOdwjMs5a/y1tG/ozviQdq8Vx3IsSfl1Y8BnAeQB15+8jOMxyL+ynzz6iD5CsI0Vbw=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/wrgb6albany.jpg" group-title="News",WRGB 6 Albany NY
+http://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/wpxi.png",WPXI News Pittsburgh
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:P/qvy9OOexLHSq+N1ctd5KRp+TQIc3aQ9suG9FE1c6K7wEqoFFpTBqc4lf/l3qCkW70bW44cLvwO6G2sqDWC5tcVFBYjryE13yJl1PeKKTM=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/key_west_tv.png" group-title="News",WCAY Key West Florida
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/chunklist_w906172815.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8Etyyah27N4/hqdefault.jpg",WBRZ-TV Baton Rouge
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:46++Xecwsw+HfMPpi9ou6RUpILCaUTv9K0RncwRnXhFJeXlRnKK709AOSeOOq9eXertxF6az8ZWlxRB41+SggNqu17meRaIDlnEQ5kOWUqXAQTWABFU8yiziWOreuRLV
+#EXTINF:-1 tvg-logo="https://www.ktvu.com/_wzln/img/82737b4.png" group-title="News",Fox Soul
+https://pubads.g.doubleclick.net/ssai/event/WlHnRMfUSu20Z8nX91Vx9w/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/wvit30.png",WVIT 30 Connecticut
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:J34Urd7o5xtiKKgsy4wC9cQvVufsAqweqjp5TlnH2LOCGPnA8UZsKg2jWpjgZBH7+pyZI2SzYx68htqXbDaRIQ==
+#EXTINF:-1 tvg-logo="https://www.q13fox.com/img/default-image.png" group-title="News",Q13 News Fox Seattle
+https://dcs-live-ue4.mp.lura.live/server/play/xjWzYdmubZxyhQ8A/rendition.m3u8?track=video-0&anvsid=m177635106-nf9bf5dd99a6172b67f819d305738686b&ts=1716907490&anvtrid=225ca1e8a4c63c39bd12c8d3e41ff594
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png",WCCB News Charlotte
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCzOhMuCRz2evu+ypgQ1A7ejKRJqksdS34aduZfLkz4LlNJdp58rTPzKmxJY2xEA87GkEGzfqwSKK6VP3e5bU4kXKShq1Jl7U4T9aoSA9Pt/wl4+VyS9DDogHFIsjRypSByiRagZtrHsqzuUblOEtPcZkhcmDCR6YoKTSGzTQBEW+fcCnhPqOirJJmsxn9hyq0e6fYTmgu3FlQj5ShBVEXHM
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/newschannel9.png",News Channel 9 ABC
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ovCO+CfC/SJ6kpGRxnUVFfbDHkBKufWwlxKvBH1Lnaa/eMO1BNkVIBSS9plf5ZFjGI0fuZZ5bBKe044e+ffciChSFCmsJPCZgZXFeSUafkoh8Fwtwsjfx3wG5vMv+54N5yQdmdL6wTZcjDcuwMxzCfbswU5z+8DMB8PP7zMB6tEcVNc6rmhA3RjM6xgvss2ZIK/0aEodgkXz2NbFq/IPWCAJSfq0EmC1VELW9H8ei652Mp217QD+nNQH488D8S463bzmnunNjNyokkcJ+hwwPDmd2E+PiGhX3sX69tCJus5GNit+MD5q62+W+sFwx7ithKpFJpCW4u/zJ5rCs9cGMccAvokXAWpo8kXXS8Dzx6m/1uKqrrDjsGa/FhuDIwVGJ3d/kWyANC6DgX4f+ZZgDORoIyJw+SUYigIeUF2mIKVmrqrj5qclh/2Mi/3JTjfHJLQYp8119Y+2fsb1kp7HVQ==
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/notv.png",NOTV HD New Orleans
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:pIkpnVQt4uIK+3SN6TwmH4yMF+VRWnME1KyOW0R50SWBXLnU4qPRwUejJpSzg5nunLqnQxv4t5Su9fhskt0jaYOK4C+jreoWsJbS2kfCSuU=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Kesq-hd-logo.png/300px-Kesq-hd-logo.png",News 3 Palm Springs (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:wX4vGKmuHAe+b2VtfZfzlitP3BbIA33KJQxVIxhGE8Q+2zdVUPNslk/d0BkORCWRHLIU1Kk66TKUP2D3oQPMANsU1hi8k3cV0/2IpaP+ZsfapkXsL4m4vwCx7aIy6HEa7g5I39RdgmCrK95V8kQsCA==
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/wrgb6albany.jpg",WRGB 6 Albany NY
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:UKd/ZIpfhbMchPbVDLdcRvaMJZJNrGHw1NQU8CvNUe519YX4284PLbuwhXHz8Nc9O5mRKJj0MQVzyeDAYfh0kj67MQxxF0wDvV0GjvWuFgA=
-
-#EXTINF:-1 tvg-logo="https://miami.cbslocal.com/wp-content/uploads/sites/15909786/2018/07/cbs4-logo-july-2018-625x352.jpg",CBS4 News Miami (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Sthg5VHBfhmrevZfOyCt7FQ9zQdaxZW+o4491mtFAIst4DFNkWvGhcHs8ADKoUgkDT8cUmRw90lWtbanr483ZWXfCQCjNXj1wFdWu8nQHx0=
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ef/2_WBBM_TV_logo_1992.png",2CBS Chicago WBBM
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1fSIY7BWY6lqMo2Q2r583s9SxWWNN6hedH2b80Bt5jFm/2zS8iawmL7uRnmFdfoqIEEclMSfpgsyZYpxCMx3fwe8pHIHvlnOXq36DxD4h9FYzrJ2y1OrPDesLvBDNVbl7g5I39RdgmCrK95V8kQsCA==
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/key_west_tv.png",WCAY Key West Florida
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:O4+m/IUqm/uW3KnqEDbr5OcAHGPuNg2qlc3KiQ015ZQ9943hm+vgF16tUlLGwUkI
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Z-ei-DS4cyw/T4EtxU7e5fI/AAAAAAAAByk/wT5YbTyi_y0/s1600/kcal9logo.jpg",KCAL 9 Los Angeles (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:FHo8scLJZNPu2N6Kef8Ap3M2Aur7o2Ryhg8FtFJ/Wno1G67YIE6DnrPkoz3EpTSn8057LQsQa3C2W7SQw2iPTcN3HWvJaEdlTtlM9w2j8Q48gRtOekuhw0ka/ruRUzyAg4rgL6Ot6hawltLaR8JK5Q==
-
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2019/05/FoxDallas.png",Fox 4 Dallas (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Sthg5VHBfhmrevZfOyCt7FQ9zQdaxZW+o4491mtFAIsuqz2KyUeg10EO6KwrTLLajHjvhpb+7bV1104EWFNH+oXR+4WGfuVRcxGxmFMgIs26wagA2EG/bXHoAZaFbH/UYDMRwvKNSBUVGUeXFi05ELUxAq7NwuPEXiLnCMgN9nXroTsOgb5jARvxtBjtUgSYqssZLRwD+OieiVdTUnbUcipgTT7jpS7mpMxCj4oy/qI3ZclbzvSmlMdMOwRXsNvGF/8KK36udOU2fJ9yrrch6w==
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/59/07/a1/5907a18b4d8784a514d95bd3a11fb66d.jpg",Fox 5 New York (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Sthg5VHBfhmrevZfOyCt7FQ9zQdaxZW+o4491mtFAIt81S8VSZcuIw6FBltYLmQQelGJD6hSwgqVq2CxBDDKr85IFx4tKrfj9gItX/MyCJQ=
-
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2019/05/fox5.png",Fox 5 Washington (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Sthg5VHBfhmrevZfOyCt7FQ9zQdaxZW+o4491mtFAIuszP5ElaOPcJ4MXhnhTj7diwFhdg7rVYSjEN3hthnfVoXR+4WGfuVRcxGxmFMgIs0xhv/fDoHUgUimVqQaUXkVgim4lD01HKLA5b3x2P7t3DdIzyEr4/tS3e9B5nWJq38W6ghc+tkBGoEIjm5gSqoZ+LYgZbU8WCxtvsn1AFNOsypgTT7jpS7mpMxCj4oy/qJt7C/g9zBi7Mq0aUikiIc+nvJfhn78Y+sCpPY9JJJ3AQ==
-
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2019/05/fox7.png",Fox 7 Austin (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Sthg5VHBfhmrevZfOyCt7FQ9zQdaxZW+o4491mtFAIv7fg2EstMjzlcj6IA/OZhHOxflzJ0s0YpymX3JHbszP4XR+4WGfuVRcxGxmFMgIs0xhv/fDoHUgUimVqQaUXkVowI23eBmTte9qd+Xzmp2PteHZWCqBvVDuQlo19MbNs9SXwVPqkBbhl2CHv8JqYSoAyJrW2+/1ikZxG1ZhUTHlSpgTT7jpS7mpMxCj4oy/qJ9uVxG1w3eKJF0DpPpLHgagojLOLVIDqJuU6kOUTX6+A==
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/fox23news.jpg",FOX 23 News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nnT+MM+721of8rxZF5Y0YA3zzkd+x9oTUeQJICAjlxCIzBCI4E/j0fKJgAxAds9PNWfpstXuRS+VdpEyUspNCWDY8ccMc8v63Gvkg3ly9LV70qmk5TOU8fWDW1ugyssjUG+H9jWa7v/fyf7ky4ZZ+HtTlc+eAbRxALIMVIE3abyrSxe/RHsYvEHN8xqOZRn3xRNiywhxLG6K+xChB1tbcUsnT/LZgQxTx5/RqjLUwVPDxnm+pKL4gjDnECP0GCLfg4rgL6Ot6hawltLaR8JK5Q==
-
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2019/05/fox32.png",Fox 32 Chicago (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Sthg5VHBfhmrevZfOyCt7FQ9zQdaxZW+o4491mtFAItsi0+CvFF6Gl+0LNZvDuHF0ZOF+nCP0obZqOfMS3aig4XR+4WGfuVRcxGxmFMgIs0xhv/fDoHUgUimVqQaUXkVqfGzdiWqUUt2HUwIJ22TKNVto3vPuFMGt0MrpX1KgtAukYcIN03OL0K9KFafxQhDP0tBhwofrklhejcZGfrE4CpgTT7jpS7mpMxCj4oy/qJUmZofuoDO59uIyjysBd9vr9wN0bQYsuE/i/hIO/JHcw==
-
-#EXTINF:-1 tvg-logo="https://www.ktvu.com/_wzln/img/82737b4.png",Fox Soul (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Sthg5VHBfhmrevZfOyCt7FQ9zQdaxZW+o4491mtFAIv4Y3tLnGc+4n0gSJMy6sWh+ujNCxQ+S0lV5yxvQE+y/85IFx4tKrfj9gItX/MyCJQ=
-
-#EXTINF:-1 tvg-logo="https://www.q13fox.com/img/default-image.png",Q13 News Fox Seattle (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Sthg5VHBfhmrevZfOyCt7FQ9zQdaxZW+o4491mtFAIsuqz2KyUeg10EO6KwrTLLa7UsKuWU4+w2IBMjqQA9H5c5IFx4tKrfj9gItX/MyCJQ=
-
-#EXTINF:-1 tvg-logo="https://wagner.edu/newsroom/wp-content/blogs.dir/58/files/2011/05/KPNX-Phoenix-NBC-12.jpg",KPNX 12 News Arizona
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ovCO+CfC/SJ6kpGRxnUVFVJ96C5c54V/jYwfhEWgr0SdYJsbxGENwdNQtu/QLI/KfM/hJKM5Btq542UrGgqSQoRyxOoPwDF2/Vs/9y+stSA=
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/kfyr5.jpg",NBC5 KFYR-TV
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/kfyr5.jpg" group-title="News",NBC5 KFYR-TV
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:UILiCL7CvZVr6Lv4O7vCwyXYo0q6j8OmjzHvKyH/9eBiDFCRwHVkdtMye/8TKLO1N6uU6d52FP2/f9cYH+eEotW5jm5rcA8tffyRKPvHdbePfkIXwE/U76h39sPumaO2h+KwePClaBwLXgu/HGe5eliSrPpx1spQfSs8O+ngDUPd9vjm7GndfhEX3oLpJVtcel2SSFm05MZTKfSFJO/bx4P524jXixcBec8jwnfqsNBi+St952i33bjGkFCqSLvucmu/q4IEIIPnjJYHKC/iRBYyw8lnrn8SHSasFYT8mXS7vpTk5td29m6S4IZfVbhHGVgBKe9mXeXL8SZ3lkQ/FRkK8cP2R5UcuL1Wir/9D0Pc+IYOSpd82h3yHrkPPQYPZYCiSAS3f6D8Pmip99fxWi4q6xz8LcnwaE7OFR+V7r4=
-
-#EXTINF:-1 tvg-logo="https://exstreamist.com/wp-content/uploads/2018/03/Watch-WRC-TV-Online.png",WRC-TV News4 Washington
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:YoEM2SBYo8zARakRxs+3Wqf1Nc2EMCGOCmEAdgXzMfym8/Tl10yUF+boxNUrMGw7r18JMCT8LMOlMQkR2WVRWA==
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/ictnirving.jpg",ICTN Irving TX
 https://feedlix.net/videos/promo.mp4
