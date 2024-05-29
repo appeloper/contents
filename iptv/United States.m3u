@@ -309,7 +309,7 @@ https://selu-tv.cablecast.tv/live/stream-1/WIFI-1896k-720p/WIFI-1896k-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SLT8iSoDWZo/hqdefault.jpg" group-title="Government",Lex TV
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/darcizzle-poster-300x225.jpg" group-title="Undefined",Fishing Outdoor Channel TV
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/darcizzle-poster-300x225.jpg" group-title="Fishing and Hunting",Fishing Outdoor Channel TV
 https://30a-tv.com/darcizzle.m3u8
 
 #EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/Investment-Pitch-Media-300x187.jpg" group-title="Undefined",Investment Pitch News TV
@@ -345,169 +345,73 @@ https://30a-tv.com/ln.m3u8
 #EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2023/08/funny-videos_n-1024x576.png" group-title="Undefined",Ridiculous TV
 https://30a-tv.com/feeds/720p/63.m3u8
 
-#EXTINF:-1 tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png",AMG TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:fGwtDb4yPLOSy4HDvXJuRRe/roVbBC/kAjqxepX0eDlGDciNDhrECr2mF9Q2tyI+URjyR3ZQHIwrPj1DGWbTlCR9a57xogvCl98WLgxZlyY=
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/New_amgtv_top2.png" group-title="General",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MQET539.jpg",Akaku TV1 Hawaii
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VgJeqCQxx12ZjxGTNa6/rtMUbBT+GUy2RJkCnwR0TNKRCaiDK1X1gYZtZT5E68AK3qflpDjrHDNWroO4a39iG0NXptaZ/BezD3PIStDG9mo=
+#EXTINF:-1 tvg-logo="https://cdn.akaku.org/Channel53-147x150.png" group-title="Government",Akaku TV1 Hawaii
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MQET539.jpg",Akaku TV2 Hawaii
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VgJeqCQxx12ZjxGTNa6/rtMUbBT+GUy2RJkCnwR0TNKRCaiDK1X1gYZtZT5E68AKeHZPJAuzUbmNfHd9Csnuy0NXptaZ/BezD3PIStDG9mo=
+#EXTINF:-1 tvg-logo="https://cdn.akaku.org/Channel54-147x150.png" group-title="Government",Akaku TV2 Hawaii
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MQET539.jpg",Akaku TV3 Hawaii
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VgJeqCQxx12ZjxGTNa6/rtMUbBT+GUy2RJkCnwR0TNKRCaiDK1X1gYZtZT5E68AKi9i8XMYvUDjPXwC459454UNXptaZ/BezD3PIStDG9mo=
+#EXTINF:-1 tvg-logo="https://cdn.akaku.org/Channel55-147x150.png" group-title="Government",Akaku TV3 Hawaii
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2020/11/contv-vipotv.png",Con TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ZDwvGvi3/9XfYGRdEuNxaR0s3BOLwnMG4PNpU0vxi2qNWdk4QTFkp8CXV7SNbZnpwcqymhHRXfJCTfVuTvWp8bp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/10/24-Hour-Free-Movies-live-vipotv-america-english.png" group-title="Movies",24 Hour Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/256x144_230000/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg",24/7 Retro TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:/usj6Ic7diiBAeeT96Dr36KT4/CEfdvWRO+h2YvMYgf2TgBzcMdN/11KBLgJcO2TjopPcs4zwDcjDdj76zb2zsj+5ntPnFsMMHF7CWfUhbeNaQq+hnHCQE+Oz2g4ZHJ2
+#EXTINF:-1 tvg-id="TVSActionNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-action-network.jpg" group-title="Movies",TVS Action
+https://rpn.bozztv.com/gusa/gusa-tvsrarecollectibles/tracks-v1a1/index-1716938902-now.m3u8
 
-#EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-logo="https://i.imgur.com/VLWDHGs.png",TVS Classic Movies
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6LXbOnQR5pvnmHiPFQWFk+DyLTmJlNeWUwq7wIAEU/76g==
+#EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-classic-movies.png" group-title="Movies",TVS Classic Movies
+https://ifl01.tulix.tv/gusa-tvsclassicmovies/tracks-v1a1/index-1716936838-now.m3u8
 
-#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us" tvg-logo="https://i.imgur.com/5Ygj2DL.jpg",TVS Nostalgia Movies
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6IUxNbbbnd037YKH90JNT4xPW2LW5oa2RTei0SxtNp5pp/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-comedy.jpg" group-title="Movies",TVS Comedy
+https://ifl01.tulix.tv/gusa-tvscomedy/tracks-v1a1/index-1716938342-now.m3u8
 
-#EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-logo="https://i.imgur.com/UsgbmfF.png",TVS Western Movie
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6KhGzl/gzpkm+7fyFh2pCidyLTmJlNeWUwq7wIAEU/76g==
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-drive-in-movie.jpg" group-title="Movies",TVS Drive In Movie
+https://ifl01.tulix.tv/gusa-tvsdriveinmovie/tracks-v1a1/index-1716937994-now.m3u8
 
-#EXTINF:-1 tvg-id="TVSComedyNetwork.us" tvg-logo="https://i.imgur.com/lHvWCyV.jpg",TVS Comedy Network
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6I2s9IyCoRY09/KSENWlsuj8vmahJ6O8J7kq6ESS2gjKw==
+#EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-hollywood-history.jpg" group-title="Movies",TVS Hollywood History
+https://ifl01.tulix.tv/gusa-tvshollywoohistory/tracks-v1a1/index-1716938768-now.m3u8
 
-#EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg",TVS Drive In Movie
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6IpjVdOF2JyFe19AuHLEF2uPXNGnzqDhPK3RpOcfdVhDA==
+#EXTINF:-1 tvg-id="TVSHorrorNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-horror.jpg" group-title="Movies",TVS Horror
+https://rpn.bozztv.com/gusa/gusa-tvshorror/tracks-v1a1/index-1716938240-now.m3u8
 
-#EXTINF:-1 tvg-id="TVSTallyHo.us" tvg-logo="https://i.imgur.com/t0ly2m8.jpg",TVS Tally Ho
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6I6byMmHIWfYATOHVzE0ue0f5O0ZxmCkOYb88QIN75/KA==
+#EXTINF:-1 tvg-id="TVSMainStreet.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-main-street.jpg" group-title="Movies",TVS Main Street
+https://ifl01.tulix.tv/gusa-tvsmainst/tracks-v1a1/index-1716985426-now.m3u8
 
-#EXTINF:-1 tvg-id="TVSTavern.us" tvg-logo="https://i.imgur.com/5UjqDht.jpg",TVS Tavern
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6JRzDyrpWauWWRzt351WEoL+67Su5J5e053jFx7oPKftw==
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-nostalgia-movies.jpg" group-title="Movies",TVS Nostalgia Movies
+https://ifl01.tulix.tv/gusa-tvsNostalgiaMovies/tracks-v1a1/index-1716937612-now.m3u8
 
-#EXTINF:-1 tvg-id="TVSHorrorNetwork.us" tvg-logo="https://i.imgur.com/uNQeGHw.jpg",TVS Horror Network
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6JXaqkIS1tQN3XrkHEDzsXz8vmahJ6O8J7kq6ESS2gjKw==
+#EXTINF:-1 tvg-id="TVSSciFiNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-sci-fi-network.jpg" group-title="Movies",TVS Sci Fi Network
+https://rpn.bozztv.com/gusa/gusa-tvssilodiscount/tracks-v1a1/index-1716939033-now.m3u8
 
-#EXTINF:-1 tvg-id="STIRRComedy.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Comedy
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCxAMZtTcKh5ImcsZYJnDPaNupyq0DkVQ7+Gup5cVt+sWMR0sg1o/GCHBy4HVnTKtz8=
+#EXTINF:-1 tvg-id="TVSTallyHo.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-tally-ho.jpg" group-title="Movies",TVS Tally Ho 
+https://ifl01.tulix.tv/gusa-tvstallyho/tracks-v1a1/index-1716985640-now.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/comedy_classics.jpg",Comedy Classics
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6Kq6iV9kevv+dySw+nF2MuCc/280mZgeOaxLL6jGudazf2+i+7KcvWFPhd1XNaeVrM=
+#EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-logo="https://www.watchyour.tv/channels/logo/.png" group-title="Movies",TVS Western Movie
+https://ifl01.tulix.tv/gusa-tvswesternmovies/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="STIRRWesterns.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Westerns
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCz6et66MmyaO6JML/NFtKIoUsIP3RHIOyFEvEmKtYaJlsR0sg1o/GCHBy4HVnTKtz8=
+#EXTINF:-1 tvg-id="STIRRComedy.us" tvg-logo="https://feedlix.net/tv/us/comedy_classics.jpg" group-title="Movies",Comedy
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://ginikousa.com/channels/logo/tvs-western-movie-network.jpg",Western
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6KhGzl/gzpkm+7fyFh2pCidTF4rwObvqmg5ZtcErzdZH4cKEWSpk57tzCWvJ8dXcz0=
+#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/02/The-Film-Detective-live-vipotv.png" group-title="Movies",The Film Detective
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath Movies
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMt8cKLkoJe4LypfFlSpfI9GrdUhST+5w5B53SaLSG5V+DiuAvo63qFrCW0tpHwkrl
+#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/02/comet-tv-live-vipotv.png" group-title="Movies",Comet TV
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 
-#EXTINF:-1 tvg-id="STIRRMovies.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Movies
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCzgxdR+qDYn17TVbA5N4DVcpAqr/e/bEQK7+mX4UqZ5UcR0sg1o/GCHBy4HVnTKtz8=
+#EXTINF:-1 tvg-id="TVSTavern.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-tavern-tv.jpg" group-title="Undefined",TVS Tavern
+https://ifl01.tulix.tv/gusa-tavern/tracks-v1a1/index-1716938467-now.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zJ5idav.jpg",It’s At The Movies
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Vk0swvVZhxl2pPNa/J2PRJ0EulEwu0B5jTwDLnGDgSnZFHVfUKalrzygdsN8blVyNCWSS+c/8SN6ZpSEutRklq9vRSWOsNLs98tV7aOIetg=
-
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2020/11/vipotv-vipotv.png",Movie TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:JC/kpPgzXBhhPooNXfHrJUMSNNKD3QgjC5ohNzPGnVzFHlPQSdG1I1hak4A8F2CuNQXCRiUEI+MT4yDj5iLjAxdXKSYXRISCJzZr8Gi91Ho/pL4nJeyZu/BS7zMiq3hdhvYRiBYGF3hwQ1yUH9HN/g==
-
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/02/moviemix-tv-live-vipotv.png",Moviemix TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCzQVBN0dOsJB7sNwWiJvnKVzEjJIpBM24x4Ce2yBkUlJsR0sg1o/GCHBy4HVnTKtz8=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K6XKJTr.jpg",Movee 4U
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivFSjfOm6vnwSu/tiWGNofb+5qs2cALVi9M+8nNPdkXHW3ywdIwndDs2fWihHZhYEOsVrpze0LiaLip5ja6g8EE8=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pIuJqYk.png",Movie Kingdom
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:7xITMv4g+SSqaB++LnCl4STm+mFjD6VlHSYgC5t+0mb3+4bZga/dgEmPZvGUI4BhZEjAUL4NgwHS0fbud4vhdg==
-
-#EXTINF:-1 tvg-id="STIRRBlackCinema.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Black Cinema
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCwR+n1NEseJCz3B5YC0FkqlOFd+XcxI3bOIb8mfMZ+KjMR0sg1o/GCHBy4HVnTKtz8=
-
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/02/The-Film-Detective-live-vipotv.png",The Film Detective
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:GIXAFuLYlB/MJ89mho4JjW362AtNTo8nKDqiYJQj5a95sFWMa8mQoOJpCcCcuOIBvPogPS6H8ysleD1hdGcBEQ==
-
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/02/comet-tv-live-vipotv.png",Comet TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCwFH2d0HfictgGA0DwaRknT0s6dWVas41qHTZNjIXLg/8R0sg1o/GCHBy4HVnTKtz8=
-
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/thrillerz.png",Thrillerz
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6K9TEiXh8enjXIob9oZi0hwUNL7eXi4F+l/ixGWwHsN74OK4C+jreoWsJbS2kfCSuU=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ENtRDds.png",American Horrors
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Q0pC8WCyL29SkNDTRZrwwjGLmn40XDFhffUZWbpaMpfpbdBcWnAxuAzvronc6b7W7g5I39RdgmCrK95V8kQsCA==
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/c3Z5i2L.png",Z Living
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ahBpOsrStUNFSCdIdN8rNhjdvAVEh39FJsBYOWNXF2wfNO9xgu7H/A+tmAoQYVwaiHt5ppztJ7RgPYOcVwGoM3cddK/yYOXwpo+lg+OxIkQ=
-
-#EXTINF:-1 tvg-logo="https://watchdust.com/wp-content/uploads/2018/07/dust-white-site-logo-sm.png",Dust
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:wYppSrXMUFzlUbkwcPfQ1XWUA49Z6TV2r1L5/eJQHbzMpkKKyXGOGHAvl2LDooUQ7g5I39RdgmCrK95V8kQsCA==
-
-#EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/ovd-images/70922.png",Showtime
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vYDbnxhlnNRIbNHvvWLzdK7fjp1+86l1hpuR+kk/ppi7H2qyDrguiZ7kkBVOMTF8GjfX/zt0h7PUmY9QBXy7KA==
-
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/pet-parade-network.jpg",Pet Parade
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6KVzCqxiQIGNnxgzpeLus/k/3zsiXdHJPvUL0luDtUVrg==
-
-#EXTINF:-1 tvg-id="STIRRCITY.us" tvg-name="STIRR CITY" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR CITY
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCzewHn9Zu2Zz8z8Mk0EIDupF8N9noDhlfw8TB6OtpKgrMR0sg1o/GCHBy4HVnTKtz8=
-
-#EXTINF:-1 tvg-id="STIRRFit.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Fit
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCxfbyPTZsfap2rs+6aRK9n1edWSaOZBS7uq6wSmlUYtScR0sg1o/GCHBy4HVnTKtz8=
-
-#EXTINF:-1 tvg-id="STIRRBiographies.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Biographies
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCyOTj1OQW1CN5+CdjyAx+upB9w8ox05eYzRxRE6ZXZZhcR0sg1o/GCHBy4HVnTKtz8=
-
-#EXTINF:-1 tvg-logo="http://ginikousa.com/channels/logo/documentaries-4u.jpg",Documentaries 4U
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivO7inOLVCsLSkTF/3T09+dd/j6ZYVGHtPoBh2TOPQy9v0HHhE1WMZwYVFVP8I2jIwtKroa+L21yHoIRlC5e+1HoiUrlNAJtXtu5tGNz4EPmV
-
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/02/docurama-channel-live-vipotv.png",Docurama
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vmeKyYqX1DzbsZxvJXN/MSWCfjYigvdS0SCbZHGIhZqy1LBZ7Z3EIq9mNypG4efpIafatkMMR0lZ/fTWcyPh1JU8B1k4ZwEfi5YZ+oGvUosepK5YyZ6f90K41RSUKI0I
-
-#EXTINF:-1 tvg-logo="http://ginikousa.com/channels/logo/xzone.png",X-Zone Channel
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6Jx2zGq+WVpScWletNh3abdhj2J3DgOJqJ/vEkVosF+FA==
-
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2020/11/hunt-channel-vipo-tv.png",Hunt Channel
+#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2020/11/hunt-channel-vipo-tv.png" group-title="Fishing and Hunting",Hunt Channel
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:dErN319tQVqdKsqSi5JpqVqWUDakXo2r31NqXeb2+8cTF+ezp5RKAA0ibU+6sNiR4hw1Jvq2xPnvkNu+HmtmBu4OSN/UXYJgqyveVfJELAg=
+
+#EXTINF:-1 tvg-logo="https://www.tikilive.com/public/files/shows/119/119489/25947-800x450-FFFFFF.jpg",The Outdoor Cooking Channel
+https://feedlix.net/videos/promo.mp4
+#EXTSEC:/FJ6NC/82H47kx9R6B1TxpTSVpFY7tvPsh+kZQr0fZ4t6L5XGXfJ4kZ4U8IvH3sqlIql0ncHKuwSN1rsp584nWXmpxbPrdrfH6OFHUm4u/n1dbXw58WN4k3YGsnfc9ynXIfxHuZwYUP4IWrgihG3Mw==
 
 #EXTINF:-1 tvg-id="STIRRCooks.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Cooks
 https://feedlix.net/videos/promo.mp4
