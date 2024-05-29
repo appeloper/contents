@@ -399,6 +399,9 @@ https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/02/comet-tv-live-vipotv.png" group-title="Movies",Comet TV
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/us-folk-tv.jpg" group-title="Movies",Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVSTallyHo.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-tally-ho.jpg" group-title="Entertainment",TVS Tally Ho
 https://ifl01.tulix.tv/gusa-tvstallyho/tracks-v1a1/index-1717002992-now.m3u8
 
@@ -447,88 +450,41 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVSPortOCall.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-travel-network.jpg" group-title="Kitchen",TVS TVS Port O Call
 https://ifl01.tulix.tv/gusa-tvstravel/tracks-v1a1/index-1717003118-now.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://vtv.studio/wp-content/uploads/2020/08/Tastemade-logo.png" group-title="Kitchen",Tastemade
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34929b38fd8794231ed1bb4f0f59a40c.jpg" group-title="Kitchen",Gusto TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/4542d9ab-6fc4-40da-bdf0-8ea8ad573c3c/1.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://mma.prnewswire.com/media/1573599/Tastemade_logo.jpg" group-title="Kitchen",Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png",AFV Family
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:lkf8U4S8T4S8uj37keanORUcrJbDO837iB3rK7owBD6NjqxFtcOdpt3GpZ7HSsy4fEQZ674OPhqgj4afjuqCFa9vRSWOsNLs98tV7aOIetg=
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d34bb9943578ac205e516d01a607443f.jpg" group-title="Kitchen",America's Test Kitchen
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/b609a05d-4313-4be3-9964-f2cddac78cb5/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-family-friendly-entertainment-1487.jpg",Family Friendly Entertainment
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:WWKPfi1Q9QgYMv/Bf87GJ6lE/WOWQ7r2f88G9c8k5TlF6HWEwiu01Tak+rwrrl4wrVOxBylHtF1fFqjmh9M+oA==
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/ul4Qbo06.png" group-title="Kitchen",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TVSFamilyChannel.us" tvg-logo="https://i.imgur.com/iuQyJ7f.jpg",TVS Family Channel
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6K6AdL9TqwlFY08aRAvLcDR0wN8qoY5iXZh3LP3Xw3Rbg==
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ccd2ef0156d9b8e8759b12cfd28aa4c3.jpg" group-title="Entertainment",AFV Family
+https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/54b826b3-dab3-4725-8690-9ecfee9703a0/1.m3u8
 
-#EXTINF:-1 tvg-id="TVSTravelNetwork.us" tvg-logo="https://i.imgur.com/Bgqy4fL.jpg",TVS Travel Network
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6IMm4j7qH0GxfTp8gkL7Qkz8vmahJ6O8J7kq6ESS2gjKw==
+#EXTINF:-1 tvg-logo="https://familyfriendlye.com/wp-content/uploads/2023/09/cropped-FFE-web-header-01.png" group-title="Entertainment",Family Friendly Entertainment
+https://hls-live-linear-fs.cdn01.net/NUF6TXlJbU15WWpOMklETTBZRE80SXpZMUVUT2tkak53VXpOeUVHT2hOak4xTUdad0l6WTFnSE1fMDEzMzAxNzE3MV9EWENJTkVUQVBRTlg/LiveChannels/stream_51429/chunklist.m3u8?channel_id=51429&source=othersites&device_id=9668425141-c1fb9d542b1a905188660a82e928d791&lcp=2&client_id=964298190646291082&play_id=1717016910467880
 
-#EXTINF:-1 tvg-id="BigLifeTV.us" tvg-logo="https://i.imgur.com/bjTeasa.png",Big Life TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:AvYAuoucSa0INMb+JXCbnNeKpWGZ45JvVjkb7N7FxBIjY9/zESar2xLz/IlI0LkNyqqSytVvAcQPVwANDTyxQA==
+#EXTINF:-1 tvg-id="OURTV.us" tvg-logo="https://i.imgur.com/9uz9lyg.png" group-title="Religious",Our TV
+https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="BizTVHD.us" tvg-logo="https://i.imgur.com/4pEmcFH.png",Biz TV HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:CVJzYCcRzn2dJAC8jrdyLDuIeseeGQFiirEHUYNoMY48q97rCfqCRB5Ael7gJtcGyqqSytVvAcQPVwANDTyxQA==
+#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2019/05/buzzrtv.png" group-title="Entertainment",Buzzr TV
+https://buzzrota-ono.amagi.tv/playlist360p.m3u8
 
-#EXTINF:-1 tvg-id="BlackWidowTV.us" tvg-logo="https://i.imgur.com/KjDQSPu.jpg",Black Widow TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Vk0swvVZhxl2pPNa/J2PRJ0EulEwu0B5jTwDLnGDgSktWUiuFX57xDOjvBdddKSMQjc30gxzpWbs18vBA71I6g==
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/thumbh_20220531_183818_270.jpg" group-title="Travel",Travel 4K
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/212e8ddf-1ec3-4242-986c-e7d2415b7ba5/2.m3u8
 
-#EXTINF:-1 tvg-id="NBCLX.us" tvg-logo="https://i.imgur.com/JSCsJc5.png",NBCLX
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:CP4+GENJm1RoNgCcMCxIoZdcodNja+EK2nZxGZS1dT2cJWfn6dGaUkJo14CGOQtTQyGvvgLrrAt1Gp0zTesvre4OSN/UXYJgqyveVfJELAg=
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23135/always-funny/thumbh_20231121_180938_270.png" group-title="Entertainment",Always Funny
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny/881e718c-d98c-4595-b37d-bb1787ab2a89/4.m3u8
 
-#EXTINF:-1 tvg-id="LiveLive.us" tvg-logo="https://i.imgur.com/OaSFTnV.png",Live Live
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCx11r4ntlywwePuKLjDdNR0b//GKTJ+AKM6qIYbxpz4AcR0sg1o/GCHBy4HVnTKtz8=
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841_270.jpg" group-title="Undefined",Kaloopy
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/5714e6db-cf56-4404-bbfd-62ed114b083d/2.m3u8
 
-#EXTINF:-1 tvg-id="OURTV.us" tvg-logo="https://i.imgur.com/9uz9lyg.png",Our TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2PeZdeBSnfse1wawoTAPPzP6jxIipgWfm6zAacbihEmSPa8x0Sl+y5OMgApY2D+ROKUMZ7J60R0lBtwio51TYjiwi87ei+oXI1K+k4OJlpA=
-
-#EXTINF:-1 tvg-id="BlazeTV.us tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/1280px-Blaze_-_2016_logo.svg.png",Blaze TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:unlbdILauVnCV/84MMz12Ov5CPl1CaT/XzpTw8jEOv5SViLRqyH8ZerZlyqE7Pl+WF93AqIHBCDfjZS3IF9WsiIumGZ6eyVwibJSf423tsQ=
-
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2019/05/buzzrtv.png",Buzzr TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:v6llmXXsJ3inyFSC98DMJvGa7wfevBJP5tyg+5hkkJYvmPoUAXIUyTv5sMvbDZfe
-
-#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/ul4Qbo06.png",Key TV
-https://feedlix.net/videos/promo.mp4XW30k+JlzfGQGyA3WtijondY6EUaLuuKWKGRzWL2vIx+0odEDCeERbrCyJgW2QaXnmb9EgqLzgYJ7gg8r2ZLkg==
-#EXTSEC:XW30k+JlzfGQGyA3WtijondY6EUaLuuKWKGRzWL2vIx+0odEDCeERbrCyJgW2QaXnmb9EgqLzgYJ7gg8r2ZLkg==
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/tvw.jpg",TVW
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NQhR3u7xq2ybW7mvjrc50ijXdEEM6TKAhv6wTVIOWtIHhvQFgBSmUQNdZKizxHskWdYgf6RdF/VncjSyn1GdqJOeZXFpHii3XDMUF2+7jPY=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FVWqYQG.png",Dove Channel
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vmeKyYqX1DzbsZxvJXN/MSWCfjYigvdS0SCbZHGIhZqy1LBZ7Z3EIq9mNypG4efpIafatkMMR0lZ/fTWcyPh1ON5B9d3haChBIbNMN4Xfl1V+A4MfUblj653VvVRg43G
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hV46zMX.png",Folk TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:B+SPe19qt/2GXMkbFUGRyxtG2SDPJDqPpCyQ2zZaZb/XGaSknvYe9Xwji6YJf6d9cklPD+JAGW/3UI5Igen4RnmwFKTAsFp6pMPvs6Fv07Q=
-
-#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-logo="https://i.imgur.com/WrYEcXp.png",Young Hollywood
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VLOlkuPU/600O9mkSNdJOpaBw4XO9WlUhwX+GeTARLrxAIMOYRCtB86KestXCV3j9ALRNHhFeebPo2It9y+ADA==
-
-#EXTINF:-1 tvg-id="IGN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/IGN_Entertainment_Logo.svg/500px-IGN_Entertainment_Logo.svg.png",IGN
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ZLDFvjr41xDn+lkdR21TmMZ4pnlhMWPWNBIZ8t/eYNyvb0UljrDS7PfLVe2jiHrY
-
-#EXTINF:-1 tvg-id="ChiveTV.us" tvg-logo="https://i.imgur.com/tTmLQwo.png",Chive TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VLOlkuPU/600O9mkSNdJOssLeh9UzaTBZOy2kGityJAZ6B4p11sjX8C8z1q8dYCU9ALRNHhFeebPo2It9y+ADA==
-
-#EXTINF:-1 tvg-id="EverydayHeroes.us" tvg-logo="https://i.imgur.com/FYGPodV.jpg",Everyday Heroes
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VLOlkuPU/600O9mkSNdJOvrxT6eE6sdWagrDlFMosQXtphxASoONkQ6lyEahWK4C9ALRNHhFeebPo2It9y+ADA==
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23108/craftsytv/thumbh_20240501_174141_270.jpg" group-title="Undefined",Craftsy TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/f71209dc-946b-4f05-b48c-1e63cc1f680a/1.m3u8
 
 #EXTINF:-1 tvg-id="BUTV10BostonUniversity.us" tvg-logo="http://www.butv10.com/wp-content/themes/butv10/_images/favicon.png",BUTV10 (Boston University)
 https://feedlix.net/videos/promo.mp4
