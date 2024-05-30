@@ -567,21 +567,29 @@ https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/531102/horizontal/Praise-Him1480x840.1659537466.jpg" group-title="Religious",3ABN Music
 https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/love_world.jpg",Love World
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4yyz09dFoHWQ1+9ijZn9Qt7GlKd9LIe7dW4WEqAeQqTltCG2nfcxXTOU0Tgymcg9LAPgNSbuQGaM4/ymxiiuilHQvDvnoQHAAwUd+lp31hczaG0zd9O9JGd9qRNxQO1S
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/love_world.jpg" group-title="Religious",Love World
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsatmobile/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/363ab328b7016878551f2fc04efe34262c18a93fd952c925ad07df1d9dc236e9.png",Harvest TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:sHcoEq/f3+S6/2eysWAzFIRNOzJjSZEU6cRyoZx/jrIU8W5om4KeAYhu33xbDRTuVMYVzx0pzVKXh5EFqJ3G157YL/L08MYA5RghSjyL+KCDiuAvo63qFrCW0tpHwkrl
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/363ab328b7016878551f2fc04efe34262c18a93fd952c925ad07df1d9dc236e9.png" group-title="Religious",Harvest TV
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/com5b4BBKmI/hqdefault.jpg",CTNi
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:YEbirTreYURJjYpmQiH6Bfll2zpr7aQ7kP3beYE+/jsLEKCTaibW9zSHRsOlXGooeZskJPIwdC189Uo/CQDTl4zwRL4r1I8FWqBgs4YfUYzU8b46KrQvtpnyLJxFm4UIZBTanqrm5dr6TcaJTioT+A==
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/com5b4BBKmI/hqdefault.jpg" group-title="Religious",CTNi
+https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/chunklist_w423933441_b1564000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/768px-The_Weather_Channel_logo_2005-present.svg.png",The Weather Channel
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:eyAJqzHow5yN8Y2dikbwASSYbRCBOBbNVHf3mABC2ale6IxDer9t1pGMFCXZJS6dr18JMCT8LMOlMQkR2WVRWA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/768px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Weather",The Weather Channel
+https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/52d26b4db7686e6b1cd4dc8f83a8e002.jpg" group-title="Weather",The Weather Channel (spanish)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
+
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://www.accuweather.com/images/logos/aw-logo-og-meta.png" group-title="Weather",AccuWeather Now
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVWeatherNation.us" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2022/11/18/WeatherNation_Channel_1080x1080_A_Square-kwebdk7d.png" group-title="Weather",Pluto TV Weather Nation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="WeatherSpy.in" tvg-logo="https://www.tubefilter.com/wp-content/uploads/2020/07/weather-spy.jpg" group-title="Weather",WeatherSpy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.peaceandlovejewelry.com/wp-content/uploads/2019/08/shophq-logo.jpg",ShopHQ
 https://feedlix.net/videos/promo.mp4
