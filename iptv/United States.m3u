@@ -486,113 +486,86 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23108/craftsytv/thumbh_20240501_174141_270.jpg" group-title="Undefined",Craftsy TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/f71209dc-946b-4f05-b48c-1e63cc1f680a/1.m3u8
 
-#EXTINF:-1 tvg-id="BUTV10BostonUniversity.us" tvg-logo="http://www.butv10.com/wp-content/themes/butv10/_images/favicon.png",BUTV10 (Boston University)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:05Kx5nWwQ0CRJ7kZUl/Lr8QoVEHmfchOWL3o9gq3waPFfYNMk+l5uj4a0KPJbsvjn8jPqsfZ38ByivscA8jGZ53U2Kp+wQ9G8x4fDD3Fplk=
+#EXTINF:-1 tvg-id="Denver8TV.us" tvg-logo="https://www.denvergov.org/files/assets/public/v/1/citywide-marketing/images/denver8tv-logo.jpg" group-title="Undefined",Denver 8 TV
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Denver8TV.us" tvg-logo="https://i.imgur.com/q66RMSc.png",Denver 8 TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:oOaHVA67V1ZyxDwknXuo1NCxGGIZtiMWZjfa9GBVdF0ejT3bxR9RhWaiXkNwm9IejFXhJA3qzAnvww0foMo/JSR9a57xogvCl98WLgxZlyY=
+#EXTINF:-1 tvg-logo="http://ccxstudios.com/wp-content/uploads/2020/08/CCX-Studio-Home.png" group-title="Undefined",CCX Media 1 Minneapolis
+https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://ccxstudios.com/wp-content/uploads/2020/08/CCX-Studio-Home.png",CCX1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:46ifM60/RvGz67gQtc19aV8rzIA6eodedM4M17w7UvdS6g1C/EeJdbR6Gbd9pzJnAVP+U1GIIGW6PW9sxLFXBrp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-logo="http://ccxstudios.com/wp-content/uploads/2020/08/CCX-Studio-Home.png" group-title="Undefined",CCX Media 2 Minneapolis
+https://cablecast.nwct.org/live-11/live/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/classic_arts_showcase.png",Classic Arts Showcase
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:xGBJx++pF/dtvgm+OC9mm+VdfsqnyPZtVIZHJpDakS0TruGhmgi2xIooTGXAyZWPzgsIpqi2f1DpwRgqu9SSLA==
+#EXTINF:-1 tvg-logo="http://ccxstudios.com/wp-content/uploads/2020/08/CCX-Studio-Home.png" group-title="Undefined",CCX Media 3 Minneapolis
+https://cablecast.nwct.org/live-12/live/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/betterlife_tvs.png",Better Health TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5xZRSpyfa2d7/FGl0bcGjj0maw6w7dyY1ob9SWNqA/bEPGtXj88AXTHOhXw59BG5vKJjUtxm/ics9eVf6EoBUe4OSN/UXYJgqyveVfJELAg=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/classic_arts_showcase.png" group-title="Arts",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/betterlife_tvs.png",Better Life TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5xZRSpyfa2d7/FGl0bcGjj0maw6w7dyY1ob9SWNqA/aVrHrl53uZsLRqECzFIASe2jIwfvyXOh2+ZdfIKZg5crp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/betterlife_tvs.png" group-title="Health",Better Health TV
+https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/betterlife_tvs.png",Better Nature TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5xZRSpyfa2d7/FGl0bcGjj0maw6w7dyY1ob9SWNqA/b+Odj19BajzzMgIJzag1nCBbVyA/4UtXo50wBv1V1wpu4OSN/UXYJgqyveVfJELAg=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/betterlife_tvs.png" group-title="Nature",Better Nature TV
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/ctn.png",CTN TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2g08bWyzl/1LY0hxEMGXLoXthj1KNcqWRX5ApHPgNSmauPeEqhMTmlw5nkvEiKT+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/ctn.png" group-title="Religious",CTN TV
+https://ctntv.getstreamhosting.com:1936/CTNTV/CTNTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2020/11/ctn-lifrsty-vipotv.png",CTN Lifestyle TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:raVcAR0QYFH0Kzmai39oCMd8hALYmY0jvkRFHaMGcVy+jGRjfBGtLhYuqYIhWE4Axj0kw8GlHPFIvyGBEz6kyPbu3d/sRAd0Ahy2NH1/r23uDkjf1F2CYKsr3lXyRCwI
+#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2020/11/ctn-lifrsty-vipotv.png" group-title="Religious",CTN Lifestyle TV
+https://ctntv.getstreamhosting.com:1936/Lifestyle/Lifestyle/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/He6Ugfn.jpg",CT-N Connecticut Live 1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:67HC0CHGRoi6b9fFUtxr+dV6qtHEwW0xXhpnWZ7+clcRSqy0+reRj4aXoOrwCm16uvyYjkpAHBfZ7Qyi/GJUCYOK4C+jreoWsJbS2kfCSuU=
+#EXTINF:-1 tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="Religious",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/He6Ugfn.jpg",CT-N Connecticut Live 2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:67HC0CHGRoi6b9fFUtxr+eOlRPetjLe8fK9kXJd8tnsRSqy0+reRj4aXoOrwCm16PucMItj1V5/+qaY5lp5h8YOK4C+jreoWsJbS2kfCSuU=
+#EXTINF:-1 tvg-id="CBNFamily.us" tvg-logo="https://image.roku.com/developer_channels/prod/b8a7fbc8508bddc8edc12b9edd8baccfed4287d230b63c3e750777d65dd9007d.png" group-title="Religious",CBN Family
+https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png",CBN News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1NicNkHMizvWaq0cp7MJrxc8J8QHjd4o75A8e0+YfeguCTBhpHzc1SHQZ1Y2r8QsYihm47JBjo03hU71lT4pfA==
+#EXTINF:-1 tvg-id="CBNEspanol.us" tvg-logo="https://www.cbn.com/partners/video/img/live_channel/cbn-espanol-channel-thumb.png" group-title="Religious",CBN Español
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CBNFamily.us" tvg-logo="https://image.roku.com/developer_channels/prod/b8a7fbc8508bddc8edc12b9edd8baccfed4287d230b63c3e750777d65dd9007d.png",CBN Family
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:uh3ZWjBwtJlAAHOIrePeRKf4gbNfkzKV2gD/BwiJ+tErXpE7DE30v5rrPuXNhK81q+BuarENi8cQayjo4uZm1w==
+#EXTINF:-1 tvg-logo="http://channels.roku.com/images/4a99786528df4a7d8bd1c5044965428f-hd.jpg" group-title="Religious",Bible Explorations TV
+http://uni10rtmp.tulix.tv:1935/be-tv/be-tv.stream/chunklist_w74646841.m3u8
 
-#EXTINF:-1 tvg-id="CBNEspanol.us" tvg-logo="https://www.cbn.com/partners/video/img/live_channel/cbn-espanol-channel-thumb.png",CBN Español
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:uh3ZWjBwtJlAAHOIrePeRKf4gbNfkzKV2gD/BwiJ+tE/78hn873yhWAw2876mDmyq+BuarENi8cQayjo4uZm1w==
+#EXTINF:-1 tvg-id="GospelTruthTV.us" tvg-logo="https://www.gospeltruth.tv/wp-content/themes/gttv-2021/src/lib/images/gttv_2020_logos-tm-regis_lg-blue_20201001.png" group-title="Religious",Gospel Truth TV
+https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://channels.roku.com/images/4a99786528df4a7d8bd1c5044965428f-hd.jpg",Bible Explorations TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:wZPNe1GInuSvfrv23FqIxXN2YCv/HxFgek8agCEeUwYdEbvePN1PQjkfChBeMmKBKeaL0cyt8qZxy1RZY7I39WX23xEB4IKrhzvBJvRI1mo=
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786612926153195521/YU5IGv0L_400x400.jpg" group-title="Religious",Catholic TV Watertown Massachusetts
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
 
-#EXTINF:-1 tvg-id="GospelTruthTV.us" tvg-logo="https://i.imgur.com/7vQrPvk.png",Gospel Truth TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ykZq6JEyN9enE+uL/JzO7BIoEksFixHuq6sVxJl1Nd1kfUAC2NSMeYvrGsntO+VA
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/212-2124941_no-logo-hope-channel-logo-clipart.png" group-title="Religious",Hope International Channel
+https://videodelivery.net/1eaa18c55e2558a400eab00dbde2caca/manifest/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786612926153195521/YU5IGv0L_400x400.jpg",Catholic TV Watertown Massachusetts
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:T+hii3bhnmEP/44CoVxaKP2I6HJa3xIZ+aXoW4llg3vnVuDsJlj0OUAVwA+OOjQijpZjx7yvIJboyEqm2BagexbzeJkwYY8G9XbzCTraeex4Naveju/W6HNHmp5sqfYw
+#EXTINF:-1 tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" group-title="Religious",EWTN
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/212-2124941_no-logo-hope-channel-logo-clipart.png",Hope International Channel
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:tC4q9/DVF8Nyx7+1DMvbIaD92kIMmHrenoRIqmOqsHyserteqrvkiVF1zDM8zvxbz1hpL6h6ycj9rrvox2CdOPIbAW8+NcQEr+r5NOlQWTxRN6Jty3mRnREg87hoHjwM
+#EXTINF:-1 tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" group-title="Religious",EWTN (spanish)
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png",EWTN
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dDyLtS8CKhHxyh12RjyGS/e4gyVTKkjogYSaipxf+O8fuxOfSqp6ivtL7O/c6ttfDQhjUKkwE5gaTfoSTDHw2qv4CGukWj0mRSiw3uIaOdOVo5BWsDNEkcyNXaa3xz3E
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/526675/horizontal/3ABN--1480x840.1659535621.jpg" group-title="Religious",3ABN
+https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png",EWTN (spanish)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dDyLtS8CKhHxyh12RjyGSwznss51GItTwPAWZ26Cyit2lkQWWxhbtKdM30DB0fro079z0T++bFxesF8MLngbxqv4CGukWj0mRSiw3uIaOdOVo5BWsDNEkcyNXaa3xz3E
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/530218/horizontal/International1480x840.1659537368.jpg" group-title="Religious",3ABN International
+https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg",3ABN
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:exFCOWBZOodrNdlT4gxcBGGYLtiG6Yty7Q815g+tMvbk/2bZIje5Y66xJbHJnLino1KYUGbDg4YGHRadc1Na2Y1pCr6GccJAT47PaDhkcnY=
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/739696/horizontal/French-1480x840.1659539108.jpg" group-title="Religious",3ABN France
+https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg",3ABN International
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:exFCOWBZOodrNdlT4gxcBGGYLtiG6Yty7Q815g+tMvabr8TypT/+AIGfzDpSL1fIo1KYUGbDg4YGHRadc1Na2Y1pCr6GccJAT47PaDhkcnY=
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/534693/horizontal/Latino1480x840.1659537624.jpg" group-title="Religious",3ABN Latino
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg",3ABN France
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:exFCOWBZOodrNdlT4gxcBGGYLtiG6Yty7Q815g+tMvaiXy9vdfBYH35UBCy4+2nOeSG8zksP43zvEnjm4W5qeY1pCr6GccJAT47PaDhkcnY=
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/739766/horizontal/Russia-1480x840.1659538945.jpg" group-title="Religious",3ABN Russia
+https://3abn-live.akamaized.net//hls/live/2010548/Russia/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg",3ABN Latino
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:exFCOWBZOodrNdlT4gxcBGGYLtiG6Yty7Q815g+tMvYzmq0a4Mq80ig2YhIika3yo1KYUGbDg4YGHRadc1Na2Y1pCr6GccJAT47PaDhkcnY=
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/530203/horizontal/D2D-1480x840.1659535818.jpg?auto=webp&width=700" group-title="Religious",3ABN Dare to Dream
+https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg",3ABN Russia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:exFCOWBZOodrNdlT4gxcBGGYLtiG6Yty7Q815g+tMvbK6GVRfDGQtQXQr4mozPwAo1KYUGbDg4YGHRadc1Na2Y1pCr6GccJAT47PaDhkcnY=
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/527372/horizontal/Proclaim-1480x840.1659535750.jpg" group-title="Religious",3ABN Proclaim
+https://3abn-live.akamaized.net/hls/live/2010549/Proclaim/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg",3ABN Dare to Dream
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:exFCOWBZOodrNdlT4gxcBGGYLtiG6Yty7Q815g+tMvbsYPqoefjY9gNrhzGElnWCo1KYUGbDg4YGHRadc1Na2Y1pCr6GccJAT47PaDhkcnY=
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/532608/horizontal/Kids1480x840.1659537556.jpg" group-title="Religious",3ABN Kids
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg",3ABN Proclaim
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:exFCOWBZOodrNdlT4gxcBGGYLtiG6Yty7Q815g+tMvY2RgFe5+23+MnYtkPDQh4bo1KYUGbDg4YGHRadc1Na2Y1pCr6GccJAT47PaDhkcnY=
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/531102/horizontal/Praise-Him1480x840.1659537466.jpg" group-title="Religious",3ABN Music
+https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/love_world.jpg",Love World
 https://feedlix.net/videos/promo.mp4
