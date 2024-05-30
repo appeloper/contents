@@ -603,80 +603,68 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e
 #EXTINF:-1 tvg-id="WeatherSpy.in" tvg-logo="https://www.tubefilter.com/wp-content/uploads/2020/07/weather-spy.jpg" group-title="Weather",WeatherSpy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.peaceandlovejewelry.com/wp-content/uploads/2019/08/shophq-logo.jpg" group-title="Shopping",ShopHQ
+https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/dth-images/2016/02/25/Untitled-1.jpg" group-title="Shopping",Rocks Gemporia
+https://lo2-1.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923932313460736001/vTVGplAo_400x400.jpg" group-title="Shopping",TSC
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
+#EXTINF:-1 tvg-id="QVC.us" tvg-logo="https://www.qurateretailgroup.com/wp-content/uploads/qvc-newco/2019/02/VVZaRFgx-1024x384.jpg" group-title="Shopping",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 
+#EXTINF:-1 tvg-id="QVC2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/QVC2_logo_2019.svg/1280px-QVC2_logo_2019.svg.png" group-title="Shopping",QVC 2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 
+#EXTINF:-1 tvg-id="QVC3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/QVC3_logo%2C_1_April_2019.png" group-title="Shopping",QVC 3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 
+#EXTINF:-1 tvg-id="QVCKitchen.us" tvg-logo="https://photos.live-tv-channels.org/tv-logo/qvc-in-the-kitchen-9626.jpg" group-title="Shopping",QVC In the Kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.peaceandlovejewelry.com/wp-content/uploads/2019/08/shophq-logo.jpg",ShopHQ
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:LkK7IvDGOGjlyZSphVvx6YBaJxXhLxxsNNH0JG3T5lAwosA9O92Rw3BTJ80y8YnY06dbiZagESBWdzuIwTFA6tP0XDXsewy+jAXNcgeqA6c=
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/956540624374763521/DE4nVEfu.jpg" group-title="Shopping",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/dth-images/2016/02/25/Untitled-1.jpg",Rocks Gemporia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:/N6IU+ORhZd0cYwXKUoXk6KelACMWp0p59MBBn4tiNGjG1AGFl+Q1UcYfynKTsEtLvbC/OAO6w5aEFUdNf7GaktCcLifojUB9UZkD0bpjrRwHGeme9NftS5hPK1JBOBNun2E5oLtxZUI+UoQVRFxzA==
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/HSN2_2010_flat.png", group-title="Shopping"HSN 2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923932313460736001/vTVGplAo_400x400.jpg",TSC
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IJbqnnkIwNYjzQBztZNwSsXmAFITajfVND0GV1g1O8OVnl6jRMfGwICSJLFfct7UMxy3fmI8MYuIsIb07HCK8cR0sg1o/GCHBy4HVnTKtz8=
+#EXTINF:-1 tvg-id="FashionFinds.us" tvg-logo="https://i.ytimg.com/vi/jeP5eZYMzcM/mqdefault.jpg" group-title="Shopping",Fashion Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.qurateretailgroup.com/wp-content/uploads/qvc-newco/2019/02/VVZaRFgx-1024x384.jpg",QVC
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:8Jj5Fs/wM4shnkWLouAcT50gWEJ4RjiF6bR2t8k53XujoNXmrE2T/pp0AjCfEe01kkYOpp8nE8kxyVxuYmeEO3W38zHC+TUawpzXyD5yNJtZ2Q4aT/RQH5wU6rauX9US
+#EXTINF:-1 tvg-id="JewelryTV.us" tvg-logo="https://images.jtv.com/media/jtv-site/resources/images/jtv-30-logo-lg.png" group-title="Shopping",Jewelry Television
+https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.qurateretailgroup.com/wp-content/uploads/qvc-newco/2019/02/VVZaRFgx-1024x384.jpg",QVC 2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:X/fZ66CufUmjz+aIvFCFe0v8EWpIPD/KH6nChdaQOaPVaSZir7pyrEg+mUFEMwy+dvK2fQ0JnFPgqLd2FT0ByTGew+Mk87Q205Mylz0bEPnUe9LG7rE+rk0Z57Tp6Wru
+#EXTINF:-1 tvg-id="AmericasAuctionChannel.us" tvg-logo="https://images.liveauctioneers.com/houses/logos/lg/aantv_large.jpg" group-title="Shopping",America's Auction Channel
+https://ythls.armelin.one/channel/UCMeyWH1vyb1TT6Vimp4MqLA.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.qurateretailgroup.com/wp-content/uploads/qvc-newco/2019/02/VVZaRFgx-1024x384.jpg",QVC 3
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:3UvWc+p6t2jmqUfskp9NlEv8EWpIPD/KH6nChdaQOaMfODmaZo3+V1ia7Xd5A+WpBeyAzcIFjHdSLJjizCTJnzGew+Mk87Q205Mylz0bEPnUe9LG7rE+rk0Z57Tp6Wru
+#EXTINF:-1 tvg-id="HorseShoppingChannel.us" tvg-logo="https://horseshoppingchanneltexas.com/wp-content/uploads/2020/11/Horse-Shopping-Channel-logo.png" group-title="Shopping",Horse Shopping Channel
+https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.qurateretailgroup.com/wp-content/uploads/qvc-newco/2019/02/VVZaRFgx-1024x384.jpg",QVC Now
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:aYZs9Z1sQbWN4hgPi9/0Akv8EWpIPD/KH6nChdaQOaMweZMhUrtcOcGi2ER2pkN4vExkHEwcW8sfrzJaDfn+LjGew+Mk87Q205Mylz0bEPnUe9LG7rE+rk0Z57Tp6Wru
-	
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/956540624374763521/DE4nVEfu.jpg",HSN
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:7GL4ExLDlmZvBI/rmG4vrqf1Nc2EMCGOCmEAdgXzMfwdmpoZc5v2HZHov4bdxEms+pyZI2SzYx68htqXbDaRIQ==
+#EXTINF:-1 tvg-id="KCKSLD10.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png" group-title="Shopping",Shop LC
+https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/956540624374763521/DE4nVEfu.jpg",HSN 2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:AW0wFs3hKYYGWMjavU4kBWk2su3IihvFvwCLkKGYWXhQlkrksHOHdtvz1xx2bx5fsWEJKdhYRc8pzhmBSTob0J/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/black-jesus.jpg" group-title="Undefined",Adult Swim - Black Jesus
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/smart_lifestyle.png",Smart Lifestyle TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:YHgY9MAcny0Mnyb+bZqzJ5dcodNja+EK2nZxGZS1dT2tmHBzOPUG7scFtAbHX3uvw3B95TFLhlxW1IdH1PQusxB8OQodi2NqBHcqvZoBsCsxrRnRgeyrHOUCQc+mGJgR639oeSFWx7XNO3TWXILq+ckpZUMxsRuYVi7uRB067vM=
+#EXTINF:-1 tvg-logo="https://media.cdn.adultswim.com/uploads/20190710/197101518217-channel5thumb.jpg" group-title="Undefined",Adult Swim - Channel 5
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/black-jesus.jpg",Adult Swim - Black Jesus
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rH58NQ9eaMLDgZmMVq2wVyd2HTYnJ/geQeZPR2dVtOvKfyB2KbaLWlYbQSiFGyM6Mk=
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EWizEK-WkAc-LfB.jpg" group-title="Undefined",Adult Swim - Infomercials
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.cdn.adultswim.com/uploads/20190710/197101518217-channel5thumb.jpg",Adult Swim - Channel 5
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rEHqqKaXgNGNu8m1mo4eVhgJYkZ9uSbPylDaHmg07pBGu4OSN/UXYJgqyveVfJELAg=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/laststreaontheleft.jpg" group-title="Undefined",Adult Swim - Last Stream on the Left
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EWizEK-WkAc-LfB.jpg",Adult Swim - Infomercials
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rHXv3VGV3VB7NHKWiT0cZkaiZ57HYWdqiHS2hdw1HQO3h0CBxz3NqPzpszkcG8lCsM=
+#EXTINF:-1 tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2019/02/20/TATOCHATCircle.jpg" group-title="Undefined",Adult Swim - Off the Air/Smalls
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/laststreaontheleft.jpg",Adult Swim - Last Stream on the Left
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rEFpzxNyDTxKPualhOhQKgUKsiFuiT7iHx8q8eWVNJ3H7p9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Eric_andre_show_title_screen.jpg" group-title="Undefined",Adult Swim - The Eric Andre Show
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2019/02/20/TATOCHATCircle.jpg",Adult Swim - Off the Air/Smalls
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rHJC3igHhsCSJw0ODxwKmVkT6GWfPI7oQJil2nt4PG2BvyB2KbaLWlYbQSiFGyM6Mk=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Eric_andre_show_title_screen.jpg",Adult Swim - The Eric Andre Show
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rGBqWEOmslXjydLO9NKu9xbw+7MSVs/JVB9iUNe/4psqVY6zCvXC9beTiSSHdRcjTU=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Your_Pretty_Face_is_Going_to_Hell.png",Adult Swim - Your Pretty Face
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rHZ4NKZ1qaYaoagB32pkEtBwC40pposs/3C5zCok6Rgtg==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Your_Pretty_Face_is_Going_to_Hell.png" group-title="Undefined",Adult Swim - Your Pretty Face
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/617utC5mRjL.png",TWiT Tech News
 https://feedlix.net/videos/promo.mp4
