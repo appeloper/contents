@@ -24,37 +24,49 @@ https://feedlix.net/videos/promo.mp4
 https://vbfast-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/cbsn.us.png" group-title="News",CBS News
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/e14f8c16-86f4-4f87-8b92-4b34f3568355:BRU/variant/6a59ccda82b3abca12e290e7ab99c8d7/bandwidth/2751944.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6a633ef641607aac8c0ba318c3cd640a.jpg" group-title="News",CBS Baltimore
+https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg" group-title="News",CBSN Bay Area
-https://dai.google.com/linear/hls/pa/event/laLJwH1nS2KQAUQTF8z1Cg/stream/977b347f-967f-4daa-9d1c-7c69ccf9cdd2:GRQ/variant/f05458977b7d62af9a331d9782237831/bandwidth/3073400.m3u8
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
 
 #EXTINF:-1 tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/09/24/0d50a028-008e-4bc3-b644-d37bad126c61/logo-cbsn-boston-1920x1080.jpg" group-title="News",CBSN Boston
-https://dai.google.com/linear/hls/pa/event/dHA193vxQ_WqZNVoC-W5MA/stream/3b798410-6da3-497c-a175-534d3888820c:GRQ/variant/1036ba957a42558b9c30616c1b9b0efa/bandwidth/2988480.m3u8
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
 
 #EXTINF:-1 tvg-logo="https://chicago.cbslocal.com/wp-content/uploads/sites/15116062/2020/04/310-Chicago.png" group-title="News",CBSN Chicago
-https://dai.google.com/linear/hls/pa/event/_xQBtL7ZSEClkNebaXzn8w/stream/5ec055ea-c992-47de-9413-64669c782100:GRQ/variant/0a5b7d713cf383517ab3b0a30c17a1f4/bandwidth/3072960.m3u8
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1565427200303800321/JdRl6wN4_400x400.jpg" group-title="News",CBSN Detroit
-https://dai.google.com/linear/hls/pa/event/xnyAMOsfSV2J1b-A3nROFQ/stream/df420ac8-f173-4074-9d47-4ade6decbda0:BRU/variant/a37fe4465b237aa74747ab49a4192e9e/bandwidth/3073338.m3u8
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/03/kcnc-logo.png" group-title="News",CBSN Colorado
-https://dai.google.com/linear/hls/pa/event/E9CkyheTSKeGiOiICU_JBQ/stream/f68415b5-39c0-443c-942e-6dc24a0a3322:BRU/variant/6cd1215d4aa2006d3d3288d4e02a46f4/bandwidth/3072960.m3u8
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/8647cb8a-7032-435c-a7f9-a00b3eb1c29b/thumbnail/1200x630/1a70218bd337830ec5ce34ab29abaf20/logo-cbsnla-1920x1080-new.jpg" group-title="News",CBSN Los Angeles
-https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/715482e7-2dfd-483d-a11c-b13723e74739:BRU/variant/8896482e6fa701fdc71a89c042edbd3b/bandwidth/3072960.m3u8
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Logo-minnesota-1920x1080.jpg" group-title="News",CBSN Minnesota
-https://dai.google.com/linear/hls/pa/event/c0XucO32RNKG8oeQ351a4Q/stream/41458631-8da5-4ac0-9d16-0d549308ef13:BRU/variant/99174a73d80602c69b9eed48af82ce91/bandwidth/3073435.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7521f44142ec32bbf432fbac5dbb46b5.jpg" group-title="Weather",CBS News Miami
+https://lineup.cbsivideo.com/playout/8796731e-7ce7-4bcf-bb04-41ef5a969c62/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://newyorkcenterforchildren.org/wp-content/uploads/2020/04/logo-cbsnny-1920x1080-new.jpg" group-title="News",CBSN New York
-https://dai.google.com/linear/hls/pa/event/jeTDC610T-OSPdiWhcl0Pg/stream/69b1be41-208e-4276-a020-64d03eb000dc:BRU/variant/0849d728086ff6b756408190899fffb5/bandwidth/3073743.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Logo-minnesota-1920x1080.jpg" group-title="News",CBS News Minnesota
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/featuredImage.jpg" group-title="News",CBSN Philadelphia
-https://dai.google.com/linear/hls/pa/event/R2Kw0uvnQIW7fUmOseurzA/stream/80f20aa7-8ff0-4f7b-924b-1c1d1d98223f:GRQ/variant/23cf7f91b6721802be96dba461423cc8/bandwidth/3072889.m3u8
+#EXTINF:-1 tvg-logo="https://newyorkcenterforchildren.org/wp-content/uploads/2020/04/logo-cbsnny-1920x1080-new.jpg" group-title="News",CBS News New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
 
-#EXTINF:-1 tvg-logo="https://pittsburgh.cbslocal.com/wp-content/uploads/sites/15909642/2020/03/310-Pittsburgh.png?w=310&h=310&crop=1" group-title="News",CBSN Pittsburgh
-https://dai.google.com/linear/hls/pa/event/mir-uZYjTu6-8JLMHBTKhQ/stream/68b9e665-2e94-430d-beef-f89008d2bd6a:GRQ/variant/f0ba405a9aad051b20b08a2b3389fc3a/bandwidth/2544709.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/featuredImage.jpg" group-title="News",CBS News Philadelphia
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
+
+#EXTINF:-1 tvg-logo="https://pittsburgh.cbslocal.com/wp-content/uploads/sites/15909642/2020/03/310-Pittsburgh.png?w=310&h=310&crop=1" group-title="News",CBS News Pittsburgh
+https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2021/06/09/4ec32764-2106-4526-a8de-2beeff40b81c/thumbnail/1920x1080/c230c1d7a090b945542c339f8d623b0f/logo-sacramento-1920x1080.jpg" group-title="News",CBS News Sacramento
+https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/02/a64be6f5-794c-4bde-8fda-b8b334faef00/thumbnail/640x360/fac097cce4b09c6e24092d67d66f58b7/cbsnews-local-texas-1920x1080.jpg" group-title="Undefined",CBS News Texas
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nbc-news-2023-logo-6CFF9512D3-seeklogo.com.png" group-title="News",NBC News Now
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
@@ -590,6 +602,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e
 
 #EXTINF:-1 tvg-id="WeatherSpy.in" tvg-logo="https://www.tubefilter.com/wp-content/uploads/2020/07/weather-spy.jpg" group-title="Weather",WeatherSpy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.peaceandlovejewelry.com/wp-content/uploads/2019/08/shophq-logo.jpg",ShopHQ
 https://feedlix.net/videos/promo.mp4
