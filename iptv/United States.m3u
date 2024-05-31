@@ -471,6 +471,9 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playl
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d34bb9943578ac205e516d01a607443f.jpg" group-title="Kitchen",America's Test Kitchen
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/b609a05d-4313-4be3-9964-f2cddac78cb5/4.m3u8
 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Kitchen",Cooking Panda
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/ul4Qbo06.png" group-title="Kitchen",Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
 
@@ -585,7 +588,7 @@ https://cdnstack.internetmultimediaonline.org/lwsat/lwsatmobile/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/363ab328b7016878551f2fc04efe34262c18a93fd952c925ad07df1d9dc236e9.png" group-title="Religious",Harvest TV
 http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/com5b4BBKmI/hqdefault.jpg" group-title="Religious",CTNi
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/CTNi_Logo_Oval-1024x662.png" group-title="Religious",CTNi
 https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/chunklist_w423933441_b1564000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/768px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Weather",The Weather Channel
@@ -609,7 +612,7 @@ https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/dth-images/2016/02/25/Untitled-1.jpg" group-title="Shopping",Rocks Gemporia
 https://lo2-1.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923932313460736001/vTVGplAo_400x400.jpg" group-title="Shopping",TSC
+#EXTINF:-1 tvg-logo="https://www.exchangesolutions.com/wp-content/uploads/2018/06/Logo_TSC_G.jpg" group-title="Shopping",TSC
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
 #EXTINF:-1 tvg-id="QVC.us" tvg-logo="https://www.qurateretailgroup.com/wp-content/uploads/qvc-newco/2019/02/VVZaRFgx-1024x384.jpg" group-title="Shopping",QVC
@@ -618,7 +621,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1 tvg-id="QVC2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/QVC2_logo_2019.svg/1280px-QVC2_logo_2019.svg.png" group-title="Shopping",QVC 2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 
-#EXTINF:-1 tvg-id="QVC3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/QVC3_logo%2C_1_April_2019.png" group-title="Shopping",QVC 3
+#EXTINF:-1 tvg-id="QVC3.us" tvg-logo="https://i.ytimg.com/vi/Qt2c93O1p_c/hqdefault.jpg" group-title="Shopping",QVC 3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 
 #EXTINF:-1 tvg-id="QVCKitchen.us" tvg-logo="https://photos.live-tv-channels.org/tv-logo/qvc-in-the-kitchen-9626.jpg" group-title="Shopping",QVC In the Kitchen
@@ -642,7 +645,7 @@ https://ythls.armelin.one/channel/UCMeyWH1vyb1TT6Vimp4MqLA.m3u8
 #EXTINF:-1 tvg-id="HorseShoppingChannel.us" tvg-logo="https://horseshoppingchanneltexas.com/wp-content/uploads/2020/11/Horse-Shopping-Channel-logo.png" group-title="Shopping",Horse Shopping Channel
 https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
 
-#EXTINF:-1 tvg-id="KCKSLD10.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_of_Liquidation_Channel.svg/512px-Logo_of_Liquidation_Channel.svg.png" group-title="Shopping",Shop LC
+#EXTINF:-1 tvg-id="KCKSLD10.us" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062018/untitled-1_121.png" group-title="Shopping",Shop LC
 https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/black-jesus.jpg" group-title="Undefined",Adult Swim - Black Jesus
@@ -666,125 +669,144 @@ https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Your_Pretty_Face_is_Going_to_Hell.png" group-title="Undefined",Adult Swim - Your Pretty Face
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/617utC5mRjL.png",TWiT Tech News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dSJzHPuPXRWlYMpVWq97M2nRpd2/l5YCy29bacWYwX3e0UJ/JSoKBpFKRevee7b4B+eRxVL6rgFJ3HrHB2aj1qUn0K6QCWZw9HmuX0Vb23c=
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://mma.prnewswire.com/media/1905810/The_Pet_Collective_Logo.jpg" group-title="Pets",The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/DPls9e7.png",The Pet Collective
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:achkSdfigse+j2zAI+vIQ75YGT173zlrxFFvEyi0cGF2/Dk9SIKk3u2Qg++NXWsoQTR98ewLFm/vr1eyGN9J6Jes7CtPbdSl4AiuOY8ITR9AYdnD40y3lwScXkP3VXs1
+#EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD
+https://install.akctvcontrol.com/speed/broadcast/138/file-3128k.m3u8
 
-#EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png",AKC TV HD (Dog TV)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJRcU++C9F2dC/g9Hdp8QKnbp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Puppies HD
+https://install.akctvcontrol.com/speed/broadcast/140/file-3128k.m3u8
 
-#EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png",AKC TV HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJmz0N3Iu2SAoI7NUqdcy36K9vRSWOsNLs98tV7aOIetg=
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Meet the Breeds HD
+https://install.akctvcontrol.com/speed/broadcast/139/file-3128k.m3u8
 
-#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png",AKC Puppies HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJuiFUGDgDZpew62sAPtmsULp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Irish Setter Club of ANS HD
+https://install.akctvcontrol.com/speed/broadcast/141/file-3128k.m3u8
 
-#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png",AKC Meet the Breeds HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxujGe4PgenSLJ7vUmwjKn+sKX9xKxTlGpyczO2wj08N7p9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Pets",Dogs 24/7
+https://r.mjh.nz/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/battery-pop.png",Battery Pop
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6KPsSSPxDuTxfGGLJt8jBH8f5O0ZxmCkOYb88QIN75/KA==
+#EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
+https://r.mjh.nz/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/iread2know.jpg",iRead2Know
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6Jvq/VwMy7eMP+iZHAwjRbWf5O0ZxmCkOYb88QIN75/KA==
+#EXTINF:-1 tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids",Nick Jr.
+https://r.mjh.nz/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/15/fe/a2/15fea262149734033915035fa3b75d8b.jpg",TCT Kids
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:G5dKyBgcAe9dzMWdMakhRlVlGEHS34NWYIw3h85yhi9+NWYjkwt6Yh1NoO3fCQwbqj3B8CIixKlX8dCoMTHWM97WTNdh7T2sq4Y85Tn3cs3LmxjlgpTL7kLKqRVbr/T/euZkW3VWbzyYlVk/FIoKyetoDI/TzoAm5bF6G0rbiVYrN1h1yd6gBZIRpdh1hOmY7KhvtXFR+0dqWx4+Y269/3DeYFt2JXu64RYAUvtXWND0keKYHKCJlih0L4w1xwLwWYeO3OJ/pZi3jpFyUsJU8WTSs/7T075WxVkTbGWWDWGiCTp82Z+UvEt/58ZgsHCUdRv34YIbD7nD0RJ+8VhF6nSE1LywBmi/+ht3hynnceQ000FHIviTGFauOxPMbd5th8e/4O0AvN+Rzu4VkZPLQZnNVnDt9x5wkIqq4YePPRc=
+#EXTINF:-1 tvg-id="6452c814939a590008567a3b" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG.png" group-title="Kids",90's Kids
+https://r.mjh.nz/PlutoTV/6452c814939a590008567a3b-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://ginikousa.com/channels/logo/cartoon-classics.jpg",Cartoons Classic
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6LKf76qyos8uIcXFdAZbbe/TSobkDrCjrobG23eKWpZXA==
+#EXTINF:-1 tvg-id="6450209d939a5900084dba1d" tvg-logo="https://images.pluto.tv/channels/6450209d939a5900084dba1d/colorLogoPNG.png" group-title="Kids",Totally Teen
+https://r.mjh.nz/PlutoTV/6450209d939a5900084dba1d-alt.m3u8
 
-#EXTINF:-1 tvg-logo="http://ginikousa.com/channels/logo/kid-central.png",Kid Central
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6KpLGAHbpnm+bYS7CDgzRQPKokWjQPvYr+CllgF5bzvuu4OSN/UXYJgqyveVfJELAg=
+#EXTINF:-1 tvg-id="5d0c16d686454ead733d08f8" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="Kids",Totally Turtles
+https://r.mjh.nz/PlutoTV/5d0c16d686454ead733d08f8-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/aquateenhungerforce.jpg",24/7 Aqua Teen Hunger Force
+#EXTINF:-1 tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" group-title="Kids",Transformers TV
+https://r.mjh.nz/PlutoTV/60fb053712f22a0007ff14d2-alt.m3u8
+
+#EXTINF:-1 tvg-id="60f9ebb06f0b3d000746fbdb" tvg-logo="https://images.pluto.tv/channels/60f9ebb06f0b3d000746fbdb/colorLogoPNG.png" group-title="Kids",Team Spirit
+https://r.mjh.nz/PlutoTV/60f9ebb06f0b3d000746fbdb-alt.m3u8
+
+#EXTINF:-1 tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="Kids",Lego Kids TV
+https://r.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
+
+#EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="Kids",Kids Movie Club
+https://r.mjh.nz/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
+
+#EXTINF:-1 tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Kids",Forever Kids
+https://r.mjh.nz/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
+
+#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Anime",Anime All Day
+https://r.mjh.nz/PlutoTV/5812b7d3249444e05d09cc49-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/15/fe/a2/15fea262149734033915035fa3b75d8b.jpg" group-title="Kids",TCT Kids
+https://player-api.new.livestream.com/accounts/29565692/events/9321713/broadcasts/245923381.secure.m3u8?dw=14400&hdnea=st%3D1717102136~exp%3D1717103936~acl%3D%2Fi%2F29565692_9321713_lsi4f81k5arib8sfmk1_1%40688391%2F%2A~hmac%3D664f549a3f48197f3be390d77fd05a88e32346053d88476ca8bde514703af76c&token=6658e764_0e8c67c84c82e5675e1b2c3f1bcce3f3b6f21a46
+
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/featuredImage.jpg" group-title="Kids",Baby Shark TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/BabyFirstTV-Logo.jpg" group-title="Kids",Baby First
+https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BatteryPopXUMO.us" tvg-logo="https://static.wikia.nocookie.net/qubo-channel/images/c/c0/D6BE549D-21AA-4842-B706-1676D61C022F.png" group-title="Kids",Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://img3.static-ottera.com/prod/tg/linear_channel/logo/960x540/camp-spoopy-2021_1920-x-1080_option-5.jpg" group-title="Kids",Camp Spoopy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-logo="https://d1io3yog0oux5.cloudfront.net/kartoonstudios/files/pages/distribution/kartoon-channel/Kartoon_Channel_Primary_Logo_FINAL_300dpi_TM.jpg" group-title="Kids",Kartoon Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/220px-PBS_Kids_Logo.svg.png" group-title="Kids",PBS Kids Eastern/Central
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/aquateenhungerforce.jpg" group-title="Kids",24/7 Aqua Teen Hunger Force
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rF1f08PAUy+LK1UfBH1bFa7MFTfejcPjFfCbZGY6e5bJu4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azzpKrT.png",24/7 Dream Corp
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/d7CEna01JKk/mqdefault.jpg" group-title="Kids",24/7 Dream Corp
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rHteyZ+pKgCoVSKkgCu/jbijFh/BIhAsPR9IH/jGu9ckw6WX+195tA74DWiDibeEBY=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Dethklok2.jpg/250px-Dethklok2.jpg",24/7 Metalocalypse
+#EXTINF:-1 tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2017/09/15/MetalocalypseV02.png" group-title="Kids",24/7 Metalocalypse
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rGj4VfoSsw7JSgknIjC6sHBdMrLMVv1U5t98YZtFzOA8X+RJLDrxH0BYeZhb+7nsKI=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/mrpickles.jpg",24/7 Mr. Pickles
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/mrpickles.jpg" group-title="Kids",24/7 Mr. Pickles
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:UMz6kJ1eixD5gfsQ0o5gyg/wgVoalSMqLQYinKpCiaOcDpCIdspMCTM4DNpx4Wxz9/t9yhMoJZw8FHxJgLhCNe4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png",24/7 Rick and Morty
+#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="Kids",24/7 Rick and Morty
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rEsN/FamRbzgs2mfBwm3ZkDm4ZZhUaHk+6N+C4YRvk+kQ6WX+195tA74DWiDibeEBY=
 
-#EXTINF:-1 tvg-logo="http://i0.kym-cdn.com/entries/icons/facebook/000/015/339/Robot_Chicken.jpg",24/7 Robot Chicken
+#EXTINF:-1 tvg-logo="http://i0.kym-cdn.com/entries/icons/facebook/000/015/339/Robot_Chicken.jpg" group-title="Kids",24/7 Robot Chicken
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rE6uxdsnrq2FcRmfwGtHU8BTyEN9Xf6YRZ2nRR9f589nH+RJLDrxH0BYeZhb+7nsKI=
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/168-1687921_samurai-jack-logo-samurai-jack-logo-png.png",24/7 Samurai Jack
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/168-1687921_samurai-jack-logo-samurai-jack-logo-png.png" group-title="Kids",24/7 Samurai Jack
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rFKsC7seQ6Z3SKRf/chYHNdepwCt1sUC77IsclW0NaZkR0CBxz3NqPzpszkcG8lCsM=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/squidbillies.jpg",24/7 Squidbillies
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/squidbillies.jpg" group-title="Kids",24/7 Squidbillies
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rFkye9b2TUjS9Bze1n5aZQexHwQtOuc93B73yIQIT1LCB0CBxz3NqPzpszkcG8lCsM=
 
-#EXTINF:-1 tvg-logo="http://img.sharetv.com/shows/standard/superjail.jpg",24/7 Superjail!
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6315/e96e9f9d665a5faeeb0e938883399bc2699ed9de_hq.jpg" group-title="Kids",24/7 Superjail
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rGG7xruOYqk4jj3BhR4/NOsBJuz4cI3RWa4ppH6OQtCpO4OSN/UXYJgqyveVfJELAg=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/tim_eric_cartoons.png",24/7 Tim and Eric
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/tim_eric_cartoons.png" group-title="Kids",24/7 Tim and Eric
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:UMz6kJ1eixD5gfsQ0o5gyg/wgVoalSMqLQYinKpCiaN6b2wewGdsYdR6kQzR8024pnQygNdV6ZfLmnQQN+vY41SSXJBNgurdhofaIEQY1oE=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/venturebros.png",24/7 The Venture Bros.
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/venturebros.png" group-title="Kids",24/7 The Venture Bros.
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rHyVO4RYLgpxsQKQKHrhzAUbIAD9bboy/bMhWqzFF4WyB0CBxz3NqPzpszkcG8lCsM=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/willians_street.png",24/7 Williams Stream
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/willians_street.png" group-title="Kids",24/7 Williams Stream
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:UMz6kJ1eixD5gfsQ0o5gyg/wgVoalSMqLQYinKpCiaMD4X5Ucj+eWi9F3KW62AC0YQbfuWyoYs1718KIs615gSu67uBxcoRdgIR03QGiOa8=
 
 #EXTINF:-1 tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg",3ABN Kids
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:exFCOWBZOodrNdlT4gxcBGGYLtiG6Yty7Q815g+tMvYxx2J79FDFydHNKUqULPLAo1KYUGbDg4YGHRadc1Na2Y1pCr6GccJAT47PaDhkcnY=
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/SQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://ginikousa.com/channels/logo/cartoons-4u.jpg",Cartoons 4U
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 1
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivHNJH0U7g65cEAWzzFkeNeF3D9IK5uMGnr7E8JrPsJrOVOX3sB1hRISgsO5EMkHUjGuMcRa3q1OUnMWAz5M8pWhfSQUpBzEFsdky2G626MQA
+#EXTSEC:n0aqfuXQBIDgXkcxWYfgQckikpKypA4vFmPboZ5Nn745GxbInLvenR9cCvdfHUo5JH1rnvGiC8KX3xYuDFmXJg==
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 2
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMGPz8Ui5buWrhFGijKwZhMOvHccCfevNLHL/bw7JnfL+6fYTmgu3FlQj5ShBVEXHM
+#EXTSEC:n0aqfuXQBIDgXkcxWYfgQckikpKypA4vFmPboZ5Nn745GxbInLvenR9cCvdfHUo57XrVIOXisMe0V1iBoRvQvcncKBeKi9mom69HOIU/PpA=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 3
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMgLuuqO7sKmI4uX8GJQefuMSpsswJUR65yYshNUesmDZJgTDvBFTuiLeTp0hDLhujFIJdb7sf1UMY5GNDsGrNZQ==
+#EXTSEC:n0aqfuXQBIDgXkcxWYfgQckikpKypA4vFmPboZ5Nn745GxbInLvenR9cCvdfHUo57XrVIOXisMe0V1iBoRvQvaMiOkFfj8Ux/6T49dZpQ3U=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 4
 https://feedlix.net/videos/promo.mp4
-#EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMgLuuqO7sKmI4uX8GJQefuMSpsswJUR65yYshNUesmDZAoMOcqjRjTGJE+WJ1+7+cFIJdb7sf1UMY5GNDsGrNZQ==
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonami.png",Toonami Aftermath 4
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qaqO3DqsPXu+07XwyDRS9B+A1UjNlta6xHh751AHZATpi4/Lu3ghqoBPhnV4ihgMgLuuqO7sKmI4uX8GJQefuMSpsswJUR65yYshNUesmDaXzRpVMUYftJMnTONnC0zE
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/toonkrazy.png",Toon Krazy TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivD02v5va+aUdUeiUsbAQGcuMtaNwoS1FS5f4IuO1rBSZgJeqmvKq6gBbwhu9Fg63YrSRb8RXcHEQoxzYwc33zd8=
+#EXTSEC:n0aqfuXQBIDgXkcxWYfgQckikpKypA4vFmPboZ5Nn745GxbInLvenR9cCvdfHUo57XrVIOXisMe0V1iBoRvQvUg6Woqik1vZ3cl6W9wRl9I=
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/CBC_Olympics_400x400.png",Olympic Channel HD (geo)
 https://feedlix.net/videos/promo.mp4
