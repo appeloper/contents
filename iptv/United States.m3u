@@ -576,9 +576,6 @@ https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8
 #EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/527372/horizontal/Proclaim-1480x840.1659535750.jpg" group-title="Religious",3ABN Proclaim
 https://3abn-live.akamaized.net/hls/live/2010549/Proclaim/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/532608/horizontal/Kids1480x840.1659537556.jpg" group-title="Religious",3ABN Kids
-https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/531102/horizontal/Praise-Him1480x840.1659537466.jpg" group-title="Religious",3ABN Music
 https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
 
@@ -792,8 +789,8 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:UMz6kJ1eixD5gfsQ0o5gyg/wgVoalSMqLQYinKpCiaMD4X5Ucj+eWi9F3KW62AC0YQbfuWyoYs1718KIs615gSu67uBxcoRdgIR03QGiOa8=
 
-#EXTINF:-1 tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg",3ABN Kids
-https://3abn-live.akamaized.net/hls/live/2010550/Kids/SQs/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/532608/horizontal/Kids1480x840.1659537556.jpg" group-title="Religious",3ABN Kids
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 1
 https://feedlix.net/videos/promo.mp4
@@ -937,13 +934,17 @@ https://ifl01.tulix.tv/gusa-tvssportsbureau/index-1717189508-now.m3u8
 #EXTINF:-1 tvg-id="TVSBowling.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg" group-title="Sports",TVS Bowling
 https://ifl01.tulix.tv/gusa-tvsbowling/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png",Real Madrid TV HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IgZE43BMVCTMLPTD+g2BGMNMVU4xwagy1HNV6GB9KUF2OaAP+671OQtsH7i+r7HJZ9T5Cx/8wC4bdq2GBGgtDYFU74QaVwid/hRzxXp1qqU=
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/lax-quote-lacrosse-club-vector-260nw-1768052066.jpg" group-title="Sports",Lax Sports
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/RedBullTv.png",Red Bull
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:T3iLbl6h73W0cf6XNmOxLcFyCeG+hRwYY1utx9l2GthxTwYdLUChNpj8AhDAmWAaPu3hZ6BgGhFk/Zfg0UMxGq4uC8xmhUmaNJ5Vn52SjrA=
+#EXTINF:-1 tvg-id="" tvg-logo="https://tavilatam.com/wp-content/uploads/2022/04/TAVI_FIFAPlus.png" group-title="Sports",FIFA Plus
+https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png" group-title="Sports",Real Madrid TV HD
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/RedBullTv.png",Red Bull HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png" group-title="Lifestyle",World Fashion TV HD
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
