@@ -648,6 +648,9 @@ https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad06
 #EXTINF:-1 tvg-id="KCKSLD10.us" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062018/untitled-1_121.png" group-title="Shopping",Shop LC
 https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-consumer-direct.jpg" group-title="Sports",TVS Consumer Direct
+https://ifl01.tulix.tv/gusa-ConsumerDirect/index-1717190176-now.m3u8?token=2a6a9b36fd50a7e12d56c35664ba7177
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/black-jesus.jpg" group-title="Undefined",Adult Swim - Black Jesus
 https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_4.m3u8
 
@@ -808,137 +811,131 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:n0aqfuXQBIDgXkcxWYfgQckikpKypA4vFmPboZ5Nn745GxbInLvenR9cCvdfHUo57XrVIOXisMe0V1iBoRvQvUg6Woqik1vZ3cl6W9wRl9I=
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/CBC_Olympics_400x400.png",Olympic Channel HD (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KMNbJIMRhBDDp2kdF+mESPHvT5c9Y24VZS0TNkPizURRUbyhxajioYHtv8p3R7Hr01YoBjLcIwyZZuBO0Do96Q==
+#EXTINF:-1 tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Sports",NFL Channel
+https://r.mjh.nz/PlutoTV/5ced7d5df64be98e07ed47b6-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2017/01/IMG_1620.jpg",CBS Sports HQ
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:lNr84ayH3imk6P0K1UvSQ4/r/sfmcUaZts+YpcQICcdVLlB/zMNE6F0lfs7A4rsHBoc9bj+MiI58B9VJ77SHzVxl1Qx3GH3VcTPWpMFMcYef5ApAM9pol2/zwssHXAVh
+#EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sports",FOX Sports
+https://r.mjh.nz/PlutoTV/5a74b8e1e22a61737979c6bf-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2014/08/26/26104432125134.jpg",NFL Now (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:HIrVS2lKT0jbB9ixW8AoQPnlLcUt8Ro5BxP8TiQppTJfK3wCXqBUel4j3bZ8SvtCWsRzdHAGKgD4Qida3yPpmoC310nOLEhZASDbNhSwkXE=
+#EXTINF:-1 tvg-id="6549306c83595c000815a696" tvg-logo="https://images.pluto.tv/channels/6549306c83595c000815a696/colorLogoPNG.png" group-title="Sports",NBC Sports
+https://r.mjh.nz/PlutoTV/6549306c83595c000815a696-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/pac12.png",PAC 12 Network (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:WNPlo0qUATQ9StAfSHvMJ6W/CumVKzkc5GiIeDUBloKf5ApAM9pol2/zwssHXAVh
+#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Sports",MLB
+https://r.mjh.nz/PlutoTV/5e66968a70f34c0007d050be-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/pac12.png",PAC 12 Arizona (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vVwSutWQIr5m1w3PXjmdVKW/CumVKzkc5GiIeDUBloKf5ApAM9pol2/zwssHXAVh
+#EXTINF:-1 tvg-id="5de94dacb394a300099fa22a" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Sports",PGA TOUR
+https://r.mjh.nz/PlutoTV/5de94dacb394a300099fa22a-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/pac12.png",PAC 12 Bay Area (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ll08rdFPrYLlhErTx1ihCaW/CumVKzkc5GiIeDUBloKf5ApAM9pol2/zwssHXAVh
+#EXTINF:-1 tvg-id="65493029ab052400089e9d2f" tvg-logo="https://images.pluto.tv/channels/65493029ab052400089e9d2f/colorLogoPNG.png" group-title="Sports",GolfPass
+https://r.mjh.nz/PlutoTV/65493029ab052400089e9d2f-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/pac12.png",PAC 12 Los Angeles (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:t650rDQrXNwu3Coh0ubCq6W/CumVKzkc5GiIeDUBloKf5ApAM9pol2/zwssHXAVh
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png" group-title="Sports",Pac-12 Insider
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/pac12.png",PAC 12 Mountain (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:9doJ+XsiTtimxGAYwGWG2KW/CumVKzkc5GiIeDUBloKf5ApAM9pol2/zwssHXAVh
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/pac12.png" group-title="Sports",PAC 12 Network (geo)
+https://p12n.pac-12.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/pac12.png",PAC 12 Oregon (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qlUApT2JnaA8+4abs/bOrqW/CumVKzkc5GiIeDUBloKf5ApAM9pol2/zwssHXAVh
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/pac12.png" group-title="Sports",PAC 12 Arizona (geo)
+https://p12a.pac-12.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/pac12.png",PAC 12 Washington (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:YGVmYEVVsfvY7b/xlrxceaW/CumVKzkc5GiIeDUBloKf5ApAM9pol2/zwssHXAVh
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/pac12.png" group-title="Sports",PAC 12 Bay Area (geo)
+https://p12b.pac-12.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d8682042d47f02e2363399a052cdbf630813736ba7cbfd302a5b92e911707fa8.png",MLB Network
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Pl9S8tU4b98fryTSp5OQytP00T7wFsSpgdexTYz09AQCGVe/z2sVGZS39AyZVLgWVJ51tucy13h+7y/ZJIKq4+gP6klROFevMNk9fhslSi7P0aQGaIAMjO9bdabj4wMm
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/pac12.png" group-title="Sports",PAC 12 Los Angeles (geo)
+https://p12l.pac-12.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/b7/2d/c0/b72dc0aa5a71ddb9dd5bb0cb2edc5243.jpg",Football Report (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:xSl8CL93ROGHJ534L3U3XzVo6M5v5AHENS4ZZgxqrfqh3LoYhCuDpZwRQKaw4cgYvUXCsRPgYg0IcN2jKvXLT888VXkMAY/Yp496FzkwlL3N69gsZhCjU5YaaZ7zvqGur29FJY6w0uz3y1Xto4h62A==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/pac12.png" group-title="Sports",PAC 12 Mountain (geo)
+https://p12m.pac-12.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BqiWRil.png",AUF TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6Ia/Bm6q7TgbQKUMLoNudEW7g5I39RdgmCrK95V8kQsCA==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/pac12.png" group-title="Sports",PAC 12 Oregon (geo)
+https://p12o.pac-12.com/index.m3u8
 
-#EXTINF:-1 tvg-id="MLS" tvg-logo="https://i.imgur.com/6t7x61s.png",MLS
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP46P8Tw9gbawxM+i/8QJhWPQ3OUqT0F1DzXkabcFWfVDctEO5ts272sDyUjP9NZsQatl/WZglUmDpOCXe7LYD9ywxHx8F39IOrNWO2Xp9TMDdd2XPLrel5Z6qt1Ff3uYUmeapJ3ZrzrLpa4PpzkX8f5W1EfE2WjF5cK9vPV4aij6jg2PAjnTTtqFz6lIPFohtKKNVCYCpZIKbUc/Gs1B3NUNfpFKT1lmhG4ITPgmZ8Eab3tsuHLxiEn1wH9eaoqNhbp07/BTWFzMD33cWCz7fPyv+HXv0V1wElLjzAOM9aeRQCRnGMvNwdaKLmwFSQuopiyS0xleDFCGTDXsGUe+UTmEaYGEX04FcO2ZJsXJ5o+59eavxLfy2P6RcoTvoKySkURp1a3K8LMTU94IOF2gkWW80lMTMwsy+Sfl4gWWg6VQrNxlVJm5NsJjtFTqjWBkn/YWgu8WvdQG7bK/kQhQ9JxI8fzqmOmcdYNchrGhoQ7Z6CrF0am6aNhVCPW+1SAApasJaRqIR738V9AY8sLbni3EnyXKgpjEer20M3whK6UDS5SlH2IXrJ4iJKAsfDz6uW
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/pac12.png" group-title="Sports",PAC 12 Washington (geo)
+https://p12w.pac-12.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/282-2820818_stadium-stadium-tv-logo-png.png",Stadium
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:iW940Ene0RfDHlpWQhoy6k7h6j++I8gEVJEyXchYWdjPWES/JEwrrJP1/pQJCq9Q3XbZs71UvSiO0sqNOlsG2JEIMTeIxklDzeFtpiuU/IE=
+#EXTINF:-1 tvg-id="5812b0f2237a6ff45d16c3f9" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG-1543864366762.png" group-title="Sports",Fight
+https://r.mjh.nz/PlutoTV/5812b0f2237a6ff45d16c3f9-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2017/01/tennis-channel-logo.png",Tenis Channel
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:9knY2KpfpZ8NnZQjpG7ZvRvtv7BuhyofFflFivQvX16pcugiU9TNdTjxk3XGs2XkVI1/siRxAnxMY9xXx/LerfATQpPy4R20dkQLrQAowsGwdi7ZbMWgtv1MdCf+5uvt
+#EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Sports",Bellator MMA
+https://r.mjh.nz/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8
 
-#EXTINF:-1 tvg-id="STIRRSports.us" tvg-logo="https://i.imgur.com/SAfy1us.png",STIRR Sports
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCz69g9FFzNnAfjAzc2Pb4MOOdM8OxOktePY89wKGkpVt8R0sg1o/GCHBy4HVnTKtz8=
+#EXTINF:-1 tvg-id="6334a574605f140007e233c4" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="Sports",PFL MMA
+https://r.mjh.nz/PlutoTV/6334a574605f140007e233c4-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://ndhsaa.com/uploads/images/bek_sports_LOGO.jpg",Bek Sports East
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NQhR3u7xq2ybW7mvjrc50h643LOIZkQV+XP5bb5GmZYliYEkVeKe1nWmgRrBWWUgK6tdMGo0b+xNgVHbJEUyaqNXGfBrQChSIbkA7aOBqEqeZv0SCovOBgnuCDyvZkuS
+#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports",TNA Wrestling
+https://r.mjh.nz/PlutoTV/59b722526996084038c01e1b-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://ndhsaa.com/uploads/images/bek_sports_LOGO.jpg",Bek Sports West
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NQhR3u7xq2ybW7mvjrc50h643LOIZkQV+XP5bb5GmZYliYEkVeKe1nWmgRrBWWUgcr4bGghEBQcNv3bYjqrz+iN6oOvUothCgLgNI1V2GzyeZv0SCovOBgnuCDyvZkuS
+#EXTINF:-1 tvg-id="5417a212ff9fba68282fbf5e" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Sports",Glory Kickboxing
+https://r.mjh.nz/PlutoTV/5417a212ff9fba68282fbf5e-alt.m3u8
 
-#EXTINF:-1 tvg-id="TVSSports.us" tvg-logo="https://i.imgur.com/OFO86K5.jpg",TVS Sports
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6L+C7s7QWxJsqX8S/Ru0JJt8vmahJ6O8J7kq6ESS2gjKw==
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/282-2820818_stadium-stadium-tv-logo-png.png" group-title="Sports",Stadium
+https://dai.google.com/linear/hls/pa/event/jx8m4hcSR0aoACx8hqxGCQ/stream/ab5692b4-31ca-4126-81f6-fea1c09e09bc:GRQ/master.m3u8
 
-#EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-logo="https://i.imgur.com/jQdBjyx.jpg",TVS Women Sports
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6LxoGDXp/jx2ZMxl/QYPQKj+67Su5J5e053jFx7oPKftw==
+#EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Sports",Pluto TV Sports
+https://r.mjh.nz/PlutoTV/56340779a738201b4ccfeac9-alt.m3u8
 
-#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-logo="https://i.imgur.com/ui099xQ.jpg",TVS Classic Sports
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6INTr0qGDarx3a85dkOGitClaOQVrAzRJHMjV2mt8c9xA==
+#EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",beIN Sports XTRA
+https://r.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 
-#EXTINF:-1 tvg-id="TVSBoxing.us" tvg-logo="https://i.imgur.com/sal5CkX.jpg",TVS Boxing
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6KdjddMUCguBjbe5vppNvi68vmahJ6O8J7kq6ESS2gjKw==
+#EXTINF:-1 tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG-1664295222280.png" group-title="Sports",World Poker Tour
+https://r.mjh.nz/PlutoTV/5616f9c0ada51f8004c4b091-alt.m3u8
 
-#EXTINF:-1 tvg-id="TVSTurbo.us" tvg-logo="https://i.imgur.com/RMewTGr.jpg",TVS Turbo
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:w7ce664RT3jT0XQhvZMz5GAXjSfCe+irjCwDAx42p6K+1RG3T0mSYZJ6duWkHNqtedzT9vuQxo17YphvPCK+hg==
+#EXTINF:-1 tvg-id="5fc54366b04b2300072e31af" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="Sports",Poker Go
+https://r.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
 
-#EXTINF:-1 tvg-id="CycleWorld.us" tvg-logo="https://i.imgur.com/RZE3Pwf.png",Cycle World
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VLOlkuPU/600O9mkSNdJOkae7es7TqHS3aDyQW8GvsEsLtPz3Z8GauAG9dIcDV3P9ALRNHhFeebPo2It9y+ADA==
+#EXTINF:-1 tvg-id="65c69b683ba51e00084534a3" tvg-logo="https://images.pluto.tv/channels/65c69b683ba51e00084534a3/colorLogoPNG.png" group-title="Sports",Monster Jam
+https://r.mjh.nz/PlutoTV/65c69b683ba51e00084534a3-alt.m3u8
 
-#EXTINF:-1 tvg-id="KBPSPORTS.us" tvg-logo="https://feedlix.net/tv/us/kbpsports.png",KBP Sports
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:84K8dvGbozK4KAL6qnHzjMoAegrbP6/8KdK3KTxPGFoPebmOpIY+W2hsMrS6Y0hc7HgqHke+sHap/ErBIng/4a9vRSWOsNLs98tV7aOIetg=
+#EXTINF:-1 tvg-id="6400f731d200410008f9b339" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG.png" group-title="Sports",MotorTrend FAST TV
+https://r.mjh.nz/PlutoTV/6400f731d200410008f9b339-alt.m3u8
 
-#EXTINF:-1 tvg-id="MMAJunkie.us" tvg-logo="https://i.imgur.com/s5NcNef.png",MMA Junkie
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VLOlkuPU/600O9mkSNdJOvxFA7O6pSezK5Jn8ygCT/2XXiic+FExOxMoPeY/k8e19ALRNHhFeebPo2It9y+ADA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f0c73aed-c190-45ee-baea-65929b1207f4/motorsporttv_logo_blackbackround_Rainier.png" group-title="Sports",Motorsport.tv
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6408c82eebb23ab878e8ddbb.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/225-2256876_edge-sport-logo-png-png-download-edge-sport.png",Edge Sport
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:exsJpTBy0uzc6pWX7wJC4gK8t5qNDXIRt408lkRvSuD6oGdap9/ZRaHiZ4X+Lec8nqTapM50p9NCe35LLBOEmVcyMm+AV30Hb/EWn8MQA92Vo5BWsDNEkcyNXaa3xz3E
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/01a1743b-ef22-4549-84a5-84d044fe11a8/Sports-Court-Network_WHITE_-_Douglas_NeimanRDX.png" group-title="Sports",Court Sports Network
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.sportstonightlive.com/img/logo.png",Sports Tonight
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ub75BG+uM1ET7aaKj6kkCiISLClL8BMPIYOHfhucqcivBGmioCYyF2kowLnX/s/rhfPgg9nE6s1b/gGaCdT5R6qQL93w0Qh82VVlJbsezhqlq5KTYGI89lpCLPmlE8gQQZ+wIt2de+spabriaNplRQ==
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dee3468a-a0c7-499f-a92b-84efd63b84de/CL_logo.png" group-title="Sports",CampusLore Sports
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65.m3u8
 
-#EXTINF:-1 tvg-id="HorizonSports.us" tvg-logo="https://i.imgur.com/2msWdzQ.jpg",Horizon Sports
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VLOlkuPU/600O9mkSNdJOnzSyhe2beXuTBhJk7MzNkv2tzHligdNaeX/HgeoFkbF9ALRNHhFeebPo2It9y+ADA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Sports",Cricket Gold
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224.m3u8
 
-#EXTINF:-1 tvg-id="WorldofFreeSports.us" tvg-logo="https://i.imgur.com/pggeczF.jpg",World of Free Sports
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VLOlkuPU/600O9mkSNdJOp3ey7TAfCEKs0m5xn+pcx3ox9NdMdrgnST9gWvoAonL9ALRNHhFeebPo2It9y+ADA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3974870-48f2-4030-8b46-9534dc2b4772/FTFSports_750x500_logo_dark.png" group-title="Sports",FTF Sports
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8
 
-#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://i.imgur.com/Nus9e8M.jpg",World Poker Tour
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:jIboKDdb6/3vugetAsR/80QPOdYMKUzmxqTHWP+BqXezEALIBgOeRA/IWrW51HtGzFnitqsmcfRQttgaNeFl83mwFKTAsFp6pMPvs6Fv07Q=
+#EXTINF:-1 tvg-logo="https://d2q0tptsfejku7.cloudfront.net/uploads/images/bek_sports_LOGO.jpg" group-title="Sports",Bek Sports East
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b1596000_slENG.m3u8
 
-#EXTINF:-1 tvg-logo="https://roofnest.com/wp-content/uploads/2018/08/adventurenetwork.png",Adventure Sports Network
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:achkSdfigse+j2zAI+vIQ75YGT173zlrxFFvEyi0cGEPXocHQZ3wHgw9FXhUUKqds45956myBQJPTvdcyvOUQ4qAgXmcWVLCFEE8yqhhhgL0vN6KX/Ohl3Vjw/FxGMv1g4rgL6Ot6hawltLaR8JK5Q==
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/603d35f3-bea2-4f06-b179-1a98c0adf534/Untitled_15.png" group-title="Sports",Racing America
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f84c7517-eb5c-4613-b37d-7f5dae5894d7/Snowboarder_Transparent_-_Geoff_Clark.png" group-title="Sports",Snowboarder
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-656fbac9dbcce28c3a417419.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="Sports",SportsGrid
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca.m3u8
+
+#EXTINF:-1 tvg-id="TVSSports.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-sports-network.jpg" group-title="Sports",TVS All American
+https://ifl01.tulix.tv/gusa-tvssports/index-1717189378-now.m3u8
+
+#EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-women-s-sports-network.jpg" group-title="Sports",TVS Women Sports
+https://ifl01.tulix.tv/gusa-tvswsn/index-1717188972-now.m3u8
+
+#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-classic-sports.jpg" group-title="Sports",TVS Classic Sports
+https://ifl01.tulix.tv/gusa-tvs/index-1717188513-now.m3u8
+
+#EXTINF:-1 tvg-id="TVSBoxing.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-boxing-network.jpg" group-title="Sports",TVS Boxing
+https://ifl01.tulix.tv/gusa-tvsboxing/index-1717188794-now.m3u8
+
+#EXTINF:-1 tvg-id="TVSTurbo.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-turbo-network.jpg" group-title="Sports",TVS Turbo
+https://ifl01.tulix.tv/gusa-tvsturbo/index-1717189185-now.m3u8
+
+#EXTINF:-1 tvg-id="TVSTeleSports.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-sports-bureau.jpg" group-title="Sports",TVS TeleSports
+https://ifl01.tulix.tv/gusa-tvssportsbureau/index-1717189508-now.m3u8
+
+#EXTINF:-1 tvg-id="TVSBowling.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg" group-title="Sports",TVS Bowling
+https://ifl01.tulix.tv/gusa-tvsbowling/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png",Real Madrid TV HD
 https://feedlix.net/videos/promo.mp4
