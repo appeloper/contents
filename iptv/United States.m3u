@@ -877,6 +877,9 @@ https://r.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 #EXTINF:-1 tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG-1664295222280.png" group-title="Sports",World Poker Tour
 https://r.mjh.nz/PlutoTV/5616f9c0ada51f8004c4b091-alt.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png" group-title="Sports",The World Poker Tour
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2.m3u8
+
 #EXTINF:-1 tvg-id="5fc54366b04b2300072e31af" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="Sports",Poker Go
 https://r.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
 
@@ -937,13 +940,22 @@ https://ifl01.tulix.tv/gusa-tvsbowling/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.shutterstock.com/image-vector/lax-quote-lacrosse-club-vector-260nw-1768052066.jpg" group-title="Sports",Lax Sports
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png" group-title="Sports",Strongman Champions
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/27e36afa-f885-4d90-9a7e-1568f45878c2/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="Sports",TNA Wrestling Channel
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7eafb87f-2f32-4289-a80d-faf1cdfef1d7/Skate_Dark_BG_-_Geoff_Clark.png" group-title="Sports",Transworld Skateboarding
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-656fb965cb7e8e6a9bc3f370.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://tavilatam.com/wp-content/uploads/2022/04/TAVI_FIFAPlus.png" group-title="Sports",FIFA Plus
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png" group-title="Sports",Real Madrid TV HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/RedBullTv.png",Red Bull HD
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/RedBullTv.png" group-title="Sports",Red Bull HD
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png" group-title="Lifestyle",World Fashion TV HD
