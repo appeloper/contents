@@ -113,11 +113,11 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="News",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png" group-title="News" group-title="News",Press TV
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240319T022550SQUARE.png" group-title="News",BBC News
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/sky_uk_news.png" group-title="News" group-title="News",Sky News
-https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223
+#EXTINF:-1 tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240319T022317SQUARE.png" group-title="News",Sky News
+https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Free-Speech-TV.webp" group-title="News" group-title="News",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
@@ -166,6 +166,9 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png" group-title="News",RTVE 24h
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:hM6/tiHrLBiw3+iikJJ0/tkzwFfexX/DVKbUINDdMBhFe3gJEpAGhOudGyYUg61O
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png" group-title="News" group-title="News",Press TV
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 
 #EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png" group-title="News",Al Jazeera
 https://feedlix.net/videos/promo.mp4
@@ -519,8 +522,17 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/betterlife_tvs.png" group-title="Health",Better Health TV
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/betterlife_tvs.png" group-title="Nature",Better Nature TV
-https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 tvg-id="USBA3000043LH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20240401T235525SQUARE.png" group-title="Documentary",Wild Life
+https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="Documentary",WildEarth
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8
+
+#EXTINF:-1 tvg-id="USBD35000428O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20240401T235354SQUARE.png" group-title="Documentary",History 365
+https://i.mjh.nz/SamsungTVPlus/USBD35000428O.m3u8
+
+#EXTINF:-1 tvg-id="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240415T233104SQUARE.png" group-title="Documentary",BBC Earth
+https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/ctn.png" group-title="Religious",CTN TV
 https://ctntv.getstreamhosting.com:1936/CTNTV/CTNTV/playlist.m3u8
@@ -741,6 +753,21 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchan
 #EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/220px-PBS_Kids_Logo.svg.png" group-title="Kids",PBS Kids Eastern/Central
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTINF:-1 tvg-id="USBD350002338" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002338_20240401T235452SQUARE.png" group-title="Kids",Baby Einstein
+https://i.mjh.nz/SamsungTVPlus/USBD350002338.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="Kids",Watch it Kid
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d40e3d9-f044-4b32-bfa7-30b9b5387328/PW_Kids_1280x1080_white_trans.png" group-title="Kids",PW Kids
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f7f.m3u8
+
+#EXTINF:-1 tvg-id="USBD3300019OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300019OU_20240401T235358SQUARE.png" group-title="Kids",All Babies Channel
+https://i.mjh.nz/SamsungTVPlus/USBD3300019OU.m3u8
+
+#EXTINF:-1 tvg-id="USBD3300015BY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300015BY_20240401T235504SQUARE.png" group-title="Kids",Rainbow Ruby
+https://i.mjh.nz/SamsungTVPlus/USBD3300015BY.m3u8
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/aquateenhungerforce.jpg" group-title="Kids",24/7 Aqua Teen Hunger Force
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:/jO0i2SN/FB52Raoe0W2BrofEj3ouoQ2nVsWzyT/2rF1f08PAUy+LK1UfBH1bFa7MFTfejcPjFfCbZGY6e5bJu4OSN/UXYJgqyveVfJELAg=
@@ -948,6 +975,12 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7eafb87f-2f32-4289-a80d-faf1cdfef1d7/Skate_Dark_BG_-_Geoff_Clark.png" group-title="Sports",Transworld Skateboarding
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-656fb965cb7e8e6a9bc3f370.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f676bd67-0e26-4cd3-88dd-46fca5130bee/Plex_billiard__1500x1000__color_rdxfds.png" group-title="Sports",Billiard TV
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a74fdfd7-528c-4800-b1f4-c3721b1c246f/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png" group-title="Sports",Pickle TV
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tavilatam.com/wp-content/uploads/2022/04/TAVI_FIFAPlus.png" group-title="Sports",FIFA Plus
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
@@ -1245,6 +1278,12 @@ https://feedlix.net/videos/promo.mp4
 
 #EXTINF:-1 tvg-name="DanceStar TV" tvg-logo="https://dancestar.tv/images/swirl_2.jpg" group-title="Music",DanceStar TV
 https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240401T235811SQUARE.png" group-title="Nature",Stingray Holidayscapes
+https://i.mjh.nz/SamsungTVPlus/USBD3500038R6.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/betterlife_tvs.png" group-title="Nature",Better Nature TV
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/jB4AJycGCT.png" group-title="Radio",1 FM Absolutely Country Hits (Radio)
 https://strm112.1.fm/acountry_mobile_mp3?
