@@ -481,7 +481,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d34bb9943578ac205e516d01a607443f.jpg" group-title="Kitchen",America's Test Kitchen
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/b609a05d-4313-4be3-9964-f2cddac78cb5/4.m3u8
+https://i.mjh.nz/SamsungTVPlus/USBA3800002KI.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Kitchen",Cooking Panda
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8
@@ -489,29 +489,17 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8
 #EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/ul4Qbo06.png" group-title="Kitchen",Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ccd2ef0156d9b8e8759b12cfd28aa4c3.jpg" group-title="Entertainment",AFV Family
-https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/54b826b3-dab3-4725-8690-9ecfee9703a0/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://familyfriendlye.com/wp-content/uploads/2023/09/cropped-FFE-web-header-01.png" group-title="Entertainment",Family Friendly Entertainment
-https://hls-live-linear-fs.cdn01.net/NUF6TXlJbU15WWpOMklETTBZRE80SXpZMUVUT2tkak53VXpOeUVHT2hOak4xTUdad0l6WTFnSE1fMDEzMzAxNzE3MV9EWENJTkVUQVBRTlg/LiveChannels/stream_51429/chunklist.m3u8?channel_id=51429&source=othersites&device_id=9668425141-c1fb9d542b1a905188660a82e928d791&lcp=2&client_id=964298190646291082&play_id=1717016910467880
-
 #EXTINF:-1 tvg-id="OURTV.us" tvg-logo="https://i.imgur.com/9uz9lyg.png" group-title="Religious",Our TV
 https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2019/05/buzzrtv.png" group-title="Entertainment",Buzzr TV
 https://buzzrota-ono.amagi.tv/playlist360p.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/thumbh_20220531_183818_270.jpg" group-title="Travel",Travel 4K
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/212e8ddf-1ec3-4242-986c-e7d2415b7ba5/2.m3u8
-
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23135/always-funny/thumbh_20231121_180938_270.png" group-title="Entertainment",Always Funny
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/always-funny/881e718c-d98c-4595-b37d-bb1787ab2a89/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841_270.jpg" group-title="Undefined",Kaloopy
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/5714e6db-cf56-4404-bbfd-62ed114b083d/2.m3u8
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd.m3u8
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23108/craftsytv/thumbh_20240501_174141_270.jpg" group-title="Undefined",Craftsy TV
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/f71209dc-946b-4f05-b48c-1e63cc1f680a/1.m3u8
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6365779dde08f8eec6c3f21f.m3u8
 
 #EXTINF:-1 tvg-id="Denver8TV.us" tvg-logo="https://www.denvergov.org/files/assets/public/v/1/citywide-marketing/images/denver8tv-logo.jpg" group-title="Undefined",Denver 8 TV
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
