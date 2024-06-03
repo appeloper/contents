@@ -558,8 +558,8 @@ https://i.mjh.nz/SamsungTVPlus/USBC2100008DP.m3u8
 #EXTINF:-1 tvg-logo="https://image.pbs.org/contentchannels/39/9kmZbDILCvcwRrfGFCaUw.jpg?crop=1200x675&format=jpg" group-title="Nature",PBS Nature
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01597-wnetnewyorkpubl-pbsnature-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20240401T235527SQUARE.png" group-title="Nature",Love Nature 4K
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20240401T235527SQUARE.png" group-title="Nature",Love Nature
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20180522005378/en/658948/23/TFH_Logo_BlackRed.jpg" group-title="Home and Garden",At Home with Family Handyman
 https://jukin-homefamilyhandyman-1-us.lg.wurl.tv/playlist.m3u8
