@@ -372,6 +372,15 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.akaku.org/Channel55-147x150.png" group-title="Government",Akaku TV3 Hawaii
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/04/CINEVAULT-80.jpg" group-title="Movies",Cinevault 80s
+https://gsn-cinevault-80s-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/7ef5e16ef5d95718b8e14b7bd657fa81/rokuFeed/assets/28f1ab81005f5c08bfce1fdce90d6127.jpg" group-title="Movies",Cinevault Westerns
+https://gsn-cinevault-westerns-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/18/Mad_TV_GSN_spoof_1.png" group-title="Entertainment",Gameshow Channel
+https://gsn-gameshowchannnel-1-us.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/10/24-Hour-Free-Movies-live-vipotv-america-english.png" group-title="Movies",24 Hour Free Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/256x144_230000/index.m3u8
 
@@ -525,7 +534,7 @@ https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 #EXTINF:-1 tvg-id="USBA3000043LH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20240401T235525SQUARE.png" group-title="Documentary",Wild Life
 https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="Documentary",WildEarth
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="Documentary",Wild Earth
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8
 
 #EXTINF:-1 tvg-id="USBD35000428O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20240401T235354SQUARE.png" group-title="Documentary",History 365
@@ -533,6 +542,48 @@ https://i.mjh.nz/SamsungTVPlus/USBD35000428O.m3u8
 
 #EXTINF:-1 tvg-id="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240415T233104SQUARE.png" group-title="Documentary",BBC Earth
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+
+#EXTINF:-1 tvg-id="USAJ3000006X5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000006X5_20240319T022005SQUARE.png" group-title="Home and Garden",Home Made Nation
+https://i.mjh.nz/SamsungTVPlus/USAJ3000006X5.m3u8
+
+#EXTINF:-1 tvg-id="USBC21000142T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20240401T234358SQUARE.png" group-title="Home and Garden",Home Refresh
+https://i.mjh.nz/SamsungTVPlus/USBC21000142T.m3u8
+
+#EXTINF:-1 tvg-id="USBB3200024V5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200024V5_20240319T022030SQUARE.png" group-title="Home and Garden",Million Dollar Listing
+https://i.mjh.nz/SamsungTVPlus/USBB3200024V5.m3u8
+
+#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400020KC_20240319T021945SQUARE.png" group-title="Home and Garden",Tiny House Nation
+https://i.mjh.nz/SamsungTVPlus/USAJ3400020KC.m3u8
+
+#EXTINF:-1 tvg-id="USBC13000065U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC13000065U_20240319T022058SQUARE.png" group-title="Home and Garden",This Old House
+https://i.mjh.nz/SamsungTVPlus/USBC13000065U.m3u8
+
+#EXTINF:-1 tvg-id="USBC1300005T6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300005T6_20240319T022100SQUARE.png" group-title="Home and Garden",This Old House Makers
+https://i.mjh.nz/SamsungTVPlus/USBC1300005T6.m3u8
+
+#EXTINF:-1 tvg-id="USBD700022M5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700022M5_20240319T022226SQUARE.png" group-title="Home and Garden",Homeful
+https://i.mjh.nz/SamsungTVPlus/USBD700022M5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-global.website-files.com/5d6aae87e54b1ea9e05fe232/60d9145539b7401ca498ef02_Crimetime_Logo_2.png" group-title="Crime",Crimetime
+https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBB5200022PY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200022PY_20240319T022109SQUARE.png" group-title="Crime",Crimes Cults Killers
+https://i.mjh.nz/SamsungTVPlus/USBB5200022PY.m3u8
+
+#EXTINF:-1 tvg-id="USBB3200017MY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200017MY_20240319T022024SQUARE.png" group-title="Crime",Forensic Files
+https://i.mjh.nz/SamsungTVPlus/USBB3200017MY.m3u8
+
+#EXTINF:-1 tvg-id="USAK3508710A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508710A_20240319T021958SQUARE.png" group-title="Crime",Law & Crime
+https://i.mjh.nz/SamsungTVPlus/USAK3508710A.m3u8
+
+#EXTINF:-1 tvg-id="USBC390002256" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20240319T022128SQUARE.png" group-title="Crime",Cold Case Files
+https://i.mjh.nz/SamsungTVPlus/USBC390002256.m3u8
+
+#EXTINF:-1 tvg-id="USBB3200018Q6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200018Q6_20240319T022026SQUARE.png" group-title="Crime",Unsolved Mysteries
+https://i.mjh.nz/SamsungTVPlus/USBB3200018Q6.m3u8
+
+#EXTINF:-1 tvg-id="USAJ3504547A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504547A_20240319T021953SQUARE.png" group-title="Crime",The New Detectives
+https://i.mjh.nz/SamsungTVPlus/USAJ3504547A.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/ctn.png" group-title="Religious",CTN TV
 https://ctntv.getstreamhosting.com:1936/CTNTV/CTNTV/playlist.m3u8
