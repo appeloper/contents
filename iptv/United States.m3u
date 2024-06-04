@@ -540,9 +540,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-lgu
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23135/always-funny/thumbh_20231121_180938_270.png" group-title="Entertainment",Always Funny
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841_270.jpg" group-title="Undefined",Kaloopy
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23108/craftsytv/thumbh_20240501_174141_270.jpg" group-title="Undefined",Craftsy TV
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6365779dde08f8eec6c3f21f.m3u8
 
@@ -1156,6 +1153,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b760007
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hedex.tv/uploads/images/clip_443_1707747365_poster.png" group-title="Lifestyle",A3 Bikini
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841_270.jpg" group-title="Lifestyle",Kaloopy
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w2011542814_b1896000.m3u8
 
@@ -1315,7 +1315,7 @@ https://feedlix.net/videos/promo.mp4
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Music",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/663addd47e1b1_13018905_2405080205_0.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.infosat.de/sites/default/files/news/ockostar655440.jpg" group-title="Music",Ocko Star
 https://feedlix.net/videos/promo.mp4
