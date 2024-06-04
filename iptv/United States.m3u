@@ -372,11 +372,38 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.akaku.org/Channel55-147x150.png" group-title="Government",Akaku TV3 Hawaii
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/18/Mad_TV_GSN_spoof_1.png" group-title="Entertainment",Gameshow Channel
+https://gsn-gameshowchannnel-1-us.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/04/CINEVAULT-80.jpg" group-title="Movies",Cinevault 80s
 https://gsn-cinevault-80s-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/7ef5e16ef5d95718b8e14b7bd657fa81/rokuFeed/assets/28f1ab81005f5c08bfce1fdce90d6127.jpg" group-title="Movies",Cinevault Westerns
 https://gsn-cinevault-westerns-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.mobistream.co.za/uploads/jpg/c3ef8d539f121af84408d61e672738d9.jpg" group-title="Movies",Rakuten Action Movies
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/rakuten_comedy.jpg",Rakuten Comedy Movies
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/rakuten_drama.jpg",Rakuten Drama
+https://rakuten-drama-13-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/rakuten_family.jpg",Rakuten Family
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/rakuten_romance.jpg",Rakuten Romance
+https://rakuten-romance-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/10/Entete-Rakuten-TV-Thrillers.png",Rakuten Thriller
+https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2023/05/Rakuten-TV-top-free.jpg",Rakuten Top Free
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn6.aptoide.com/imgs/e/1/7/e178f644e62910139391db5c4f83877e_icon.png",Rakuten TV Shows
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/18/Mad_TV_GSN_spoof_1.png" group-title="Entertainment",Gameshow Channel
 https://gsn-gameshowchannnel-1-us.lg.wurl.tv/playlist.m3u8
@@ -1059,6 +1086,9 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a74fdfd7-528c-4800-b1f4-c3721b1c246f/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png" group-title="Sports",Pickle TV
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://strongmancl.com/wp-content/uploads/2019/08/SCL-logo.png" group-title="Sports",Strong Mans Champion League
+https://rightsboosterltd-scl-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tavilatam.com/wp-content/uploads/2022/04/TAVI_FIFAPlus.png" group-title="Sports",FIFA Plus
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
