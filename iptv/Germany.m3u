@@ -949,7 +949,7 @@ https://ssh101-fl.bozztv.com/ssh101/melodietvlive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/03/Deutsches-Musik-Fernsehen.jpg" group-title="Music",Deutsches Musik Fernsehen
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rockland TV-Mainz" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title="Music",Rockland TV Mainz
+#EXTINF:-1 tvg-id="Rockland TV-Mainz" tvg-logo="https://www.rockland.de/fileadmin/_processed_/e/6/csm_Rockland-Radio_TV_Logo_dfaa5c5b6e.png" group-title="Music",Rockland Radio TV 
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w2125207797_b2628000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Music",Deluxe Music HD
@@ -1267,8 +1267,11 @@ https://metal-hammer.stream.laut.fm/metal-hammer
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/735.v14.png" group-title="Radio",Paloma (Radio)
 https://pool.radiopaloma.de/RADIOPALOMA.mp3
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/778.v5.png" group-title="Radio",Rock Antenne (Radio DE)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/778.v5.png" group-title="Radio",Rock Antenne (Radio)
 https://s5-webradio.antenne.de/rockantenne
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rockland_Sachsen-Anhalt_Logo.svg/1200px-Rockland_Sachsen-Anhalt_Logo.svg.png" group-title="Radio",Rockland Classic Rock (Radio)
+https://radio21.streamabc.net/radio21-classicrock-mp3-192-4210698
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiorock.com.br/assets/player/img/icons/logo-bottom.png" group-title="Radio",89 FM Rock (Radio BR)
 https://20833.live.streamtheworld.com/RADIO_89FM_ADP.aac
