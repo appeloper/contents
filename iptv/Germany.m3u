@@ -934,6 +934,18 @@ https://cdne.folxplay.tv/fxt/streams/ch-1/1080-ZU07FRW09E.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://folx.network/wp-content/uploads/2021/01/znaki_folx-TV_poz_one_adria.jpg" group-title="Music",One 1 Adria HD
 https://cdne.folxplay.tv/fxt/streams/ch-6/1080-ZZUMS5RSNA.m3u8
 
+#EXTINF:-1 tvg-id="Rockland TV-Mainz" tvg-logo="https://www.rockland.de/fileadmin/_processed_/e/6/csm_Rockland-Radio_TV_Logo_dfaa5c5b6e.png" group-title="Music",Rockland Radio TV 
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w2125207797_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Music",Deluxe Music HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DEBA150003050" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20240321T045923SQUARE.png" group-title="Music",Deluxe Deutsch Pop HD
+https://i.mjh.nz/SamsungTVPlus/DEBA150003050.m3u8
+
+#EXTINF:-1 tvg-id="DEAH3904006A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20240321T045850SQUARE.png" group-title="Music",Deluxe Lounge HD
+https://i.mjh.nz/SamsungTVPlus/DEAH3904006A.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://liquidskyberlin.weebly.com/uploads/8/2/4/5/8245388/3944225.jpg" group-title="Music",Alex TV
 https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/chunklist_b2128000_slGER.m3u8
 
@@ -948,18 +960,6 @@ https://ssh101-fl.bozztv.com/ssh101/melodietvlive/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/03/Deutsches-Musik-Fernsehen.jpg" group-title="Music",Deutsches Musik Fernsehen
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Rockland TV-Mainz" tvg-logo="https://www.rockland.de/fileadmin/_processed_/e/6/csm_Rockland-Radio_TV_Logo_dfaa5c5b6e.png" group-title="Music",Rockland Radio TV 
-https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w2125207797_b2628000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Music",Deluxe Music HD
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-
-#EXTINF:-1 tvg-id="DEBA150003050" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20240321T045923SQUARE.png" group-title="Music",Deluxe Deutsch Pop HD
-https://i.mjh.nz/SamsungTVPlus/DEBA150003050.m3u8
-
-#EXTINF:-1 tvg-id="DEAH3904006A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20240321T045850SQUARE.png" group-title="Music",Deluxe Lounge HD
-https://i.mjh.nz/SamsungTVPlus/DEAH3904006A.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.xite.tv/img/xite_logo.png" group-title="Music",Xite
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
@@ -1270,8 +1270,44 @@ https://pool.radiopaloma.de/RADIOPALOMA.mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/778.v5.png" group-title="Radio",Rock Antenne (Radio)
 https://s5-webradio.antenne.de/rockantenne
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rockland_Sachsen-Anhalt_Logo.svg/1200px-Rockland_Sachsen-Anhalt_Logo.svg.png" group-title="Radio",Rockland Classic Rock (Radio)
-https://radio21.streamabc.net/radio21-classicrock-mp3-192-4210698
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/80s.png" group-title="Radio",Rockland Best of Rock FM 80s (Radio)
+https://bestofrockfm.stream.vip/80rock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/90s.png" group-title="Radio",Rockland Best of Rock FM 90s (Radio)
+https://bestofrockfm.stream.vip/90rock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/ACDC.png" group-title="Radio",Rockland Best of Rock FM AC/DC (Radio)
+https://bestofrockfm.stream.vip/acdc/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Alternative.png" group-title="Radio",Rockland Best of Rock FM Alternative (Radio)
+https://bestofrockfm.stream.vip/altrock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/80s.png" group-title="Radio",Rockland Best of Rock FM Classic (Radio)
+https://bestofrockfm.stream.vip/classic/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Deutsch.png" group-title="Radio",Rockland Best of Rock FM Deutsch (Radio)
+https://bestofrockfm.stream.vip/deutsch/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Hard.png" group-title="Radio",Rockland Best of Rock FM Hard (Radio)
+https://bestofrockfm.stream.vip/hardrock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Metallica.png" group-title="Radio",Rockland Best of Rock FM Metallica (Radio)
+https://bestofrockfm.stream.vip/metallica/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Metal.png" group-title="Radio",Rockland Best of Rock FM Nonstop Metal (Radio)
+https://bestofrockfm.stream.vip/metal/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Party.png" group-title="Radio",Rockland Best of Rock FM Party (Radio)
+https://bestofrockfm.stream.vip/partyrock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Rammstein.png" group-title="Radio",Rockland Best of Rock FM Rammstein (Radio)
+https://bestofrockfm.stream.vip/rammstein/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Soft.png" group-title="Radio",Rockland Best of Rock FM Soft (Radio)
+https://bestofrockfm.stream.vip/softrock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Xmas.png" group-title="Radio",Rockland Best of Rock FM X-Mas (Radio)
+https://bestofrockfm.stream.vip/xmasrock/mp3-192
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiorock.com.br/assets/player/img/icons/logo-bottom.png" group-title="Radio",89 FM Rock (Radio BR)
 https://20833.live.streamtheworld.com/RADIO_89FM_ADP.aac
