@@ -1780,6 +1780,39 @@ https://pool.radiopaloma.de/RADIOPALOMA.mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/778.v5.png" group-title="Radio",Rock Antenne (Radio DE)
 https://s5-webradio.antenne.de/rockantenne
 
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/80s.png" group-title="Radio",Rockland Best of Rock FM 80s (Radio DE)
+https://bestofrockfm.stream.vip/80rock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/90s.png" group-title="Radio",Rockland Best of Rock FM 90s (Radio DE)
+https://bestofrockfm.stream.vip/90rock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Alternative.png" group-title="Radio",Rockland Best of Rock FM Alternative (Radio DE)
+https://bestofrockfm.stream.vip/altrock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/80s.png" group-title="Radio",Rockland Best of Rock FM Classic (Radio DE)
+https://bestofrockfm.stream.vip/classic/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Deutsch.png" group-title="Radio",Rockland Best of Rock FM Deutsch (Radio DE)
+https://bestofrockfm.stream.vip/deutsch/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Hard.png" group-title="Radio",Rockland Best of Rock FM Hard (Radio DE)
+https://bestofrockfm.stream.vip/hardrock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Metallica.png" group-title="Radio",Rockland Best of Rock FM Metallica (Radio DE)
+https://bestofrockfm.stream.vip/metallica/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Metal.png" group-title="Radio",Rockland Best of Rock FM Nonstop Metal (Radio DE)
+https://bestofrockfm.stream.vip/metal/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Party.png" group-title="Radio",Rockland Best of Rock FM Party (Radio DE)
+https://bestofrockfm.stream.vip/partyrock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Rammstein.png" group-title="Radio",Rockland Best of Rock FM Rammstein (Radio DE)
+https://bestofrockfm.stream.vip/rammstein/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Soft.png" group-title="Radio",Rockland Best of Rock FM Soft (Radio DE)
+https://bestofrockfm.stream.vip/softrock/mp3-192
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/10/Radio-Latina-France.jpg" group-title="Radio",Latina (Radio FR)
 https://start-latina.ice.infomaniak.ch/start-latina-high.aac
 
