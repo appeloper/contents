@@ -33,7 +33,7 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://www.zdf.de/assets/2400-3sat-100~768x432?cb=1549376862930" group-title="General",3Sat (op.2)
 http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/low/master.m3u8
 
-#EXTINF:-1 tvg-id="HR HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG" group-title="General",HR Fernsehen
+#EXTINF:-1 tvg-id="HR HD DE" tvg-logo="https://www.schwarzlichthelden.de/wp-content/uploads/2018/09/hr-fernsehen.png" group-title="General",HR Fernsehen
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/pro_sieben_de_hd.png" group-title="General",ProSieben
@@ -207,7 +207,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/cbsn.us.png" group-title="News",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn.png group-title="News"",CGTN News
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn.png" group-title="News",CGTN News
 https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary
