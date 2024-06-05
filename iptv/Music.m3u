@@ -325,6 +325,9 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
+#EXTINF:-1 tvg-id="Rockland TV-Mainz" tvg-logo="https://www.rockland.de/fileadmin/_processed_/e/6/csm_Rockland-Radio_TV_Logo_dfaa5c5b6e.png" group-title="Music",Rockland Radio TV 
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w2125207797_b2628000.m3u8
+
 #EXTINF:-1 tvg-name="RTL 102.5 Italia" tvg-logo="https://www.rotas.com/wp-content/uploads/2018/02/Logo-RTL-banner.jpg" group-title="Music",RTL 102.5 Italia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
@@ -866,6 +869,45 @@ https://pool.radiopaloma.de/RADIOPALOMA.mp3
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/778.v5.png" group-title="Radio",Rock Antenne (Radio DE)
 https://s5-webradio.antenne.de/rockantenne
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/80s.png" group-title="Radio",Rockland Best of Rock FM 80s (Radio DE)
+https://bestofrockfm.stream.vip/80rock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/90s.png" group-title="Radio",Rockland Best of Rock FM 90s (Radio DE)
+https://bestofrockfm.stream.vip/90rock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/ACDC.png" group-title="Radio",Rockland Best of Rock FM AC/DC (Radio DE)
+https://bestofrockfm.stream.vip/acdc/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Alternative.png" group-title="Radio",Rockland Best of Rock FM Alternative (Radio DE)
+https://bestofrockfm.stream.vip/altrock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/80s.png" group-title="Radio",Rockland Best of Rock FM Classic (Radio DE)
+https://bestofrockfm.stream.vip/classic/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Deutsch.png" group-title="Radio",Rockland Best of Rock FM Deutsch (Radio DE)
+https://bestofrockfm.stream.vip/deutsch/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Hard.png" group-title="Radio",Rockland Best of Rock FM Hard (Radio DE)
+https://bestofrockfm.stream.vip/hardrock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Metallica.png" group-title="Radio",Rockland Best of Rock FM Metallica (Radio DE)
+https://bestofrockfm.stream.vip/metallica/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Metal.png" group-title="Radio",Rockland Best of Rock FM Nonstop Metal (Radio DE)
+https://bestofrockfm.stream.vip/metal/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Party.png" group-title="Radio",Rockland Best of Rock FM Party (Radio DE)
+https://bestofrockfm.stream.vip/partyrock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Rammstein.png" group-title="Radio",Rockland Best of Rock FM Rammstein (Radio DE)
+https://bestofrockfm.stream.vip/rammstein/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Soft.png" group-title="Radio",Rockland Best of Rock FM Soft (Radio DE)
+https://bestofrockfm.stream.vip/softrock/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Xmas.png" group-title="Radio",Rockland Best of Rock FM X-Mas (Radio DE)
+https://bestofrockfm.stream.vip/xmasrock/mp3-192
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5fcff956f847548219d9ae06d1503362.jpg" group-title="Radio",1000 Hits España (Radio ES)
 https://c2.auracast.net/radio/8022/radio.mp3
