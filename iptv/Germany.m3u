@@ -141,9 +141,6 @@ https://s6.hopslan.com/nitrox1/tracks-v1a1/mono.m3u8?token=9414067446324d0d16cd1
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/sat1_de.png" group-title="Entertainment",Sat 1
 https://s6.hopslan.com/sat1x1/tracks-v1a1/mono.m3u8?token=33e1c260f93ff60f894e3a1564e5961e37ab5c0e-fe1a48890a40dcf7917d6c331c50c3f5-1717694345-1717683545
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/super_rtl.jpg" group-title="Entertainment",Super RTL
-https://livetvde.net/superrtl/index.m3u8?token=7b12dc5e36bb023ff8d70c26d62c6b1031d7bc76-4978840fe77102e17c6da06062e44e25-1717694439-1717683639
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/tele5.jpg" group-title="Entertainment",Tele 5
 https://s6.hopslan.com/tele5x1/tracks-v1a1/mono.m3u8?token=ec5d551156a420db2b5fec58e42cbf48620fd9c0-e3dfc4ff0f54c180990cc76f82a85267-1717694507-1717683707
 
@@ -348,66 +345,33 @@ https://r.mjh.nz/PlutoTV/62f4f4b88157cf00075c22db-alt.m3u8
 #EXTINF:-1 tvg-id="5ce40e59246a395e9758923e" tvg-logo="https://images.pluto.tv/channels/5ce40e59246a395e9758923e/colorLogoPNG.png" group-title="Movies",Indies
 https://r.mjh.nz/PlutoTV/5ce40e59246a395e9758923e-alt.m3u8
 
-#EXTINF:-1 tvg-id="RBW" tvg-logo="https://pbs.twimg.com/profile_images/570147863507763200/GxBK3AaZ_400x400.jpeg",RBW
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:I5enRxgxzo3vaTS+D9Jn7Xb4onIJgr7i2jGEOeBphCsnBfh3Tt/SIwMDW7ubf5JcebAUpMCwWnqkw++zoW/TtA==
+#EXTINF:-1 tvg-id="RBW" tvg-logo="https://rbwonline.de/img/ban1.png" group-title="General",RBW
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/chunklist_w878907989.m3u8
 
-#EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-logo="https://i.imgur.com/jDEpyJW.png",Oberpfalz TV HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:yC8xotdkF9TWwe8PCP/ZZuRteuJblkb537pIjJ+ZjHoZqUIkeH3tsffYO+gSttnvCZNRl+zuS53PaXekExpEBT42cWq8ftiKAcXHDHT2Q5Svb0UljrDS7PfLVe2jiHrY
+#EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-logo="https://www.blm.de/files/jpg12/logo_otv_250.jpg" group-title="Regional",Oberpfalz TV HD
+http://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://seenluft24.de/wp-content/uploads/2022/01/cropped-logo_1011-2.png",Seenluft 24 
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:uyYmi2Sh53ZPQ7156SyOT1+aVp4tTXCzlTeSqGG3M/I7EWpGqlQuEaO1EpSxTLUQ4AquElNkVjbtcihK+V0OoawXBTkHrLLg8FyhK7uS945rUofiRUUeq/mU7V/0ebr1
+#EXTINF:-1 tvg-id="" tvg-logo="https://seenluft24.de/wp-content/uploads/2022/01/cropped-logo_1011-2.png" group-title="Regional",Seenluft 24 
+https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/chunklist_w1439595077.m3u8?ref=seenluft24.de
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/1200px-H1-logo.svg.png",H1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:OszlpdQ/m0NCVh1BPK6AgcjWaIBm7yazyPxN6U7iB/j6r9Js2aAh/Itom7isZm1g2wBnNM8jEgGnZQEIqgtvNYZu08SIu9jWSG7rKsWv0deTQPv0bKYn9tJdfUNW08/GUYrfSGJsPcOJc/IjxHFrWZWjkFawM0SRzI1dprfHPcQ=
+#EXTINF:-1 tvg-id="TV Bayern Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TV_Bayern_Logo1.svg/2560px-TV_Bayern_Logo1.svg.png" group-title="Regional",TV Bayern Live
+https://tvbayernlive.s3-cdn.welocal.cloud/media/202005/videos/202005_hls_480/480.m3u8
 
-#EXTINF:-1 tvg-id="TV Bayern Live" tvg-logo="https://i.imgur.com/WyJLIzA.jpg",TV Bayern Live
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:RQ/3GBlvZqCeX0ZUN8ymEJh6qNMkLcegO8SGXBRojGmXfY9Qu1O4G5hE1GksQAm+LewyQd7I7eQPzHy0DYRK4Z/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-id="Südthüringer Regionalfernsehen" tvg-logo="https://my.telvi.de//files/images/43/userfiles/116da521d.jpg" group-title="Regional",Südthüringer Regional HD
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Südthüringer Regionalfernsehen" tvg-logo="https://my.telvi.de//files/images/43/userfiles/116da521d.jpg",Südthüringer Regionalfernsehen HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:h7NBXK0TTRllDubrXHO6BUpvV6LEOXf0EQWuqdNyh5wI5UOdkZSYVnRcB552vrv10OFVj+b8Ebm4RaGyiSoLuJ/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-id="RFH" tvg-logo="https://feedlix.net/tv/de/rfh.png" group-title="Regional",RFH HD
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RFH" tvg-logo="https://feedlix.net/tv/de/rfh.png",RFH HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:I5enRxgxzo3vaTS+D9Jn7Xb4onIJgr7i2jGEOeBphCufruSgP5YZtiTZz9vog5T9r18JMCT8LMOlMQkR2WVRWA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/MyTvPlus.png" group-title="General",MyTV Plus Dresden
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/MyTvPlus.png",MyTV Plus Dresden
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:epvSTtjmwMiQDdVE0P7JrU5yA3/K2fDMdYds+PqPp7DHCz+DVXl8fCazDW6GXIsNGtUffbarRrh+8F4wLP5XzQup6RGRvAUWlQeB9LaiUgc=
+#EXTINF:-1 tvg-id="Ran1.de" tvg-logo="https://lokalfernsehen-deutschland.de/wp-content/uploads/2021/01/RAN-1.png" group-title="Regional",Ran 1
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Oberbayern.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO Rosenheim HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:+1cXMsFHEvylJsKOjyPJUbvrJla8ciUgW8OVWTNkqO/kPQikSL2g+SxDLfU8gkXrU7SvhoDCSAhxvYRYZZVKNHxoDAeEQCs01zYnBKoRlHHKqpLK1W8BxA9XAA0NPLFA
-
-#EXTINF:-1 tvg-id="RWE Erfurt" tvg-logo="https://i.imgur.com/AMzEPGl.jpg",RWE Erfurt
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VARpxpYRWhuGNWD96j3XAZLucLUrt3XQzQJzqFZS7LBXuVxPCqgoomjcXSyFQyJX
-
-#EXTINF:-1 tvg-id="TV38 Südost-Niedersachen" tvg-logo="https://i.imgur.com/ob9JJPU.png",TV38 Südost-Niedersachen
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:FfK4AlBAIfaH8CYtiw0A1ctp8/bPi4aOwX/fhXRfeRHe6TdON1fcJyCfhJWlyAVdrjTNKC73GzlbBHeWpTGRCIOK4C+jreoWsJbS2kfCSuU=
-
-#EXTINF:-1 tvg-id="Ran1.de" tvg-logo="https://i.imgur.com/NUP8ZBb.png",Ran 1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:I5enRxgxzo3vaTS+D9Jn7Xb4onIJgr7i2jGEOeBphCs5h8+xg7ideP24CP3Ke56wA84hgijoiJliBkYU0hg9zA==
-
-#EXTINF:-1 tvg-id="Seenluft24" tvg-logo="https://www.wmz.de/seenluft24.png",Seenluft 24 TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dAXWeCiPcf/wJbVUchBNp3luY4uAD1jHJ6+Euz5251+NZTgBzVzqQj+olXFzKwSAROS6W2DYQO2ykjEi/pjIQQbkX/j6FABHfiMefEABdRWeZv0SCovOBgnuCDyvZkuS
-
-#EXTINF:-1 tvg-id="Oeins.de" tvg-logo="https://i.imgur.com/K1hkyd7.png",Oldenburg Eins
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ydr3twePKeKnL9Xw+GVGemjhI703ZGcZ7YPcQ6QWAPPuDkjf1F2CYKsr3lXyRCwI
-
-#EXTINF:-1 tvg-id="TVWurzburg.de" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/de-tv-touring-wurzburg.jpg",TV Touring Würzburg HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:UFaRtItpdB79QvDH45Uz8f13xk8pOkVnc3GPgulKq00hTUIbyJvjM8jwXH3JVpSLtE0/s1fNMpSpAH8klnB9IqSvxoIaMafdPjBF24E2CcruDkjf1F2CYKsr3lXyRCwI
-
+#EXTINF:-1 tvg-id="TVWurzburg.de" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/de-tv-touring-wurzburg.jpg" group-title="Tourism",TV Touring Würzburg HD
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+~
 #EXTINF:-1 tvg-id="OF-TV Offenbach" tvg-logo="https://i.imgur.com/BmJaDT3.jpg",OF-TV Offenbach
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:+fcdReouXhd/5a8oMKO8Rp0vTf5OCHGYII2Ezvj5YOBZTUcQ0T5dCOUe1dWMhmIRotf3kr7VA0fK4NT4WEIb9kJiRawZIrNM8k8mcDj3vDsd9M+A2SNCnL8AXj2QwssLlaOQVrAzRJHMjV2mt8c9xA==
