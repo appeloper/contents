@@ -63,6 +63,9 @@ https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:punktum_high/p
 #EXTINF:-1 tvg-id="BLK Regional TV" tvg-logo="https://feedlix.net/tv/de/blk_regional_tv_de.png" group-title="General",BLK TV
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?&ref=www.blkregional.de&seid=196982
 
+#EXTINF:-1 tvg-id="BLK Regional TV" tvg-logo="https://feedlix.net/tv/de/blk_regional_tv_de.png" group-title="General",BLK TV
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SWR.de" tvg-logo="https://feedlix.net/tv/de/swr_de_fernsehen.png" group-title="General",SWR Baden-Wurttemberg (geo)
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 
@@ -164,6 +167,9 @@ https://eventenc02-lh.akamaihd.net/i/eventenc02_1@379038/index_1_av-p.m3u8?sd=10
 
 #EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-logo="https://feedlix.net/tv/de/dw.jpg" group-title="News",DW Deutsch (geo)
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-logo="https://feedlix.net/tv/de/dw.jpg" group-title="News",DW Deutsch
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream03/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="DeutscheWelleEnglish.de" tvg-logo="https://feedlix.net/tv/de/dw_en.png" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
@@ -348,6 +354,9 @@ https://r.mjh.nz/PlutoTV/5ce40e59246a395e9758923e-alt.m3u8
 #EXTINF:-1 tvg-id="RBW" tvg-logo="https://rbwonline.de/img/ban1.png" group-title="General",RBW (geo)
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:rbw_high/chunklist_w1740043495.m3u8?ref=www.rbwonline.de
 
+#EXTINF:-1 tvg-id="RBW" tvg-logo="https://rbwonline.de/img/ban1.png" group-title="General",RBW
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/chunklist_w878907989.m3u8
+
 #EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-logo="https://www.blm.de/files/jpg12/logo_otv_250.jpg" group-title="Regional",Oberpfalz TV HD
 http://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
 
@@ -406,6 +415,9 @@ https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OK Mainz" tvg-logo="https://feedlix.net/tv/de/okmainz.jpg" group-title="Regional",OK Mainz (geo)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OK Mainz" tvg-logo="https://feedlix.net/tv/de/okmainz.jpg" group-title="Regional",OK Mainz
 https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OK Merseburg" tvg-logo="https://pbs.twimg.com/media/Fw4aqqMWAAEBVhS?format=png" group-title="Regional",OK Merseburg
