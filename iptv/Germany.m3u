@@ -435,73 +435,47 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.
 #EXTINF:-1 tvg-id="OK Wettin" tvg-logo="https://feedlix.net/tv/de/okwettin.jpg" group-title="Regional",OK Wettin
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:ok-wettin_high/chunklist_w1496249483.m3u8?ref=www.wettintv.de&seid=114983
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dputoRM.png",Noa 4 Hamburg
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:D8Re2bjS2AIiphVSEIJWKpwJbd85Rw4GlelgaLEJ/ASjy7xzLs1CbXreKqU+C2xx
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.noa4.de/fileadmin/noa4-Pictures/nao4-Logo-Web.png" group-title="Regional",Noa 4 Hamburg
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dputoRM.png",Noa 4 Norderstedt
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:D8Re2bjS2AIiphVSEIJWKubfkCTh6oOXa8mMPto/9ZyaOmAi6d4H8eLJOvJ26JiO
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.noa4.de/fileadmin/noa4-Pictures/nao4-Logo-Web.png" group-title="Regional",Noa 4 Norderstedt
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bhb0vtB.png",Sonnenklar
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:jsXCxVuGOrxLT4L8isdRuj+pH0E9a3Z1XikzVYao+oHT+RsfUOzNhhkL8HAishQW+yO48jMjnU9Y19F55h5sITAaSM5r3fOsELVK1G7FUA/i73rJQ380UIQO8J7wlwayZczsLHEFNpKhZar0DtcDLg==
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/dorf_tv_at.jpg" group-title="Regional",Dorf TV
+https://edge.cdn.dorftv.at/dorftv/live/llhls.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/sparhandy.png",Sparhandy TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:pTXRPk3gvPRjgqUZfQbRIbKuwGTa78/DTgt+7oxfQOXuscQI62PJGrnJG4N4offzYDygHtJ4O+5tp6bxiMxm579e2hrHWCPR7q452zR0VdFyuSlYM5Lq5CCwtnwZgr/XbS3v38m+mG4dF0RqOVwa14OK4C+jreoWsJbS2kfCSuU=
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.l-tv.de/img/logo-l-tv-landesfernsehen.png" group-title="Regional",L-TV Landesfernsehen
+https://live2.telvi.de/hls/l-tv_s1_hd720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/dorf_tv_at.jpg",Dorf TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NbJ8OHQUdVOVOnRg770JNk+Co9+NI39JCEUUmi7gXbUPi7x0MEYQZeAMn94MgA8Ldx10r/Jg5fCmj6WD47EiRA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ma-hsh.de/assets/images/1/Tide_klein-29acd156.jpg" group-title="Regional",Tide TV Hamburg
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/chunklist_w350625857_b1600000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Y850GVQ.png",L-TV Landesfernsehen
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:L/Z6OH9ygVZ+PMr/8hJMauWDjQon8kCnrmCC7seWdUao7oXuhZwHz+bKWoCj1gDY
+#EXTINF:-1 tvg-id="Regio TV Bodensee" tvg-logo="https://innovationsregion-ulm.de/wp-content/uploads/2020/01/Regio-TV-Logo-mit-Signet-cmyk-scaled.jpg" group-title="Regional",Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ma-hsh.de/assets/images/1/Tide_klein-29acd156.jpg",Tide TV Hamburg
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:H1GV9yJbtmecpkUXNWqJK+GciT+yfpf62X0nQohfYj6GXzXlJtd+9FvaePW/Y3hNApswc+t2kvsz027EPfJjwZmUdu+w4RSdPtGdFde3zGtr/Q4wVL3MXU0dhcFo3LV615R9D7wq30aD2SCnsuIMWw==
+#EXTINF:-1 tvg-id="Regio TV Schwaben" tvg-logo="https://innovationsregion-ulm.de/wp-content/uploads/2020/01/Regio-TV-Logo-mit-Signet-cmyk-scaled.jpg" group-title="Regional",Regio TV Schwaben
+http://regiotv.iptv-playoutcenter.de/regiotv/regiotv.stream_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Regio TV Bodensee" tvg-logo="https://i.imgur.com/olVCZTJ.png",Regio TV Bodensee
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VuADdRP51IYiTquCe/cQew+NobySWxEVZGtugByBht28MSNqQRpAcr49tjHFR2JVYBxDc9Fjh34/SFpOUg1ARZJWzHy6LCIf4KS+cRW6lLWf5ApAM9pol2/zwssHXAVh
+#EXTINF:-1 tvg-id="Regio TV Stuttgart" tvg-logo="https://innovationsregion-ulm.de/wp-content/uploads/2020/01/Regio-TV-Logo-mit-Signet-cmyk-scaled.jpg" group-title="Regional",Regio TV Stuttgart
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Regio TV Schwaben" tvg-logo="https://i.imgur.com/OFGHhRE.png",Regio TV Schwaben
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:OcV6+jgiWcfsvZ7TdUn8k9VY3PuKa5r2z+JiNuGt//wU4kPUrFfK406+8o1aAh/rHbwsyiz3jw8hSV11s4nhWHmwFKTAsFp6pMPvs6Fv07Q=
+#EXTINF:-1 tvg-id="emsTV.de" tvg-logo="https://feedlix.net/tv/de/ems_tv.png" group-title="Regional",EMS TV Lingen
+https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Regio TV Stuttgart" tvg-logo="https://i.imgur.com/OFGHhRE.png",Regio TV Stuttgart
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VuADdRP51IYiTquCe/cQe9jVJggmwqexxp8WE/Vklq68MSNqQRpAcr49tjHFR2JVr2Y8FEG5JIeJBWzOIVY6ipJWzHy6LCIf4KS+cRW6lLWf5ApAM9pol2/zwssHXAVh
+#EXTINF:-1 tvg-id="Erz-TV Stollberg" tvg-logo="https://www.koenigsbanner.de/85618-large_default/erz-stollberg-erzgeb.jpg" group-title="Regional",Erz-TV Stollberg
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zb87dQQ.png",Punkteins Oberlausitz HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:O6xc52Gnq2ZIrtTNGgsOXu+Pg1I1fR8OeGIXlFenqJL8DlO/Fo1lmGQ7TH3YPH/f4AquElNkVjbtcihK+V0OoZPqexgRCzvlGStD5hoRpy1CNzfSDHOlZuzXy8EDvUjq
+#EXTINF:-1 tvg-id="Jena TV" tvg-logo="https://www.jenatv.de/img/logo_jenatv.png" group-title="Regional",Jena TV
+https://stream4.sehradar.de/jenatv/ngrp:livestream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="emsTV.de" tvg-logo="https://i.imgur.com/dKCLYAj.png",EMS TV Lingen
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:H1GV9yJbtmecpkUXNWqJK+GciT+yfpf62X0nQohfYj7XxUpY+dLW+X6mLNnuqj0mMxkn87ZSE8hJWjVKP6wbr/pLAx33iDjn4zYBntcR6oMkfWue8aILwpffFi4MWZcm
+#EXTINF:-1 tvg-id="Kanal 12 Spremberg TV" tvg-logo="https://www.sprembergtv.de/img/logo.png" group-title="Regional",Kanal 12 Spremberg TV
+https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Erz-TV Stollberg" tvg-logo="https://i.imgur.com/VenSjan.png",Erz-TV Stollberg
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KlncTWChp3q4iF54pxc27H9/j5+f8mjHyFe0yLBgaYOe6SfTkzIJ2br/2MXe9srKUegeKpHvQq5/YdBBvhAsgHRoqZfdhAVELZjWKo0m4F+7/kU5/w0uwnkpnj0WTJ90
+#EXTINF:-1 tvg-id="Lausitzwelle Fernsehen" tvg-logo="https://www.lausitzwelle.de/templates/fruesteg/img/logo.png" group-title="Regional",Lausitzwelle Fernsehen
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?&ref=www.lausitzwelle.de
 
-#EXTINF:-1 tvg-id="Hauptstadt TV" tvg-logo="https://i.imgur.com/ZXskBkv.png",Hauptstadt TV Potsdam
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:YsKj/ZjYO5ZJ1tQmta5b7e/2jW99qjJ5OVPCJMS5G4u3DsbPu5375PzUPLypjCLlFBynMgYkrbeHU8YbSXvepBbEw6asDZ/p4rhfLjOEohI8Z8WFbY4FW4RES36u1RaYobHRX5kPA4JU7qAr90ntZxDu6AFASNft0AmirAFP26umBg4Srh+NLnYjMS+W/Qdp+VWY5hpVUI0tT7i9jaET5b9Q8N4WGrX6XhXfPB9mAS7AiRQKrw6NyU7aaegbsAc6hXZbHQAmzE5ewR4Es0YNI/ojN8302WUd25BOSuZIMA2CQFFDhc461I/fKpJr8Dxq
-
-#EXTINF:-1 tvg-id="Jena TV" tvg-logo="https://i.imgur.com/o3D4bQI.png",Jena TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:fK59FCg50H040xxpFA0SOwjnDVaNcRshrgl5m+K4PvDYRFeyekW8Tlo68I/Be0lQafFm1wVOnooUXDl3uI0vTlA1h4fLQOtPVvy5AHV5GXa5oop7J3e7ge837dSUGbT1
-
-#EXTINF:-1 tvg-id="Kanal 12 Spremberg TV" tvg-logo="https://i.imgur.com/DuHNGCq.png",Kanal 12 Spremberg TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:h7NBXK0TTRllDubrXHO6BUpvV6LEOXf0EQWuqdNyh5zDNA2QKj1qs1bkRwWzkr3yzCnB7yRAUdNxGSMgxD8LaJWjkFawM0SRzI1dprfHPcQ=
-
-#EXTINF:-1 tvg-id="Lausitzwelle Fernsehen" tvg-logo="https://i.imgur.com/GNMaGZE.png",Lausitzwelle Fernsehen
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:uyYmi2Sh53ZPQ7156SyOT1+aVp4tTXCzlTeSqGG3M/L9/Of1kfwOPv04yrVAb0H54AquElNkVjbtcihK+V0OoQGOdaenqRnAWIwNDD9Eya2lJ9CukAlmcPR5rl9FW9t3
+#EXTINF:-1 tvg-id="Metropol Region TV" tvg-logo="https://static.wixstatic.com/media/348716_abef708bfdf44396892c3aada4d85bab~mv2.png" group-title="Regional",Metropol Region TV Rhein-Neckar
+https://h057.video-stream-hosting.de/metropolregiontv-live/_definst_/mp4:livestream/playlist.m3u8?&ref=www.metropolregion.tv&seid=125580
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.welocal.world/tvingolstadt/sources/5cf80374ac54f.png",TV Ingolstadt
 https://feedlix.net/videos/promo.mp4
