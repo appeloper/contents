@@ -567,22 +567,22 @@ https://i.mjh.nz/SamsungTVPlus/DEBD1900002CB.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.1-2-3.tv/out/123tv/img/123tv-logo.png" group-title="Shopping",123 TV
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/17612/17612_264_live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/juwelo.png",Juwelo HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/juwelo.png" group-title="Shopping",Juwelo HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png",QVC
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="Shopping",QVC
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/qvc2.jpg",QVC 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/qvc2.jpg" group-title="Shopping",QVC 2
 https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/qvc_style.jpg",QVC Style
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/qvc_style.jpg" group-title="Shopping",QVC Style
 https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
 
-#EXTINF:-1 tvg-id="HSE.de" tvg-logo="https://feedlix.net/tv/de/hse24.jpg",HSE 24
+#EXTINF:-1 tvg-id="HSE.de" tvg-logo="https://feedlix.net/tv/de/hse24.jpg" group-title="Shopping",HSE 24
 https://hse24.akamaized.net/hls/live/2006663/hse24/master_576p25.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/hse24extra.jpg",HSE 24 Extra
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/hse24extra.jpg" group-title="Shopping",HSE 24 Extra
 https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/master_576p25.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tubefilter.com/wp-content/uploads/2020/07/weather-spy-1400x825.jpg" group-title="Weather",WeatherSpy
@@ -645,7 +645,7 @@ https://i.mjh.nz/SamsungTVPlus/DEBD5100001XP.m3u8
 #EXTINF:-1 tvg-id="DEBA33000212C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA33000212C_20240117T032630SQUARE.png_20240117032631.png" group-title="Kids",Family Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/DEBA33000212C.m3u8
 
-#EXTINF:-1 channel-id="samsung-DEBC4700007JV" tvg-id="DEBC4700007JV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700007JV_20221214T045041SQUARE.png_20221214045042.png" tvg-chno="4628" group-title="Kinder", duckTV
+#EXTINF:-1 channel-id="samsung-DEBC4700007JV" tvg-id="DEBC4700007JV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700007JV_20221214T045041SQUARE.png_20221214045042.png" tvg-chno="4628" group-title="Kids",Duck TV
 https://i.mjh.nz/SamsungTVPlus/DEBC4700007JV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2014/04/Sport1.jpg" group-title="Sports",Sport 1 (geo)
