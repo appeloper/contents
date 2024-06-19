@@ -1812,8 +1812,11 @@ https://stream.laut.fm/vodafone?ref=radiode
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/273/70s-80s-all-time-greatest.72faf0f0.jpg" group-title="Radio",70s 80s All Time Greatest (Radio UK)
 https://live.streamthe.world/70s80s
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LcaRwmxgF9.png" group-title="Radio",Classic FM (Radio UK)
-https://media-the.musicradio.com/ClassicFM
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/1018.v14.png",Capital FM (Radio UK)
+https://media-ssl.musicradio.com/Capital
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/1074.v7.png",Classic FM (Radio UK)
+https://media-ssl.musicradio.com/ClassicFM
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DJa9MLsnqk.png" group-title="Radio",Classic Oldies (Radio UK)
 https://securestreams6.autopo.st:2453/stream
@@ -1823,6 +1826,12 @@ https://classicrock.streeemer.com/listen/classic_rock/radio.aac
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ewfckewzcrst.jpg" group-title="Radio",Dance Hits (Radio UK)
 https://listen.radioking.com/radio/1743/stream/125
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/43387.v7.png",Dance UK (Radio UK)
+https://dancestream.danceradiouk.com/;
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/1072.v6.png",Gold (Radio UK)
+https://media-ssl.musicradio.com/Gold
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ayywdbzmun4u.png" group-title="Radio",Greatist Hits Non-Stop (Radio UK)
 https://s8.myradiostream.com/58238/listen.mp3
@@ -1898,6 +1907,9 @@ https://listen-nation.sharp-stream.com/lovenation.mp3
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dd8u6fzczaz2.png" group-title="Radio",Nation Rocks (Radio UK)
 https://listen-nation.sharp-stream.com/nationrocks.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/964.v9.png",Smooth (Radio UK)
+https://media-ssl.musicradio.com/SmoothLondonMP3
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/12062.v16.png" group-title="Radio",Virgin (Radio UK)
 https://radio.virginradio.co.uk/stream
