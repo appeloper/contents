@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/aquateenhungerforce.jpg" group-title="Kids",24/7 Aqua Teen Hunger Force
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_5.m3u8
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azzpKrT.png" group-title="Kids",24/7 Dream Corp
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_6.m3u8
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Dethklok2.jpg/250px-Dethklok2.jpg" group-title="Kids",24/7 Metalocalypse
 https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_6.m3u8
@@ -60,11 +60,17 @@ https://install.akctvcontrol.com/speed/broadcast/140/file-3128k.m3u8
 #EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Meet the Breeds HD
 https://install.akctvcontrol.com/speed/broadcast/139/file-3128k.m3u8
 
+#EXTINF:-1 tvg-id="USBD3300019OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300019OU_20240401T235358SQUARE.png" group-title="Kids",All Babies Channel
+https://i.mjh.nz/SamsungTVPlus/USBD3300019OU.m3u8
+
 #EXTINF:-1 tvg-id="Ani.ru" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="Kids",Ani
 http://streaming.tv-teleport.ru/Ani/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3eabf05ad0127a53af71227f1fe132a1.jpg" group-title="Kids",Ani TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3eabf05ad0127a53af71227f1fe132a1.jpg" group-title="Kids",Ani TV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Kids",Anime All Day
+https://r.mjh.nz/PlutoTV/5812b7d3249444e05d09cc49-alt.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png" group-title="Kids",Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
@@ -78,6 +84,12 @@ https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Avatar-the-Last-Airbender-Symbol.png" group-title="Kids",Avatar Kids
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656df599c0fc8800089c75ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-id="USBD350002338" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002338_20240401T235452SQUARE.png" group-title="Kids",Baby Einstein
+https://i.mjh.nz/SamsungTVPlus/USBD350002338.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/BabyFirstTV-Logo.jpg" group-title="Kids",Baby First
+https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
@@ -90,6 +102,9 @@ https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/95C3A69E-55D2-4550-B3A4-B83B02A22152.png" group-title="Kids",Barney and Friends
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ac405b3874370007419b7f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-id="BatteryPopXUMO.us" tvg-logo="https://static.wikia.nocookie.net/qubo-channel/images/c/c0/D6BE549D-21AA-4842-B706-1676D61C022F.png" group-title="Kids",Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Boinges.png" group-title="Kids",Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
@@ -99,10 +114,16 @@ https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/cachipum.jpg" group-title="Kids",Cachipum TV
 https://tls.cdnz.cl/cachipuntv/live/chunklist_w72379467.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f6d4c60d90805aad81d1b0cb5f566a5.jpg" group-title="Kids",Canela Kids ES
+#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://img3.static-ottera.com/prod/tg/linear_channel/logo/960x540/camp-spoopy-2021_1920-x-1080_option-5.jpg" group-title="Kids",Camp Spoopy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f6d4c60d90805aad81d1b0cb5f566a5.jpg" group-title="Kids",Canela Kids ES
 https://stream.ads.ottera.tv/cl/240519cp576m425rmmbqha6s90/640x360_1126400_3_f.m3u8?i=475_654
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://feedlix.net/tv/es/clan_tv.png",Clan HD
+#EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
+https://r.mjh.nz/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://feedlix.net/tv/es/clan_tv.png",Clan HD
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network (IN)
@@ -132,6 +153,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-id="DisneyJunior.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior (JP)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 
+#EXTINF:-1 tvg-id="DEBC4700007JV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700007JV_20221214T045041SQUARE.png_20221214045042.png" group-title="Kids",Duck TV
+https://i.mjh.nz/SamsungTVPlus/DEBC4700007JV.m3u8
+
 #EXTINF:-1 tvg-id="EBCYOYO.tw" tvg-logo="https://i.imgur.com/k4fhcPl.png" group-title="Kids",EBC Yoyo
 https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
 
@@ -141,13 +165,19 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="Eureka.co" tvg-logo="https://i.imgur.com/WgnZPol.png" group-title="Kids",Eureka
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
 
+#EXTINF:-1 tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Kids",Forever Kids
+https://r.mjh.nz/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
+
+#EXTINF:-1 tvg-id="62a069bfd88ef000073f6775" tvg-logo="https://images.pluto.tv/channels/62a069bfd88ef000073f6775/colorLogoPNG.png" group-title="Kids",Garfield & Friends
+https://r.mjh.nz/PlutoTV/62a069bfd88ef000073f6775-alt.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/GospelCartoon.png" group-title="Kids",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/1/12/Inspector_Gadget_print_logo.png" group-title="Kids",Inspector Gadget
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Kids",Jetsons TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Kids",Jetsons TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="KartoonChannel.us" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Kids",Kartoon Channel
@@ -159,13 +189,16 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-03/ketchup-kids-tv-channel-logo.png" group-title="Kids",Ketchup TV
 https://aa8019675b784a8f86008d57eaefb016.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_Ketchup/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/875c68d876502060f56b9303cf91a09e.jpg" group-title="Kids",Kids Mais
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/875c68d876502060f56b9303cf91a09e.jpg" group-title="Kids",Kids Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="Kids",Kids Movie Club
+https://r.mjh.nz/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
 
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://i.imgur.com/pb94kIk.png" group-title="Kids",Kids Station
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72bf2ecca24095d1f015ae7c52749e68.jpg" group-title="Kids",Kids TV Español Latino
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72bf2ecca24095d1f015ae7c52749e68.jpg" group-title="Kids",Kids TV Español Latino
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/9af6f7ed-171e-40d4-9ceb-0332c171931a/1.m3u8
 
 #EXTINF:-1 tvg-id="Kidz.es" tvg-logo="https://i.imgur.com/iBgsCOV.png" group-title="Kids",Kidz Atresmedia
@@ -180,14 +213,17 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LogosTVKids.es" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="Kids",Logos TV Kids
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv-300.ru/images/lyubimoe-tv.jpg",Любимое ТВ
-https://live.planeta-online.tv/public/smil:channel_6.smil/chunklist_w1555309182_b858000_tkd3RlbmR0aW1lPTE3MTU4ODMwNDgmd3RoYXNoPWhvaGpEWERFSi1Kdko1clA2RTl0VVZRbVdCaFJ5N2lkWUJjTXlicmdfUWc9.m3u8
+#EXTINF:-1 tvg-id="MNetKids.mk" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="Kids",M-Net Kids
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+
+#EXTINF:-1 tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="Kids",Lego Kids TV
+https://r.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
 
 #EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="Kids",Majid TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 
-#EXTINF:-1 tvg-id="MNetKids.mk" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="Kids",M-Net Kids
-http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-id="5dc02ece31f6050009de4b39" tvg-logo="https://images.pluto.tv/channels/5dc02ece31f6050009de4b39/colorLogoPNG.png" group-title="Kids",Mario vs Sonic
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 3 EUR
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
@@ -201,7 +237,7 @@ https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95cd63c87a3e478f54ab5af706844922.jpg" group-title="Kids",Mundo Pequeño ES
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95cd63c87a3e478f54ab5af706844922.jpg" group-title="Kids",Mundo Pequeño ES
 https://stream.ads.ottera.tv/cl/240515cp2fmus25rmkgimd86ng/854x480_550000_3_f.m3u8?i=475_3366
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/mult_ru.png" group-title="Kids",Мульт
@@ -225,10 +261,10 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="Pingviin.ee" tvg-logo="https://i.imgur.com/b6xupqO.png" group-title="Kids",Pingviin
 https://void.greenhosting.ru/PingviinEE_Mpeg4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b22af84bdf817ed88a396951cda5988b.jpg" group-title="Kids",Pitufo TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b22af84bdf817ed88a396951cda5988b.jpg" group-title="Kids",Pitufo TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ebaf4e9bbdc1cfd28bc1138e879cff4.jpg" group-title="Kids",Planeta de Aventuras
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ebaf4e9bbdc1cfd28bc1138e879cff4.jpg" group-title="Kids",Planeta de Aventuras
 https://stream.ads.ottera.tv/cl/240515cp2g0c6ut1i75ufg4jsg/854x480_550000_3_f.m3u8?i=475_4311
 
 #EXTINF:-1 tvg-id="PlutoTVAnimakids.es" tvg-logo="https://i.imgur.com/MSGZ3S9.png" group-title="Kids",Pluto TV Anima kids
@@ -249,7 +285,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Kids",Pluto TV Kids HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=721&deviceId=5f1214a637c6fd00079c652f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="PlutoTVKidsSeries.fr" tvg-logo="https://i.imgur.com/twXueoi.png" group-title="Kids",Pluto TV Kids Séries (720p)
+#EXTINF:-1 tvg-id="PlutoTVKidsSeries.fr" tvg-logo="https://i.imgur.com/twXueoi.png" group-title="Kids",Pluto TV Kids Séries
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="NickClassico.br" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="Kids",Pluto TV Nick Classic	
@@ -258,7 +294,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Kids",Pluto TV Nick Junior
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="PlutoTVRetroToons.us" tvg-logo="https://i.imgur.com/YUQL0ki.png" group-title="Kids",Pluto TV Retro Toons (720p)
+#EXTINF:-1 tvg-id="PlutoTVRetroToons.us" tvg-logo="https://i.imgur.com/YUQL0ki.png" group-title="Kids",Pluto TV Retro Toons
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e1c669094e0e80009b22ab8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=886c7aee-0585-11eb-8b9f-0242ac110002&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="PlutoTVRugrats.us" tvg-logo="https://i.imgur.com/ZVtPBXM.png" group-title="Kids",Pluto TV Rugrats
@@ -285,17 +321,29 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pBv3Lz0.jpg" group-title="Kids",Pluto TV Vida Moderna de Rocko
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d40e3d9-f044-4b32-bfa7-30b9b5387328/PW_Kids_1280x1080_white_trans.png" group-title="Kids",PW Kids
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f7f.m3u8
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiGulp_hd.png" group-title="Kids",RAI Gulp HD (geo IT)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiYoYo_hd.png" group-title="Kids",RAI YoYo HD (geo IT)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://imgur.com/3bvMvx2.png",Rakuten Family HD
+#EXTINF:-1 tvg-id="USBD3300015BY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300015BY_20240401T235504SQUARE.png" group-title="Kids",Rainbow Ruby
+https://i.mjh.nz/SamsungTVPlus/USBD3300015BY.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://imgur.com/3bvMvx2.png",Rakuten Family HD
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://genialltv.com/uploads/tv_image/retro-tv.png" group-title="Kids",Retro Cartoon 1
 https://stmv1.srvif.com/retrotv/retrotv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/ric.jpg" group-title="Kids",RIC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5dbc327d0451770009ed7577" tvg-logo="https://images.pluto.tv/channels/5dbc327d0451770009ed7577/colorLogoPNG.png" group-title="Kids",Sabrina
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc327d0451770009ed7577/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/9/92/SAT-7_Kids_-_logo.png" group-title="Kids",Sat7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_source/chunks_dvr.m3u8
@@ -312,6 +360,9 @@ https://media2.livaat.com/TAHA-TV/index.m3u8
 #EXTINF:-1 tvg-id="Tamyr.ru" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="Kids",Тамыр
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="60f9ebb06f0b3d000746fbdb" tvg-logo="https://images.pluto.tv/channels/60f9ebb06f0b3d000746fbdb/colorLogoPNG.png" group-title="Kids",Team Spirit
+https://r.mjh.nz/PlutoTV/60f9ebb06f0b3d000746fbdb-alt.m3u8
+
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies
 https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
 
@@ -321,10 +372,10 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://banner2.cleanpng.com/20180606/fly/kisspng-tiny-pop-television-channel-television-show-5b18378ba63754.9213680815283137396808.jpg" group-title="Kids",Tiny Pop
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e164c1f449172affe344cb1f7420adce.jpg" group-title="Kids",Toon Goggles Español
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e164c1f449172affe344cb1f7420adce.jpg" group-title="Kids",Toon Goggles Español
 https://stream.ads.ottera.tv/cl/240515cp2fsh2uujvcocuu81i0/854x480_1355200_2_f.m3u8?i=475_514
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26309f3e115d9326a50aeb84c794f1fe.jpg" group-title="Kids",Toon Goggles Portugal
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26309f3e115d9326a50aeb84c794f1fe.jpg" group-title="Kids",Toon Goggles Portugal
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 1
@@ -339,7 +390,7 @@ https://asp6.toonamiaftermath.com/livehttporigin/est/eKyHtW-YsWFAH-chunklist.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 4
 https://asp6.toonamiaftermath.com/livehttporigin/est/eKyHtW-YsWFAH-chunklist.m3u8?streamDelay=60
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f58965018411c0ef81df7c6b596ad54.jpg" group-title="Kids",Toonz Kids
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f58965018411c0ef81df7c6b596ad54.jpg" group-title="Kids",Toonz Kids
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/70b9192f-ad7c-43f5-b65f-964375473edb/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/F2ZRkfbbcAAAbC4.jpg" group-title="Kids",Totally Turtles
@@ -354,6 +405,9 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT Diyanet" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Kids",TRT Diyanet HD
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-id="612f761008a9e50007984ba0" tvg-logo="https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png" group-title="Kids",TV Animation
+https://r.mjh.nz/PlutoTV/612f761008a9e50007984ba0-alt.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="Kids",TVG Xabarin
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
 
@@ -366,14 +420,20 @@ https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg" group-title="Kids",TVG Mociños (geo ES)
 https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/chunklist_b2200000.m3u8
 
+#EXTINF:-1 tvg-id="5ad8d54be738977e2c310940" tvg-logo="https://images.pluto.tv/channels/5ad8d54be738977e2c310940/colorLogoPNG.png" group-title="Kids",TV Kids
+https://r.mjh.nz/PlutoTV/5ad8d54be738977e2c310940-alt.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="Kids",Watch it Kid
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/Y/Yu-Gu-Oh_-logo-FA1A029B70-seeklogo.com.png" group-title="Kids",Yu-Gi-Oh!
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.jpg" group-title="Kids",Zaz TV ES
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.jpg" group-title="Kids",Zaz TV ES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
 
 #EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://feedlix.net/tv/pt/ZigZag.png" group-title="Kids",Zig Zag
 https://streaming-live.rtp.pt/liverepeater/smil:zigzagHD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/643723936bb6be8434f8ca9e5aa71697.jpg" group-title="Kids",Zona de Acción
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/643723936bb6be8434f8ca9e5aa71697.jpg" group-title="Kids",Zona de Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
