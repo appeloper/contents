@@ -93,6 +93,12 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_h
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/BBC_Scotland.jpg" group-title="General",BBC Scotland (geo)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/rte_one.png" group-title="General",RTE 1 HD (geo)
+https://live.rte.ie/live/a/channel1/channel1.isml/.mpd
+
+#EXTINF:-1 tvg-logo="https://img.rasset.ie/00098894-622.jpg" group-title="General",RTE 2 HD (geo)
+https://live.rte.ie/live/a/channel2/channel2.isml/.mpd
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/CBBC.uk.png" group-title="General",CBBC (geo)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
@@ -180,10 +186,20 @@ https://r.mjh.nz/PlutoTV/61c4a09d6c959f0007189c93-alt.m3u8
 #EXTINF:-1 tvg-id="5d4af1803e7983b391d73b13" tvg-logo="https://images.pluto.tv/channels/5d4af1803e7983b391d73b13/colorLogoPNG.png" group-title="Documentary",TV History
 https://r.mjh.nz/PlutoTV/5d4af1803e7983b391d73b13-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-64c0d697b0cf5c000824e5d9" tvg-id="64c0d697b0cf5c000824e5d9" tvg-logo="https://images.pluto.tv/channels/64c0d697b0cf5c000824e5d9/colorLogoPNG.png" group-title="Documentary",UK TV Play Uncovered
+https://r.mjh.nz/PlutoTV/64c0d697b0cf5c000824e5d9-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ad8d1e9e738977e2c310925" tvg-id="5ad8d1e9e738977e2c310925" tvg-logo="https://images.pluto.tv/channels/5ad8d1e9e738977e2c310925/colorLogoPNG.png"
+group-title="Documentary",Voyager Documentaries
+https://r.mjh.nz/PlutoTV/5ad8d1e9e738977e2c310925-alt.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTV-UK_great-british-menu" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e1aa67aa-2d09-4900-b650-c2463c0be0af.png" group-title="Kitchen",Great British Menu
+https://1170baa82b1343c29dbf352e2d1a61e5.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-gb_GreatBritishMenu/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=4431&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=61a76026-6267-4ee9-91cf-b71f19e1315e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1231
+
 #EXTINF:-1 tvg-id="RakutenTV-UK_gusto-tv-new" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/f2a786f8-023b-489f-9529-1b6dbb0904fa-gusto-tv-1652347326.png" group-title="Kitchen",Gusto TV
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=4087&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=ed183a81-5820-43d4-83e4-2430784be067&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=858
 
-#EXTINF:-1 tvg-id="RakutenTV-UK_bon-appetit" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/8d937d2d-a19c-4271-a389-e2f1cc37e5fc-bon-appetit-1643643149.png" group-title="RakutenTV UK",Bon Appetit
+#EXTINF:-1 tvg-id="RakutenTV-UK_bon-appetit" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/8d937d2d-a19c-4271-a389-e2f1cc37e5fc-bon-appetit-1643643149.png" group-title="Kitchen",Bon Appetit
 https://bonappetit-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-condenast-rakuten/CDN/master.m3u8?ads_amagi_channel=744&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=3462&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=49f7d9d5-2371-46cf-a7bd-92b4ef95b1b9&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-id="5e6f38792075160007d85823" tvg-logo="https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png" tvg-chno="401" group-title="Kitchen",Hell's Kitchen
@@ -309,37 +325,43 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Horseandcountry.PNG" group-title="Sports",Horse and Country
 https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eUqnYU1.png",Sheffield Live TV
-http://tv.sheffieldlive.org/hls/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://uswitch-contentful.imgix.net/g836doytpz4a/7bP3vSvng9B3KkK3hrXlGt/d7d1edeef2e0ea233114b47e454ce0ae/itv_sport.svg.png",ITV Sport
-http://51.52.156.22:8888/http/007
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dIzAmT0.png",Rugby Men's Sevens
-https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HZp8PAw.png",Rugby Women's Sevens
-https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xVgXmS2.jpg",Rugby World TV
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.sportstonightlive.com/img/logo.png",Sports Tonight
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/chelsea_tv.png",Chelsea TV (geo)
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png",Real Madrid TV HD
-http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 tvg-id="RakutenTV-UK_dazn-women-s-football" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e6ca508c-b569-4bd5-b183-070f477b0076.png" group-title="Sports",DAZN Women's Football
+https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8?ads_amagi_channel=855&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=5029&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=2dce0380-7a76-4411-acdb-85da64d2790b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QweV0BP.png",Sky 1 Racing
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1_high@569779.m3u8
+#EXTINF:-1 tvg-id="RakutenTV-UK_motorsport-tv-en" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/79d2582f-4a7f-484a-80eb-6fbbac04eb71.png" group-title="Sports",Motorsport TV
+https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=4663&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=d167510b-93e9-41e5-b6ba-eefa9863a0ec&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1370
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7MkX0Ct.png",Sky 2 Racing
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2_veryhigh@569779.m3u8
+#EXTINF:-1 tvg-id="RakutenTV-UK_motorracing-english-feed" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/88bc71da-4926-420a-8618-e1b7ba366e5a.png" group-title="Sports",Motor Racing
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/69fae76b-c5fe-11ec-967f-401ac48a6867/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=1970&ads%3Afunke_channel_id=RAKB0032&ads%3Alanguage=eng&ads%3Amarket=uk&ads%3Aos_language=&ads%3Aplayer_height=1080&ads%3Aplayer_width=1920&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4252&ads%3Astreaming_id=2ff04ac1-a68a-4e8e-bc86-d86b463b8c79&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=gb&optout=0&uid=e3dd2658-e93a-4cee-9d4b-27200826a904&vendor=rakuten
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/RedBullTv.png",Red Bull
+#EXTINF:-1 tvg-id="RakutenTV-UK_strongman-champions-league" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b3421ef4-66a7-4d51-b6df-f8282811d6fe.png" group-title="Sports",Strongman Champions League
+https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=4401&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=030e926b-c51e-458d-be22-e984a771b206&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1102
+
+#EXTINF:-1 tvg-id="RakutenTV-UK_world-of-free-sports-en" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/73c3dae4-bbce-491e-a838-0482d0eb106f.png" group-title="Sports",World of Freesports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8?ads_amagi_channel=837&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=4372&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=c61ce8fa-4c9c-4d17-a716-ccbd2c1a643e&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 tvg-id="RakutenTV-UK_horizonsports-english" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c98aba51-4f77-40bf-b6c2-1926f3fbb7ee.png" group-title="Sports",Horizon Sports
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bb03cb18-c54e-11ec-967f-401ac48a6867/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=1970&ads%3Afunke_channel_id=RAKB0021&ads%3Alanguage=eng&ads%3Amarket=uk&ads%3Aos_language=&ads%3Aplayer_height=1080&ads%3Aplayer_width=1920&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4260&ads%3Astreaming_id=4bb04afc-6447-4a76-895a-c1f117394c95&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=gb&optout=0&uid=e3dd2658-e93a-4cee-9d4b-27200826a904&vendor=rakuten
+
+#EXTINF:-1 tvg-id="RakutenTV-UK_glory-kickboxing" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/f7ff571e-aa81-41ce-a131-cf6f9a5cb3de.png" group-title="Sports",Glory Kickboxing
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=4839&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=aa44377d-ad8b-471d-ac08-215292aadb84&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1360
+
+#EXTINF:-1 tvg-id="RakutenTV-UK_fuel-tv-new" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7215f877-03fa-406e-8b2e-2422eae88563.png" group-title="Sports",Fuel TV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8?ads_amagi_channel=847&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=4785&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=d00969dd-b4be-44f4-a45a-025df39de621&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 channel-id="pluto-65b14aae0cb1a100087a216e" tvg-id="65b14aae0cb1a100087a216e" tvg-logo="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/colorLogoPNG.png" group-title="Sports",DAZN Ringside
+https://r.mjh.nz/PlutoTV/65b14aae0cb1a100087a216e-alt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tavilatam.com/wp-content/uploads/2022/04/TAVI_FIFAPlus.png" group-title="Sports",FIFA Plus
+https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png" group-title="Sports",Real Madrid TV HD
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/RedBullTv.png" group-title="Sports",Red Bull HD
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png" group-title="Lifestyle",World Fashion TV HD
