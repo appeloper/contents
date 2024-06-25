@@ -1,38 +1,31 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RTP 1 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPHD_monocromaticoAzul_horiz_RGB.png" group-title="General",RTP 1 HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmOPisSFX1834rrD8B4hIVcZOeZXFpHii3XDMUF2+7jPY=
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP 1 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png" group-title="General",RTP 1 (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mvbX0jFIBQ11LDP+s351Y2LwkICGpZ0Y79l+xoUqleef3LMJ65/anV3Tl3s2JS1Z
+http://210.210.155.35/qwr9ew/s/s38/01.m3u8
 
 #EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmRjADdeZPuGcgAw3LY81047CCf+wqNnmri6Eh4OlCpOCSjwdP35i33OqYcw8vpNFfNmeAJBmYP2SR4tAub/U9GBNIpwPQU63/g8iE2i5E8R7iAICsyNVLx6ko24ruiwy0
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8?token=1614920400_de94cfcbb3f1a5b36458841ccf472bdce0fd6f64
 
 #EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmtQ8/LJ81LwmqS9D4OUc7jpOeZXFpHii3XDMUF2+7jPY=
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3 (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP2dR195X0t9EqvdBFwB5UG8fkNy7AXGcyQ4bD+8hcW4ZH/bcMW9N8G6N4khb+nlsmdhl44xLyNNxCc6ciuuzBUTF5J5I+/tluEvRwhtuytx+oM5XvMq3h5cJOIZF/xOtZUdWYbiD/XRNuiRZ+xSIyeqYKf+TVPzWU4sVaJhmiwUxg==
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b1290000_DVR_slpt.m3u8?token=1614920400_4426142211539bddbfb7215d7f7aaa366a49c337
 
 #EXTINF:-1 tvg-id="RTP I" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPInternacional_negativo_horiz_RGB.png" group-title="News",RTP Internacional
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmP57Iocvq72eBlXW46o9jR9ApwwoW0Gde0r+KMDktr7YkfWue8aILwpffFi4MWZcm
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
 #EXTINF:-1 tvg-id="RTP Memória.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtpMemoria_negativo_horiz_RGB.png" group-title="General",RTP Memória
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP Memória.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtpMemoria_negativo_horiz_RGB.png" group-title="General",RTP Memória (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmKFomV24F41gGBcPK40rk8CYoPpgx7u6Fp/sA8+l7wEpMAAjmPT8YSEHA9lRW2pkK
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8?pxt_rtp
 
 #EXTINF:-1 tvg-id="RTP Açores.pt" tvg-logo="https://feedlix.net/tv/pt/RtpAcores.pt.png" group-title="Regional",RTP Açôres
 http://streaming-live-app.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
@@ -44,59 +37,46 @@ https://streaming-live-app.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b6
 https://streaming-live-app.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SIC HD.pt" tvg-logo="https://feedlix.net/tv/pt/Sic.pt.png" group-title="General",SIC
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Djy1xt7ot5Shm4OmPf9HQp52OekjHMhSO1mcEKd1XPwitLWnPG5ymKuMgg+InXTAnf9ivS/kUDb8WydsJ2sYMtN+diuY0RJCG1mbZgUAL7R53NP2+5DGjXtimG88Ir6G
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:-1 tvg-id="SIC HD.pt" tvg-logo="https://feedlix.net/tv/pt/Sic.pt.png" group-title="General",SIC (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Djy1xt7ot5Shm4OmPf9HQp52OekjHMhSO1mcEKd1XPwitLWnPG5ymKuMgg+InXTAnf9ivS/kUDb8WydsJ2sYMtN+diuY0RJCG1mbZgUAL7QTnZxCMpLUAHI+4LHG2mwa
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 
 #EXTINF:-1 tvg-id="SIC Notícias HD.pt" tvg-logo="https://feedlix.net/tv/pt/SicNoticias.pt.png" group-title="News",SIC Notícias
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Y1Am5PibT5YST3zhF7kx8w4604L1Ej/kuxjVmCLtEOGPH02AAsPcjeGdOezFCKXA5ondrd8JgoS5cEW3zQSBqRW3iWX1ATUC1Mci80XC11J53NP2+5DGjXtimG88Ir6G
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 
 #EXTINF:-1 tvg-id="SIC Opto HD.pt" tvg-logo="https://opto.sic.pt/_nuxt/icons/icon_512x512.feb7bd.png" group-title="Entertainment",SIC Opto HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Djy1xt7ot5Shm4OmPf9HQp52OekjHMhSO1mcEKd1XPwitLWnPG5ymKuMgg+InXTAnf9ivS/kUDb8WydsJ2sYMtN+diuY0RJCG1mbZgUAL7QTnZxCMpLUAHI+4LHG2mwa
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 
-#EXTINF:-1 tvg-id="SIC Replay HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICReplay.png" group-title="Entertainment",SIC Replay HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:I8Wzi5ymgFWGba6qHjIixtTx+5BJ+9IDNyEEIbrevryouGkmNiGlnTpJkB4WHlfPX9MjZBnrXHS84iRSvei8ElcWo06GUwieK8xMFlYaAq6nG0mb81GKj6CDeyWqft7G+qN6x+oKKR/aXVzt7ySu2PsZfRhtCmbZFEK+mufrTkiAl2wKlCb5LvcNSn5UxaiK+NqU0N4+kzFUF/mysGaG0JMm+PVaWl+mKjo/yg9E8tc=
+#EXTINF:-1 tvg-id="SIC Replay HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICReplay.png" group-title="Entertainment",SIC Opto Replay HD
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 
-#EXTINF:-1 tvg-id="SIC Alta Definição HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICAltaDefinicao.png" group-title="Entertainment",SIC Alta Definição HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:I8Wzi5ymgFWGba6qHjIixtTx+5BJ+9IDNyEEIbrevryouGkmNiGlnTpJkB4WHlfPnydDnNQ/QWVyY54v1gTkI3HVxkQ8EKc6Z+bSNla17fenG0mb81GKj6CDeyWqft7G+qN6x+oKKR/aXVzt7ySu2MF215OiN6go5wkcGZotCdIzyhZKmsQCqkbpn6PHulMlNxTQ2RGLoXpErzOGRqB5VZMm+PVaWl+mKjo/yg9E8tc=
+#EXTINF:-1 tvg-id="SIC Alta Definição HD.pt" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SICAltaDefinicao.png" group-title="Entertainment",SIC Opto Alta Definição HD
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
-#EXTINF:-1 tvg-id="SIC Novelas HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Entertainment",SIC Novelas HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:I8Wzi5ymgFWGba6qHjIixtTx+5BJ+9IDNyEEIbrevryouGkmNiGlnTpJkB4WHlfPbTacY0WQ86HirKtSTTFAd34JyCbMbV4JfNovgD3S1DunG0mb81GKj6CDeyWqft7G+qN6x+oKKR/aXVzt7ySu2Av7UEbkkR0GDoGzoT1QOTxP0SAfhkRxSEzGh3ZXHdgfFGe0++W1zR6BG9nZ2R1GgZMm+PVaWl+mKjo/yg9E8tc=
+#EXTINF:-1 tvg-id="SIC Novelas HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Entertainment",SIC Opto Novelas HD
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
 
 #EXTINF:-1 tvg-id="TVI HD.pt" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png" group-title="General",TVI
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:SYIHtsni5DMR3kBg8NsG6IFYtE3BNmYxhYZUxGLIFfKkNb997c4whTEJO6xLH+vWl1Ivt4v2TNPWdEprTAtjWFkVXOMH84VwDVJjirilfcMoLcXt3y7/IYsTCCxQWKKv
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 
 #EXTINF:-1 tvg-id="TVI HD.pt" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png" group-title="General",TVI (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:SYIHtsni5DMR3kBg8NsG6IFYtE3BNmYxhYZUxGLIFfKkNb997c4whTEJO6xLH+vWl1Ivt4v2TNPWdEprTAtjWFkVXOMH84VwDVJjirilfcNNONDk2iv8gqOHbFKiTKLL
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 
 #EXTINF:-1 tvg-id="TVI Ficção HD.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png" group-title="Entertainment",TVI Ficção
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxoY/2jAPUxp944p0hy9pNSxXsoD0NqPXiCqfqTeX6eez85mVjLBEpOThD6y/La+T6yux1gpn1DDGhOCtx4OHDiG1chfKr93YSo6pJ2tEnCnbg4rgL6Ot6hawltLaR8JK5Q==
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVI Reality HD.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png" group-title="Entertainment",TVI Reality
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxulGYJC36dQi4rfX5aHc3VGVa1jWpm1ASP2aIMfMCzzykVHg+yVrpVFT9zdGOeyTkdwyb9VT/X9mblim5zIzJv9pbwAnslDiWWB+cbW7RIUbViP7TByAsZsV79R0m2xPg5/kCkAz2miXb/PCywdcBWE=
+https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVI HD.pt" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c7585a7826b90bc38ac664cb10be0a4f.jpg" group-title="General",TVI África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8?nimblesessionid=485411866
 
 #EXTINF:-1 tvg-id="Porto Canal HD.pt" tvg-logo="https://feedlix.net/tv/pt/porto_canal.png" group-title="General",Porto Canal
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:k4pXBxFyk7vT4gsVaIQCtYzMe2jB4tRjx69LfRI7tOCcQhyjV68K79pZIIFTZaPfpyLRU3mOCbX00gtZyDqQ1KzsV8sim43zZXcRsEtuY8N/ejTdIOXTvtWRwEeHB2n7l0nmFNPiqAHeBKzzsQJ8L+4OSN/UXYJgqyveVfJELAg=
+https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/afmo/Tvm1.mz.png" group-title="General",TVM Moçambique
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:GsuCHi4PMNDgWEfp0xV5OcDIzI9OcBkni8Cz/P4D4kvPw/FSirWB2Bido/wc2X2aiAc9oxIIT08M0GpStBhjmtGEfPusnBBVNm4UDlvX+rNGuek0fFXmPIGX87q0T1CH
+http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w1637960336_b714000_slpor.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85622a63246e88cadd968505db88bcf7.jpg" group-title="General",TV Zimbo HD Angola
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/8910ecec24a54efa912c2e020856882b/chunklist_b732000.m3u8
@@ -106,75 +86,60 @@ https://cdn.live.br1.jmvstream.com/w/AVJ-13550/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/TdmInfo.mo.png" group-title="General",TDM/RTP Macau
 https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-
+	
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/TdmInfo.mo.png" group-title="General",TDM/Macau (CN)
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-
+	
 #EXTINF:-1 tvg-id="" tvg-logo="https://famaradio.tv/wp-content/uploads/2023/11/Fama-radio-e-televisao-Retangulo-fundo-azul-1-e1699897642904.png" group-title="General",Fama TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ze200/baQdA86lHkfoGXaTIEQfyWehC+AJRXANWpGUtuW+r+ywLV3zBT7z2P3NgbK7sxqpQmUV5tAIfx2Xvwv/aTBx/hwpJSqNClQgyskBo=
+https://streamer-b02.videos.sapo.pt/live/famatv/chunklist_w1750236615.m3u8
 
 #EXTINF:-1 tvg-id="ARTV" tvg-logo="https://feedlix.net/tv/pt/Artv.pt.png" group-title="Parliament",AR TV
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Cinema",MyTime Movie Network (BR)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:25TxLOUznfnCw5dYMoXl6mnb/A2rhbb4e0FMTYD3s87SI56gSRgejL9Sr5+obTevQjc30gxzpWbs18vBA71I6g==
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MovieSphere.jpg" group-title="Cinema",MovieSphere
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:an1eYV968w7ejvd2Um2yAmlHsxjOfpHpGupUPqCjDOgnR+t6RhfNwnI6oFd6kb5S
+https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosCine.pt.png" group-title="Cinema",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="Cinema",Gospel Movie TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:SMF24MV7uzwfWTWiCLiCTN+R2AwHQ52IBorw96uYzfBcZ8uDHFYw3LBlf832CFuU7g5I39RdgmCrK95V8kQsCA==
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/classiquetv.png" group-title="Cinema",Classique TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:SMF24MV7uzwfWTWiCLiCTBpOmSaUtMpO9TL0mZsCZL8quvGBPUreEfO6dKE3TkUa0IpAMUMUya4Hvu08iNs6JWkPhTQmdzvpV+b2KE/i8sM=
+https://stmv1.srvif.com/classique/classique/chunklist_w1130333035.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Ação
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMWZO52e3fhJncaXCJt2VVpERxMXMa46QvUWAQQZWlhQih14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLazYPOg0PbgPuSqC6V0/jOpubOPJH/Kywt8HuKV55XiTKi3uA8qEcECZcZf684kenp678C3JoZjP6q6pxkx/bHTFlV1RrUqULNkwX08+vvhep79KgfWU/GfghI/OBbYgc31mC7zis3H3CEYK+/v/D7tMo3yQcsfAUedUKFR/WknNIzVogbCafs0ic7GX0yD9tPsijxLzkJdS3jWDsUBfI6bb3A/9F0imB/g98P3YS6/LWWL8ib4AvFUrk8wXxzGiTA8cfrDvVvqAwM6voPT6xQqdNS50ljEnWbJim3l56lBH5397L9nuSwXRjCCO/McT2yX2FboMNJBaXh+CmmX3N4wq1YH4AS1BvBtQkXq9rcbtHiVGh2VpSWOp6YDT+Cmo8Q==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=56&deviceId=5f120f41b7d403000783a6d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Comédia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMZ3x1IqKbuqK51GrS+rfgBJ6c6vA50ZUsSsS647AUB5Lh14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLVkaCdtKGdXfuMPEVp76sJU/r5OvXw/S6w/Gb0BVaIduHJB/ZgTSENec7TmYTwIk3Z678C3JoZjP6q6pxkx/bHTFlV1RrUqULNkwX08+vvhep79KgfWU/GfghI/OBbYgc31mC7zis3H3CEYK+/v/D7tMo3yQcsfAUedUKFR/WknNIzVogbCafs0ic7GX0yD9tPsijxLzkJdS3jWDsUBfI6bb3A/9F0imB/g98P3YS6/LWWL8ib4AvFUrk8wXxzGiTA8cfrDvVvqAwM6voPT6xQqdNS50ljEnWbJim3l56lBH5397L9nuSwXRjCCO/McT2yX2FboMNJBaXh+CmmX3N4wq1YH4AS1BvBtQkXq9rcbtHiVGh2VpSWOp6YDT+Cmo8Q==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5f12101f0b12f00007844c7c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Drama
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMYHqg5IsjVwFWj8HoM40qelrqgnDqlWZC1PZbBH+pq2gh14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLWsNHj6ztq7ElHgFvZqfDb2o5mxtrKlVpmGaVMeA6mWJzh2XgHyol3Iehma3IFb4sJ678C3JoZjP6q6pxkx/bHTFlV1RrUqULNkwX08+vvhep79KgfWU/GfghI/OBbYgc31mC7zis3H3CEYK+/v/D7tMo3yQcsfAUedUKFR/WknNIzVogbCafs0ic7GX0yD9tPsijxLzkJdS3jWDsUBfI6bb3A/9F0imB/g98P3YS6/LWWL8ib4AvFUrk8wXxzGiTA8cfrDvVvqAwM6voPT6xQqdNS50ljEnWbJim3l56lBH5397L9nuSwXRjCCO/McT2yX2FboMNJBaXh+CmmX3N4wq1YH4AS1BvBtQkXq9rcbtHiVGh2VpSWOp6YDT+Cmo8Q==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=63&deviceId=5f1210d14ae1f80007bafb1d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Família
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMbqPYZcPGBXfCFwrLUMcO6qGk0+jb2vxcZIOAMtpo9Tgh14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLcqF4rhOJObloeV62qpGgFqMK7LbvpB1DL105bZNFgbUj0gg//ss8Wl6FFwJ0AbqjJ678C3JoZjP6q6pxkx/bHTFlV1RrUqULNkwX08+vvhep79KgfWU/GfghI/OBbYgc31mC7zis3H3CEYK+/v/D7tMo3yQcsfAUedUKFR/WknNIzVogbCafs0ic7GX0yD9tPsijxLzkJdS3jWDsUBfI6bb3A/9F0imB/g98P3YS6/LWWL8ib4AvFUrk8wXxzGiTA8cfrDvVvqAwM6voPT6xQqdNS50ljEnWbJim3l56lBH5397L9nuSwXRjCCO/McT2yX2FboMNJBaXh+CmmX3N4wq1YH4AS1BvBtQkXq9rcbtHiVGh2VpSWOp6YDT+Cmo8Q==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=87&deviceId=5f171f032cd22e0007f17f3d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Retro
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMemHhSNhwD/EA3zVegKSZjHKx6+/1xuv1ixkslceDgvYh14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLXchgwlrjr0/O1LJOYeJxVvPEPZoehCpUhoA4V1QcG49sj9Na20KQp8q4XfBwZTMyNiST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=5f1212ad1728050007a523b8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Séries
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMWq+ByjGjYQuFIVhwsHMlGfKsNoqOfYagXUUNeu/FN+7h14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLdNEhd8O7R936Eq7/I87a68Nl5gRrAfBTmELF7QKnTI1kXivP6g8CG9U2hi3Fd7at9iST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=101&deviceId=5f121262a189a800076b9386&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Sucessos
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMb5+pla73kkOGD2vTz6kXO9CX7yjOwUMsvLupmApgqbth14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLZQB4PH00KTeASmOgwes/eSOOWNaV6iY2ZprWgVMEnHX+FDfjtXNKIu1fSJqWk2mnZ678C3JoZjP6q6pxkx/bHTFlV1RrUqULNkwX08+vvhep79KgfWU/GfghI/OBbYgc31mC7zis3H3CEYK+/v/D7tMo3yQcsfAUedUKFR/WknNIzVogbCafs0ic7GX0yD9tPsijxLzkJdS3jWDsUBfI6bb3A/9F0imB/g98P3YS6/LWWL8ib4AvFUrk8wXxzGiTA8cfrDvVvqAwM6voPT6xQqdNS50ljEnWbJim3l56lBH5397L9nuSwXRjCCO/McT2yX2FboMNJBaXh+CmmX3N4wq1YH4AS1BvBtQkXq9rcbtHiVGh2VpSWOp6YDT+Cmo8Q==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=52&deviceId=5f120e94a5714d00074576a1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Terror
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMRvm7wNRy7ghNRi5Yc09nn5S+aQN1NaR90Qlo0CrXaB0h14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLRvcHTs0jJszbT/Pvt2+LB78vMz++bSatBo8UuLtD0Z0qNtkdPPtSXDskUUMxPWeX5678C3JoZjP6q6pxkx/bHTFlV1RrUqULNkwX08+vvhep79KgfWU/GfghI/OBbYgc31mC7zis3H3CEYK+/v/D7tMo3yQcsfAUedUKFR/WknNIzVogbCafs0ic7GX0yD9tPsijxLzkJdS3jWDsUBfI6bb3A/9F0imB/g98P3YS6/LWWL8ib4AvFUrk8wXxzGiTA8cfrDvVvqAwM6voPT6xQqdNS50ljEnWbJim3l56lBH5397L9nuSwXRjCCO/McT2yX2FboMNJBaXh+CmmX3N4wq1YH4AS1BvBtQkXq9rcbtHiVGh2VpSWOp6YDT+Cmo8Q==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=72&deviceId=5f12111c9e6c2c00078ef3bb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png" group-title="Cinema",Cine Real
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2LKKIbZNVWpaZzuuGXXzG8oYxFnNq5LQ4p+ubcvk+P9UYJx/lIwauBIeN7LTmS4T7g5I39RdgmCrK95V8kQsCA==
+https://cinereal-plex.amagi.tv/CineReal/master_5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Cinema",Top Cine
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mGCGq9mkHoIkAUp/TpbUQGJ24DBUvVXFjxo+Zg8npCWsPDMC5opYuLuNAwjp6P6MiF76OBgnYvfhYQaoIz70b+4OSN/UXYJgqyveVfJELAg=
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Cinema",Rakuten Action
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
@@ -198,8 +163,7 @@ https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANCAO NOVA" tvg-logo="https://feedlix.net/tv/pt/CancaoNova.pt.png" group-title="Religious",Canção Nova
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:u+H91oYjwh9phsqa5dZNnWCkSuq6aurl5BRCIOB+/pfdHtS4Q/SoOjBgESnnjHBZXifC+9mOh7L31qAyJgrKPMqqksrVbwHED1cADQ08sUA=
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png" group-title="Religious",KTV Angola
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w329371841_b413000_sleng.m3u8
@@ -226,54 +190,40 @@ https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3
 https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://feedlix.net/tv/es/tve1.png" group-title="General",La 1 HD (geo ES)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:hM6/tiHrLBiw3+iikJJ0/sgwkNzgkryMbhusaoG6bI0y1oM2gf8lPCi2RMiIv+OK
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-id="LA 2" tvg-logo="https://feedlix.net/tv/es/tve2.png" group-title="General",La 2 (geo ES)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:hM6/tiHrLBiw3+iikJJ0/mmfl9keuI/xvw2QK9caHyBFe3gJEpAGhOudGyYUg61O
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/onu_tv.png" group-title="News",ONU TV
-https://klive.kaltura.com/s/env/cluster-1-d.live.nvp1/live/hls/p/2503451/e/1_0xggphk4/tl/main/st/0/t/KLrN19oThzBylMCnERoJNQ/index-s32.m3u8?__hdnea__=st=1715032321~exp=1715118721~acl=/s/env/cluster-1-d.live.nvp1/live/hls/p/2503451/e/1_0xggphk4/tl/main/st/0/t/KLrN19oThzBylMCnERoJNQ/index-s*~hmac=02b7230dc1f13b43cef6695b7892cbbc8248c8b792ccacf9ed520a68e8b3faf5
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="News",Euronews
 https://r.mjh.nz/PlutoTV/619e6614c9d9650007a2b171-alt.m3u8
 
 #EXTINF:-1 tvg-id="CNN HD.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="News",CNN Portugal
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:tckM1YhWX7dKwpsNOtIQGcttllGbWIFtGOSiKNHPVVllmQ6NWXbSb9Hho7jjQPoB7g5I39RdgmCrK95V8kQsCA==
+https://bit.ly/41Pufgt?profile=inspirationFreetv.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24h
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:hM6/tiHrLBiw3+iikJJ0/tkzwFfexX/DVKbUINDdMBhFe3gJEpAGhOudGyYUg61O
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg" group-title="News",RT Español HD (sem censura)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:anjB8EAIO8gUG+jd2tjL9euT9LAgyCnXztmFTOQXLIf4DtMidKG3qOYtEU3Xm8zp
+#EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg" group-title="News",RT Español HD
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg" group-title="News",RT News HD (sem censura)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:A7uEVpvOurDbPW1POsCoeV7qZDHshjQV6m78Gb09vQsFeCE/b1b58MG7Vfa2w7Ku85kpx3j/Ba/A+5LRCQ/i4Lq/egoc7trj0DfFXZw3XzWvb0UljrDS7PfLVe2jiHrY
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg" group-title="News",RT News HD
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_espanol.png" group-title="News",CGTN (espanol)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:wuAhxWJePAzoOCJox6MbMEi2W56T7Ic2vTbqr7YUGMnJmHTt+cbSHOSvrTE7DOCa
+https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="CGTNHD.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.png" group-title="News",CGTN (english)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Bf8aSMZ87edMEd3nPhsVtZ6o+oyA85jSocOlqVnuo/B/k7RnGYKQ5hvzxAg3vn8o
+https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="CGTNFrancais.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Français.png" group-title="News",CGTN (français)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nugmehuHBIh+uqlPNTPI83a+Htvku/NmVDsBMY8rjgrJmHTt+cbSHOSvrTE7DOCa
+https://livefr.cgtn.com/1000f/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="DW.TV" tvg-logo="https://feedlix.net/tv/de/dw_tv.png" group-title="News",DW Español
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:D4VCqrbKef6ppA4u+1DoDddd+vKc024ud1lvY986Vkqavxe98Vnzm5mfXUUwP0Ho+jvVYWQWrpthS5S6uvBsIYiy/3k3UB14eB+V8N9xsjA=
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1024px-TeleSUR-Logo.svg.png" group-title="News",TeleSur (ES)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KcY9exbUXChCAdVdk1+DcxI+rNH1UDOh8m+iyjpi/x9Td2qP0ZC05NXYvixcSoU+Bp+dveKkpOQtdvsS8ti0tZWjkFawM0SRzI1dprfHPcQ=
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png" group-title="News",HispanTV
 https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w1182724625_b644100_slen.m3u8
@@ -282,10 +232,9 @@ https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w1182724625_b644100_sle
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 	
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/9806be74ba5860cbd39978bc9a53fcf9eca7aaf5bdf65d3d890d3c0b5ce3cc68.png" group-title="News",Free Speech TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:WU2ygT8mkrz8v+dXnxYbP8qlWlY+jMofCGpqxcyDvrXRXe0ohFXxpmjs8wHRm/p2vn8gkNHwP1OgWmGA3XFRGGpQm5IXxHumiMy7Qk0rFlvUYfMsZdigystR065QYdO5FRvcSuHg7MuDNYRb1kiL0AlFGvzvdzFZu7cRb7zX3R2f5ApAM9pol2/zwssHXAVh
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/sky_uk_news.png" group-title="News",Sky News (UK)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/sky_uk_news.png" group-title="News",Sky News
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" group-title="News",Fox News Now
@@ -295,65 +244,57 @@ https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
 https://dai.google.com/linear/hls/pa/event/TPKhqf0BQn2_ijC-0rOJcA/stream/8645d7dd-1833-499b-a27c-584105e5ee66:GRQ/variant/151c7fe8276bc9031337b1bc8e0ba426/bandwidth/400000.m3u8
 
 #EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png" group-title="News",Al Jazeera
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:afsFoKzfBiI4YPxcuPgIyUbVq72yACJJbbWOO2PDgQJ26DG2JBcX4XTvbdJGRaQa
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Documentary",Spotlight
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary",RT Documentary HD (english)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:TZ6OU7/wM95XbboPK9gn4BioNMO/gOLs5wEy3rPCduDuDkjf1F2CYKsr3lXyRCwI
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/rakuten_doc.jpg" group-title="Documentary",Rakuten Documentaries
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary",RT Documentary HD (english)
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+
 #EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary (english)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:yxHBfDzCqK/a8o2EedOl7qsNvedso7uhgaG7tGthdhQRYblB8eJL0fqXFjNhjZI2
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="Documentary",TV5 Monde Info
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dSZdsUPL1j6Yt/XXj8EDsnbuuyquqxY6mt/7PE9caPnyGMDjtzAKFrKySsTxIs9c5crAT7HtaUkvk+1fqkvpQ4OK4C+jreoWsJbS2kfCSuU=
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Kitchen",TV Cocina
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTe6I355ctVZ2hh7EEO200aNQai/44KOaVbbg/N7p1AqHaw59pHX2z5bf6cSgrb9u6F2CB+Md0k4aeEy+xn1LZZbAklTBd2Cri2RYu3a7MWvA4znJH+KPi3tzzR0dk3F1N/LjFjLSrlUAF7kwlgvvX7p0W0zdNkHGiVt21/tKE/EfFi6LzMjz3xxLB1WNtBg6HRJXVvAO6NywHTyvJLZ+pzustS8oyzwRdeKPr5FNrJBkJRKgfVz5kyA/gNj2W2turf0oKztVurBrTFxK/uQgi15gSo7gmJQSLGj8PZSUdzS2A3TUDmL7gKjL3LmVHZiGbFCZPWdO5pSbCTsgvl9D9aXMokqhB6uqxcZb5+mi9CsM9UH4+Ip8slzGJIm+G5VtBxGlZU3Orf157aMuvMB3I6LXiuP3SPiSExMdFRTjtOiOsOli7kMDUc2yLve56O0Q8RttBmX74KZ9kJjKm1WvZjabCB39aKbUyC2vKF6gWa9ddbZzTeD4ZboZGdcQcxI8XgOvuz42XFCUvx7AHmDlt90u+MGkg/uMpohZ6oduO37EaoKjL/qaDDOXWLqsVvavvk=
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://images.fubo.tv/station_logos/TastemadeEnEspanol_m.png" group-title="Kitchen",Tastemade Español
 https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pets",Animais de Estimação TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMW/LmchUcYUKVCRTSZJpeW/k1uDCfjf/eXaNaF5+k2Buh14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLTXF+M7oH1966miXXIXIjDpvEfDxoiZwb16+ormbLjSJ+aZJwzWTQAmxYDqspNEcxtiST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=505&deviceId=5f515ebac01c0f00080e8439&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="https://mma.prnewswire.com/media/1905810/The_Pet_Collective_Logo.jpg" group-title="Pets",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD (Dog TV)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJRcU++C9F2dC/g9Hdp8QKnbp9hOaC7cWVCPlKEFURccw=
+https://install.akctvcontrol.com/speed/broadcast/138/file-3128k.m3u8
 
 #EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJmz0N3Iu2SAoI7NUqdcy36K9vRSWOsNLs98tV7aOIetg=
+https://install.akctvcontrol.com/speed/broadcast/138/file-996k.m3u8
 
 #EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Puppies HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJuiFUGDgDZpew62sAPtmsULp9hOaC7cWVCPlKEFURccw=
+https://install.akctvcontrol.com/speed/broadcast/140/file-3128k.m3u8
 
 #EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Meet the Breeds HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxujGe4PgenSLJ7vUmwjKn+sKX9xKxTlGpyczO2wj08N7p9hOaC7cWVCPlKEFURccw=
+https://install.akctvcontrol.com/speed/broadcast/139/file-3128k.m3u8
+
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Irish Setter Club of ANS HD
+https://install.akctvcontrol.com/speed/broadcast/141/file-3128k.m3u8
 
 #EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://feedlix.net/tv/pt/ZigZag.png" group-title="Kids",Zig Zag
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mwwOYuJQpaNSFjag7tetn5uHlZ2jahUGfPGCiWyNBP3ium4FHbEvTkWDUfszkWlmNcuc14yVwju9HNT98mnFu3mwFKTAsFp6pMPvs6Fv07Q=
+https://streaming-live.rtp.pt/liverepeater/smil:zigzagHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosKids.pt.png" group-title="Kids",Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg",Rakuten Family HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Kids",Rakuten Family HD
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Jetsons.jpg" group-title="Kids",Jetsons TV
@@ -377,38 +318,32 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b22af84bdf817ed88a396951cda5988b.jpg" group-title="Kids",Pitufo TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://feedlix.net/tv/es/clan_tv.png",Clan HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://feedlix.net/tv/es/clan_tv.png" group-title="Kids",Clan HD
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
 #EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Boinges.png" group-title="Kids",Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png" group-title="Kids",Anime TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:SMF24MV7uzwfWTWiCLiCTLCIFlBzUog0A3eZfCnQr75dsAzgTZ0dsY2cmoKRArT3JH1rnvGiC8KX3xYuDFmXJg==
+https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Kids",Pluto TV Kids HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMZAEgk1Po5s/LdvF+eXXDI6CABdhNvhw5fKSVibmSNkzh14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLWqj7MsUx9HOWXZwrpZifcrGa8mYsh6sTtvQFIn0APdSDb9Y5Pq3euJ8ljYbfCUMb9iST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=721&deviceId=5f1214a637c6fd00079c652f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r9KXpZU.jpg" group-title="Kids",Pluto TV Anime
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMf3q5UcQKeQz0Jax5AmiTCfgsXkwOczoJsuAJgPZmgq6h14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLa4QN3fzphE0DjEbtE00741+jHBUpr/ERr8eq1GiIuhWx0i8XJp3qxZEi2TbsU9zWdiST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5f12136385bccc00070142ed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eaPxZxN.jpg" group-title="Kids",Turma da Mónica
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMaqbflXLcPmlv+Mpu92FuYPSMKPuGrqGotG6J1TgDY9Vh14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLSlcE/sscPl0QWiVRHUTsJxjgiAbqDs7+fUSwyuEO0yEYNXlU6TcsPvW1JGTAkKdpNiST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=719&deviceId=5f997e44949bc70007a6941e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="NickClassico.br" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="Kids",Nick Classic	
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Kids",Nick Junior
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMWVmdDF6qoWyO3AOiyZw+cQUDV6d0pAbKY8t8IT/LUIfh14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLVFVD4tOeFftdrtSdLFx6yRnea7uurrOF5K5UV/t+JcKSNeO1LSII+OnKblZP46iMtiST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pBv3Lz0.jpg" group-title="Kids",A Vida Moderna de Rocko
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMQ7P/gah07/b77UvHwkzXfr+kg5BbpQLhsngSw2qfe0xh14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLcWih77+a9E1E/UMp4FnP6qT1Vu53jlcN5ORtcgxHnZ2YbY27imdFk+oZOHf64DUj9iST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="PlutoTVTeenStars.es" tvg-logo="https://i.imgur.com/f0FXTXJ.png" group-title="Kids",Teen Stars
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
@@ -416,51 +351,44 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a
 #EXTINF:-1 tvg-id="PlutoTVToonsClasico.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Kids",TV Toons Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg" group-title="Kids",TV Galicia Infantil
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg" group-title="Kids",TVG Xabarin
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=320&height=320" group-title="Kids",Peque TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:gA+wviMAipjoR2Ph7344QW60vBotUyYOOoblgWaY4rTrO9tRhSNClK7ieKj7c63sKavsePmecLOiv92R2by1ng==
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/RetroCartoon.png" group-title="Kids",Retro Cartoon
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:SMF24MV7uzwfWTWiCLiCTMoQkmiu6gkA2AqVsj4DLyrk6G+uZbfXXTb6J9jeTvvhJH1rnvGiC8KX3xYuDFmXJg==
+https://stmv1.srvif.com/retrotv/retrotv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/GospelCartoon.png" group-title="Kids",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist.m3u8
 	
 #EXTINF:-1 tvg-id="Nick Clássico" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Nick-Clássico.jpg" group-title="Kids",Nick Clássico
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:xlDdLKdV89dl1fxaiRhUROnN2qmI+7Jv0x47QwnrBy3BfNYJi9KneZ1/cc66a4iEUPYY+b/R+EA8G2nj/ekbn0i06ulvw+Jxjo4DNF04/llKjte8A9xGs/f7abObEYhF656UlryWfdkT9ps4NORbwbS1DVf0vWB/Zl5WsaUXNH24OhN03oOzdLjOgAd7WAeejLLoDt7n2GzqELmqFMKbpPqhcSOl29f9sSZC01t2muRduTKIz2gVdiOr5/xCvv/iyVfR9W/IvDshheQ3stMFEksUQAxy6CVuBeBRa3gdWabcCYFmpCiTpsCG64pnPnZdjaoJtzvXLNdD3xDE0NAcTKP8GDZtPptqnqGFWThp6G6PpWrOHfb7tFrf/q5PDcuY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png" group-title="Kids",BabyFirst
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:xlDdLKdV89dl1fxaiRhUROnN2qmI+7Jv0x47QwnrBy3BfNYJi9KneZ1/cc66a4iE2xzDd6qoIRSHcFui2Fl5KMIcvJs3Ai4hwfDLIoy+b86i4EluTFIm5EGPr3xygOC/656UlryWfdkT9ps4NORbwbS1DVf0vWB/Zl5WsaUXNH24OhN03oOzdLjOgAd7WAeejLLoDt7n2GzqELmqFMKbpPqhcSOl29f9sSZC01t2muRduTKIz2gVdiOr5/xCvv/iyVfR9W/IvDshheQ3stMFEksUQAxy6CVuBeBRa3gdWabcCYFmpCiTpsCG64pnPnZdjaoJtzvXLNdD3xDE0NAcTKP8GDZtPptqnqGFWThp6G6PpWrOHfb7tFrf/q5PDcuY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:n0aqfuXQBIDgXkcxWYfgQckikpKypA4vFmPboZ5Nn745GxbInLvenR9cCvdfHUo5JH1rnvGiC8KX3xYuDFmXJg==
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:n0aqfuXQBIDgXkcxWYfgQckikpKypA4vFmPboZ5Nn745GxbInLvenR9cCvdfHUo57XrVIOXisMe0V1iBoRvQvcncKBeKi9mom69HOIU/PpA=
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=60
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 3
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:n0aqfuXQBIDgXkcxWYfgQckikpKypA4vFmPboZ5Nn745GxbInLvenR9cCvdfHUo57XrVIOXisMe0V1iBoRvQvaMiOkFfj8Ux/6T49dZpQ3U=
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=120
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 4
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:n0aqfuXQBIDgXkcxWYfgQckikpKypA4vFmPboZ5Nn745GxbInLvenR9cCvdfHUo57XrVIOXisMe0V1iBoRvQvUg6Woqik1vZ3cl6W9wRl9I=
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=180
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfchannel.png" group-title="Sports",Surf Channel
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:C9pmnXwG5vMgRW70s3BKLRmN51LI0UoT9VSn3WjL0OU1wOM34VvsQQXgCE8QxVOY7g5I39RdgmCrK95V8kQsCA==
+https://bit.ly/3Hxwlb8?/playlist_1920x1080_4200k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fuel.png" group-title="Sports",Fuel TV
 https://bit.ly/3vCaVZr?profile=inspirationFreeTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/RedBullTv.png" group-title="Sports",Red Bull
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:T3iLbl6h73W0cf6XNmOxLcFyCeG+hRwYY1utx9l2GthxTwYdLUChNpj8AhDAmWAaPu3hZ6BgGhFk/Zfg0UMxGq4uC8xmhUmaNJ5Vn52SjrA=
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tavilatam.com/wp-content/uploads/2022/04/TAVI_FIFAPlus.png" group-title="Sports",FIFA Plus
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
@@ -501,27 +429,23 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel4/HLS/in
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png" group-title="Lifestyle",World Fashion TV HD
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_ru.png" group-title="Lifestyle",World Fashion Channel Russia HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_ru.png" group-title="Lifestyle",World Fashion Channel Russia HD (uncensored)
 https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/GlobalFashion.jpg" group-title="Lifestyle",Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9kj9666rs8J+1CUyXKftbJRW9yuNHfyDx/NN/xXboXeXEk8ER7TxzD/priowwYeZnlgfDrdZs69ZUfVgw0UwoOg==
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV UHD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4OXQocg6fAAHcU6N0RzcnF2nY0L/yDSFEZPCsvYdoRbFS4i2gQjD+zWxsO6tP1tnzRSOrRlLot0YGhBQHp+RSjBpYEdpkYxISXxVoZ+tpIbRhMFi551qUlsPczrybsEyAjtvuoCYHIyacn1d2AlkPJiWKZtaYHBcYwg5P1p47aaDiuAvo63qFrCW0tpHwkrl
+https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV F-Men HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRbyzNzMh+mQxMqsDZHthKlFREK8lAqLX8PSfMl4uvvtBeJ4rtprHTd57MS2B6W64GRIxTSOMGrSOLQYYMRV2qLVcJ7pqXMUC4LmBIzjCNcmjMqqksrVbwHED1cADQ08sUA=
+https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Johannesburg HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Dx4SmL6uPWbdb8dv5ot6eF2nY0L/yDSFEZPCsvYdoRZcIWaqBYeQhL6mymgr/fdSzK7guOcbkPx+VGh96tFWQ+4OSN/UXYJgqyveVfJELAg=
+https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Midnight Secrets HD
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
@@ -530,12 +454,10 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chun
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Paris HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:YipAc+Npf1mxKwxsurd7Kl2nY0L/yDSFEZPCsvYdoRYIB3HrDRNgQ6xGC7k2QGy9KQOmcpVbpADUwAPzyIWGGQYpNh9qWkw6G7Hbk301xuF3vCpIrvmZ3WGBBV+A1sAcvakf1J3chQZ0/buylp0OnAe8rVPZZh1hUrtJYwie67h8rtdK2+vM8BSIu3xSPQRl
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Paris (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:GZE+WZKI82nQnomJG3EhFGAPe51GQI5PDsW+BDZNeQ65PzL+5+htCd4u0EhOE/FjJzQEyJKy+X25fuYaC5mGVhW9yuNHfyDx/NN/xXboXeWTnmVxaR4ot1wzFBdvu4z2
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Portugal HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -550,19 +472,16 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Lifestyle",TV Fashionbox
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTf5ByGFuD0X1ruMtMYujfP42WdoJntG+DJO8aorqJMNMQqGQkYFkL1D6ZgGMV2k6xekO2fp5tLhZlGhHcrRQDl+h14wjzrzvUaSlJhsMaz/rAGeLGyL7Y9+OXtvx9E7rY2m6hjR+c7kT6BUfrg7VWC/FARf+He5jSiMJuMU5pzxLXn8AMbQGEzYgAEqCQXnvHhDD6KCzQOvD2kK4V6Uwk8TvUKQnlHrhxKFdAyXElf0atiST6mQK8yh58ZfaS/qnhWNEFZOK91m4+gj8u3bXRTcQeFVE71ZjmtpqL2RgSbys2YGkZf2JE45JHag4vtQnCGI6yRN2TSUljsER6CzyIrcYcUn1oe7bqXy4iANt/6mOKOw8u6qf2bL/BU2BsNRvJGXETNdruPbStrInr0QfL28v+7PM3ilEnKGL3Ev/TRDP/IVSBS7ho1r2/6/SQKh7uUSaDCXRUfb1NciuG1gneuCYUMUeG/6b51D4IgawTugawph/2UIM/KLdkAbyUsXKEqTwLjuOAzh1hcIZ+9ArIzXqNM1r/bES1c3UYKlAVPYkw==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=563&deviceId=5f516730b78b7600079294f5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hedex.tv/uploads/images/clip_443_1707747365_poster.png" group-title="Lifestyle",A3 Bikini
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:JyDxJvgBoVYsis0reDIjwN99Bd811vXQPm4An07uQ0C8A8g5EAkcxFG684hkT0OJzMRShnkw6w0bN1dJsSbotvlFuPtxwp0E/iOxw4wS6orp/HKUMBDijAqs5/tKAkQ8
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w2011542814_b1896000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV Live
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:JyDxJvgBoVYsis0reDIjwN99Bd811vXQPm4An07uQ0D0avGftwPmzNFma0Pc6MiD7Sg10l53uohoTtPoBBCk1Bv0cBbL7UMKgW6GjvFygsSKxBlJACtA1o8G8xnghMCd
+https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/chunklist_w1416773050_b1896000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/chunklist_w888342636_b1896000.m3u8
@@ -592,8 +511,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv_720p/playlist.m3u8
 https://server40.servistreaming.com:3477/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Music",Cadena Elite
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:EcmssVPdxJJnv3ryRQcFZMupYqIK44elZlvvC9SyX5nzzik0dlqGgLWNnvIoqeFohj2J3DgOJqJ/vEkVosF+FA==
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sol Música España" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Sol_Musica_Spain.jpg" group-title="Music",Sol Musica
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
@@ -611,71 +529,55 @@ https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/vintage_music.png" group-title="Music",Vintage Music TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:xP9hNHrOyavv1K28WCrCmVgpwr7l0iXeMmu06DtwNiHdZEsZYamRlNnD1NIjAxSqZ8zwABnRMwlyhAoXtzl3jIG7/QQKL9HEENzr9oKbEMKf5ApAM9pol2/zwssHXAVh
+https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Music",Retro Music
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:hrNyxp+g3ZKeDvU3rWHd36Cnb+j/QWF1Ln9sQwt/aJZ6YBqfvWkoUEZXWP4Wc59BebAUpMCwWnqkw++zoW/TtA==
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/retro_plus.png" group-title="Music",Retro Plus Classic
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/jukebox-tv.jpg",Jukebox Radio TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:QwkI001Y44noArjfNsfLBOECRLPFACRsQjBsSrHKB3XrsQg2YtV17yHIrTqHq9kuBpM19lnxANGqXtNEcz1sIEakNMZxRzXcl75OvRt8Wy8=
+https://5926fc9c7c5b2.streamlock.net/9108/9108/chunklist_w191251077.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/music_box.png",Music Box Gold
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cKEwoGK+ouuCza/TYpeiiv/1JTkiSRB8mks31Nsl+WvSSZWjbmwes0B8Uqzj9402u7ToIt8b4wiBVempL3ZqtQ==
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/1mushd.jpg",1 Music HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:LKiEUAvDQbeWZdXKzqtmGgrEeO7Qrmrc2fFdFcCpgGmf5ApAM9pol2/zwssHXAVh
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/tr/Power.png" group-title="Music",Power HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nKg0+8SE9CXjogOOlOKAMc/8hGviFzCQYxOBPfBzTR3TtAlilyl/Ix9lutNCknrliP0ZQGWYu8z8RfwvI6kPL7rKgre4eD6ZYhgMfQCJBw26fYTmgu3FlQj5ShBVEXHM
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://zuendel-branding.com/media/krone_hit_1_small.jpg" group-title="Music",Kronehit HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BHHK1DwMCUgNT9Q47UI88zc134cgsOiFvo+pKAJ7kc327hqvlEUso5LWkAVpovYxkusxTDIUkPa/sAVZxgudZ5/kCkAz2miXb/PCywdcBWE=
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One HD 1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:72AZ6G0AfR8x80MmY0TPAbLbBRrrUOdqrkqXa/CV1Sw=
+http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One HD 2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:72AZ6G0AfR8x80MmY0TPARjcriETyCZpLhSlappbLqQ=
+http://rtmp.one.by:2200
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One HD 3
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:72AZ6G0AfR8x80MmY0TPASkqf/8DQm2VXO+vDok3khQ=
+http://rtmp.one.by:1300
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One HD 4
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:72AZ6G0AfR8x80MmY0TPAcdG+zMOO0WH4RekHIOPsB4=
+http://rtmp.one.by:1200
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="Music",Trace Latina
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Oa95SU0ASygs56MG88W6W+JMkC36R+2ml2STFKeAyL0h1FLOXbl0k5s1TMtTkHbm6QMK09seSfpyLaRsYWcAyGZ5URk/rZgktKMWX9/0om94Z1LM3+VLBfJPHmwgxrNxlaOQVrAzRJHMjV2mt8c9xA==
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="Music",Trace Urban
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BGfUYI6um7WSx5Uzrv6aHab10ianeHpavO5Vt9KTYaO7aDI2vgkACO5YymRqTAb6qKLHisEGJbJaYJlC41R87rp9hOaC7cWVCPlKEFURccw=
+https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/nrg91.png" group-title="Music",NRG 91 TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ot7bBxMLqYodXRj70dBeb+YF+wHRwvQFPidlmczEzQjMhP4srp1dhgdBp6FPP3tu
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/230-2305091_deejay-tv.png" group-title="Music",DeeJay TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:DmKuLidsE/M9EmPPG6U7N6FHYjym7UmShwJtlprPY8jCS6cVxv8duXSqr7yB0AfyeeVvsd4/cdAWZtChKJN32+EK4KzGEJIc/Uraslei0cv+PWdcMKaCr6xMJPKcw+Kjh8ClyAeW9MbkCuKw6OT6nJ/kCkAz2miXb/PCywdcBWE=
+https://streamcdng2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b2428000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/1/4fun-tv-logo-5EA29A36E0-seeklogo.com.png" group-title="Music",4Fun TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:sUBanA+XO4/aktM/TQhhdamoOPnmN4thSs9OCXw9DpdsS/J1krea/r/PMi1rmI5Zn+QKQDPaaJdv88LLB1wFYQ==
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/baraza.png" group-title="Music",Baraza HD TV
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
@@ -684,19 +586,18 @@ https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/663addd47e1b1_13018905_2405080205_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.infosat.de/sites/default/files/news/ockostar655440.jpg" group-title="Music",Ocko Star
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:x8NVMv6ngP+2aDb/X9KpXf74SHQL5H7nnN/2t8BFK7K37ti8LwyInU5ypkyAULbf4BlloZWLKHwg2p7pzY8WAA==
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f5/c3/1818/2/c175.png" group-title="Music",21 Radio TV Rock'n Pop
 https://live.creacast.com/radio21/smil:radio21.smil/chunklist_w758890797_b628000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1191.1576450439.png" group-title="Music",Now 70s
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/NOW_70s.png" group-title="Music",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/1/1546.1487529852.png" group-title="Music",Now 80s
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="Music",Now 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.info/l/o/6/6367.1672197098.png" group-title="Music",Now Rock
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/NOW_90s.png" group-title="Music",Now 90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV
@@ -748,192 +649,147 @@ https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8136/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/V2Beat.tv.png" group-title="Music",V2Beat
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0XwRE4eK6rou4CUKD5yYBVC6toUbWBz+xZe3/7ArW9QGAUyIQ/nkyL2SkEbhFC1S7g5I39RdgmCrK95V8kQsCA==
+http://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/IbizaGlobal.png",Ibiza Global TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:T1BRCSTycKucyNUdVFbibimw1BRZWSoE67fxAXCeON38iKxu3fl2snpSzqAv2hrGn+QKQDPaaJdv88LLB1wFYQ==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/IbizaGlobal.png" group-title="Music",Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.sonus.fm/img/sonus_logo.png",Sonus FM TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ffOOY002ji4BWxc5AUXmaqJd5XImURPk/V7KVAzZzohmHKgpiBBxZUDJumsEFNauebAUpMCwWnqkw++zoW/TtA==
+#EXTINF:-1 tvg-logo="https://www.sonus.fm/img/sonus_logo.png" group-title="Music",Sonus FM TV
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
 
 #EXTINF:-1 tvg-name="DanceStar TV" tvg-logo="https://dancestar.tv/images/swirl_2.jpg" group-title="Music",DanceStar TV
 https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Livecam Lisboa (Belém)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQwhBdUztbpPgiFr+3FP4YAL7g5I39RdgmCrK95V8kQsCA==
+https://video-auth1.iol.pt/beachcam/belem/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Livevam Lisboa (Cais do Sodré)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQy4Md9oAU5Y3P3nk56cVUWGHR1gJU6+8rP2vdVZAF1d1Q==
+https://video-auth1.iol.pt/beachcam/caisdosodre/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Alvor
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQzVJ8uYpc8uWa4PfcWVOOYP7g5I39RdgmCrK95V8kQsCA==
+https://video-auth1.iol.pt/beachcam/alvor/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Armação de Pera
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQyntIp9wlduel4EdlKz3cho7WwxjmZsBLliinKoGwYgxA==
+https://video-auth1.iol.pt/beachcam/armacaodepera/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Arrifana
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQwhoUiYiM3GOlwTBGozTNAHyQIcF93fFAfivZUfUDUYSA==
+https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia das Avencas (Parede)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQwKozMzHAfH1YloTIYPJ3FSXdyZqWABQnML09JvCRVg4A==
+https://video-auth1.iol.pt/beachcam/praiadasavencas/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Barra (Aveiro)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQy1s4Bf5ocvGlfDdumuOOKiFtyB5OAE6LfZ3xsPoHtU0w==
+https://video-auth1.iol.pt/beachcam/aveiro/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Carcavelos
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQz256orUZp/T0iV1DMe5Yb5snAzJuebnbTG0zYBrJY70A==
+https://video-auth1.iol.pt/beachcam/carcavelos/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Carvoeiro
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQz0Ip8KTAyzARUyu3AQoM2AebAUpMCwWnqkw++zoW/TtA==
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa da Caparica (Cabana do Pescador)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQwGtRlQTopK7L61dkQ4SSkrK+FZ01YpzKly7L5Ks5pCVLp9hOaC7cWVCPlKEFURccw=
+https://video-auth1.iol.pt/beachcam/ccabanadopescador/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa da Caparica (Fonte da Telha)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQxE+9OPS7qsrqE5wYAMlGpTriPnOaeFYRfSmYpjiGjIiw==
+https://video-auth1.iol.pt/beachcam/fontedatelha/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa da Caparica (Riviera)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQyCdNX3IyE9vfWR1nCso4pl7y9NWzoMYwX6Zk45K50LeA==
+https://video-auth1.iol.pt/beachcam/riviera/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa da Caparica (São João)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQwUMCcQTy0ERJ8VJ0rd/BMh4yyss9ykj65Sw8h4re0Mg4OK4C+jreoWsJbS2kfCSuU=
+https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Esmoriz
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQw6w267Cy07KoSgR9HbYBoc7y9NWzoMYwX6Zk45K50LeA==
+https://video-auth1.iol.pt/beachcam/esmoriz/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Espinho
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQwUWMQ1apYgTP17jpFGcHbY7y9NWzoMYwX6Zk45K50LeA==
+https://video-auth1.iol.pt/beachcam/espinho/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Figueira da Foz (Buarcos)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQy5nye1OEzy+j2CTSm8Zzs9U0220r91BFsBlnZyoFPNbg==
+https://video-auth1.iol.pt/beachcam/bcfigueiradois/chunks.m3u8
 	
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Figueira da Foz (Panorâmica)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQxcYbMCYknUvmunwa2T0GGChWIVwDtmIQj3kePfxug1zw==
+https://video-auth1.iol.pt/beachcam/figueiradafoz/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Galé
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQw2WZt8vrCdy2P7Lmcro1QtFtyB5OAE6LfZ3xsPoHtU0w==
+https://video-auth1.iol.pt/beachcam/bcgale/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Grande (Sintra)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQwFLbOlccnjZ9cmPnWN0q+bHR1gJU6+8rP2vdVZAF1d1Q==
+https://video-auth1.iol.pt/beachcam/praiagrande/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Guincho
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQx+OIFhrzJJpXfDcO1M30BveKXf7rzyyledjWzr3rWjIg==
+https://video-auth1.iol.pt/beachcam/praiaguinchosul/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Jardim do Mar (Funchal)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQz14mnv/qeqPzjH6cjKnBAFSDC6hLlkFqhx6kYrXHfAL5/kCkAz2miXb/PCywdcBWE=
+https://video-auth1.iol.pt/beachcam/madeirajardimdomar/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Leça da Palmeira
 https://video-auth1.iol.pt/beachcam/lecadapalmeira/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Luz
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQzMn4VdTbEK/WKuf4cSbBaolaOQVrAzRJHMjV2mt8c9xA==
+https://video-auth1.iol.pt/beachcam/luz/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia das Maçãs
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQx05qhiVPW5ydgIgpuGqqAGHSlSPHlTjsvzWeXy0RR1eA==
+https://video-auth1.iol.pt/beachcam/praiadasmacas/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Matosinhos
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQxy8r45xY3ozF5B5E4LrvkAsnAzJuebnbTG0zYBrJY70A==
+https://video-auth1.iol.pt/beachcam/matosinhos/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Meco
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQz2Hdq3ZrsBp5icSpE07sDBFtyB5OAE6LfZ3xsPoHtU0w==
+https://video-auth1.iol.pt/beachcam/bcmeco/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Meia Praia (Lagos)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQwUCpLuTrx5uLFdbrsjtM7VU9VWy6wW4kL6oURrbGGj/w==
+https://video-auth1.iol.pt/beachcam/meiapraia/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Nazaré
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQzMB4hijT4UI6YQh9xHuTog0zAnEZHsoT+W2nXK+GVpQLp9hOaC7cWVCPlKEFURccw=
+https://video-auth1.iol.pt/beachcam/nazarepraiadavila/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Norte (Nazaré)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQxNujIn1e7r/7W9KfqX3BBPVQCgjBdbqNZop02hcCxzVLp9hOaC7cWVCPlKEFURccw=
+https://video-auth1.iol.pt/beachcam/nazareparadonorte/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Paço de Arcos
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQxs67t+T9ipD6ceQGB9QL2QFtyB5OAE6LfZ3xsPoHtU0w==
+https://video-auth1.iol.pt/beachcam/parcos/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Peneco (Albufeira)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQzxrKfh/pS8R7U7pf3ZVFIWaIe1hmsDopZBJCDk+iPn0Q==
+https://video-auth1.iol.pt/beachcam/praiadopeneco/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Pescadores Cascais
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQyUOip1kkb4kpImvAWGzXYMkrq9ltFErV1HJhOp7tDqup/kCkAz2miXb/PCywdcBWE=
+https://video-auth1.iol.pt/beachcam/praiadospescadores/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Pescadores Ericeira
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQwtKwUGGX0uzO4Ca4q3JPH5riPnOaeFYRfSmYpjiGjIiw==
+https://video-auth1.iol.pt/beachcam/bcpescadores/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Rocha (Portimão)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQx3u+UCn08TrRvo43tsI0+SriPnOaeFYRfSmYpjiGjIiw==
+https://video-auth1.iol.pt/beachcam/praiadarocha/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Santo Amaro (Oeiras)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQxM2MuwTLvPE478DBX/NrOtsnAzJuebnbTG0zYBrJY70A==
+https://video-auth1.iol.pt/beachcam/santoamaro/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia São Martinho do Porto
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQyv2kWg4SZS53uEgjkhdB1Upf3XNMs157jZjkvo58N0dw==
+https://video-auth1.iol.pt/beachcam/bcsaomartinho/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Sesimbra
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQwHgfjny5F0/Y91I+IQIS5xrddssgGwQ9GRQEZ9bSVcGQ==
+https://video-auth1.iol.pt/beachcam/sesimbra/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praias Sra. da Rocha e Nova (Armação Pera)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQytGbIPDEAbD6d0WZnaaYu8rddssgGwQ9GRQEZ9bSVcGQ==
+https://video-auth1.iol.pt/beachcam/bcigreja/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Supertubos (Peniche)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQz02ZEL8InhW+kr4x4yoyqUsnAzJuebnbTG0zYBrJY70A==
+https://video-auth1.iol.pt/beachcam/supertubos/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Tróia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQxzOuBj1FfdHDBbtvRYiu8P7y9NWzoMYwX6Zk45K50LeA==
+https://video-auth1.iol.pt/beachcam/bctroia/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Vilamoura
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2iURNfrWN1Qm9N79iTibxv2LcTFRcwAMr4FXEj4laQxY375N6hMTs/pIQHdfFsShU9VWy6wW4kL6oURrbGGj/w==
+https://video-auth1.iol.pt/beachcam/vilamoura/chunks.m3u8
 
-#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-logo="https://i.imgur.com/7XsqSSZ.png",Stingray Naturescape HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCwVydC/rNSjOnfoACE18iYStJn5Lxk/o53KKT9yQn6qQiH07bOCtjH0dBdlgkSE06RuEItyjIEg+qM3NxBVsxHyosfkUae4kAfr1Ye/yoVG97TY0bIqodifAnVrksGK6ALWX8cFStWfkbBHerr1ZdWECjbM75M5L5jzX2cnSPDTDivS7NP5ml+yHMRQlypCQ7W6fYTmgu3FlQj5ShBVEXHM
+#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-logo="https://i.imgur.com/7XsqSSZ.png" group-title="Nature",Stingray Naturescape HD
+https://dai.google.com/linear/hls/pa/event/6RPZlzksTCyB1euPqLcBZQ/stream/44d71678-d67d-4370-b5dd-286a8a998814:BRU/variant/9a9b2bd00fce20b8043c3566233433cf/bandwidth/5711200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png",Drone TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2HKJTANW/KwXEim0SduLwJfwTfbxSW3aLHMKHKA1OFKCaTXzh22rfwCypKXPMNnszZLviZBc6g7Zqj7QgCwtveie/lVOsWlOUg4VjtckMqNKnkEZBhXwFdzQ3ld3vjE6RosqUbr5KGX+mp5y37QshaoFq0qeWdlU3lSNAN4eEPAAInDYDVQFeywpOFzPOWGMpSfQrpAJZnD0ea5fRVvbdw==
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png" group-title="WebCam",Drone TV
+https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/eu4jwpqpsadb.png" group-title="Radio" group-title="Radio",80 Rock (Radio DE)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/eu4jwpqpsadb.png" group-title="Radio",80 Rock (Radio)
 http://rs2.ptservidor.com:8003/stream?type=.mp3
 
 #EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png" group-title="Radio",A Radio Rock - Super FM (Radio)
@@ -1043,6 +899,9 @@ https://stream-icy.bauermedia.pt/m80dance.aac
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_disco.png" group-title="Radio",M80 Disco (Radio)
 https://stream-icy.bauermedia.pt/m80disco.aac
+
+#EXTINF:-1 tvg-logo="https://bauermedia.pt/upload/I/imgrd-indie-1200x630-square.jpg" group-title="Radio",M80 Indie (Radio)
+https://stream-icy.bauermedia.pt/m80indie.aac
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_pop.png" group-title="Radio",M80 Pop (Radio)
 https://stream-icy.bauermedia.pt/m80pop.aac
@@ -1785,8 +1644,32 @@ https://strm112.1.fm/acountry_mobile_mp3
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/10180.v1.png" group-title="Radio",100hitz Metal (Radio US)
 http://206.217.213.236:9100/
 
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Country 80s (Radio US)
+http://listen.livestreamingservice.com/181-80scountry_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Country 90s (Radio US)
+http://listen.livestreamingservice.com/181-90scountry_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Country Front Porch (Radio US)
+http://listen.livestreamingservice.com/181-frontporch_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Country Highway (Radio US)
+http://listen.livestreamingservice.com/181-highway_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Country Kickin (Radio US)
+http://listen.livestreamingservice.com/181-kickincountry_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Country Real (Radio US)
+http://listen.livestreamingservice.com/181-realcountry_64k.aac
+
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Dance 90's Dance (Radio US)
 http://listen.livestreamingservice.com/181-90sdance_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Dance Energy 93 (Radio US)
+http://listen.livestreamingservice.com/181-energy93_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Dance Energy 98 (Radio US)
+http://listen.livestreamingservice.com/181-energy98_64k.aac
 
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Dance Chilled Out (Radio US)
 http://listen.livestreamingservice.com/181-chilled_64k.aac
@@ -1800,6 +1683,15 @@ http://listen.livestreamingservice.com/181-ball_64k.aac
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Dance Techno Club (Radio US)
 http://listen.livestreamingservice.com/181-technoclub_64k.aac
 
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Dance The Vibe of Vegas (Radio US)
+http://listen.livestreamingservice.com/181-vibe_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Acid Jazz (Radio US)
+http://listen.livestreamingservice.com/181-acidjazz_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing BeBop Jazz (Radio US)
+http://listen.livestreamingservice.com/181-bebop_64k.aac
+
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Classical Guitar (Radio US)
 http://listen.livestreamingservice.com/181-classicalguitar_64k.aac
 
@@ -1809,11 +1701,38 @@ http://listen.livestreamingservice.com/181-classicaljazz_64k.aac
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Classical Music (Radio US)
 http://listen.livestreamingservice.com/181-classical_64k.aac
 
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Fusion Jazz (Radio US)
+http://listen.livestreamingservice.com/181-fusionjazz_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Jazz Mix (Radio US)
+http://listen.livestreamingservice.com/181-jazzmix_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing The Breeze (Radio US)
+http://listen.livestreamingservice.com/181-breeze_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Trance Jazz (Radio US)
+http://listen.livestreamingservice.com/181-trancejazz_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing True Blues (Radio US)
+http://listen.livestreamingservice.com/181-blues_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Easy Listing Vocal Jazz (Radio US)
+http://listen.livestreamingservice.com/181-vocals_64k.aac
+
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 70s Super	(Radio US)
 http://listen.livestreamingservice.com/181-70s_64k.aac
 
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 80s Awesome (Radio US)
 http://listen.livestreamingservice.com/181-greatoldies_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 80s Country (Radio US)
+http://listen.livestreamingservice.com/181-80scountry_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 80s Lite (Radio US)
+http://listen.livestreamingservice.com/181-lite80s_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 80s RnB (Radio US)
+http://listen.livestreamingservice.com/181-80srnb_64k.aac
 
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 90s Alternative (Radio US)
 http://listen.livestreamingservice.com/181-90salt_64k.aac
@@ -1830,11 +1749,23 @@ http://listen.livestreamingservice.com/181-90srnb_64k.aac
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies 90s Star  (Radio US)
 http://listen.livestreamingservice.com/181-star90s_64k.aac
 
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies Beatles (Radio US)
+http://listen.livestreamingservice.com/181-beatles_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies Classic Hits (Radio US)
+http://listen.livestreamingservice.com/181-greatoldies_64k.aac
+
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies Good Time (Radio US)
 http://listen.livestreamingservice.com/181-goodtime_64k.aac
 
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies Mellow Gold (Radio US)
 http://listen.livestreamingservice.com/181-mellow_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Oldies Soul (Radio US)
+http://listen.livestreamingservice.com/181-soul_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop Classic RnB (Radio US)
+http://listen.livestreamingservice.com/181-classicrnb_64k.aac
 
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop Old School HipHop/RnB (Radio US)
 http://listen.livestreamingservice.com/181-oldschool_64k.aac
@@ -1845,23 +1776,86 @@ http://listen.livestreamingservice.com/181-powerexplicit_64k.aac
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop Power Top 40 (Radio US)
 http://listen.livestreamingservice.com/181-power_64k.aac
 
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop Smooth AC (Radio US)
+http://listen.livestreamingservice.com/181-smoothac_64k.aac
+
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop The Heart Love Songs (Radio US)
 http://listen.livestreamingservice.com/181-heart_64k.aac
 
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop The Mix (Radio US)
 http://listen.livestreamingservice.com/181-themix_64k.aac
 
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop The Office (Radio US)
+http://listen.livestreamingservice.com/181-office_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop The Vibe of Vegas (Radio US)
+http://listen.livestreamingservice.com/181-vibe_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Pop UK Top 40 (Radio US)
+http://listen.livestreamingservice.com/181-uktop40_64k.aac
+
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock (Radio US)
 http://listen.livestreamingservice.com/181-rock_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock 40 (Radio US)
+http://listen.livestreamingservice.com/181-rock40_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock 80's Hairband (Radio US)
+http://listen.livestreamingservice.com/181-hairband_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock Chloe (Radio US)
+http://listen.livestreamingservice.com/181-chloe_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock Classic Buzz (Radio US)
+http://listen.livestreamingservice.com/181-classicbuzz_64k.aac
 
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock Hard Rock (Radio US)
 http://listen.livestreamingservice.com/181-hardrock_64k.aac
 
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock The Buzz Alt. Rock (Radio US)
+http://listen.livestreamingservice.com/181-buzz_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock The Eagle Classic (Radio US)
+http://listen.livestreamingservice.com/181-eagle_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock The Point (Radio US)
+http://listen.livestreamingservice.com/181-thepoint_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Rock Yacht (Radio US)
+http://listen.livestreamingservice.com/181-yachtrock_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban 80's RnB (Radio US)
+http://listen.livestreamingservice.com/181-80srnb_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban 80's Lite RnB (Radio US)
+http://listen.livestreamingservice.com/181-80sliternb_64k.aac
+
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban Classic R&B (Radio US)
 http://listen.livestreamingservice.com/181-classicrnb_64k.aac
 
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban Jammin (Radio US)
+http://listen.livestreamingservice.com/181-jammin_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban Old School HipHop/RnB (Radio US)
+http://listen.livestreamingservice.com/181-oldschool_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban Party (Radio US)
+http://listen.livestreamingservice.com/181-party_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban Soul (Radio US)
+http://listen.livestreamingservice.com/181-soul_64k.aac
+
 #EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban The Beat HipHop/R&B (Radio US)
 http://listen.livestreamingservice.com/181-beat_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban The Box (Radio US)
+http://listen.livestreamingservice.com/181-thebox_64k.aac
+
+#EXTINF:-1 tvg-logo="https://player.181fm.com/configs/images/181fm.png" group-title="Radio",181.FM Urban True R&B (Radio US)
+http://listen.livestreamingservice.com/181-rnb_64k.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/65948.v6.png" group-title="Radio",Beautiful Instrumentals (Radio US)
+http://s3.voscast.com:10038/stream
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R 80s Metal FM (Radio US)
 https://bigrradio.cdnstream1.com/5186_128
@@ -1877,6 +1871,18 @@ https://bigrradio.cdnstream1.com/5194_128
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Radio - Classic Rock (Radio US)
 https://bigrradio.cdnstream1.com/5171_128
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Country Oldies (Radio US)
+https://bigrradio.cdnstream1.com/5195_128
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Golden Oldies (Radio US)
+https://bigrradio.cdnstream1.com/5198_128
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R The Love Channel (Radio US)
+https://bigrradio.cdnstream1.com/5207_128
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Rock Top 40 (Radio US)
+https://bigrradio.cdnstream1.com/5204_128
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/26822.v8.png" group-title="Radio",Classic Rock Florida (Radio US)
 https://streaming.live365.com/a06375
