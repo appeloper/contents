@@ -834,9 +834,6 @@ https://r.mjh.nz/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
 #EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Kids",Anime All Day
 https://r.mjh.nz/PlutoTV/5812b7d3249444e05d09cc49-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/15/fe/a2/15fea262149734033915035fa3b75d8b.jpg" group-title="Kids",TCT Kids
-https://player-api.new.livestream.com/accounts/29565692/events/9321713/broadcasts/245923381.secure.m3u8?dw=14400&hdnea=st%3D1717102136~exp%3D1717103936~acl%3D%2Fi%2F29565692_9321713_lsi4f81k5arib8sfmk1_1%40688391%2F%2A~hmac%3D664f549a3f48197f3be390d77fd05a88e32346053d88476ca8bde514703af76c&token=6658e764_0e8c67c84c82e5675e1b2c3f1bcce3f3b6f21a46
-
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/featuredImage.jpg" group-title="Kids",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
