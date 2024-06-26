@@ -660,14 +660,26 @@ http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
 #EXTINF:-1 tvg-name="DanceStar TV" tvg-logo="https://dancestar.tv/images/swirl_2.jpg" group-title="Music",DanceStar TV
 https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Livecam Lisboa (Belém)
-https://video-auth1.iol.pt/beachcam/belem/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Alagoa, Altura (Castro Marim)
+https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Livevam Lisboa (Cais do Sodré)
-https://video-auth1.iol.pt/beachcam/caisdosodre/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Albarquel (Setúbal)
+https://video-auth1.iol.pt/beachcam/bcalbarquel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Almograve (Odemira)
+https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Alvor
 https://video-auth1.iol.pt/beachcam/alvor/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Alvor Nascente
+https://video-auth1.iol.pt/beachcam/bcalvornascente/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Amado (Aljezur)
+https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Amado (Portimão)
+https://video-auth1.iol.pt/beachcam/bcamadoportimao/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Armação de Pera
 https://video-auth1.iol.pt/beachcam/armacaodepera/chunks.m3u8
@@ -675,11 +687,14 @@ https://video-auth1.iol.pt/beachcam/armacaodepera/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Arrifana
 https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia das Avencas (Parede)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia das Avencas (Cascais)
 https://video-auth1.iol.pt/beachcam/praiadasavencas/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Barra (Aveiro)
 https://video-auth1.iol.pt/beachcam/aveiro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia das Bicas (Sesimbra)
+https://video-auth1.iol.pt/beachcam/bcpraiadasbicas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Carcavelos
 https://video-auth1.iol.pt/beachcam/carcavelos/chunks.m3u8
@@ -687,17 +702,44 @@ https://video-auth1.iol.pt/beachcam/carcavelos/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Carvoeiro
 https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa da Caparica (Cabana do Pescador)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Carvalhal (Grândola)
+https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Carvalhal (Odemira)
+https://video-auth1.iol.pt/beachcam/bccarvalhalodemira/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Comporta (Grândola)
+https://video-auth1.iol.pt/beachcam/bccomporta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa de Caparica (Cabana do Pescador)
 https://video-auth1.iol.pt/beachcam/ccabanadopescador/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa da Caparica (Fonte da Telha)
-https://video-auth1.iol.pt/beachcam/fontedatelha/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa de Caparica (CDS Norte)
+https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa da Caparica (Riviera)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa de Caparica (CDS Sul)
+https://video-auth1.iol.pt/beachcam/costacaparicabernard/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa de Caparica (Fonte da Telha Norte)
+https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa de Caparica (Fonte da Telha Sul)
+https://video-auth1.iol.pt/beachcam/bcbambu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa de Caparica (Praia Nova)
+https://video-auth1.iol.pt/beachcam/bccaparicanovapraia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa de Caparica (Riviera)
 https://video-auth1.iol.pt/beachcam/riviera/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa da Caparica (São João)
-https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa de Caparica (São João, Cova da Moura)
+https://video-auth1.iol.pt/beachcam/bccostasaojoao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa de Caparica (São João, Praia do Norte)
+https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa de Caparica (Tarquínio)
+https://video-auth1.iol.pt/beachcam/bctarquinho/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Esmoriz
 https://video-auth1.iol.pt/beachcam/esmoriz/chunks.m3u8
@@ -705,23 +747,47 @@ https://video-auth1.iol.pt/beachcam/esmoriz/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Espinho
 https://video-auth1.iol.pt/beachcam/espinho/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Fajã da Areia (Madeira)
+https://video-auth1.iol.pt/beachcam/bcfaja/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Faro
+https://video-auth1.iol.pt/beachcam/bcfaro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Farol (Vila Nova de Milfontes)
+https://video-auth1.iol.pt/beachcam/bcfarol/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Figueira da Foz (Buarcos)
 https://video-auth1.iol.pt/beachcam/bcfigueiradois/chunks.m3u8
 	
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Figueira da Foz (Panorâmica)
 https://video-auth1.iol.pt/beachcam/figueiradafoz/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Galé
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Franquia (Vila Nova de Milfontes)
+https://video-auth1.iol.pt/beachcam/bcfranquia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Furnas Mar (Vila Nova de Milfontes)
+https://video-auth1.iol.pt/beachcam/furnasmar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Galé (Albufeira)
 https://video-auth1.iol.pt/beachcam/bcgale/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Grande (Ferragudo)
+https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Grande (Sintra)
 https://video-auth1.iol.pt/beachcam/praiagrande/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Guincho
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Guincho Sul
 https://video-auth1.iol.pt/beachcam/praiaguinchosul/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Jardim do Mar (Funchal)
 https://video-auth1.iol.pt/beachcam/madeirajardimdomar/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Lagoa de Albufeira (Sesimbra)
+https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Lagoa de Santo André (Santiago do Cacém)
+https://video-auth1.iol.pt/beachcam/bcsantoandre/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Leça da Palmeira
 https://video-auth1.iol.pt/beachcam/lecadapalmeira/chunks.m3u8
@@ -741,14 +807,29 @@ https://video-auth1.iol.pt/beachcam/bcmeco/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Meia Praia (Lagos)
 https://video-auth1.iol.pt/beachcam/meiapraia/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia das Moitas (Cascais)
+https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Monte Clérigo (Aljezur)
+https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Nazaré
 https://video-auth1.iol.pt/beachcam/nazarepraiadavila/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Norte (Nazaré)
 https://video-auth1.iol.pt/beachcam/nazareparadonorte/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Odeceixe
+https://video-auth1.iol.pt/beachcam/bcodeceixe/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Paço de Arcos
 https://video-auth1.iol.pt/beachcam/parcos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Parede
+https://video-auth1.iol.pt/beachcam/parede/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Paul do Mar (Madeira)
+https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Peneco (Albufeira)
 https://video-auth1.iol.pt/beachcam/praiadopeneco/chunks.m3u8
@@ -759,8 +840,20 @@ https://video-auth1.iol.pt/beachcam/praiadospescadores/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Pescadores Ericeira
 https://video-auth1.iol.pt/beachcam/bcpescadores/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Rocha (Portimão)
-https://video-auth1.iol.pt/beachcam/praiadarocha/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Portinho da Arrábida
+https://video-auth1.iol.pt/beachcam/bcportinho/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Porto Santo (Madeira)
+https://video-auth1.iol.pt/beachcam/bcportosanto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Rocha Marina
+https://video-auth1.iol.pt/beachcam/bcrochaportimao2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Rocha Miradouro
+https://video-auth1.iol.pt/beachcam/bcmiradourorocha/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Rocha Panorâmica
+https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Santo Amaro (Oeiras)
 https://video-auth1.iol.pt/beachcam/santoamaro/chunks.m3u8
@@ -768,20 +861,56 @@ https://video-auth1.iol.pt/beachcam/santoamaro/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia São Martinho do Porto
 https://video-auth1.iol.pt/beachcam/bcsaomartinho/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia São Pedro do Estoril
+https://video-auth1.iol.pt/beachcam/saopedroestoria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de São Torpes (Sines)
+https://video-auth1.iol.pt/beachcam/saotorpes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Seixal (Madeira)
+https://video-auth1.iol.pt/beachcam/bcmadeiraseixal/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Sesimbra
 https://video-auth1.iol.pt/beachcam/sesimbra/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praias Sra. da Rocha e Nova (Armação Pera)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Sra. da Rocha e Nova (Lagoa)
 https://video-auth1.iol.pt/beachcam/bcigreja/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Supertubos (Peniche)
 https://video-auth1.iol.pt/beachcam/supertubos/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Tamariz
+https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Torre (Oeiras)
+https://video-auth1.iol.pt/beachcam/bctorre/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Tróia
 https://video-auth1.iol.pt/beachcam/bctroia/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Vau (Portimão)
+https://video-auth1.iol.pt/beachcam/bcvauportimao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Verde (Castro Marim)
+https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Vilamoura
 https://video-auth1.iol.pt/beachcam/vilamoura/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Zambujeira do Mar
+https://video-auth1.iol.pt/beachcam/zambujeira/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",WebCam Dornes (Ferreira do Zêzere) 
+https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",WebCam Farol do Bugio Norte (Lisboa)
+https://video-auth1.iol.pt/beachcam/bcbugio1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",WebCam Lagoa Azul (Ferreira do Zêzere)
+https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",WebCam Praia interior das Rocas (Castanheira de Pêra)
+https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-logo="https://i.imgur.com/7XsqSSZ.png" group-title="Nature",Stingray Naturescape HD
 https://dai.google.com/linear/hls/pa/event/6RPZlzksTCyB1euPqLcBZQ/stream/44d71678-d67d-4370-b5dd-286a8a998814:BRU/variant/9a9b2bd00fce20b8043c3566233433cf/bandwidth/5711200.m3u8
