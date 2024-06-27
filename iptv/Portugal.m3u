@@ -69,9 +69,6 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1 tvg-id="TVI Reality HD.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png" group-title="Entertainment",TVI Reality
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVI HD.pt" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c7585a7826b90bc38ac664cb10be0a4f.jpg" group-title="General",TVI África
-https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/chunks.m3u8?nimblesessionid=485411866
-
 #EXTINF:-1 tvg-id="Porto Canal HD.pt" tvg-logo="https://feedlix.net/tv/pt/porto_canal.png" group-title="General",Porto Canal
 https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/profile_0/chunklist_dvr.m3u8
 
@@ -163,7 +160,7 @@ https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANCAO NOVA" tvg-logo="https://feedlix.net/tv/pt/CancaoNova.pt.png" group-title="Religious",Canção Nova
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
+https://5c643ed5107b7.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png" group-title="Religious",KTV Angola
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w329371841_b413000_sleng.m3u8
@@ -177,8 +174,17 @@ https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w166153924_b413000_
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvmana-mocambique.com/wp-content/uploads/2023/05/LOGO_TV_MOZ.png" group-title="Religious",TV Maná Moçambique
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w738321579_b413000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cache07.stormap.sapo.pt/vidstore10/avatars/84/5f/19/sobrenaturaltv_partnerlogo_1693326992.jpg" group-title="Religious",Sobrenatural TV
-https://streamer-b02.videos.sapo.pt/live/sobrenaturaltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore10/avatars/84/5f/19/sobrenaturaltv_partnerlogo_1693326992.jpg" group-title="Religious",Sobrenatural TV - Way TV
+https://36723.global.ssl.fastly.net/5d714f6a0bd97874e36f14e4/live_3a0f544056e711ec8d4bc33d28c33b2a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore10/avatars/84/5f/19/sobrenaturaltv_partnerlogo_1693326992.jpg" group-title="Religious",Sobrenatural TV - Igreja Online
+https://36723.global.ssl.fastly.net/5d714f6a0bd97874e36f14e4/live_43f24df056e711ec8a98fbc0216fffd2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore10/avatars/84/5f/19/sobrenaturaltv_partnerlogo_1693326992.jpg" group-title="Religious",Sobrenatural TV - ADBtv
+https://36723.global.ssl.fastly.net/5d714f6a0bd97874e36f14e4/live_fb0bd5501f3111efa26bbdf96dc3f28e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore10/avatars/84/5f/19/sobrenaturaltv_partnerlogo_1693326992.jpg" group-title="Religious",Sobrenatural TV - Super Kids TV
+https://36723.global.ssl.fastly.net/5d714f6a0bd97874e36f14e4/live_794ce570231611efa30259ba16b2b590/index.m3u8
 
 #EXTINF:-1 tvg-id="TVGAL.TV" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="Regional",TV Galicia (ES)
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks.m3u8
@@ -197,9 +203,6 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="News",Euronews
 https://r.mjh.nz/PlutoTV/619e6614c9d9650007a2b171-alt.m3u8
-
-#EXTINF:-1 tvg-id="CNN HD.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="News",CNN Portugal
-https://bit.ly/41Pufgt?profile=inspirationFreetv.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
@@ -239,9 +242,6 @@ https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" group-title="News",Fox News Now
 https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-id="BLOOM.meo.pt" tvg-logo="https://feedlix.net/tv/us/BloombergTV.us.png" group-title="News",Bloomberg TV Europe
-https://dai.google.com/linear/hls/pa/event/TPKhqf0BQn2_ijC-0rOJcA/stream/8645d7dd-1833-499b-a27c-584105e5ee66:GRQ/variant/151c7fe8276bc9031337b1bc8e0ba426/bandwidth/400000.m3u8
 
 #EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
@@ -303,12 +303,6 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26309f3e115d9326a50aeb84c794f1fe.jpg" group-title="Kids",Toon Goggles Portugal
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72bf2ecca24095d1f015ae7c52749e68.jpg" group-title="Kids",Kids TV Español Latino
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/9af6f7ed-171e-40d4-9ceb-0332c171931a/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95cd63c87a3e478f54ab5af706844922.jpg" group-title="Kids",Mundo Pequeño ES
-https://stream.ads.ottera.tv/cl/240515cp2fmus25rmkgimd86ng/854x480_550000_3_f.m3u8?i=475_3366
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3eabf05ad0127a53af71227f1fe132a1.jpg" group-title="Kids",Ani TV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
@@ -344,9 +338,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac60007
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pBv3Lz0.jpg" group-title="Kids",A Vida Moderna de Rocko
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-
-#EXTINF:-1 tvg-id="PlutoTVTeenStars.es" tvg-logo="https://i.imgur.com/f0FXTXJ.png" group-title="Kids",Teen Stars
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="PlutoTVToonsClasico.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Kids",TV Toons Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -399,44 +390,23 @@ https://bit.ly/49obbKU?profile=inspirationFreetv.m3u8
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png" group-title="Sports",Real Madrid TV HD (geo)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/Dd4wsYSVMAAfi3l.jpg" group-title="Sports",Al Kass 1 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtyuwqa/master1080.m3u8
-	
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="Sports",Al Kass 2 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uycevvnb/master1080.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-Z8EFJ23IYzs/WvMZe_2OsSI/AAAAAAAAO4s/g9BptSgzjv0KMoFZ42hS_htEtRTMMAGJACLcBGAs/s1600/alkaas3.png" group-title="Sports",Al Kass 3 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavbc/master1080.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cne-eg.com/uploads/logos/20183142520385.png" group-title="Sports",Al Kass 4 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtyuwqa/master1080.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cne-eg.com/uploads/logos/2018314320255.png" group-title="Sports",Al Kass 5 HD
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtwe/master1080.m3u8
-
 #EXTINF:-1 tvg-id="Abu Dhabi Sports" tvg-logo="https://i2.wp.com/www.millereponses.com/wp-content/uploads/2018/11/abudabisport1-frequence-nilesat-badr-arabsat-hotbird.jpg" group-title="Sports",ADSports 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-logo="https://icon2.kisspng.com/20180612/cba/kisspng-abu-dhabi-sports-itu-world-triathlon-abu-dhabi-201-live-stream-5b1ff68a062101.4910889015288213860251.jpg" group-title="Sports",ADSports 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 3" tvg-logo="https://2.bp.blogspot.com/-kfiJbuPvLtI/WuM6ZjY-4kI/AAAAAAAAGzw/MO5IEfCPvNMrNQER_L5wwG6R5ixfyo-2gCLcBGAs/s1600/1abooo.jpg" group-title="Sports",ADSports 3
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel3/HLS/index.m3u8
-
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 4" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-4.png" group-title="Sports",ADSports 4
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel4/HLS/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png" group-title="Lifestyle",World Fashion TV HD
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_ru.png" group-title="Lifestyle",World Fashion Channel Russia HD (uncensored)
-https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_ru.png" group-title="Lifestyle",World Fashion Channel Russia HD
+https://cdn.wfc.tv/cdn/stream-rus.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/GlobalFashion.jpg" group-title="Lifestyle",Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV HD
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Original
+https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/f7/372028/se9_CELEB_INTE_658220.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV UHD
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
@@ -454,7 +424,7 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chun
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Paris HD
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_asi_i2j_43441_1080p_1611_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Paris (op.2)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
@@ -471,11 +441,32 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/plex_fashion.png" group-title="Lifestyle",Plex Fashion TV Top Models
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/plex_fashion.png" group-title="Lifestyle",FashionTV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=xgcnW5im4L_9t9ERRzQB
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Lifestyle",TV Fashionbox
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=563&deviceId=5f516730b78b7600079294f5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2022/06/Fashion-TV-England.png" group-title="Lifestyle",FTV Bikini
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hedex.tv/uploads/images/clip_443_1707747365_poster.png" group-title="Lifestyle",A3 Bikini
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/tYb9P1pPaos/mqdefault.jpg" group-title="Lifestyle",Kaloopy TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/5fec54cf-4b7c-4de1-991c-00470cf0b24a/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/4mg1tZ.png" group-title="Undefined",Carac1 TV (night +18)
+https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/3xvq5S.png" group-title="Undefined",Carac2 TV
+https://edge14.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/gLKGxW.png" group-title="Undefined",Carac3 TV
+https://edge15.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/0NjmEl.png" group-title="Undefined",Carac4 TV
+https://edge12.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w2011542814_b1896000.m3u8
@@ -510,7 +501,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/lamegamundial.png" group-title="Music",La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Music",Cadena Elite
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Music",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sol Música España" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Sol_Musica_Spain.jpg" group-title="Music",Sol Musica
@@ -660,6 +651,12 @@ http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
 #EXTINF:-1 tvg-name="DanceStar TV" tvg-logo="https://dancestar.tv/images/swirl_2.jpg" group-title="Music",DanceStar TV
 https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
 
+#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-logo="https://i.imgur.com/7XsqSSZ.png" group-title="Nature",Stingray Naturescape HD
+https://dai.google.com/linear/hls/pa/event/6RPZlzksTCyB1euPqLcBZQ/stream/44d71678-d67d-4370-b5dd-286a8a998814:BRU/variant/9a9b2bd00fce20b8043c3566233433cf/bandwidth/5711200.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png" group-title="WebCam",Drone TV
+https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Alagoa, Altura (Castro Marim)
 https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
 
@@ -681,6 +678,12 @@ https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Amado (Portimão)
 https://video-auth1.iol.pt/beachcam/bcamadoportimao/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Apúlia (Esposende)
+https://video-auth1.iol.pt/beachcam/bcapulia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Areia Branca (Lourinhã)
+https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Armação de Pera
 https://video-auth1.iol.pt/beachcam/armacaodepera/chunks.m3u8
 
@@ -690,14 +693,29 @@ https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia das Avencas (Cascais)
 https://video-auth1.iol.pt/beachcam/praiadasavencas/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Baía de Cascais
+https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Baleal Panorâmica (Peniche)
+https://video-auth1.iol.pt/beachcam/bcbalealgeral/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Barra (Aveiro)
 https://video-auth1.iol.pt/beachcam/aveiro/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia das Bicas (Sesimbra)
 https://video-auth1.iol.pt/beachcam/bcpraiadasbicas/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Calhau (Carcavelos)
+https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Canidelo - Norte e Sul (V. Nova de Gaia)
+https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Carcavelos
 https://video-auth1.iol.pt/beachcam/carcavelos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Carneiro (Porto)
+https://video-auth1.iol.pt/beachcam/bccarneiro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Carvoeiro
 https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
@@ -710,6 +728,12 @@ https://video-auth1.iol.pt/beachcam/bccarvalhalodemira/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Comporta (Grândola)
 https://video-auth1.iol.pt/beachcam/bccomporta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Conceição e Duquesa (Cascais)
+https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Consolação (Peniche)
+https://video-auth1.iol.pt/beachcam/bcconsolacao/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa de Caparica (Cabana do Pescador)
 https://video-auth1.iol.pt/beachcam/ccabanadopescador/chunks.m3u8
@@ -741,11 +765,26 @@ https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa de Caparica (Tarquínio)
 https://video-auth1.iol.pt/beachcam/bctarquinho/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Costa Nova (Ílhavo)
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Cresmina (Cascais)
+https://video-auth1.iol.pt/beachcam/crismina/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Ericeira Sul
+https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Esmoriz
 https://video-auth1.iol.pt/beachcam/esmoriz/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Espinho
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Espinho Panorâmica
 https://video-auth1.iol.pt/beachcam/espinho/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Esposende
+https://video-auth1.iol.pt/beachcam/bcesposende/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Esposende - Foz Rio Cávado
+https://video-auth1.iol.pt/beachcam/bcfarolesposende/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Fajã da Areia (Madeira)
 https://video-auth1.iol.pt/beachcam/bcfaja/playlist.m3u8
@@ -756,14 +795,29 @@ https://video-auth1.iol.pt/beachcam/bcfaro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Farol (Vila Nova de Milfontes)
 https://video-auth1.iol.pt/beachcam/bcfarol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Figueira da Foz (Buarcos)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Figueira da Foz - Buarcos
 https://video-auth1.iol.pt/beachcam/bcfigueiradois/chunks.m3u8
-	
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Figueira da Foz (Panorâmica)
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Figueira da Foz - Cabedelo
+https://video-auth1.iol.pt/beachcam/bcfigueiracabeledo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Figueira da Foz - Panorâmica
 https://video-auth1.iol.pt/beachcam/figueiradafoz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Forte S. Miguel Arcanjo (Nazaré)
+https://video-auth1.iol.pt/beachcam/bcarcanjo3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Foz do Arelho
+https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Foz do Lizandro
+https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Franquia (Vila Nova de Milfontes)
 https://video-auth1.iol.pt/beachcam/bcfranquia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Furadouro (Ovar)
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Furnas Mar (Vila Nova de Milfontes)
 https://video-auth1.iol.pt/beachcam/furnasmar/playlist.m3u8
@@ -774,14 +828,26 @@ https://video-auth1.iol.pt/beachcam/bcgale/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Grande (Ferragudo)
 https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Grande (Sintra)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Grande Norte (Sintra)
 https://video-auth1.iol.pt/beachcam/praiagrande/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Grande Sul (Sintra)
+https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Guincho Norte
+https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Guincho Sul
 https://video-auth1.iol.pt/beachcam/praiaguinchosul/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Homem do Leme (Porto)
+https://video-auth1.iol.pt/beachcam/bchomemdoleme/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Jardim do Mar (Funchal)
 https://video-auth1.iol.pt/beachcam/madeirajardimdomar/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Lágide Cantinho da baía (Peniche)
+https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Lagoa de Albufeira (Sesimbra)
 https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
@@ -795,8 +861,11 @@ https://video-auth1.iol.pt/beachcam/lecadapalmeira/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Luz
 https://video-auth1.iol.pt/beachcam/luz/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia das Maçãs
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia das Maçãs (Sintra)
 https://video-auth1.iol.pt/beachcam/praiadasmacas/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Matadouro (Mafra)
+https://video-auth1.iol.pt/beachcam/matadouroskatepark/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Matosinhos
 https://video-auth1.iol.pt/beachcam/matosinhos/chunks.m3u8
@@ -807,8 +876,14 @@ https://video-auth1.iol.pt/beachcam/bcmeco/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Meia Praia (Lagos)
 https://video-auth1.iol.pt/beachcam/meiapraia/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Mira
+https://video-auth1.iol.pt/beachcam/bcmira/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia das Moitas (Cascais)
 https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Murtinheira (Figueira da Foz)
+https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Monte Clérigo (Aljezur)
 https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
@@ -822,29 +897,50 @@ https://video-auth1.iol.pt/beachcam/nazareparadonorte/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Odeceixe
 https://video-auth1.iol.pt/beachcam/bcodeceixe/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Ofir
+https://video-auth1.iol.pt/beachcam/bcofir/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Paço de Arcos
 https://video-auth1.iol.pt/beachcam/parcos/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Parede
 https://video-auth1.iol.pt/beachcam/parede/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Paredes da Vitória (Alcobaça)
+https://video-auth1.iol.pt/beachcam/bcparedesvitoria/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Paul do Mar (Madeira)
 https://video-auth1.iol.pt/beachcam/bcpauldomar2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Pedra Branca (Ericeira)
+https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Pedra do Ouro (Alcobaça)
+https://video-auth1.iol.pt/beachcam/bcpraiaouro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Pedrógão (Leiria)
+https://video-auth1.iol.pt/beachcam/praiapedrogao/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Peneco (Albufeira)
 https://video-auth1.iol.pt/beachcam/praiadopeneco/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Pescadores Cascais
-https://video-auth1.iol.pt/beachcam/praiadospescadores/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Pescadores Ericeira
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia dos Pescadores Ericeira
 https://video-auth1.iol.pt/beachcam/bcpescadores/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Portinho da Arrábida
 https://video-auth1.iol.pt/beachcam/bcportinho/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Porto de Abrigo (Nazaré)
+https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Porto Santo (Madeira)
 https://video-auth1.iol.pt/beachcam/bcportosanto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Rei Cortiço (Óbidos)
+https://video-auth1.iol.pt/beachcam/bcreicortico/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Ribeira de Ilhas (Mafra)
+https://video-auth1.iol.pt/beachcam/bcmafraribeira/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Rocha Marina
 https://video-auth1.iol.pt/beachcam/bcrochaportimao2/playlist.m3u8
@@ -855,6 +951,15 @@ https://video-auth1.iol.pt/beachcam/bcmiradourorocha/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Rocha Panorâmica
 https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Santa Cruz - Azul (Torres Vedras)
+https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Santa Ceuz - Navio (Torres Vedras)
+https://video-auth1.iol.pt/beachcam/santacruz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Santa Rita (Vimeiro)
+https://video-auth1.iol.pt/beachcam/vimeiro/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Santo Amaro (Oeiras)
 https://video-auth1.iol.pt/beachcam/santoamaro/chunks.m3u8
 
@@ -863,6 +968,9 @@ https://video-auth1.iol.pt/beachcam/bcsaomartinho/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia São Pedro do Estoril
 https://video-auth1.iol.pt/beachcam/saopedroestoria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia São Pedro de Moel
+https://video-auth1.iol.pt/beachcam/bcsaopedromoel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de São Torpes (Sines)
 https://video-auth1.iol.pt/beachcam/saotorpes/playlist.m3u8
@@ -876,23 +984,44 @@ https://video-auth1.iol.pt/beachcam/sesimbra/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Sra. da Rocha e Nova (Lagoa)
 https://video-auth1.iol.pt/beachcam/bcigreja/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Supertubos (Peniche)
-https://video-auth1.iol.pt/beachcam/supertubos/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Supertubos Molhe Leste (Peniche)
+https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Tamariz
 https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Tocha (Cantanhede)
+https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Torre (Oeiras)
 https://video-auth1.iol.pt/beachcam/bctorre/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Torreira (Murtosa)
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Tróia
 https://video-auth1.iol.pt/beachcam/bctroia/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Vagueira - Areão (Vagos)
+https://video-auth1.iol.pt/beachcam/bcareao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Vagueira - Labrego (Vagos)
+https://video-auth1.iol.pt/beachcam/bclabrego/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Vau (Portimão)
 https://video-auth1.iol.pt/beachcam/bcvauportimao/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Verde (Castro Marim)
 https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Viana do Castelo - Afife - Arda
+https://video-auth1.iol.pt/beachcam/bcafife/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Viana do Castelo - Cabedelo
+https://video-auth1.iol.pt/beachcam/bccabedeloviana/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Vila Praia de Âncora
+https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Vilamoura
 https://video-auth1.iol.pt/beachcam/vilamoura/chunks.m3u8
@@ -911,12 +1040,6 @@ https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",WebCam Praia interior das Rocas (Castanheira de Pêra)
 https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8
-
-#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-logo="https://i.imgur.com/7XsqSSZ.png" group-title="Nature",Stingray Naturescape HD
-https://dai.google.com/linear/hls/pa/event/6RPZlzksTCyB1euPqLcBZQ/stream/44d71678-d67d-4370-b5dd-286a8a998814:BRU/variant/9a9b2bd00fce20b8043c3566233433cf/bandwidth/5711200.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png" group-title="WebCam",Drone TV
-https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/eu4jwpqpsadb.png" group-title="Radio",80 Rock (Radio)
 http://rs2.ptservidor.com:8003/stream?type=.mp3
