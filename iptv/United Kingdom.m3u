@@ -367,8 +367,8 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png" group-title="Lifestyle",World Fashion TV HD
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_ru.png" group-title="Lifestyle",World Fashion Channel Russia HD (uncensored)
-https://live-3.otcnet.ru/wfc-rus-master/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_ru.png" group-title="Lifestyle",World Fashion Channel Russia HD
+https://cdn.wfc.tv/cdn/stream-rus.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/GlobalFashion.jpg" group-title="Lifestyle",Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_720p.m3u8
@@ -412,11 +412,17 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/plex_fashion.png" group-title="Lifestyle",Fashionbox
 http://lb.streaming.sk/fashiontv/stream/chunklist_w129262577.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.hedex.tv/uploads/images/clip_443_1707747365_poster.png" group-title="Lifestyle",A3 Bikini
+#EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2022/06/Fashion-TV-England.png" group-title="Lifestyle",FTV Bikini
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.coolstreaming.us/img/ch/ima88748185384.jpg" group-title="Lifestyle",A3 Bikini
 https://vse2-na-all49.secdn.net/tvsw5-chorigin/play/prod-6496a962f5df4378afc60b62f6081b27/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/thumbh_20200609_231841_270.jpg" group-title="Lifestyle",Kaloopy
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/tYb9P1pPaos/mqdefault.jpg" group-title="Lifestyle",Kaloopy TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/5fec54cf-4b7c-4de1-991c-00470cf0b24a/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/4mg1tZ.png" group-title="Undefined",Carac1 TV (night +16)
+https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w2011542814_b1896000.m3u8
