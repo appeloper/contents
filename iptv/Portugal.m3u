@@ -450,23 +450,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b760007
 #EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2022/06/Fashion-TV-England.png" group-title="Lifestyle",FTV Bikini
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.hedex.tv/uploads/images/clip_443_1707747365_poster.png" group-title="Lifestyle",A3 Bikini
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.coolstreaming.us/img/ch/ima88748185384.jpg" group-title="Lifestyle",A3 Bikini
+https://vse2-na-all49.secdn.net/tvsw5-chorigin/play/prod-6496a962f5df4378afc60b62f6081b27/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/tYb9P1pPaos/mqdefault.jpg" group-title="Lifestyle",Kaloopy TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/5fec54cf-4b7c-4de1-991c-00470cf0b24a/2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/4mg1tZ.png" group-title="Undefined",Carac1 TV (night +18)
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/4mg1tZ.png" group-title="Undefined",Carac1 TV (night +16)
 https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/3xvq5S.png" group-title="Undefined",Carac2 TV
-https://edge14.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/gLKGxW.png" group-title="Undefined",Carac3 TV
-https://edge15.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/0NjmEl.png" group-title="Undefined",Carac4 TV
-https://edge12.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w2011542814_b1896000.m3u8
