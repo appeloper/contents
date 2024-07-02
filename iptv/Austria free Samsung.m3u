@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/at.xml"
+#EXTM3U
+
 #EXTINF:-1 channel-id="samsung-AT500002TW" tvg-id="AT500002TW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT500002TW_20240611T060853SQUARE.png" tvg-chno="4002" group-title="Unterhaltung" , The Graham Norton Show
 https://jmp2.uk/SamsungTVPlus/AT500002TW.m3u8
 
