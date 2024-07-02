@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/ca.xml"
+#EXTM3U
+
 #EXTINF:-1 channel-id="samsung-CA18000010N" tvg-id="CA18000010N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA18000010N_20240702T044806SQUARE.png" tvg-chno="1000" group-title="Reality" , Fear Factor
 https://jmp2.uk/SamsungTVPlus/CA18000010N.m3u8
 
