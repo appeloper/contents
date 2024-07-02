@@ -193,13 +193,13 @@ https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
 https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-mp4a_128000_deu=20000.m3u8
 
 #EXTINF:-1 tvg-id="Euronews.de" tvg-logo="https://img.iol.pt/image/id/62c41c7c0cf26256cd2c16c8/1024.jpg" group-title="News",Euronews
-https://i.mjh.nz/SamsungTVPlus/DEBA1000003IM.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBA1000003IM.m3u8
 
 #EXTINF:-1 tvg-id="BLOOM.meo.pt" tvg-logo="https://feedlix.net/tv/us/BloombergTV.us.png" group-title="News",Bloomberg TV Europe
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-id="DEAJ0500413A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500413A_20240321T045855SQUARE.png" group-title="News",Focus TV
-https://i.mjh.nz/SamsungTVPlus/DEAJ0500413A.m3u8
+https://jmp2.uk/SamsungTVPlus/DEAJ0500413A.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News" group-title="News",Fox News Now
 https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -220,7 +220,7 @@ http://rtmp.api.rt.com/hls/rtdru.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/sky_uk_news.png" group-title="News",Sky News
-https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/cbsn.us.png" group-title="News",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
@@ -310,13 +310,13 @@ https://bcovlive-a.akamaihd.net/b9f68a14d78144abb5b883067a0cdb84/eu-central-1/61
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="630e00c065cfc10007c6e06b" tvg-logo="https://images.pluto.tv/channels/630e00c065cfc10007c6e06b/colorLogoPNG.png" group-title="Movies",Deutsches Kino
-https://r.mjh.nz/PlutoTV/630e00c065cfc10007c6e06b-alt.m3u8
+https://jmp2.uk/PlutoTV/630e00c065cfc10007c6e06b-alt.m3u8
 
 #EXTINF:-1 tvg-id="6305ca798bd95300072d2f93" tvg-logo="https://images.pluto.tv/channels/6305ca798bd95300072d2f93/colorLogoPNG.png" group-title="Movies",Film Gold
-https://r.mjh.nz/PlutoTV/6305ca798bd95300072d2f93-alt.m3u8
+https://jmp2.uk/PlutoTV/6305ca798bd95300072d2f93-alt.m3u8
 
 #EXTINF:-1 tvg-id="DEBA3300015ZU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300015ZU_20240214T035613SQUARE.png_20240214035614.png" group-title="Movies",Top
-https://i.mjh.nz/SamsungTVPlus/DEBA3300015ZU.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBA3300015ZU.m3u8
 
 #EXTINF:-1 tvg-id="5e7b6c60fd20c50007910bf5" tvg-logo="https://images.pluto.tv/channels/5e7b6c60fd20c50007910bf5/colorLogoPNG.png" group-title="Movies",Crime
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e7b6c60fd20c50007910bf5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -334,16 +334,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="5dde47b63585b500099f74ec" tvg-logo="https://images.pluto.tv/channels/5dde47b63585b500099f74ec/colorLogoPNG.png" group-title="Movies",Kult Movie
-https://r.mjh.nz/PlutoTV/5dde47b63585b500099f74ec-alt.m3u8
+https://jmp2.uk/PlutoTV/5dde47b63585b500099f74ec-alt.m3u8
 
 #EXTINF:-1 tvg-id="615c1e5ce3039400070a0547" tvg-logo="https://images.pluto.tv/channels/615c1e5ce3039400070a0547/colorLogoPNG.png" group-title="Movies",Movie Dome
-https://r.mjh.nz/PlutoTV/615c1e5ce3039400070a0547-alt.m3u8
+https://jmp2.uk/PlutoTV/615c1e5ce3039400070a0547-alt.m3u8
 
 #EXTINF:-1 tvg-id="62f4f4b88157cf00075c22db" tvg-logo="https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png" group-title="Movies",Horror
-https://r.mjh.nz/PlutoTV/62f4f4b88157cf00075c22db-alt.m3u8
+https://jmp2.uk/PlutoTV/62f4f4b88157cf00075c22db-alt.m3u8
 
 #EXTINF:-1 tvg-id="5ce40e59246a395e9758923e" tvg-logo="https://images.pluto.tv/channels/5ce40e59246a395e9758923e/colorLogoPNG.png" group-title="Movies",Indies
-https://r.mjh.nz/PlutoTV/5ce40e59246a395e9758923e-alt.m3u8
+https://jmp2.uk/PlutoTV/5ce40e59246a395e9758923e-alt.m3u8
 
 #EXTINF:-1 tvg-id="RBW" tvg-logo="https://rbwonline.de/img/ban1.png" group-title="General",RBW (geo)
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:rbw_high/chunklist_w1740043495.m3u8?ref=www.rbwonline.de
@@ -532,13 +532,13 @@ https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/ntpkkpyw/448/chunklist.m3
 https://wow.anixa.tv/live/anixesd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DEBD3700002HO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3700002HO_20240117T032642SQUARE.png_20240117032643.png" group-title="Kitchen", ZDF kocht!
-https://i.mjh.nz/SamsungTVPlus/DEBD3700002HO.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBD3700002HO.m3u8
 
 #EXTINF:-1 tvg-id="DE200003PX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE200003PX_20240214T035611SQUARE.png_20240214035612.png" group-title="Kitchen",The Jamie Oliver Channel
-https://i.mjh.nz/SamsungTVPlus/DE200003PX.m3u8
+https://jmp2.uk/SamsungTVPlus/DE200003PX.m3u8
 
 #EXTINF:-1 tvg-id="DEAK0500439A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500439A_20240321T045904SQUARE.png" group-title="Kitchen",Just Cooking
-https://i.mjh.nz/SamsungTVPlus/DEAK0500439A.m3u8
+https://jmp2.uk/SamsungTVPlus/DEAK0500439A.m3u8
 
 #EXTINF:-1 tvg-id="5dc280c9aa218c0009724b4b" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png" group-title="Kitchen",Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -550,7 +550,7 @@ https://gustotv-gustotv-2-de.lg.wurl.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00609-palatinmediafil-toptruecrime-lgde/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DEBA100000404" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA100000404_20221026T004407SQUARE.png_20221026004407.png" group-title="Documentary",Travelxp
-https://i.mjh.nz/SamsungTVPlus/DEBA100000404.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBA100000404.m3u8
 
 #EXTINF:-1 tvg-id="5d767ae7b456c8cf265ce922" tvg-logo="https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png" group-title="Documentary",Animals
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -562,7 +562,7 @@ https://autentic-terramaterwild-1-de.lg.wurl.tv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db048f9447d6c0009b8f29d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="DEBD1900002CB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1900002CB_20230726T033600SQUARE.png_20230726033601.png" group-title="Documentary",Screen Green
-https://i.mjh.nz/SamsungTVPlus/DEBD1900002CB.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBD1900002CB.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.1-2-3.tv/out/123tv/img/123tv-logo.png" group-title="Shopping",123 TV
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/17612/17612_264_live.m3u8
@@ -604,13 +604,13 @@ https://install.akctvcontrol.com/speed/broadcast/139/file-3128k.m3u8
 https://install.akctvcontrol.com/speed/broadcast/141/file-3128k.m3u8
 
 #EXTINF:-1 tvg-id="USBA3000044BJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000044BJ_20240415T233046SQUARE.png" group-title="Pets",Lucky Dog
-https://i.mjh.nz/SamsungTVPlus/USBA3000044BJ.m3u8
+https://jmp2.uk/SamsungTVPlus/USBA3000044BJ.m3u8
 
 #EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Pets",Dogs 24/7
-https://r.mjh.nz/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
+https://jmp2.uk/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
 
 #EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
-https://r.mjh.nz/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
+https://jmp2.uk/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/ric.jpg" group-title="Kids",RIC
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
@@ -637,16 +637,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc327d0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="DEBA3300023IR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300023IR_20220323T075159SQUARE.png_20220323075202.png" group-title="Kids",Teletubbies
-https://i.mjh.nz/SamsungTVPlus/DEBA3300023IR.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBA3300023IR.m3u8
 
 #EXTINF:-1 tvg-id="DEBD5100001XP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD5100001XP_20240214T035609SQUARE.png_20240214035610.png" group-title="Kids",SuperToons TV
-https://i.mjh.nz/SamsungTVPlus/DEBD5100001XP.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBD5100001XP.m3u8
 
 #EXTINF:-1 tvg-id="DEBA33000212C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA33000212C_20240117T032630SQUARE.png_20240117032631.png" group-title="Kids",Family Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/DEBA33000212C.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBA33000212C.m3u8
 
 #EXTINF:-1 channel-id="samsung-DEBC4700007JV" tvg-id="DEBC4700007JV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700007JV_20221214T045041SQUARE.png_20221214045042.png" tvg-chno="4628" group-title="Kids",Duck TV
-https://i.mjh.nz/SamsungTVPlus/DEBC4700007JV.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBC4700007JV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2014/04/Sport1.jpg" group-title="Sports",Sport 1 (geo)
 https://streaming-s1free.sport1.de/1hmH0bjHuuKncd-0NVXsww==,1616190921/ls-45420-1/tracks-v1a1/mono.m3u8
@@ -667,13 +667,13 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://mts1.iptv-playoutcenter.de/mts/mts-web/mts/mtsw3/chunks.m3u8
 
 #EXTINF:-1 tvg-id="DEAK0500452A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500452A_20240321T045919SQUARE.png" group-title="Sports",Auto Motor und Sport
-https://i.mjh.nz/SamsungTVPlus/DEAK0500452A.m3u8
+https://jmp2.uk/SamsungTVPlus/DEAK0500452A.m3u8
 
 #EXTINF:-1 tvg-id="DEBD2600004U7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2600004U7_20230913T030533SQUARE.png_20230913030533.png" group-title="Sports",Motorvision Classic
-https://i.mjh.nz/SamsungTVPlus/DEBD2600004U7.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBD2600004U7.m3u8
 
 #EXTINF:-1 tvg-id="DEBD2600005U6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD2600005U6_20230913T030531SQUARE.png_20230913030531.png" group-title="Sports",Motorvision
-https://i.mjh.nz/SamsungTVPlus/DEBD2600005U6.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBD2600005U6.m3u8
 
 #EXTINF:-1 tvg-id="5be1be871843b56328bc3ef1" tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" group-title="Sports",Action Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -682,19 +682,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="DEBA33000419P" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA33000419P_20220324T011824SQUARE.png_20220324011827.png" group-title="Sports",Horse & Country
-https://i.mjh.nz/SamsungTVPlus/DEBA33000419P.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBA33000419P.m3u8
 
 #EXTINF:-1 tvg-id="DEAJ0500429A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20240321T045914SQUARE.png" group-title="Sports",Sportdigital Free
-https://i.mjh.nz/SamsungTVPlus/DEAJ0500429A.m3u8
+https://jmp2.uk/SamsungTVPlus/DEAJ0500429A.m3u8
 
 #EXTINF:-1 tvg-id="DEBA2200008NL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200008NL_20220323T075206SQUARE.png_20220323075209.png" group-title="Sports",Tennis Channel Deutschland
-https://i.mjh.nz/SamsungTVPlus/DEBA2200008NL.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBA2200008NL.m3u8
 
 #EXTINF:-1 tvg-id="DEBD26000034M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD26000034M_20230913T030529SQUARE.png_20230913030529.png" group-title="Sports",More than Sports TV
-https://i.mjh.nz/SamsungTVPlus/DEBD26000034M.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBD26000034M.m3u8
 
 #EXTINF:-1 tvg-id="DEBA3300016EV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300016EV_20230614T005703SQUARE.png_20230614005704.png" group-title="Sports",Strongman Champions League
-https://i.mjh.nz/SamsungTVPlus/DEBA3300016EV.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBA3300016EV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png" group-title="Lifestyle",World Fashion TV HD
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
@@ -739,7 +739,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_hd_gmt__vm6_43433_d
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/plex_fashion.png" group-title="Lifestyle",Plex FashionTV
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/plex_fashion.png" group-title="Lifestyle",Fashionbox
 http://lb.streaming.sk/fashiontv/stream/chunklist_w129262577.m3u8
@@ -787,16 +787,16 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w212
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
 #EXTINF:-1 tvg-id="DEBA150003050" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20240321T045923SQUARE.png" group-title="Music",Deluxe Deutsch Pop HD
-https://i.mjh.nz/SamsungTVPlus/DEBA150003050.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBA150003050.m3u8
 
 #EXTINF:-1 tvg-id="DEAH3904006A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20240321T045850SQUARE.png" group-title="Music",Deluxe Lounge HD
-https://i.mjh.nz/SamsungTVPlus/DEAH3904006A.m3u8
+https://jmp2.uk/SamsungTVPlus/DEAH3904006A.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://liquidskyberlin.weebly.com/uploads/8/2/4/5/8245388/3944225.jpg" group-title="Music",Alex TV
 https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/chunklist_b2128000_slGER.m3u8
 
 #EXTINF:-1 tvg-id="DEAK0500445A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500445A_20240321T045857SQUARE.png" group-title="Music",GoldStar TV
-https://i.mjh.nz/SamsungTVPlus/DEAK0500445A.m3u8
+https://jmp2.uk/SamsungTVPlus/DEAK0500445A.m3u8
 
 #EXTINF:-1 tvg-id="5f98471110cca20007d39f76" tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png" group-title="Music",MTV Unplugged
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -811,13 +811,13 @@ https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="623a1b5188ecdc0007c9ef5a" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="Music",Xite Rock
-https://r.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
+https://jmp2.uk/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
 
 #EXTINF:-1 tvg-id="DEBD3000002SI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3000002SI_20240131T031113SQUARE.png_20240131031114.png" group-title="Music",XITE Rock On
-https://i.mjh.nz/SamsungTVPlus/DEBD3000002SI.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBD3000002SI.m3u8
 
 #EXTINF:-1 tvg-id="DEBA2200007V6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20240131T031109SQUARE.png_20240131031110.png" group-title="Music",Xite Hits
-https://i.mjh.nz/SamsungTVPlus/DEBA2200007V6.m3u8
+https://jmp2.uk/SamsungTVPlus/DEBA2200007V6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Qwest Jazz and Beyond
 https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8
@@ -928,40 +928,40 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w212
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Music",Vevo 2K
-https://r.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
+https://jmp2.uk/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f32f26bcd8aea00071240e5" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Music",Vevo '70s
-https://r.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8
+https://jmp2.uk/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5fd7b8bf927e090007685853" tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music",Vevo '80s
-https://r.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
+https://jmp2.uk/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5fd7bb1f86d94a000796e2c2" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Music",Vevo '90s
-https://r.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
+https://jmp2.uk/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5da0d75e84830900098a1ea0" tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Music",Vevo Country
-https://r.mjh.nz/PlutoTV/5da0d75e84830900098a1ea0-alt.m3u8
+https://jmp2.uk/PlutoTV/5da0d75e84830900098a1ea0-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-64d161c93c785e0008df575e" tvg-id="64d161c93c785e0008df575e" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" group-title="Music",Vevo Íconos Latinos
-https://r.mjh.nz/PlutoTV/64d161c93c785e0008df575e-alt.m3u8
+https://jmp2.uk/PlutoTV/64d161c93c785e0008df575e-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5da0d64d0e8a62000964ebe4" tvg-id="5da0d64d0e8a62000964ebe4" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" group-title="Music",Vevo Latino
-https://r.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
+https://jmp2.uk/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5d93b635b43dd1a399b39eee" tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music",Vevo Pop
-https://r.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
+https://jmp2.uk/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f32f397795b750007706448" tvg-id="5f32f397795b750007706448" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Music",Vevo Reggaeton & Trap
-https://r.mjh.nz/PlutoTV/5f32f397795b750007706448-alt.m3u8
+https://jmp2.uk/PlutoTV/5f32f397795b750007706448-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-61d4b38226b8a50007fe03a6" tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="Music",Vevo Retro Rock
-https://r.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
+https://jmp2.uk/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5da0d83f66c9700009b96d0e" tvg-id="5da0d83f66c9700009b96d0e" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Music",Vevo R&B
-https://r.mjh.nz/PlutoTV/5da0d83f66c9700009b96d0e-alt.m3u8
+https://jmp2.uk/PlutoTV/5da0d83f66c9700009b96d0e-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-61d4c2817a823d00070ba53e" tvg-id="61d4c2817a823d00070ba53e" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Music",Vevo True School Hip-Hop
-https://r.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
+https://jmp2.uk/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Music",KPOP Music TV
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
@@ -982,7 +982,7 @@ http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
 https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240401T235811SQUARE.png" group-title="Nature",Stingray Holidayscapes
-https://i.mjh.nz/SamsungTVPlus/USBD3500038R6.m3u8
+https://jmp2.uk/SamsungTVPlus/USBD3500038R6.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/betterlife_tvs.png" group-title="Nature",Better Nature TV
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
