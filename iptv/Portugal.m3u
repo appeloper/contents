@@ -378,14 +378,17 @@ https://bit.ly/3Hxwlb8?/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fuel.png" group-title="Sports",Fuel TV
 https://bit.ly/3vCaVZr?profile=inspirationFreeTV.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/RedBullTv.png" group-title="Sports",Red Bull
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/f700e9a8-f1dc-4b40-8f3f-a387cfceb0d8-world-billiards-tv-1654685118.png" group-title="Sports",World Billiards TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=3694&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=ed47a41c-3ded-4b26-beb0-af573520c5fb&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=967
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2900001LI_20230926T032241SQUARE.png_20230926032242.png" group-title="Sports", World Poker Tour
+https://jmp2.uk/SamsungTVPlus/CHBD2900001LI.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tavilatam.com/wp-content/uploads/2022/04/TAVI_FIFAPlus.png" group-title="Sports",FIFA Plus
-https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
+https://fbbd2a5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzX0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=5061&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=06fd7c9b-945a-41bf-ae0a-8b8b330867a4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1459
 
-#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="Sports",Teledeporte
-https://bit.ly/49obbKU?profile=inspirationFreetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e6ca508c-b569-4bd5-b183-070f477b0076.png" group-title="Sports",DAZN Women's Football
+https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8?ads_amagi_channel=855&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=5029&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=2dce0380-7a76-4411-acdb-85da64d2790b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png" group-title="Sports",Real Madrid TV HD (geo)
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
@@ -395,6 +398,9 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/in
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-logo="https://icon2.kisspng.com/20180612/cba/kisspng-abu-dhabi-sports-itu-world-triathlon-abu-dhabi-201-live-stream-5b1ff68a062101.4910889015288213860251.jpg" group-title="Sports",ADSports 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/RedBullTv.png" group-title="Sports",Red Bull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png" group-title="Lifestyle",World Fashion TV HD
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
@@ -427,7 +433,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_asi_i2j_43441_1080p_1611_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Paris (op.2)
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Portugal HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -444,8 +450,8 @@ https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/plex_fashion.png" group-title="Lifestyle",FashionTV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=xgcnW5im4L_9t9ERRzQB
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Lifestyle",TV Fashionbox
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=563&deviceId=5f516730b78b7600079294f5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d3740a2e-4a7c-4bc2-b0ca-15fa24121fc5/1500X1000_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="Lifestyle",FashionTV Vogue
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2022/06/Fashion-TV-England.png" group-title="Lifestyle",FTV Bikini
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
@@ -454,7 +460,7 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chun
 https://vse2-na-all49.secdn.net/tvsw5-chorigin/play/prod-6496a962f5df4378afc60b62f6081b27/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/tYb9P1pPaos/mqdefault.jpg" group-title="Lifestyle",Kaloopy TV
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/5fec54cf-4b7c-4de1-991c-00470cf0b24a/2.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.dpname=distrotv&ads.rnd=qz2z&ads.env_i=31e3f53f-b228-4f6e-958c-3a55b467855e&ads.env_u=0540abc3-1fd1-4c22-9260-e54c6506a9be&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=560&ads.height=315&ads.deviceId=0540abc3-1fd1-4c22-9260-e54c6506a9be&ads.deviceDNT=0&ads.gdpr=1&ads.us_privacy=0&ads.aid=0540abc3-1fd1-4c22-9260-e54c6506a9be&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=84.91.165.111&ads.geo=PT&ads.lat=39.29770&ads.long=-7.43360&ads.dma=false&ads.geoType=2&ads.contentid=22868&ads.content_duration=18000&ads.episode_id=73234&ads.show_id=1093&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CLifestyle&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Kaloopy&ads.episodetitle=Kaloopy&ads.keywords=kaloopy%2Ceye%20candy%20channel%2Ccalifornia%20eye%20candy%2Ccalifornia%20eye%20candy%20channel&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Fembed_episode.html%3Fshow%3Dkaloopy&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=AQzzBGQE-4ahKmWn6T4og6I7Gfouq0gTNDu6pqiHtUArChtKnTFXf2hE03hAnQJ4SowtvGfD5WrRIaEJwCakWoSLV0uvloonod7jPTHJfSiJ2ny64w4BX_cNyM7qwdTsjxNAhqIUhoqgI4iTAb_Ng7dgNHbExq5K1E_TrZhaTqrQYY9D75qkAczrWW_L-jfbUINr8sX8xDLc_VJ-rhZcZUGW-2IxXMkomUmY6IAESlzDQq579qgt-ZCZR981byrfUzD4ROO2tGhs_ReZ_RshPQPwQYuNCJCyc8vVDYMHfJPkoSJ7ZLo9BEhLfRM9djklIZOi6zKDE-z_WxeaILRlkZ0GPkJX_T4WaQXFK6PIN1KnUjbSfEKBtHhXBnGEyw36QeQ1URvBjfO3DYWy6y6wIBOQaUjJDPrdtq186iGaw5vc2xoyfzbk_VATaAZLMRqTfhXF2XU-hqN2FOWPxcKLBEQZfKSwqKS76ovsgAu6MQs0FQy5vFOcu9mR7zpAarWrxL01ALkxedbilM1Gslb0brav3JmAxfpzdEf9DxfAmxK3s7Rkgxyz8doqATIzL70K2AP9Ozc1ujlH3gGW8eFRASVnXWg2zDQg-EGAl0CX42qZQKmvemtl7vP-eZUNhniFpIQ_M7RGHbrLjk3iveQS4CH_fJNaSLGG3UzBzX0TLXfP1HLI0rDT0G73MW0a9-VLY7LKj8aX49LAGK2VQN-wb8tCWYv6WM7-YNWfpNIdoZDK3BxOwJVL4gXzYku51NdntVNeUBnEj7mRKmG37O3jsFy6WKaRdjTVU-hhXF6pGUpps3TZNSAicx8DJmmTKhd5ntB-ysXf1MXfJyivrgHiFnIlSw9e5yyXVDAdWaPhRtTxRyCwGr36xVRluVzzGKcYFRIok-CJbGv7xHLsx2wQgCkpeqC9fKqT8rkNR4dcoA_9MF9M9Wtp1WSWx_5gb0vzHsbCN9M0b9H6gUfrogTMcd46g5ZPl8UPP134PVZQg3006qXDAqu9GJ8tJlCbfcVkNd0VGOlIMDWWLxbUv1WS5Fm0c8LnrkJBlVnZDMFsalIhkpuBvvFhEqgqZrGGA1LbFEUBlM-osD_ZQQ0IDK2sWs-ctOUIcqSixsBfnqRNqPqcj5HDyxdPj1z9R11VWPJUEARM18wM10qRSwDgp1xRvWt7sxk4QurEUXuRmecP&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20240702
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/4mg1tZ.png" group-title="Undefined",Carac1 TV (night +16)
 https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
