@@ -873,6 +873,15 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="Sports",Esport 3 (geo)
 https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8
 
+#EXTINF:-1 tvg-name="Mundo Nautica" tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200" group-title="Sports",Mundo Nautica
+https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
+
+#EXTINF:-1 tvg-name="MyPadel TV" tvg-logo="https://graph.facebook.com/mypadeltv/picture?width=200&height=200" group-title="Sports",MyPadel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Futsalmafer.tv" tvg-logo="https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200" group-title="Sports",Futsalmafer TV
+https://vdo.grupolimalive.com:3398/stream/play.m3u8
+
 #EXTINF:-1 tvg-id="5f1ac8588734f8000823b7de" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="Sports",TV Action Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
@@ -969,13 +978,11 @@ https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/chunklist_w1416773050_b1
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/chunklist_w888342636_b1896000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png",Cadena Elite
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:EcmssVPdxJJnv3ryRQcFZMupYqIK44elZlvvC9SyX5nzzik0dlqGgLWNnvIoqeFohj2J3DgOJqJ/vEkVosF+FA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Music",Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg",TV Galicia Musigal
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:khBMbzg+JseUOaLnfZib2wI0UyYGVQw12GQwy+PmQlwEJy2HA0lZJlMb2De6j4f/
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg" group-title="Music",TV Galicia Musigal (geo)
+http://musigal-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sol Música España" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Sol_Musica_Spain.jpg" group-title="Music",Sol Musica
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
@@ -996,7 +1003,7 @@ https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w26201427.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/karibena.png" group-title="Music",Karibeña TV
-https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibenatv_69045976-0638-4a55-a6a1/index.mpd
+https://streamtv.onliv3.online:1936/karibtv/karibtv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/lamegamundial.png" group-title="Music",La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
@@ -1005,8 +1012,7 @@ https://server40.servistreaming.com:3477/stream/play.m3u8
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/onfm_tv.jpg" group-title="Music",ON FM TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:oIozOY04qNa1Ltatc49dKJCG7kGBh/IHHZG0ycso/jRYdH4aqIXMCFENiSMlBYzNM8AFG0YaVMMZQotfHEM3EA==
+http://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/m2o_it_tv.png" group-title="Music",M2O TV
 https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
@@ -1015,71 +1021,55 @@ https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/vintage_music.png" group-title="Music",Vintage Music TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:xP9hNHrOyavv1K28WCrCmVgpwr7l0iXeMmu06DtwNiHdZEsZYamRlNnD1NIjAxSqZ8zwABnRMwlyhAoXtzl3jIG7/QQKL9HEENzr9oKbEMKf5ApAM9pol2/zwssHXAVh
+https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Music",Retro Music
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:hrNyxp+g3ZKeDvU3rWHd36Cnb+j/QWF1Ln9sQwt/aJZ6YBqfvWkoUEZXWP4Wc59BebAUpMCwWnqkw++zoW/TtA==
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/retro_plus.png" group-title="Music",Retro Plus Classic
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/jukebox-tv.jpg",Jukebox Radio TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:QwkI001Y44noArjfNsfLBOECRLPFACRsQjBsSrHKB3XrsQg2YtV17yHIrTqHq9kuBpM19lnxANGqXtNEcz1sIEakNMZxRzXcl75OvRt8Wy8=
+https://5926fc9c7c5b2.streamlock.net/9108/9108/chunklist_w191251077.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/music_box.png",Music Box Gold
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cKEwoGK+ouuCza/TYpeiiv/1JTkiSRB8mks31Nsl+WvSSZWjbmwes0B8Uqzj9402u7ToIt8b4wiBVempL3ZqtQ==
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/1mushd.jpg",1 Music HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:LKiEUAvDQbeWZdXKzqtmGgrEeO7Qrmrc2fFdFcCpgGmf5ApAM9pol2/zwssHXAVh
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/tr/Power.png" group-title="Music",Power HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nKg0+8SE9CXjogOOlOKAMc/8hGviFzCQYxOBPfBzTR3TtAlilyl/Ix9lutNCknrliP0ZQGWYu8z8RfwvI6kPL7rKgre4eD6ZYhgMfQCJBw26fYTmgu3FlQj5ShBVEXHM
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://zuendel-branding.com/media/krone_hit_1_small.jpg" group-title="Music",Kronehit HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BHHK1DwMCUgNT9Q47UI88zc134cgsOiFvo+pKAJ7kc327hqvlEUso5LWkAVpovYxkusxTDIUkPa/sAVZxgudZ5/kCkAz2miXb/PCywdcBWE=
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One HD 1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:72AZ6G0AfR8x80MmY0TPAbLbBRrrUOdqrkqXa/CV1Sw=
+http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One HD 2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:72AZ6G0AfR8x80MmY0TPARjcriETyCZpLhSlappbLqQ=
+http://rtmp.one.by:2200
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One HD 3
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:72AZ6G0AfR8x80MmY0TPASkqf/8DQm2VXO+vDok3khQ=
+http://rtmp.one.by:1300
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One HD 4
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:72AZ6G0AfR8x80MmY0TPAcdG+zMOO0WH4RekHIOPsB4=
+http://rtmp.one.by:1200
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="Music",Trace Latina
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Oa95SU0ASygs56MG88W6W+JMkC36R+2ml2STFKeAyL0h1FLOXbl0k5s1TMtTkHbm6QMK09seSfpyLaRsYWcAyGZ5URk/rZgktKMWX9/0om94Z1LM3+VLBfJPHmwgxrNxlaOQVrAzRJHMjV2mt8c9xA==
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="Music",Trace Urban
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BGfUYI6um7WSx5Uzrv6aHab10ianeHpavO5Vt9KTYaO7aDI2vgkACO5YymRqTAb6qKLHisEGJbJaYJlC41R87rp9hOaC7cWVCPlKEFURccw=
+https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/nrg91.png" group-title="Music",NRG 91 TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ot7bBxMLqYodXRj70dBeb+YF+wHRwvQFPidlmczEzQjMhP4srp1dhgdBp6FPP3tu
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/230-2305091_deejay-tv.png" group-title="Music",DeeJay TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:DmKuLidsE/M9EmPPG6U7N6FHYjym7UmShwJtlprPY8jCS6cVxv8duXSqr7yB0AfyeeVvsd4/cdAWZtChKJN32+EK4KzGEJIc/Uraslei0cv+PWdcMKaCr6xMJPKcw+Kjh8ClyAeW9MbkCuKw6OT6nJ/kCkAz2miXb/PCywdcBWE=
+https://streamcdng2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b2428000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/1/4fun-tv-logo-5EA29A36E0-seeklogo.com.png" group-title="Music",4Fun TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:sUBanA+XO4/aktM/TQhhdamoOPnmN4thSs9OCXw9DpdsS/J1krea/r/PMi1rmI5Zn+QKQDPaaJdv88LLB1wFYQ==
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/baraza.png" group-title="Music",Baraza HD TV
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
@@ -1088,8 +1078,7 @@ https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/663addd47e1b1_13018905_2405080205_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.infosat.de/sites/default/files/news/ockostar655440.jpg" group-title="Music",Ocko Star
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:x8NVMv6ngP+2aDb/X9KpXf74SHQL5H7nnN/2t8BFK7K37ti8LwyInU5ypkyAULbf4BlloZWLKHwg2p7pzY8WAA==
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f5/c3/1818/2/c175.png" group-title="Music",21 Radio TV Rock'n Pop
 https://live.creacast.com/radio21/smil:radio21.smil/chunklist_w758890797_b628000.m3u8
@@ -1152,27 +1141,22 @@ https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8136/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/V2Beat.tv.png" group-title="Music",V2Beat
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0XwRE4eK6rou4CUKD5yYBVC6toUbWBz+xZe3/7ArW9QGAUyIQ/nkyL2SkEbhFC1S7g5I39RdgmCrK95V8kQsCA==
+http://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/IbizaGlobal.png" group-title="Music",Ibiza Global TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:T1BRCSTycKucyNUdVFbibimw1BRZWSoE67fxAXCeON38iKxu3fl2snpSzqAv2hrGn+QKQDPaaJdv88LLB1wFYQ==
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonus.fm/img/sonus_logo.png" group-title="Music",Sonus FM TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ffOOY002ji4BWxc5AUXmaqJd5XImURPk/V7KVAzZzohmHKgpiBBxZUDJumsEFNauebAUpMCwWnqkw++zoW/TtA==
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
 
 #EXTINF:-1 tvg-name="DanceStar TV" tvg-logo="https://dancestar.tv/images/swirl_2.jpg" group-title="Music",DanceStar TV
 https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
 
 #EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-logo="https://i.imgur.com/7XsqSSZ.png" group-title="Nature",Stingray Naturescape HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCwVydC/rNSjOnfoACE18iYStJn5Lxk/o53KKT9yQn6qQiH07bOCtjH0dBdlgkSE06RuEItyjIEg+qM3NxBVsxHyosfkUae4kAfr1Ye/yoVG97TY0bIqodifAnVrksGK6ALWX8cFStWfkbBHerr1ZdWECjbM75M5L5jzX2cnSPDTDivS7NP5ml+yHMRQlypCQ7W6fYTmgu3FlQj5ShBVEXHM
+https://dai.google.com/linear/hls/pa/event/6RPZlzksTCyB1euPqLcBZQ/stream/44d71678-d67d-4370-b5dd-286a8a998814:BRU/variant/9a9b2bd00fce20b8043c3566233433cf/bandwidth/5711200.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png" group-title="Nature",Drone TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2HKJTANW/KwXEim0SduLwJfwTfbxSW3aLHMKHKA1OFKCaTXzh22rfwCypKXPMNnszZLviZBc6g7Zqj7QgCwtveie/lVOsWlOUg4VjtckMqNKnkEZBhXwFdzQ3ld3vjE6RosqUbr5KGX+mp5y37QshaoFq0qeWdlU3lSNAN4eEPAAInDYDVQFeywpOFzPOWGMpSfQrpAJZnD0ea5fRVvbdw==
+https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5fcff956f847548219d9ae06d1503362.jpg" group-title="Radio",1000 Hits España (Radio)
 https://c2.auracast.net/radio/8022/radio.mp3
