@@ -1,24 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png" group-title="Science",NASA Public HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dSJzHPuPXRWlYMpVWq97M2nRpd2/l5YCy29bacWYwX1vc2Obk5V3L220jDsNlwXQr56ujUhDJCG+NnhbgNZuhyJ/eNi1QG4q1jb7kEBfjq66fYTmgu3FlQj5ShBVEXHM
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png" group-title="Science",NASA Public HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KZXKrde0K7lyOmJPvclDPdwmcz7d5HLSxkkMu/fG910+hvoFqsawcJhn5tV9oA68IbHpEYENT033haSNTITINO4OSN/UXYJgqyveVfJELAg=
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png" group-title="Science",NASA Media HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dSJzHPuPXRWlYMpVWq97M2nRpd2/l5YCy29bacWYwX2CR4XnhFfQe4SRAJ8uNQ2I9qc9/EM1H7d21HZctXCVi6/XxrkHE3dQ0Lk8ohCAVLGf5ApAM9pol2/zwssHXAVh
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png" group-title="Science",NASA Media HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Z3h2GoFXBfkBMYwZVyp/ydwmcz7d5HLSxkkMu/fG911Udo880Fl7FVkpH57AYC0dUdppoT7SzEA64l3+izIayu4OSN/UXYJgqyveVfJELAg=
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/university_california.jpg" group-title="Education",University of California TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:m72OifUXt4jVe//2MK3GwkHh2yk8mURBfRSkwU3b9+esWqLKf8HzBQ7GVwHgwWuOjvV1DdZL4LqMN8fhx17TxmmnKVjTI+gIdZNWeE7Q7uI=
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/chunklist_w1212023073.m3u8
 
 #EXTINF:-1 tvg-logo="http://ualr.edu/tv/files/2006/10/NEW_Channel_Icon_Text.png" group-title="Education",UALR University TV
 https://vbfast-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/chunklist.m3u8
@@ -75,40 +64,31 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN
 https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="News",Bloomberg TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1kH1Oypcfx0yvgB30fd/z1FyfqykGTO0n4/Qe168Ebl8nJFED7HJZEeQqfVOpI1ble7NMzvZucYNqxS+yqh5YaB+2XJE1nPXnwT4RACQVvGtiNsOn5V0tESzP3efzLbApenwvc0uX9Mp9EfcrbY7/A==
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVUSLiveEvent.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="News",Bloomberg TV Live Event
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0jzwfGyZ5jaJseHioAEuzKnxreEhHK0voO8q4AHzr9UBuWp3yfEjEpOE/HFvaB85MRIIdxeY6dNQAT6ftJ7RczIp9nh55s+RpobfKmhvjWRZIZz6DTndWttSbiYq5rdWg4rgL6Ot6hawltLaR8JK5Q==
+https://d1g4mbj10o50ni.cloudfront.net/evt/Channel-USEvt-AWS-virginia-1/Source-USEvt-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVUSPoliticsLiveEvent.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="News",Bloomberg TV Politics Live Event
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1kH1Oypcfx0yvgB30fd/z+UB/BzRTU0a2Rmr4AsPMcbx0dHFx8cGxd8QYdwEAZQVgQN4xm1uaWYPoIwQJIcuCkitxWZNPX5m6EJcCzKWLfaPevx/BYQJe//g8UbuUNt5
+https://liveproduseast.akamaized.net/pol/Channel-POL-AWS-virginia-1/Source-POL-240-1_live.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/05/51xZAebJMXL._SL1280_.jpg" group-title="News",Bloomberg TV+
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1kH1Oypcfx0yvgB30fd/zwONpaIT4BU8Jryz0+QluKs+RrcCaM05Ocaj2Dg7RmZpgiS5TL5qw81Qzk+1dDqf3vGAkT2MQMRBZra3kbp7KYSkQqWpI1Q82nvhJZQetqUc2Vabq4InrG4sVILRL0hzWH5klzUg2Q3oSsj+BebtOJDfIeWaqp8H0vKK7oucfo0q
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 
 #EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://dp6mhagng1yw3.cloudfront.net/entries/13th/dbd1f7b3-388f-4bb8-ac6d-30bc4bbf0a55.png" group-title="News",Bloomberg Quicktake
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0jzwfGyZ5jaJseHioAEuzKnxreEhHK0voO8q4AHzr9WSHIzjtEAn686UlA/HTPjx+tF0oG3aFHBgWsh0h1sJNCkTmjPeVJ/1PF9KAWatYusVGhBJHCKCn1oVhJ74iTI6bf1LaSK9bGF2UYVLjvO/Eb1k9Luz/xNWsEZ8UBgFqFU=
+https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-07-kJjPiAMfNFn_live.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-logo="https://www.livehdtv.net/uploads/kanal/21463Bloomberg-TV-euro.png" group-title="News",Bloomberg TV Europe
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1kH1Oypcfx0yvgB30fd/zytvEcEHvCHplrp6bjr5zIxBXsDrW7tUBNyWoh4IYdYt2xf+w8xyDRym/pFlC6HlU41aNzYnaodPamaTuaaHUlqYL73+tLO+zC2ZIQlJ2Te/tQ7QCaw6anJPErI0HjebqA==
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/jp-bloomberg.jpg" group-title="News",Bloomberg TV Asia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1kH1Oypcfx0yvgB30fd/z2j805HGgcKyC1WupLvmx+/40CYnxOfrD1lcyFT7kMAQHDtRQvgW1Wkh6t119vkdDsq55DJsa453JIkppg1QIbo6AT7rAwcm/NOdr8fu36bLYmalMXP1mz30w5NxiXFTKLp9hOaC7cWVCPlKEFURccw=
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVAustralia.us" tvg-logo="https://photos.live-tv-channels.org/tv-logo/au-bloomberg-tv-australia-3829.jpg" group-title="News",Bloomberg TV Australia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1kH1Oypcfx0yvgB30fd/z2j805HGgcKyC1WupLvmx+/40CYnxOfrD1lcyFT7kMAQkwEuM66VWsQGt2MCUrsLn8q55DJsa453JIkppg1QIbrK96pK16v8fR8y1oiGJzFYYmalMXP1mz30w5NxiXFTKLp9hOaC7cWVCPlKEFURccw=
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/abc_news_now.png" group-title="News",ABC News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:XpbhghrbxhhelhUEd1Y2F0CrFPi/F56iOHZPowqxqsTZGi2E0loZb/wUaxzPuT+See1Uj8Qji8A5fZNyjCFOTVmVf1kWQT0XqvN2+unlbKM=
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="News",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
@@ -126,96 +106,72 @@ https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/cha
 https://freespeech.akamaized.net/hls/live/2024573/live2/audio_0_eng/audio_0_eng.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png" group-title="News",France 24
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjzX6DjlcYPzKYL6xVaLwPHLThNUI4PwUjk3MnFQHyrGHg==
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/dw_en.png" group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg" group-title="News" group-title="News",RT News HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:A7uEVpvOurDbPW1POsCoeV7qZDHshjQV6m78Gb09vQsFeCE/b1b58MG7Vfa2w7Ku85kpx3j/Ba/A+5LRCQ/i4Lq/egoc7trj0DfFXZw3XzWvb0UljrDS7PfLVe2jiHrY
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg" group-title="News",RT Español HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:anjB8EAIO8gUG+jd2tjL9euT9LAgyCnXztmFTOQXLIf4DtMidKG3qOYtEU3Xm8zp
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary" group-title="Documentary",RT Documentary HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:TZ6OU7/wM95XbboPK9gn4BioNMO/gOLs5wEy3rPCduDuDkjf1F2CYKsr3lXyRCwI
+#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary" group-title="Documentary",RT Documentary HD (english)
+http://rtmp.api.rt.com/hls/rtdru.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn.png" group-title="News",CGTN News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Bf8aSMZ87edMEd3nPhsVtZ6o+oyA85jSocOlqVnuo/B/k7RnGYKQ5hvzxAg3vn8o
+https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:yxHBfDzCqK/a8o2EedOl7qsNvedso7uhgaG7tGthdhQRYblB8eJL0fqXFjNhjZI2
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/NDTV-24x7-logo-2.jpg" group-title="News",NDTV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:+fSBq7P5tzBkcbdDuf6DcLEZyLdSFGT4TLj7Wf+TuGNZWpowToWnOnYfzZI5G5FTchY6afdnX5op6Sq3KLRE5/Mg8UMhfttOqpTnlxWBdtWOJL/KeWpAdEsb3l2PlQaB
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/nhk_japan.png" group-title="News",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/asia_news.png" group-title="News",CNA NewsAsia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:MkHdV9uAhNWNSh8W11hiBCURLxgj19yYic1FuhlL7sA9mKo/tq+TABOMAn08oTqhPETVeP1qQBnBoAMRu+5epumKYAzqh8j/5cOILo0cH6OVo5BWsDNEkcyNXaa3xz3E
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png" group-title="News",RTVE 24h
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:hM6/tiHrLBiw3+iikJJ0/tkzwFfexX/DVKbUINDdMBhFe3gJEpAGhOudGyYUg61O
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png" group-title="News" group-title="News",Press TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 
 #EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png" group-title="News",Al Jazeera
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:afsFoKzfBiI4YPxcuPgIyUbVq72yACJJbbWOO2PDgQJ26DG2JBcX4XTvbdJGRaQa
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/ktvu_fox2.jpg" group-title="News",KTVU Fox2 News
-https://dcs-live-uw1.mp.lura.live/server/play/o0m8DKpFqMnziJo7/rendition.m3u8?track=video-0&anvsid=m177610542-n649c983e6d1343dea375ac72b692573d&ts=1716896890&anvtrid=883f76a1e44c16c7f1225ecf5717977b
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="News",KERO 23 ABC
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:XpbhghrbxhhelhUEd1Y2F0CrFPi/F56iOHZPowqxqsTWx2XusFIlFInfOwLmoizF8MzUFXwxYCNsvHc7XjbY4jAj4MRCJl4//VCZlZTFPbA=
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 
 #EXTINF:-1 tvg-id="3NewsNowKMTVTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/KMTV3.png" group-title="News",KMTV 3News Now
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:XpbhghrbxhhelhUEd1Y2F0CrFPi/F56iOHZPowqxqsRQXolhVLFjfE0nLDiUDKssisQXPSyiHLPlBQjpPLc2wSiInKSdNczr8FZNtKHuQmI=
-
-#EXTINF:-1 tvg-logo="https://newschannel9.com/resources/defaults/wtvc/large16x9.jpg" group-title="News",WTVC ABC 9 Chattanooga
-https://content-aeuf1.uplynk.com/channel/97ac1cbc0efe43568511e0f60f3a0497/g.m3u8?ad=sinclair_web&&ad.sz=640x480&ad.iu=4756%2FWTVC%2FWeb%2Fwatch&ad.ciu_szs=300x250&ad.impl=s&ad.gdfp_req=1&ad.env=vp&ad.vpos=midroll&ad.output=xml_vast3&ad.unviewed_position_start=1&ad.url=https%3A%2F%2Fnewschannel9.com%2Fwatch&ad.description_url=https%3A%2F%2Fnewschannel9.com%2Fwatch&ad.cust_params=kw%3D%26slug%3D%26vtype%3DLive-broadcast%26w%3D640%26h%3D480%%26split%3DA&ad.adUnit=%2FWTVC%2FWeb%2Fwatch&ad.paln=AQzzBGQEq3Fq5gcjCguQG_YNC6gUrcpUCsxF7kDGaZ3bTP0MZuw_7q_GjjsxRUa_lxIfdhxGDnPcK_BHN4Y3KbHwmjbGEx5iS0eChhOsw2AY1F-SwcsU9GQlcEsUoDB1nfWsZ4F2AGo80urL7p1oY_f8y_XHHmrl3cv75QXRrLyOpFDXj-u21rDOdvhNnCvaiyfgRSzKPN1BlVmDvyFPdfri3Y9s6LABO0p7z_vMl87gM-zj0oBM7TxA035GcdH_iEC77UZUsLDFvsW1xoqdqd7bhMMmDlUQLSyQyV_cLObDiMuxm4S9oBgBFUwQCJSD-LovBBneVsXStFC_LAVZanAscUyddA2amOvZKTrupV9X39bFqycgD-WJHN6co61IeroFFGPa03-FxGDUL66Y-zjj0kyWaIyIIMTWCr88jhIknyHTrRHyCkGy8ecu4SbRAkfT4RoinbS7QhAiO7hjB8xKDqeFpB7YKj3XzMWl6iB44qgP5PawyNl0mzA3KShXQI6Rl0RPDzwdLOO60VkLW5k2Ti1jiQVlnOCzkfvinsLJlyeV75Tjtdme4CMgmKuyra6Nmg3sxqbDNlAeMC5Vlrl3sGNO2Lki_6b7P7JI0TZk9guXz2vTkstfMjKjJrtJPba6NUiE4_BOF2DS9DuAxcpXxWRxbUdy_5EbutZKc_F4Qjb5zRfDk5EFhxHC0PUAXA92M1yC9G-64H5yPMiNONUJuAOoO-wzxZQb6jvpdxXr0k-YwTtt22Hn45eyIUu-41-zNvEMVQx9scxmwKa4Gy4Supyav-UQ10DY9G_iACjfHXHiHV7dUY_Gaxo-HS15t2gqzNq59YSRpYHGjE3zOp3vd2Ga7ZKFH35zm7Ds8nyfyMl5wiRGZlL-7Jmp-mNNixjA-gshHovwtbAjFTmUlpCn8B3Jjt9UIn9IxRdo4qS5sxE0ZqVxrzDzV2m8pP8w0eifLxWodN2hgXzFVf1RVLwj2CsEXBbQM9YCGF9Fu0-nWH6ZvvBBX2a1L5hCwMbg8IM5qkpCiGTM3tX7YV9iVBMkEQukj91KkMXWe5aqf2Nfv-zfvAXtM04YymVz8h0DY1XZNfxyeBiss1M5nWJqxUKYNhMj502Cbv2rvm6H9xZ2TAgd7hL8IYAtobJXSK6t4f_oaKZgD9Ok4FmnCPO2rR2ODSzMicPhEScdNvjCylTGLRknlgJX1t7nEo8nWQ4A4QjR6L3WUHZLgl5Xug..&ad.ppid=12b7f32a-b9ab-4261-946e-2c610fd61d10&pbs=e71a2456689b45a1bbc5af90366b4340
-	
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/kstu_fox13.jpg" group-title="News",KSTU Fox Salt Lake City
-https://content-aeui1.uplynk.com/channel/2d50e228be374422b9f2c11dba67d58f/c.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.fox13now.com%2F&ad.cust_params=user_id%3D60e9637c-637b-4485-a630-cd2cae915a55%26givn%3Dundefined&pbs=bbd4e53910eb40599d8600c1f0c43918
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41duBUD0OHL.png" group-title="News",Atlanta Channel
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:XW30k+JlzfGQGyA3WtijondY6EUaLuuKWKGRzWL2vIwV2Un8LY12XduPBonaowLx7R0+Y/T3+SaJ2rx40GUwWw==
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 
-#EXTINF:-1 tvg-id="Newsy.us" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="News",Newsy
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2BMkfuV4aIeai+G6E/5td1ofg2fLf0rQGhFgwvoHBCyrxmfFp+d4lxGk0HY0FDFGvaj0FJmtvClF9sejEYvpFMR0sg1o/GCHBy4HVnTKtz8=
+#EXTINF:-1 tvg-id="Newsy.us" tvg-logo="https://mma.prnewswire.com/media/509100/The_EW_Scripps_Company_Newsy_Logo.jpg" group-title="News",Newsy
+https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
 
 #EXTINF:-1 tvg-id="LasVegas13ActionNews.us" tvg-logo="https://newsroom.poshmark.com/wp-content/uploads/2019/05/KTNV-Las-Vegas.jpg" group-title="News",Las Vegas 13 Action News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:XpbhghrbxhhelhUEd1Y2F0CrFPi/F56iOHZPowqxqsRHcMXQH1eFHN5QPNg4rPURYAYQwDV0bu3sJDzA5iz21uDx+b6LbGsyHRGW+g5Sq0M=
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
 
 #EXTINF:-1 tvg-id="NEWSNET.us" tvg-logo="https://newsnetnational.images.worldnow.com/images/24127333_G.png" group-title="News",News Net
 https://univtec.g-mana.live/media/f7a2e644-2023-4241-85a4-9da6eb98fb56/mainManifest.m3u8?player.ssid=4662bdac-4ab0-4e0f-9b9b-c2cb45593a30&player.w=1050&player.h=591&player.url=www.newsnetmedia.com
 
-#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://i.imgur.com/S7ZbPTz.png" group-title="News",Cheddar
+#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2020/06/Untitled-design-62.png" group-title="News",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8Etyyah27N4/hqdefault.jpg" group-title="News",WBRZ-TV Baton Rouge
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8Etyyah27N4/hqdefault.jpg" group-title="News",WBRZ-TV Baton Rouge (geo)
 https://d1wdgbxqfhyvfu.cloudfront.net/wbrz-live-1/smil:wbrz-live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Wccb-charlotte-cw-header-logo-395x41.png" group-title="News",WCCB News Charlotte
-https://dai.google.com/linear/hls/pa/event/pyU3fu_aTzSGVZrUvBodaQ/stream/62e33322-3815-4925-97df-979277b96218:GRQ/master.m3u8
+https://univ.g-mana.live/media/0a52c4d8-ee1b-4b0f-9f4c-9beeeea39980/mainManifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/newschannel9.png" group-title="News",News Channel 9 ABC
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/newschannel9.png" group-title="News",News Channel 9 ABC (geo)
 https://content-aeuf1.uplynk.com/channel/a4008fd8cf3e454a927406859636baae/d.m3u8?pbs=e1818dcd271141f699fe1a4220dccb9b
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/notv.png" group-title="News",NOTV HD New Orleans
@@ -233,20 +189,14 @@ https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/chunklist_w906172815.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/P19dGTIZZNM/sddefault.jpg" group-title="News",Fox Soul
 https://pubads.g.doubleclick.net/ssai/event/WlHnRMfUSu20Z8nX91Vx9w/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.q13fox.com/img/default-image.png" group-title="News",Q13 News Fox Seattle
-https://dcs-live-ue4.mp.lura.live/server/play/xjWzYdmubZxyhQ8A/rendition.m3u8?track=video-0&anvsid=m177635106-nf9bf5dd99a6172b67f819d305738686b&ts=1716907490&anvtrid=225ca1e8a4c63c39bd12c8d3e41ff594
-
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/kfyr5.jpg" group-title="News",NBC5 KFYR-TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:UILiCL7CvZVr6Lv4O7vCwyXYo0q6j8OmjzHvKyH/9eBiDFCRwHVkdtMye/8TKLO1N6uU6d52FP2/f9cYH+eEotW5jm5rcA8tffyRKPvHdbePfkIXwE/U76h39sPumaO2h+KwePClaBwLXgu/HGe5eliSrPpx1spQfSs8O+ngDUPd9vjm7GndfhEX3oLpJVtcel2SSFm05MZTKfSFJO/bx4P524jXixcBec8jwnfqsNBi+St952i33bjGkFCqSLvucmu/q4IEIIPnjJYHKC/iRBYyw8lnrn8SHSasFYT8mXS7vpTk5td29m6S4IZfVbhHGVgBKe9mXeXL8SZ3lkQ/FRkK8cP2R5UcuL1Wir/9D0Pc+IYOSpd82h3yHrkPPQYPZYCiSAS3f6D8Pmip99fxWi4q6xz8LcnwaE7OFR+V7r4=
+http://ad-playlistserver.aws.syncbak.com/playlist/898796/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjY5MTksImlzcyI6IldMUyIsIm1kNSI6IjUxNjkxOGMwODc3NDYzYzFhMWRmYzMwNGI2MWRkMDM3IiwibWlkIjoiODk4Nzk2In0.Vx7F9dBhtYzKs8GIhWg2CcEIRLjVA5548AT9KqIhM2w
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/ictnirving.jpg" group-title="General",ICTN Irving TX
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:owmsSHIYkc78PVmcHxHwUwwp0b4n1gBY6q2nbjEw+4K2ZOXYusUNa26R5Zoe76bax5yjJaF5lCski636iJ8afybBu3hPJ9P2Xr8vPxHI8EHO+Y/Yr9FmvHCizqEvdaTD
+https://stream.swagit.com/live-edge/irvingtx/smil:std-4x3-1-a/chunklist_w909101378_b512000.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/mesquite_texas.png" group-title="General",Mesquite Texas TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:EEAvZXOvo5unKxqF58gFr+1nlS2bFVfD42KLIkLVVMZQgNw3JNvzT1rJQ1I0sdQXIHzxjRHLH9kFuaeg+OuTIdUTw9gFZeBVu8wg8FvuL4Of5ApAM9pol2/zwssHXAVh
+https://edge-f.swagit.com/live/mesquitetx/smil:std-16x9-1-a/chunklist_b496000.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/seattle_channel.png" group-title="General",Seattle Channel
 https://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/lyftc6jx/720/chunklist.m3u8
@@ -255,68 +205,58 @@ https://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/lyftc6jx/720/chunklist.m3
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/flavorIds/1_kw331s2y,1_w35b4ehn,1_dlqc8owo,1_14laa33i/a.m3u8?uiConfId=48703633&playSessionId=08647f2f-54c9-5593-fc36-37ae802ad37d:e1d4da14-b0a4-4705-a9bb-e2283c13ade5&referrer=aHR0cHM6Ly90aGVmbG9yaWRhY2hhbm5lbC5vcmcv&clientTag=html5:v7.116
 
 #EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/High_res_logo_april-300.jpg" group-title="General",30A TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:TW8GO6sqPISGy2LvAXqUhu7imTm32ylmpilWyRIFFkY=
+https://30a-tv.com/my999.m3u8
 
 #EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/The-Beach-Show-259-Panama-City-Beach-Real-Estate4000-300x179.jpg" group-title="General",30A The Beach Show
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:TW8GO6sqPISGy2LvAXqUhvTBrv+qkXLgRJdnI6w4fmw=
+https://30a-tv.com/beachy.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/35acf46bccd9f553b11b66ef1fa709c1fbd3a480c1d9394d3880e69911bafa2e.png" group-title="General",Beach TV Panama City
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BEyKIJyrZGdnsEUwl5m07rDR6q8eGrXrStiV3gX4JjGBXLnU4qPRwUejJpSzg5nusZv/GspdFzbX555wD0/fJ5WjkFawM0SRzI1dprfHPcQ=
+https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61-HalxaWeL.png" group-title="General",Beach TV Myrtle and Grand Strand
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BEyKIJyrZGdnsEUwl5m07rDR6q8eGrXrStiV3gX4JjGBXLnU4qPRwUejJpSzg5nu7JUXWh5T0eKC9kQj8hrwmJWjkFawM0SRzI1dprfHPcQ=
+https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.charlottecountyfl.gov/_/images/charlotte-county-logo.png" group-title="News",CC-TV Charlotte County
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.kfqd.com/wp-content/uploads/2015/12/ktuu-feature.jpg" group-title="News",KTUU Channel
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:fmHAKLTknDBIc5BizHeMAZeja1W+Y18FAWrEE3ZB4PnzR/ulvwyTXVHNBAoBE2U/t7CsQzuInTVC7WXLI0nmrTdWUgdYRcmgqLiFT5XUV/8NImKPejHPc9tD5uKX+QsEHZwxS+u5TUR2f9lLvVoCflNmmnHXfHpdakzkyd7B/maP0oKzMjM0LKyVGTosTe/Zf278tlA2nYRKkOfvQ+YHXjkegSkUZebN9369+RipMaNEiMAnxOWBEDwlHNOL/ugHUD+bTgtZ+rA9vWqqnYwsD7pDbap/kP+1d/G+IkLIH6FHZnkrP0Q51y/wjPD2TFzlhhIgilY1SEGPo8fh/SiZ6E+OiIwDMSTO3H4EeBAGgmeVZBg6x285+0v0ZdwXJZb2zt+03yWzk0NvGLZqb3TshbQQgDML5x83jXSthUt3XBqTaaRY6ne707aD/RHxffXx
+https://ad-playlistserver.aws.syncbak.com/playlist/13736725/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNzM2NzI1LCJtZDUiOiI5NTZiM2RhZmViOTA4ZGUxZTdmMTc5NGFjYWQyYTQ5YiIsImlhdCI6MTUwMTYyMDcxOCwiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.kUK2HTxg4bOFF_kcJtYni32gp3J0mJpBLD_V4apmHBo
 
 #EXTINF:-1 tvg-logo="https://www.wacxtv.com/Portals/18/Skins/WACX/images/SuperChannel_logo.png" group-title="News",WACX SuperChannel 55
 https://632c1f303ef2e.streamlock.net/live/live/chunklist_w1328172334.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/GoodLife45.jpg" group-title="News",WTGL Good Life 45
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0GYiKwpuPdYErnAxeDwCVI3+jGN+no4li8INYXFKwjRneioe3hqoylp6ZhesqqbINNpMnKoVqpRsbZLoa8lDRCR9a57xogvCl98WLgxZlyY=
+http://fss29.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/1586266_640x640.jpg" group-title="News",WHBR CTN33 Pensacola
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:raVcAR0QYFH0Kzmai39oCMd8hALYmY0jvkRFHaMGcVxV7zDVZ+dMmrx6dYTWuo1cXH5evgw0awFHbIemgMQDIg==
+https://ctntv.getstreamhosting.com:1936/WHBR/WHBR/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/wfgc_palmbeach.png" group-title="General",WFGC CTN61 West Palm Beach
 https://ctntv.getstreamhosting.com:1936/WFGC/WFGC/chunklist_w150881091.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/wbpi49.jpg" group-title="News",WBPI 49
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:fGwtDb4yPLOSy4HDvXJuRRe/roVbBC/kAjqxepX0eDl8SxvqDVTpIUBSBn5UeJhythNO0vjnRmxXUxKf+ZXEUGcy5Qbiy7dKWD5UVCTmjdGDiuAvo63qFrCW0tpHwkrl
+https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1233458/chunklist_b2000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ktoo.org/wp-content/uploads/2021/01/KTOO_Default-social-preview_3.png" group-title="General",KTOO 360 TV
 https://live-linear.global.ssl.fastly.net/persis/2147483647_KTOO360TV.stream_247/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HuFEXXs.png" group-title="Government",The City of Miami
-https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/miamifl/G2076_003/chunklist.m3u8~
+https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/miamifl/G2076_003/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HuFEXXs.png" group-title="Government",Miami Beach
 https://edge-f.swagit.com/live/miamibeachfl/live-1-a/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://askcbi.org/wp-content/uploads/2012/02/TSTV.jpg" group-title="Education",Texas Student TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:FHntWAW9HNWTKVT8kLT3NjbRCcHyaOf9L8kfE2kUm8VuSwY6NUkJYnSuFXqFXN3bnvIU2WZ8aBlDnL2beHYcag==
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://kleinsites.com/cmil/wp-content/blogs.dir/53/files/sites/53/2021/11/tutv-logo.png" group-title="General",Temple University TV
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/templeuni1/stream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://eastoftheriverdcnews.com/wp-content/uploads/2019/11/dc-gov-vector-logo.png" group-title="Government",District Columbia Network
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6nN8CQhdBE2yJkN4NrP4mksnIkRip7CbGRE8xi8XzNwLlK5qi2muVkryMW+nJu5Y
+http://video.oct.dc.gov/out/u/DCN.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/nrb.png" group-title="Religious",NRB TV
-https://tgn2.bozztv.com/nrbtv/nrbtv-live/tracks-v1a1/mono.m3u8?nimblesessionid=51084459
+https://tgn2.bozztv.com/nrbtv/nrbtv-live/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/southeastern.png" group-title="General",Southeastern Channel
 https://selu-tv.cablecast.tv/live/stream-1/WIFI-1896k-720p/WIFI-1896k-720p.m3u8
@@ -327,7 +267,7 @@ https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/darcizzle-poster-300x225.jpg" group-title="Fishing and Hunting",Fishing Outdoor Channel TV
 https://30a-tv.com/darcizzle.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/Investment-Pitch-Media-300x187.jpg" group-title="Undefined",Investment Pitch News TV
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/Investment-Pitch-Media-300x187.jpg" group-title="#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",",Investment Pitch News TV
 https://www.30a-tv.com/InvPit.m3u8
 
 #EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2020/10/answers-roku-icon4-540.jpg" group-title="Undefined",Answers That Count
@@ -342,11 +282,8 @@ https://30a-tv.com/NothingScripted.m3u8
 #EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/sidewalks-poster-300x225.jpg" group-title="Undefined",Sidewalks on 30A TV
 https://30a-tv.com/sidewalks.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2020/05/Splash_HD_1280x720-300x169.png" group-title="Undefined",Georgia Hollywood Review TV
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2020/05/Splash_HD_1280x720-300x169.png" group-title="Entertainment",Georgia Hollywood Review TV
 https://30a-tv.com/feeds/720p/47.m3u8
-
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2022/08/NautiStyles-Splash-low-res.png" group-title="Undefined",Nautistyles Luxury Yachts
-https://ssai.castify.ai/media/cbe59a36-2334-4f34-bca0-6c7c2ae5989c/mainManifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2023/02/we-love-cars-tv.jpg" group-title="Undefined",We Love Cars
 https://30a-tv.com/feeds/720p/54.m3u8
@@ -357,7 +294,7 @@ https://30a-tv.com/feeds/720p/42.m3u8
 #EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2022/11/lionel-play-screen.jpg" group-title="Undefined",Lionel Nation TV
 https://30a-tv.com/ln.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2023/08/funny-videos_n-1024x576.png" group-title="Undefined",Ridiculous TV
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2023/08/funny-videos_n-1024x576.png" group-title="Entertainment",Ridiculous TV
 https://30a-tv.com/feeds/720p/63.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/New_amgtv_top2.png" group-title="General",AMG TV
@@ -371,9 +308,6 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.akaku.org/Channel55-147x150.png" group-title="Government",Akaku TV3 Hawaii
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/18/Mad_TV_GSN_spoof_1.png" group-title="Entertainment",Gameshow Channel
-https://gsn-gameshowchannnel-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/04/CINEVAULT-80.jpg" group-title="Movies",Cinevault 80s
 https://gsn-cinevault-80s-1-us.lg.wurl.tv/playlist.m3u8
@@ -415,91 +349,91 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/256x14
 https://rpn.bozztv.com/gusa/gusa-tvsrarecollectibles/tracks-v1a1/index-1716938902-now.m3u8
 
 #EXTINF:-1 tvg-id="TVSClassicMovies.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-classic-movies.png" group-title="Movies",TVS Classic Movies
-https://ifl01.tulix.tv/gusa-tvsclassicmovies/tracks-v1a1/index-1716936838-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSComedyNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-comedy.jpg" group-title="Movies",TVS Comedy
-https://ifl01.tulix.tv/gusa-tvscomedy/tracks-v1a1/index-1716938342-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-drive-in-movie.jpg" group-title="Movies",TVS Drive In Movie
-https://ifl01.tulix.tv/gusa-tvsdriveinmovie/tracks-v1a1/index-1716937994-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSHollywoodHistory.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-hollywood-history.jpg" group-title="Movies",TVS Hollywood History
-https://ifl01.tulix.tv/gusa-tvshollywoohistory/tracks-v1a1/index-1716938768-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSHorrorNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-horror.jpg" group-title="Movies",TVS Horror
 https://rpn.bozztv.com/gusa/gusa-tvshorror/tracks-v1a1/index-1716938240-now.m3u8
 
 #EXTINF:-1 tvg-id="TVSMainStreet.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-main-street.jpg" group-title="Movies",TVS Main Street
-https://ifl01.tulix.tv/gusa-tvsmainst/tracks-v1a1/index-1716985426-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSNostalgiaMovies.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-nostalgia-movies.jpg" group-title="Movies",TVS Nostalgia Movies
-https://ifl01.tulix.tv/gusa-tvsNostalgiaMovies/tracks-v1a1/index-1716937612-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSSciFiNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-sci-fi-network.jpg" group-title="Movies",TVS Sci Fi Network
 https://rpn.bozztv.com/gusa/gusa-tvssilodiscount/tracks-v1a1/index-1716939033-now.m3u8
 
 #EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-logo="https://www.watchyour.tv/channels/logo/.png" group-title="Movies",TVS Western Movie
-https://ifl01.tulix.tv/gusa-tvswesternmovies/tracks-v1a1/mono.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 
-#EXTINF:-1 tvg-id="STIRRComedy.us" tvg-logo="https://feedlix.net/tv/us/comedy_classics.jpg" group-title="Movies",Comedy
-https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+#EXTINF:-1 tvg-id="STIRRComedy.us" tvg-logo="http://www.watchyour.tv/channels/logo/tvs-nostalgia.jpg" group-title="Movies",TVS Nostalgia
+https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/02/The-Film-Detective-live-vipotv.png" group-title="Movies",The Film Detective
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.watchyour.tv/channels/logo/tvs-front-page-detective-.jpg" group-title="Movies",TVS Front Page Detective
+https://rpn.bozztv.com/gusa/gusa-tvsfrontpagedetective/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/02/comet-tv-live-vipotv.png" group-title="Movies",Comet TV
-https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.watchyour.tv/channels/logo/tvs-film-noir-network.jpg" group-title="Movies",TVS Film Noir
+https://rpn.bozztv.com/gusa/gusa-TVSFilmNoir/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/us-folk-tv.jpg" group-title="Movies",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSTallyHo.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-tally-ho.jpg" group-title="Entertainment",TVS Tally Ho
-https://ifl01.tulix.tv/gusa-tvstallyho/tracks-v1a1/index-1717002992-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSTodayHome.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-today-home-entertainment-network.jpg" group-title="Entertainment",TVS Today Home Entertainment
-https://rpn.bozztv.com/gusa/gusa-TVSTodayHomeEntertainment/tracks-v1a1/index-1717004145-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-TVSTodayHomeEntertainment/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSVarietyNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-variety-network.jpg" group-title="Entertainment",TVS Variety Network
-https://rpn.bozztv.com/gusa/gusa-tvsbazaar/tracks-v1a1/index-1717002640-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsbazaar/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSTelRaNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-television-network.jpg" group-title="Entertainment",TVS Tel Ra Network
-https://ifl01.tulix.tv/gusa-tvstn/tracks-v1a1/index-1717004293-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSSelectNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-select-network.jpg" group-title="Entertainment",TVS Select Network
-https://ifl01.tulix.tv/gusa-tvsselect/tracks-v1a1/index-1717004801-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsselect/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSOpysNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-opus-network.jpg" group-title="Entertainment",TVS Opus Network
-https://ifl01.tulix.tv/gusa-tvsmusic/tracks-v1a1/index-1717005273-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsmusic/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSSoftWindsNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-soft-winds-network.jpg" group-title="Entertainment",TVS Soft Winds Network
-https://rpn.bozztv.com/gusa/gusa-tvssoftwinds/tracks-v1a1/index-1717005491-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvssoftwinds/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSBuckboardNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-frontier.jpg" group-title="Entertainment",TVS Buckboard Network
-https://ifl01.tulix.tv/gusa-tvsfrontier/tracks-v1a1/index-1717005685-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsfrontier/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSVintageNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-vintage-network.jpg" group-title="Entertainment",TVS Vintage Network
-https://ifl01.tulix.tv/gusa-tvsvintage/tracks-v1a1/index-1717005847-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsvintage/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSHiTops.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-hi-tops.jpg" group-title="Entertainment",TVS Hi Tops
-https://ifl01.tulix.tv/gusa-hitops/tracks-v1a1/index-1717006049-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSLightNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-family-channel.jpg" group-title="Entertainment",TVS Light Network
-https://ifl01.tulix.tv/gusa-TVSFamilyChannel/tracks-v1a1/index-1717006256-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSQuizShowNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-game-show-network.jpg" group-title="Entertainment",TVS Quiz Show Network
-https://ifl01.tulix.tv/gusa-tvsgameshow/tracks-v1a1/index-1717006376-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSTalkNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-talk-network.jpg" group-title="Undefined",TVS Talk Network 
-https://ifl01.tulix.tv/gusa-TVStalk/tracks-v1a1/index-1717005075-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8
 
 #EXTINF:-1 tvg-id="TVSTavern.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-tavern-tv.jpg" group-title="Undefined",TVS Tavern
-https://ifl01.tulix.tv/gusa-tavern/tracks-v1a1/index-1716938467-now.m3u8
+https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSPortOCall.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-travel-network.jpg" group-title="Kitchen",TVS Port O Call
+https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2020/11/hunt-channel-vipo-tv.png" group-title="Fishing and Hunting",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TVSPortOCall.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-travel-network.jpg" group-title="Kitchen",TVS Port O Call
-https://ifl01.tulix.tv/gusa-tvstravel/tracks-v1a1/index-1717003118-now.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34929b38fd8794231ed1bb4f0f59a40c.jpg" group-title="Kitchen",Gusto TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/4542d9ab-6fc4-40da-bdf0-8ea8ad573c3c/1.m3u8
@@ -522,17 +456,11 @@ https://jmp2.uk/SamsungTVPlus/USBC44000226R.m3u8
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/27269280/49205/v/450/depositphotos_492058210-stock-illustration-initial-monogram-alphabet-fork-spoon.jpg" group-title="Kitchen",New K Food
 https://newidco-newkfood-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OURTV.us" tvg-logo="https://i.imgur.com/9uz9lyg.png" group-title="Religious",Our TV
-https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2019/05/buzzrtv.png" group-title="Entertainment",Buzzr TV
 https://buzzrota-ono.amagi.tv/playlist360p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="Travel",TV Travel
 https://jmp2.uk/PlutoTV/59c01b1953680139c6ae9d4d-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/thumbh_20220531_183818_270.jpg" group-title="Travel",Travel 4K
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/74f52dbe-1a22-4566-9bcf-176200f5e8a6/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tastemade-travel/300x300_redbox.jpg" group-title="Travel",Tastemade Travel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-lgus/playlist.m3u8
@@ -1229,8 +1157,7 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv_720p/playlist.m3u8
 https://server40.servistreaming.com:3477/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="https://bit.ly/31s29L6" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Music",Cadena Elite
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:EcmssVPdxJJnv3ryRQcFZMupYqIK44elZlvvC9SyX5nzzik0dlqGgLWNnvIoqeFohj2J3DgOJqJ/vEkVosF+FA==
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sol Música España" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Sol_Musica_Spain.jpg" group-title="Music",Sol Musica
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
@@ -1248,71 +1175,55 @@ https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/vintage_music.png" group-title="Music",Vintage Music TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:xP9hNHrOyavv1K28WCrCmVgpwr7l0iXeMmu06DtwNiHdZEsZYamRlNnD1NIjAxSqZ8zwABnRMwlyhAoXtzl3jIG7/QQKL9HEENzr9oKbEMKf5ApAM9pol2/zwssHXAVh
+https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Music",Retro Music
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:hrNyxp+g3ZKeDvU3rWHd36Cnb+j/QWF1Ln9sQwt/aJZ6YBqfvWkoUEZXWP4Wc59BebAUpMCwWnqkw++zoW/TtA==
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/retro_plus.png" group-title="Music",Retro Plus Classic
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/jukebox-tv.jpg",Jukebox Radio TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:QwkI001Y44noArjfNsfLBOECRLPFACRsQjBsSrHKB3XrsQg2YtV17yHIrTqHq9kuBpM19lnxANGqXtNEcz1sIEakNMZxRzXcl75OvRt8Wy8=
+https://5926fc9c7c5b2.streamlock.net/9108/9108/chunklist_w191251077.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/music_box.png",Music Box Gold
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cKEwoGK+ouuCza/TYpeiiv/1JTkiSRB8mks31Nsl+WvSSZWjbmwes0B8Uqzj9402u7ToIt8b4wiBVempL3ZqtQ==
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/1mushd.jpg",1 Music HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:LKiEUAvDQbeWZdXKzqtmGgrEeO7Qrmrc2fFdFcCpgGmf5ApAM9pol2/zwssHXAVh
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/tr/Power.png" group-title="Music",Power HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nKg0+8SE9CXjogOOlOKAMc/8hGviFzCQYxOBPfBzTR3TtAlilyl/Ix9lutNCknrliP0ZQGWYu8z8RfwvI6kPL7rKgre4eD6ZYhgMfQCJBw26fYTmgu3FlQj5ShBVEXHM
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://zuendel-branding.com/media/krone_hit_1_small.jpg" group-title="Music",Kronehit HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BHHK1DwMCUgNT9Q47UI88zc134cgsOiFvo+pKAJ7kc327hqvlEUso5LWkAVpovYxkusxTDIUkPa/sAVZxgudZ5/kCkAz2miXb/PCywdcBWE=
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One HD 1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:72AZ6G0AfR8x80MmY0TPAbLbBRrrUOdqrkqXa/CV1Sw=
+http://rtmp.one.by:2300
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One HD 2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:72AZ6G0AfR8x80MmY0TPARjcriETyCZpLhSlappbLqQ=
+http://rtmp.one.by:2200
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One HD 3
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:72AZ6G0AfR8x80MmY0TPASkqf/8DQm2VXO+vDok3khQ=
+http://rtmp.one.by:1300
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One HD 4
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:72AZ6G0AfR8x80MmY0TPAcdG+zMOO0WH4RekHIOPsB4=
+http://rtmp.one.by:1200
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="Music",Trace Latina
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Oa95SU0ASygs56MG88W6W+JMkC36R+2ml2STFKeAyL0h1FLOXbl0k5s1TMtTkHbm6QMK09seSfpyLaRsYWcAyGZ5URk/rZgktKMWX9/0om94Z1LM3+VLBfJPHmwgxrNxlaOQVrAzRJHMjV2mt8c9xA==
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="Music",Trace Urban
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BGfUYI6um7WSx5Uzrv6aHab10ianeHpavO5Vt9KTYaO7aDI2vgkACO5YymRqTAb6qKLHisEGJbJaYJlC41R87rp9hOaC7cWVCPlKEFURccw=
+https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/nrg91.png" group-title="Music",NRG 91 TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ot7bBxMLqYodXRj70dBeb+YF+wHRwvQFPidlmczEzQjMhP4srp1dhgdBp6FPP3tu
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/230-2305091_deejay-tv.png" group-title="Music",DeeJay TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:DmKuLidsE/M9EmPPG6U7N6FHYjym7UmShwJtlprPY8jCS6cVxv8duXSqr7yB0AfyeeVvsd4/cdAWZtChKJN32+EK4KzGEJIc/Uraslei0cv+PWdcMKaCr6xMJPKcw+Kjh8ClyAeW9MbkCuKw6OT6nJ/kCkAz2miXb/PCywdcBWE=
+https://streamcdng2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b2428000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/1/4fun-tv-logo-5EA29A36E0-seeklogo.com.png" group-title="Music",4Fun TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:sUBanA+XO4/aktM/TQhhdamoOPnmN4thSs9OCXw9DpdsS/J1krea/r/PMi1rmI5Zn+QKQDPaaJdv88LLB1wFYQ==
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/baraza.png" group-title="Music",Baraza HD TV
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
@@ -1321,8 +1232,7 @@ https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.infosat.de/sites/default/files/news/ockostar655440.jpg" group-title="Music",Ocko Star
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:x8NVMv6ngP+2aDb/X9KpXf74SHQL5H7nnN/2t8BFK7K37ti8LwyInU5ypkyAULbf4BlloZWLKHwg2p7pzY8WAA==
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f5/c3/1818/2/c175.png" group-title="Music",21 Radio TV Rock'n Pop
 https://live.creacast.com/radio21/smil:radio21.smil/chunklist_w758890797_b628000.m3u8
@@ -1385,16 +1295,13 @@ https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8136/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/V2Beat.tv.png" group-title="Music",V2Beat
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0XwRE4eK6rou4CUKD5yYBVC6toUbWBz+xZe3/7ArW9QGAUyIQ/nkyL2SkEbhFC1S7g5I39RdgmCrK95V8kQsCA==
+http://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/IbizaGlobal.png" group-title="Music",Ibiza Global TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:T1BRCSTycKucyNUdVFbibimw1BRZWSoE67fxAXCeON38iKxu3fl2snpSzqAv2hrGn+QKQDPaaJdv88LLB1wFYQ==
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonus.fm/img/sonus_logo.png" group-title="Music",Sonus FM TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ffOOY002ji4BWxc5AUXmaqJd5XImURPk/V7KVAzZzohmHKgpiBBxZUDJumsEFNauebAUpMCwWnqkw++zoW/TtA==
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
 
 #EXTINF:-1 tvg-name="DanceStar TV" tvg-logo="https://dancestar.tv/images/swirl_2.jpg" group-title="Music",DanceStar TV
 https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
