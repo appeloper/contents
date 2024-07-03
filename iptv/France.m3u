@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Arte" tvg-logo="https://feedlix.net/tv/fr/arte_fr.png" group-title="General",Arte HD (geo)
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="News",TV5 Monde Info (geo)
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5Monde.fr.png" group-title="News",TV5 Monde (geo)
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5Monde.fr.png" group-title="News",TV5 Monde Europe (geo)
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+
+#EXTINF:-1 tvg-id="BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/BFM_TV_logo.png" group-title="News",BFM TV (geo)
+https://bcovlive-a.akamaihd.net/f3c53617100e4fd7a0fbdf9e784a650e/eu-central-1/876450610001/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://logovtor.com/wp-content/uploads/2019/09/bfm-paris-logo-vector.png" group-title="News",BFM Paris
 https://tmp3-cdn-edge-live07.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=08n87mvktl5s6q60imog/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
 
