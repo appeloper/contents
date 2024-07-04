@@ -96,157 +96,98 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/nhk_japan.png" group-title="News",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 
-#EXTINF:-1 tvg-id="France 2" tvg-logo="https://feedlix.net/tv/fr/france2.png",France 2 (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:8hK4Z6nCs0v5HaZrMGjHvYPhSRoztSwCLTcUtApYD0zqAZoN0elk/Dn1Hglz+YsHhT5CTdhjbER7Ljzx273hxMEQnIkcBXUqFI8S2IZE9u7K7ES5+KCbxHaClQPeOgufapyFGknxPJ752Pixfiq9Zj8zP0L8aqN8RlehKclpQUdf4MeGg4yHuIezQgmVg9U7LDg0dD6CpP+yISzJn8miBbc2MPc7O5lOYj9+2np7MUssSW4Y3a9Fu5OAGMPlara+D3EfJ2g5f9hDDuJOPm95Ud1sutrjwjAlq9M7FWH9E5f/eaBMIiQoRZfPO2ChwnWk
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Paris_Premiere_color.png" group-title="General",Paris Premiere
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/parispremiere.m3u8
 
-#EXTINF:-1 tvg-id="France 3" tvg-logo="https://feedlix.net/tv/fr/france3.png",France 3 (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:8hK4Z6nCs0v5HaZrMGjHvYPhSRoztSwCLTcUtApYD0zqAZoN0elk/Dn1Hglz+YsHOO+0wnRhhRf1HR/72b6N4Az7k0pcFxEuNol9/x2zZwjK7ES5+KCbxHaClQPeOgufapyFGknxPJ752Pixfiq9ZjurhI/kaIP+92QS3CHrbTPasBtJpTU8Nfr/hc3N/a9N9ejVmuUIc85hPX2JKrhAywx7liKWtNl5UuiXh/RWnl27l4mdieR26Ji4e01CXBg2jMIvu3M/UWTUOyOBH5Dh+ApqHsuSgTBv0KNQ2L7bK6zdbSZp15K5DSsYtCS8kMTJ
+#EXTINF:-1 tvg-id="France 2" tvg-logo="https://feedlix.net/tv/fr/france2.png" group-title="General",France 2 (geo)
+https://simulcast-p.ftven.fr/ZXhwPTE3MjAxNDY2MTF+YWNsPSUyZip+aG1hYz1hY2JhMTdkNWI1OTk4ZGRiMDNkODZkNmJlODJhMGYyZTUxYThkOWMwNzJiNjlkZmJkMTBmMjYyYjA1MmMyM2Vk/simulcast/France_2/hls_fr2/France_2-avc1_1400000=10002.m3u8
 
-#EXTINF:-1 tvg-id="France 4" tvg-logo="https://feedlix.net/tv/fr/france4.png",France 4 (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:8hK4Z6nCs0v5HaZrMGjHvYPhSRoztSwCLTcUtApYD0zqAZoN0elk/Dn1Hglz+YsHi3MJVeRtpetixVt7xh9Gf9kmdlpauZgvkFumPLSadhTK7ES5+KCbxHaClQPeOgufapyFGknxPJ752Pixfiq9ZkyRPVwCov6+L8MjP/Yus2MzS/0zFyPLAKXjoo5tI8V8I27eS0zm5KrKAS4T5E+SqLNipVDNeODFUb0/7ifH8Igk2LDGdnnSrdJ2kQ+hKUh96y5ukF35SWtGTJu6duS3lt/AP8jH5BF01AgsZGp6z63+VAthrmn+iySf8kTOj1IG
+#EXTINF:-1 tvg-id="France 3" tvg-logo="https://feedlix.net/tv/fr/france3.png" group-title="General",France 3 (geo)
+https://simulcast-p.ftven.fr/ZXhwPTE3MjAxNDY2MTZ+YWNsPSUyZip+aG1hYz0wYzcxZmQzZTk3MTNkZDY0ZjFjNzk2NjkzMGM5NmQyYWZlOGE0NjJmNmM2ZDVjYTFjZDk4MTY4YTJiMTM4OGFj/simulcast/France_3/hls_fr3/France_3-avc1_1400000=10002.m3u8
 
-#EXTINF:-1 tvg-id="France 5" tvg-logo="https://feedlix.net/tv/fr/france5.png",France 5 (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:8hK4Z6nCs0v5HaZrMGjHvYPhSRoztSwCLTcUtApYD0zqAZoN0elk/Dn1Hglz+YsHrzOwYAQYkgpLuts3W74RDnyxdvVnTgFVFmV8hhC9Qw/K7ES5+KCbxHaClQPeOgufapyFGknxPJ752Pixfiq9ZihBr3k7knpnHmgjMtkkLUhlfUw9XmsswhnlmAkRQyQ4H+ntvlwdA8i1DAl3maQxBSvdHR6T3gssRa1hvzq7TijKcGea1QQuthkUpRSkf5ZcwuceCtmLMZsiZWgC9YSYYNUoacsgcTlPsM/ljWzJKQCEvNRDFGhcJjNQQ57SxmGZ
+#EXTINF:-1 tvg-id="France 4" tvg-logo="https://feedlix.net/tv/fr/france4.png" group-title="General",France 4 (geo)
+https://simulcast-p.ftven.fr/ZXhwPTE3MjAxNDY2MjB+YWNsPSUyZip+aG1hYz1lMzAzZWFkZGU3ODIxYzlmNzMyZjRlNDk1MzE0NjFiZmY4OTAwMDZlNWQ1MTc5Yjg1ODM5NjljMDlhZGIzYjg0/simulcast/France_4/hls_fr4/France_4-avc1_1400000=10002.m3u8
 
-#EXTINF:-1 tvg-id="France O" tvg-logo="https://feedlix.net/tv/fr/franceO.png",France O (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:8hK4Z6nCs0v5HaZrMGjHvYPhSRoztSwCLTcUtApYD0zqAZoN0elk/Dn1Hglz+YsHqrJNFXWXF8+WWXv/iRBHgLakj8OWzwmDqgcVjSvtz73K7ES5+KCbxHaClQPeOgufapyFGknxPJ752Pixfiq9Zh4nkTIuwkKEQ9tAjLXkmT61wDZjD4ha7fQHPUMeYlevEnDNm/xDhNBe+JkSFwThqxXvcM0WHtJgYOjX+UIWGl1MZRFtEQMKdrzWqFg8mVvkTS7U3lCXn/pz8LgSI1L8uLh3aYTkOFRJwbeLkQ7VmCJ7pcAa+DdESpkKVqqxj9yI
+#EXTINF:-1 tvg-id="France 5" tvg-logo="https://feedlix.net/tv/fr/france5.png" group-title="General",France 5 (geo)
+https://simulcast-p.ftven.fr/ZXhwPTE3MjAxNDY2MjR+YWNsPSUyZip+aG1hYz0wYjEzMzM0N2EyZDI2YzliNjFmYWMyMjE0ZmI5ZTVkMDg5MjJiNGFiY2UxMDczMjhkZDNiOWFlZTNkOTBkZGNj/simulcast/France_5/hls_fr5/France_5-avc1_1400000=10002.m3u8
 
-#EXTINF:-1 tvg-id="LCP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/LCP.png",LCP
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5NWdph6noAWb5XQlbrQM1g090SObJ/PHJzWPCN1Rm4FEkZC8eOAL9fWk/pJQ/nnJrb7puMgC65eyt8bDVas1uBJhUHssKKxILOlETNo9DZywLEjhTGMSWIY4frxeIw/A1CdjseV4dpRYvO1tSiH32A==
+#EXTINF:-1 tvg-id="Numero23.fr" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png" group-title="Documentary",RMC Story
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/rmc.png",RMC Découverte (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:AzkTydvfx+9yRj2/vOLa9n0Ly0Mbo7GG20vdD64gBp41c+j0+SiS+oG4LqJsFLoTRLQSST1nQTXjaZ5xXltJZRuI30VZY6mwvKlZ5mRcBaE+6B2te6dMPY8a0zbKui8ZSgpaVl+EJvWen2/jffvp5w==
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/rmc.png" group-title="Documentary",RMC Découverte
+https://nextmediahdslive-lh.akamaihd.net/i/DVMR_RMCDecouverte@300868/index_1000_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/canal-savoir-tv.jpg",Canal Savoir
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6e8YXkSe2RuCG1WFm4GZQgvgwjUE4PBmudUgSVg2ArHkLZ40h0H4aLOWIL3pXoiT
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/canal-savoir-tv.jpg" group-title="Documentary",Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/6ter_fr.png",6Ter (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ERxl5Ino6sT71XnzdqUjx/BQQQpKCMX9e7dIY6X+o/5CLwzT7rOsJUMmc5ctpySOn+QKQDPaaJdv88LLB1wFYQ==
+#EXTINF:-1 tvg-id="TF1" tvg-logo="https://feedlix.net/tv/fr/tf1.png" group-title="Entertainment",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 
-#EXTINF:-1 tvg-id="TF1" tvg-logo="https://feedlix.net/tv/fr/tf1.png",TF1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:8WnUERfVzzX55tobBUNZOUCP6dUx502Ro0hS/meCSFbXDC5WM1OPjSSI61Ym5saGxgkQZpClwx7YvZWiSjBczQ==
+#EXTINF:-1 tvg-id="TF1 Series Films" tvg-logo="https://feedlix.net/tv/fr/hd1_fr.png" group-title="Entertainment",TF1 Series Films
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
 
-#EXTINF:-1 tvg-id="TF1 Series Films" tvg-logo="https://feedlix.net/tv/fr/hd1_fr.png",TF1 Series Films
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:h1wHyBc68jv7x84EYegkRECP6dUx502Ro0hS/meCSFaB4ujFsH3xRNPHu4rEDZRMxgkQZpClwx7YvZWiSjBczQ==
+#EXTINF:-1 tvg-id="TMC" tvg-logo="https://feedlix.net/tv/fr/tmc.jpg" group-title="Entertainment",TMC
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
 
-#EXTINF:-1 tvg-id="TMC" tvg-logo="https://feedlix.net/tv/fr/tmc.jpg",TMC
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:FysekkWEiBDy5EvdzpXOxECP6dUx502Ro0hS/meCSFaWL904X7csi0L3LxLQEYQnxgkQZpClwx7YvZWiSjBczQ==
+#EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/07/Entete-BFM-Alsace.png" group-title="General",BFM Alsace
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1 tvg-id="M6" tvg-logo="https://feedlix.net/tv/fr/m6_fr.png",M6 (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ERxl5Ino6sT71XnzdqUjxx4k4DK3sMFAGpDi8s8XTZmKtCqWrqIRsNXAuaJeoGPi
+#EXTINF:-1 tvg-id="BFMNormandie.fr"tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/07/Entete-BFM-Alsace.png" group-title="General",,BFM Normandie
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dc/Alsace_20_logo_2017.png",Alsace 20
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:clq3vOcoKyObgUIONPuVOQzlYe2czQxIk7BJSCLjKp74YRVFQtgIegR2Rgcr+gIc1/KtWqYTS9cnnbn4uX3Cx+4OSN/UXYJgqyveVfJELAg=
+#EXTINF:-1 tvg-id="C8" tvg-logo="https://feedlix.net/tv/fr/c8_fr.png" group-title="General",C8 (geo)
+https://live-c.cf.dmcdn.net/sec2(rbnnKAQaFqnEfaLTwvxREAlDEj448v13L8mK-uYKdHi6XxWwg6jSn8o0MWEUH3STOC8NGj3yvz9CecLlm8PL2zp76vxh030vyH-Ssm95zjk)/p/dm/3/x5idx4k/d/live-3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xDLwsbY.png",La Chaine Normande
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1WvgtIqMd9uroQql9+KiJ6tCoxqrXU+Rput7MPd+AR7J28jhjl3AeZVERVfWcCJcrjTNKC73GzlbBHeWpTGRCIOK4C+jreoWsJbS2kfCSuU=
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/cstar_fr.png" group-title="General",CStar
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar.m3u8
 
-#EXTINF:-1 tvg-id="C8" tvg-logo="https://feedlix.net/tv/fr/c8_fr.png",C8
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5NWdph6noAWb5XQlbrQM1vV3D00NmwEYlOI9aJkwhRJKer+utjpaAMVNdZ+s9s7IZQqU1HLzsYdPQCoWqv0YhPDBcjej+59E9toYn7N5y2K+NtoevwWAKzFsibdf8enOoDQa3L38AVg50EOcdc2NLCFaa0W7wUpxqplPf7xX4oUVc5nrMWVzuAAqNiBJn4Iv
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_latele.jpg" group-title="Entertainment",La Télé
+http://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="W9" tvg-logo="https://fl24.net/wp-content/uploads/2019/07/W9-LOGO.jpg",W9
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:s0adnexuOgxByAMhhoc4uTu2FQWDFfMuoo62ytCTrupQGm9ggxrNIP8Z2IzEBm72vrifXJhAKzgqENQwpS0CCiCmVtXy8Fv4ZBoqg84B69w=
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/KTO_2012.jpg/revision/latest?cb=20150312180310" group-title="Religious",KTO
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_latele.jpg",La Télé
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0yYy4O3kfl07xknAaf3YNBIk7k4ILuXWOVL8LbhAw4Dz7vH39G4pMWb393pEzJsFLSeyoL8yqPI6iBovJm9SyLp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/NRJ_12_logo_2015.png/revision/latest?cb=20151007165342" group-title="Entertainment",NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/KTO_2012.jpg/revision/latest?cb=20150312180310",KTO
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:LMr/latZor/zmNVZqI080Ev8EWpIPD/KH6nChdaQOaNh+uy9psbiWRhM2jdFxEI0cpi9q6fcAESHdWBiTYoQ0X2tQMj4lUqFMgjO3FZgXPgzaG0zd9O9JGd9qRNxQO1S
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/Tele_Grenoble.png" group-title="General",Télé Grenoble
+	https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CoQGCUhoDC_G_cSwwJuX3-XtL_qowfsI6QIjRFFaOCwcNE11cAq9r69kMoWeBf5jqJ0E5Q1_4JdxQUQajQv5V30IZ2ydzqrWuGIjxWNvxy0PkU1tiY9_YuqapUa9WP9jxbk62ynFQdECK_6regiqJLZ98lT9PxPzsVp7FnvCSYLMExHWDXUKSakc6YQyk5pwfsj2flJX46xFxYh3KYOlPNvCk-qFEzCFKyYc938jY9FJPIhq0kSNqUqzTB-dOkWSu1PW2hvN1Ddzp3x7JRR89W_i1f07YwnN-4WFd0qavgG3Ys1WOto6ahdfQyBFnkomGn4C_IWuUTCEdZS9RSPY3_ezqsuO8OAwKeRKSaWsHjSrVwCji5a4_Kkxz2xqytKSLWJ3vq9QxOVXrY8Xz5Y5FKEnxQugvd85Ausy40fe3beRNiuPbR4W-ZxNcrQ7ul9VCbAyNG5rrEKToXaDVjDm6rNHLASnpgV9973oes6mjnIB9mkJs8aNe1icNZZ_RIO7bFXQ2W9E3wETva2n-28jMgBFcPKIGUneEmZnBz5HMJHYQx3knu-qs3-y9jP9kvjJFlHRwEaSG1tV8F0o11IhNhe9CiPQwzsH7NM1HZEgvGMgCY7LVUEZLFred7AUj2blba_rLsYTt0MJb4mSSOl8xIYTlXkBSlrxlE_fx1AApkMGL9BAlWdvQh91Xm7Zu7orVfVT91sw4usakaJnKXI2cfMu0GgH89EwuSf_lHYJRHkyb6pFAu4MIvuySlrle-n80v4YrcUvqJxxMPAEUiFqEfAGtpWifrPx1VVntNmSnT4hVjhZSprmz0igXuO3uOsntU9__vSYUZDnc1tWcY1x13c5hK6UWTjaHN8dN9iBxC2CUfrprQkEHAYgCDY59vb4yMC09YK7nAGN9o_JqllfK-APqhBzCc3N38UsCl6BevCZ2fHCGzSPRfmVm-SHygTbi_J0tHhqV2reT1Bl8egtcy0WJK4rOHP_CBAbkHm6e2C74KSkUdlyQDRsWDkCfbz0CedS4lBanBoMyqBatn_VXdF_638tIAEqCWV1LXdlc3QtMTDfBQ.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/GRAND_LILLE_TV.png/revision/latest?cb=20150312085939",Grand Lille TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:H8VeNaTzgGJ0oIwcSjo9HEwc0toloUCJaU840M6m14g539H4Nv100Y8eYunqbJcwKglHlncM0AZcjWZdiyLkrTLWgzaB/yU8KLZEyIi/44o=
+#EXTINF:-1 tvg-id="TVR" tvg-logo="https://i.imgur.com/d8k69pg.png" group-title="General",TV Rennes
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/chunklist_b1096000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/NRJ_12_logo_2015.png/revision/latest?cb=20151007165342",NRJ12 (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ERxl5Ino6sT71XnzdqUjxz0tF/fob8DFU6rf9eKJAiS36e2nfUxN2n45hEEvtmS+un2E5oLtxZUI+UoQVRFxzA==
+#EXTINF:-1 tvg-id="ILTV" tvg-logo="https://feedlix.net/tv/fr/IL.tv.fr.png" group-title="General",IL TV
+https://live.creacast.com/iltv/smil:iltv.smil/chunklist_w477030268_b628000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/Tele_Grenoble.png",Télé Grenoble
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5NWdph6noAWb5XQlbrQM1hUx2B0ozNka5SonRmf0Tr3xK1miCUmMSyqD3TYvyz00d90gTKYQip4u6hwUCNMUvZKVdv8q9tIggSqiCqZn5+MDB1firg3cYCq9IrrgwOBFTrjSaIxox86ONtCxUK+j17p9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Weologosep2016.png" group-title="General",Weo HD
+https://lives.digiteka.com/stream/c58028c2-a58b-4526-9ec8-389cad4a71e8/index-480p.m3u8
 
-#EXTINF:-1 tvg-id="TVR" tvg-logo="https://i.imgur.com/d8k69pg.png",TV Rennes
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:AccBzuU5UcJaXVUiitPmjBxrSZQbY8AeoDuIBXMXkVLpQQmVqAV4ALksN4X42iNwVTMvVo6NzvTdyezeqOuF2OIpCUYWijeVEuUa3vYoCgw=
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/ViaOccitanie.png" group-title="General",Vià Occitanie TV
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 
-#EXTINF:-1 tvg-id="ILTV" tvg-logo="https://feedlix.net/tv/fr/IL.tv.fr.png",IL TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:H8VeNaTzgGJ0oIwcSjo9HOpii2Ha9UnLF+GYagEkdqS8IUJs/4p8IwntyTpVVjblun2E5oLtxZUI+UoQVRFxzA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8CWBmcN.png" group-title="General",Notélé
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Weologosep2016.png",Weo HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5NWdph6noAWb5XQlbrQM1hUx2B0ozNka5SonRmf0Tr02q3F9befvP8N78MWJhrCmUfNa7CmrxTzd4gxKWdL8Xj9UKfSiQXgFOBrS0wEbNobVBzTa15nR7eixSF4kAAj/BCNCgxq81Ya1MKQk3K7Ewrp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/ViaVosges.fr.png" group-title="General",Vosges TV
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/ViaOccitanie.png",Vià Occitanie TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ze200/baQdA86lHkfoGXaWTw85LOrmCKT3bPUZiRcxcQTkS6ae2DjC50b752fMohDuQlBheBQhQq7SBt7Wy+U+vl1mjioy15DqzEsVdIEtP7rtK7knl7TneMXHug8p+3
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/8_mont_blanc_fr.png" group-title="General",8 Mont Blanc
+https://live-b.cf.dmcdn.net/sec2(Ue2PdtyVd4Gmc19NJXBkGEYH8vwDDaMI7JqWj3KTb0-iWXDRbWPLjQQ3g1vUo7V32w2nzs9Yjz6P0P4rrFF_SbW5J8onpAXiR9NHZFhL5_Y)/dm/3/x3wqv8b/s/live-0.m3u8#cell=lcfb
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Canal9_logo.gif",Canal 9 CH
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:sIBetZvTxTzUB36mFtKn4xIk7k4ILuXWOVL8LbhAw4DKjblFCJErjB1D6F0EPNlZLd8ut0xPpSyIVL0Fk6mcAA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cgTJ9wW.jpg" group-title="General",EMCI TV
+https://live-c.cf.dmcdn.net/sec2(WP900diZdRVSbfjCmsV2RJFd_AzV2xew7g47LL8XhUAe7swnf_HofoYzRPp5EsVzBjchW_0g_lU2BIntdwsKcjLPxCexnE29tgF1rtAsSm0)/dm/3/x8azdk1/s/live-3.m3u8#cell=lcfc
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/Logo_RTL2_Lux.png",RTL2 LU
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NHJSSnsKBp3g4uesikFBC9lBDXYvqqy6CeJGF6mA48aOMNPsAwdQSfkskMpRw3i/S4na/1PacCqGyienNGjJCQ==
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tebeo.bzh/wp-content/uploads/2023/05/groupe-logo.png" group-title="General",Tébéo et Tébé Sud
+https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index-720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/ViaVosges.fr.png",Vosges TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:l/dcSv0g9QPwUcmr0KDfaQ3TpuADOrv7URwioHCJyjIpJmzqvMOjZ6D91UVzPaeToBfTzuoaErKC1Xct5NECHyg5HiKc9lZdTbt7C9YSDj8=
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/Monaco_info.jpg" group-title="General",Monaco Info
+https://webtv.monacoinfo.com/live/prod/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/8_mont_blanc_fr.png",8 Mont Blanc
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5NWdph6noAWb5XQlbrQM1hqVJD+gVHqcTwglRY1apgcIzAgeO5un1ZD3dJr8NRAqDonbyOXPi/XV/j8hkrycZNXihDy8YcQ/XST19OODk02rBt8kyA9TW+QEpS42L+Sn/y/QgmZywVChPtEaftVLQrp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/Logo_RTL2_Lux.png" group-title="General",RTL2 LU
+https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cgTJ9wW.jpg",EMCI TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:QqhR+VcJdYgDJODrSGdzEOrkf9DOVldx1wf/c3ODNR5BsAvQNknRP9RHyXvutW/4PYpnADQhUL8l1AXgN1gXpYOK4C+jreoWsJbS2kfCSuU=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/Monaco_info.jpg/revision/latest?cb=20101210154718",Monaco Info
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NAMqN2IX08GK/c8BNkJN9GyNan52ocSKPSOm0ynzbQ3sGnZIsj4t+OiCWoOZmuJPlaOQVrAzRJHMjV2mt8c9xA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/mycomedy-tv_logo.jpg",My Comedy
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5NWdph6noAWb5XQlbrQM1hqVJD+gVHqcTwglRY1apgcCQ/WcEZVi/FxjRAOwT9/ohsk3F76hT8vn1huHKoYSI1SgOsydobOrV+29nA/BWRXCtpaZTNZ7BQLvVVarmNLFfA+JCZFTCPqN2RxnLe1dLLp9hOaC7cWVCPlKEFURccw=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8CWBmcN.png",Notélé
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mwwOYuJQpaNSFjag7tetn1iVlPXmBXD0gQaaX+GTsVoGzK9rHCOs1NMa7kH95CDma6c2RfT9zBGTmrWjwcTn9I71dQ3WS+C6jDfH4cde08a+fuZFbka+IWRX615l1yaC
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.nordbretagne.fr/photo/art/default/1736504-2352454.jpg",Tébéo
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:q7RdJtmtY4B4mIahogjUnaGDfxK4RtsX9T4zk6W4TmjtxMRKqAzC0ijBSMiu0pgPhBxlbgXKrpIn31zWUlwrCIyOjgG7hyFeLu1BFlDcJCPw5dilXoe2KLxeRZPSqaLigMmTQnJmUnUHREH/EYBPKw==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/tebesud.fr.jpg",Tébé Sud
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:q7RdJtmtY4B4mIahogjUnaGDfxK4RtsX9T4zk6W4TmjrRItPNfez92gD9GUN/7OahBxlbgXKrpIn31zWUlwrCD6Y7Nwz+qwVmc4W5baktM66/J7i6SAj+rZP7zsOw1Mze0qv24Xc+gLMBjti6vud7g==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tH7EZL4.jpg",A2i TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:owmsSHIYkc78PVmcHxHwU8Qzhuvz82veLCnZ+Xw1KGhgtiaSBb+lV/ZshoBHUK/en3ga3NMNMWe8ZlbdBz0glJWjkFawM0SRzI1dprfHPcQ=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/o1qKoje.jpg",Comedy Movies
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Srs/Bsg07ffwdRVBABbYwtTGOgSt+r+UE0Js9RC+5IxDEj+82MsdsIonfR+7zQozAdAUSznJjrN4IwZCha3X7JOeZXFpHii3XDMUF2+7jPY=
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Canal9_logo.gif" group-title="General",Canal 9 CH
+http://livehd.vedge.infomaniak.com/livecast/livehd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f92b5ba040eaa0007074d0a" tvg-logo="https://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png",Bet Classics
 https://feedlix.net/videos/promo.mp4
