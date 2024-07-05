@@ -204,6 +204,12 @@ https://tv3v.live-kd.com/live/tv3v/livestream/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hGEcXbk.png" group-title="General",Bip TV
 https://biptv.tv/live/biptvstream_orig/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/nancy-web.png" group-title="General",Nancy Web TV
+https://edge14.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/tv-vendee.jpg" group-title="General",TV Vendée
+https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923_medium/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/Monaco_info.jpg" group-title="General",Monaco Info
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 
@@ -219,6 +225,9 @@ https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LN24_-_Logo.png/480px-LN24_-_Logo.png" group-title="News",LN24 (BE)
 https://live-ln24.digiteka.com/1911668011/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlux.be/images/logo-TVLux-Naturellement-Proche-2017.png" group-title="General",TV Lux (BE)
+https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
+
 #EXTINF:-1 tvg-id="RTI1" tvg-logo="https://www.rti.info/images/white-logo.png" group-title="News",RTI Info (Côte d'Ivoire)
 https://vod.cf.dmcdn.net/sec2(mqPp_fmEO0hXJwNYZ_2YF7w7IItgDDtHCExdnLagsixBv0-cRBgOUqhZkFjL6cZua7akGOSZ5VBm25ok2jhq2N2oaLVKjxmmA3sySz2Z7Ph9bVp7demc5cBR19jA1-1H14nNOJf3UCrGlHYiZNsYkg)/video/026/397/546793620_mp4_h264_aac_hd_1.m3u8#cell=cf
 
@@ -231,89 +240,122 @@ https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LA3" tvg-logo="https://feedlix.net/tv/fr/rti-la3.png" group-title="Entertainment",La 3 (Côte d'Ivoire)
 https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5f8ed168f72fcd0007e56269" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png",Ciné Rétro
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/3ABN_Francais_Logo_2015.png" group-title="Religious",3ABN France
+https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
 
-#EXTINF:-1 tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png",TV Crime
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="Religious",A2i Religion
+https://stream.sen-gt.com/A2iReligion/myStream/chunklist_w672043691.m3u8
 
-#EXTINF:-1 tvg-id="5f8ed48146ba9e00078424b6"tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png",TV Cuisine
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/laArg26.png",Atelier des Chefs
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Z8a04fSqh0Ow2tPKArEE4KfjF7QZVrgMOHfShmrm/VtJawf5WRiCIsaJNV9MCZHEdkaT2HdD/f0/468hFdPL9WwkDy98rdDBPbQ+qrqWX78=
-
-#EXTINF:-1 tvg-id="Humanity" tvg-logo="https://i.imgur.com/DFjN26b.jpg",Humanity
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Z8a04fSqh0Ow2tPKArEE4I9p1oxTo5Oca5K6Gu3v+zNcBbJqoFUYRCMgB4hKvBQW4XaAqD9wOq//ZxkRD6/ihSR9a57xogvCl98WLgxZlyY=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PUacVoP.jpg",Unearth
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Z8a04fSqh0Ow2tPKArEE4NRO6c+KNiv1SEJWf3RvhYSXvJFOUuqlxTB0PS7qNcfpzKZCislxjhhwL5diw6KFEO4OSN/UXYJgqyveVfJELAg=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/nancy-web.png",Nancy Web TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:iVy0NjN4tyRnPh4OtWip6JGiu6bPrWYO/QO2F0iySq2O2wOKBXCJEeYR58pofUJeyRWVtUuKCjC3hrke2pzNCUGfsCLdnXvrKWm64mjaZUU=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Srxa6cR.png",Sofy TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:F+NcoKq7MMLYWyTnIak7uez+Aobq0PF3tfb1yd8ZjvsnR+t6RhfNwnI6oFd6kb5S
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/tvlux_fr.jpg",TV Lux
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:UYxzuJsF0UkMvOK0dfcFnKXISCu8UGaZdg5u5kTu5fIhJ6kFO+zuz1r7I3bdQr3ORArgxpDt2WVKIwQLbeHdopeqOD0SUFI8xPH5i1Lwr4wonMhgiwwK0twipdvV/t3O
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/3ABN_Francais_Logo_2015.png",3ABN France
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:exFCOWBZOodrNdlT4gxcBGGYLtiG6Yty7Q815g+tMvaiXy9vdfBYH35UBCy4+2nOo1KYUGbDg4YGHRadc1Na2Y1pCr6GccJAT47PaDhkcnY=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="FRANCE",A2i Religion
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:owmsSHIYkc78PVmcHxHwUz3fVQT+GRyrkm1ChvBJ7LaCWtx+SoUgOHJkWuYNPsSN488u+XjDqQ1oilFxlOGIL8G0mNOyJHjvW2x3okG60oc=
-
-#EXTINF:-1 tvg-id="Dieu TV" tvg-logo="https://i.imgur.com/CCvzqLJ.png",Dieu TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:337VnHoi6nI2rrDxwHpAwW55Y4UcBvdPDme58wS+Dqn9bYO3VYc3sZNNNgtc+sgsKWKONkV6l7eN5gTJJfd1sSwNGWhISy5PJOhPv+GFFew=
+#EXTINF:-1 tvg-id="Dieu TV" tvg-logo="https://i.imgur.com/CCvzqLJ.png" group-title="Religious",Dieu TV
+https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/KTO_2012.jpg/revision/latest?cb=20150312180310" group-title="Religious",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tzurFum.png",Holygod TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:JnRa+iz2suIcIFeKrZL1Jt4mQPDlBV25m2NQ3IO3Q/AVF8Jq7QBNjl5UGKyVQd/xmLlb+R1vMOQJCT7jjnrQ5bp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2021/10/CINE-NANAR-LOGO-FINAL-OFFICIEL.png" group-title="Movies",Zylo Ciné Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinenanar-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8tWhfap.png",Luxe TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Z8a04fSqh0Ow2tPKArEE4BMqOIYIjni/gQqvS1S6icIS4Vsen564ahs0VtGnasZU/nDBwnQXcy6e+9EjQOZnv5/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.zylo.net/lib_CQIHzphjEKuSMtLz/dlhbidyhg8jubdca.jpg" group-title="Movies",Zylo Emotion' L
+https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jP9tsgx.png",The Boat Show
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ShM4yTXR/3BJs7FmS3ibaJ0ptL2aFR4Uka7WhtzBLb4LDCjPWeuoKY58ugpxcJSb4XaAqD9wOq//ZxkRD6/ihSR9a57xogvCl98WLgxZlyY=
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/10/scream.png" group-title="Movies",Zylo ScreamIN
+https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TUDZvHw.jpg",Spotlight
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Srs/Bsg07ffwdRVBABbYwqYquXQmaoWp2sU95Pzb2cVcBbJqoFUYRCMgB4hKvBQW4XaAqD9wOq//ZxkRD6/ihSR9a57xogvCl98WLgxZlyY=
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/4mg1tZ.png" group-title="Movies",Carac1 TV
+https://edge17.vedge.infomaniak.com/livecast/rougetv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/3xvq5S.png" group-title="Entertainment",Carac2 TV
+https://edge14.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/gLKGxW.png" group-title="General",Carac3 TV
+https://edge15.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/0NjmEl.png" group-title="General",Carac4 TV
+https://edge12.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.agencecm.com/thumb/ar__x/f__png/h__430/q__90/w__800/src/fichier/rte/General/Pages-statiques/Le-meilleur-du-court-metrage-en-VOD-1.png" group-title="Movies",Bref Cinéma 100% Court Métrage
+https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/02/Entete-Univers-Cine.png" group-title="Movies",UniversCiné Le Meilleur du Cinéma
+https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/Rakuten-France-Top-Free.jpg" group-title="Movies",TV Films Français
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.fr" tvg-logo="https://babaktv.com/wp-content/uploads/2023/08/Rakuten-France-Action-Movies.jpg" group-title="Movies",TV Films Action
+https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/05/logo-rakuten-tv-drames.png" group-title="Movies",TV Films Drames
+https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/10/Entete-Rakuten-TV-Thrillers.png" group-title="Movies",TV Films Thriller
+https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/05/logo-rakuten-tv-romance.png" group-title="Movies",TV Romance
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/05/logo-rakuten-tv-top-films.png" group-title="Movies",TV Top Films
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f8ed168f72fcd0007e56269" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png" group-title="Movies",Ciné Rétro
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-title="Movies",TV Crime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/LOGOSEULROLLING100pctDOCS.png" group-title="Documentary",100% Docs
+https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/s/l/q/b71a77b5-phpdzuqls.png" group-title="Documentary",Echappées Belles
+https://rakutenaa-botravail-echappeesbelles-rakuten-ccn98.amagi.tv/playlist/rakutenAA-botravail-echappeesbelles-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://advanced-television.com/wp-content/uploads/2023/05/LoveWineChannel.png" group-title="Documentary",Love Wine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinefrance-lgfr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/5406f2_681e2a7c598b4f6b9eb322937b1a11c2~mv2.jpg" group-title="Documentary",Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgfr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63b579961bdba100071214cb" tvg-logo="https://images.pluto.tv/channels/63b579961bdba100071214cb/colorLogoPNG.png" group-title="Documentary",C'est pas sorcier
+https://jmp2.uk/PlutoTV/63b579961bdba100071214cb-alt.m3u8
+
+#EXTINF:-1 tvg-id="MuseumTVFrench.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/05/Entete-Bel-Air-TV.png" group-title="Arts",BelAiR TV
+https://rakutenaa-museumtv-fr-rakuten-nilyp.amagi.tv/playlist/rakutenAA-museumtv-fr-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gusto_TV_logo.jpg/800px-Gusto_TV_logo.jpg" group-title="Kitchen",TV Gusto
+https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f8ed48146ba9e00078424b6"tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" group-title="Kitchen",TV Cuisine
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tubefilter.com/wp-content/uploads/2020/07/weather-spy-1400x825.jpg" group-title="Weather",WeatherSpy
+https://jukin-weatherspy-4-fr.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.peopleareawesome.com/cdn/shop/files/PAA_logo_6553187a-3e3d-44f4-a53c-d007a2ad49d5_410x.png" group-title="Entertainment",People are Awesome International
+https://jukin-peopleareawesome-international-4-fr.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f8ecd336d64c9000754cdf1" tvg-logo="https://images.pluto.tv/channels/5f8ecd336d64c9000754cdf1/colorLogoPNG.png",The Pet Collective
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTe6I355ctVZ2hh7EEO200aNQai/44KOaVbbg/N7p1AqHUB7uOvv2BK7+ZNafuq9ddYvBQ+tEYNYQ7+8UF3V5llxAklTBd2Cri2RYu3a7MWvA4znJH+KPi3tzzR0dk3F1N/LjFjLSrlUAF7kwlgvvX7p0W0zdNkHGiVt21/tKE/EfFi6LzMjz3xxLB1WNtBg6HRJXVvAO6NywHTyvJLZ+pzustS8oyzwRdeKPr5FNrJBkJRKgfVz5kyA/gNj2W2turf0oKztVurBrTFxK/uQgi15gSo7gmJQSLGj8PZSUdzS2A3TUDmL7gKjL3LmVHZiGbFCZPWdO5pSbCTsgvl9D9aXMokqhB6uqxcZb5+mi9CsM9UH4+Ip8slzGJIm+G5VtBxGlZU3Orf157aMuvMB3I6LXiuP3SPiSExMdFRTjtOiOsOli7kMDUc2yLve56O0Q8RttBmX74KZ9kJjKm1WvZjabCB39aKbUyC2vKF6gWa9ddbZzTeD4ZboZGdcQcxI8XhJHBcuv421Zcyp9v2eWyph/xLvXjkX+T0pevQPX+Fd+2tTx3jb4SdRpbvtaGPFwFu2lR073eBi0UuGPjifr18d8Mwtogg0fcJH7jwUxEHRjINQWXRwJDlyr+gJ/f9sXR3PhS9580CmKOZ/brGn/jSv
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png",AKC TV HD (Dog TV)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJRcU++C9F2dC/g9Hdp8QKnbp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD
+https://install.akctvcontrol.com/speed/broadcast/138/file-3128k.m3u8
 
-#EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png",AKC TV HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJmz0N3Iu2SAoI7NUqdcy36K9vRSWOsNLs98tV7aOIetg=
+#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Puppies HD
+https://install.akctvcontrol.com/speed/broadcast/140/file-3128k.m3u8
 
-#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png",AKC Puppies HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJuiFUGDgDZpew62sAPtmsULp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Meet the Breeds HD
+https://install.akctvcontrol.com/speed/broadcast/139/file-3128k.m3u8
 
-#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png",AKC Meet the Breeds HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxujGe4PgenSLJ7vUmwjKn+sKX9xKxTlGpyczO2wj08N7p9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Irish Setter Club of ANS HD
+https://install.akctvcontrol.com/speed/broadcast/141/file-3128k.m3u8
+
+#EXTINF:-1 tvg-id="USBA3000044BJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000044BJ_20240415T233046SQUARE.png" group-title="Pets",Lucky Dog
+https://jmp2.uk/SamsungTVPlus/USBA3000044BJ.m3u8
+
+#EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Pets",Dogs 24/7
+https://jmp2.uk/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
+
+#EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
+https://jmp2.uk/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/be/696px-Gulli_logo_2017.png/revision/latest?cb=20180705143108",Gulli
 https://feedlix.net/videos/promo.mp4
@@ -386,6 +428,9 @@ https://feedlix.net/videos/promo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/msHBlDz.png",People are Awesome
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:Ln8SUvGY1zxVGTDJektJ1vrb6t8RZguIWnhIujF17SMCNwgGMm3u0ful5oS1NW6cI2Pf8xEmq9sS8/yJSNC5DcqqksrVbwHED1cADQ08sUA=
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.vogue.fr/photos/61782965304ba1ab3bb5e966/16:9/w_1280,c_limit/logo%20IG%20FINAL.jpg" group-title="Lifestyle",Vogue Europe
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883060
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_int.png" group-title="Lifestyle",World Fashion TV HD
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
