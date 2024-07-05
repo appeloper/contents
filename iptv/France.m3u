@@ -144,14 +144,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/csta
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_latele.jpg" group-title="Entertainment",La Télé
 http://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/KTO_2012.jpg/revision/latest?cb=20150312180310" group-title="Religious",KTO
-https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/NRJ_12_logo_2015.png/revision/latest?cb=20151007165342" group-title="Entertainment",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/Tele_Grenoble.png" group-title="General",Télé Grenoble
-	https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CoQGCUhoDC_G_cSwwJuX3-XtL_qowfsI6QIjRFFaOCwcNE11cAq9r69kMoWeBf5jqJ0E5Q1_4JdxQUQajQv5V30IZ2ydzqrWuGIjxWNvxy0PkU1tiY9_YuqapUa9WP9jxbk62ynFQdECK_6regiqJLZ98lT9PxPzsVp7FnvCSYLMExHWDXUKSakc6YQyk5pwfsj2flJX46xFxYh3KYOlPNvCk-qFEzCFKyYc938jY9FJPIhq0kSNqUqzTB-dOkWSu1PW2hvN1Ddzp3x7JRR89W_i1f07YwnN-4WFd0qavgG3Ys1WOto6ahdfQyBFnkomGn4C_IWuUTCEdZS9RSPY3_ezqsuO8OAwKeRKSaWsHjSrVwCji5a4_Kkxz2xqytKSLWJ3vq9QxOVXrY8Xz5Y5FKEnxQugvd85Ausy40fe3beRNiuPbR4W-ZxNcrQ7ul9VCbAyNG5rrEKToXaDVjDm6rNHLASnpgV9973oes6mjnIB9mkJs8aNe1icNZZ_RIO7bFXQ2W9E3wETva2n-28jMgBFcPKIGUneEmZnBz5HMJHYQx3knu-qs3-y9jP9kvjJFlHRwEaSG1tV8F0o11IhNhe9CiPQwzsH7NM1HZEgvGMgCY7LVUEZLFred7AUj2blba_rLsYTt0MJb4mSSOl8xIYTlXkBSlrxlE_fx1AApkMGL9BAlWdvQh91Xm7Zu7orVfVT91sw4usakaJnKXI2cfMu0GgH89EwuSf_lHYJRHkyb6pFAu4MIvuySlrle-n80v4YrcUvqJxxMPAEUiFqEfAGtpWifrPx1VVntNmSnT4hVjhZSprmz0igXuO3uOsntU9__vSYUZDnc1tWcY1x13c5hK6UWTjaHN8dN9iBxC2CUfrprQkEHAYgCDY59vb4yMC09YK7nAGN9o_JqllfK-APqhBzCc3N38UsCl6BevCZ2fHCGzSPRfmVm-SHygTbi_J0tHhqV2reT1Bl8egtcy0WJK4rOHP_CBAbkHm6e2C74KSkUdlyQDRsWDkCfbz0CedS4lBanBoMyqBatn_VXdF_638tIAEqCWV1LXdlc3QtMTDfBQ.m3u8
+https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CoQGCUhoDC_G_cSwwJuX3-XtL_qowfsI6QIjRFFaOCwcNE11cAq9r69kMoWeBf5jqJ0E5Q1_4JdxQUQajQv5V30IZ2ydzqrWuGIjxWNvxy0PkU1tiY9_YuqapUa9WP9jxbk62ynFQdECK_6regiqJLZ98lT9PxPzsVp7FnvCSYLMExHWDXUKSakc6YQyk5pwfsj2flJX46xFxYh3KYOlPNvCk-qFEzCFKyYc938jY9FJPIhq0kSNqUqzTB-dOkWSu1PW2hvN1Ddzp3x7JRR89W_i1f07YwnN-4WFd0qavgG3Ys1WOto6ahdfQyBFnkomGn4C_IWuUTCEdZS9RSPY3_ezqsuO8OAwKeRKSaWsHjSrVwCji5a4_Kkxz2xqytKSLWJ3vq9QxOVXrY8Xz5Y5FKEnxQugvd85Ausy40fe3beRNiuPbR4W-ZxNcrQ7ul9VCbAyNG5rrEKToXaDVjDm6rNHLASnpgV9973oes6mjnIB9mkJs8aNe1icNZZ_RIO7bFXQ2W9E3wETva2n-28jMgBFcPKIGUneEmZnBz5HMJHYQx3knu-qs3-y9jP9kvjJFlHRwEaSG1tV8F0o11IhNhe9CiPQwzsH7NM1HZEgvGMgCY7LVUEZLFred7AUj2blba_rLsYTt0MJb4mSSOl8xIYTlXkBSlrxlE_fx1AApkMGL9BAlWdvQh91Xm7Zu7orVfVT91sw4usakaJnKXI2cfMu0GgH89EwuSf_lHYJRHkyb6pFAu4MIvuySlrle-n80v4YrcUvqJxxMPAEUiFqEfAGtpWifrPx1VVntNmSnT4hVjhZSprmz0igXuO3uOsntU9__vSYUZDnc1tWcY1x13c5hK6UWTjaHN8dN9iBxC2CUfrprQkEHAYgCDY59vb4yMC09YK7nAGN9o_JqllfK-APqhBzCc3N38UsCl6BevCZ2fHCGzSPRfmVm-SHygTbi_J0tHhqV2reT1Bl8egtcy0WJK4rOHP_CBAbkHm6e2C74KSkUdlyQDRsWDkCfbz0CedS4lBanBoMyqBatn_VXdF_638tIAEqCWV1LXdlc3QtMTDfBQ.m3u8
 
 #EXTINF:-1 tvg-id="TVR" tvg-logo="https://i.imgur.com/d8k69pg.png" group-title="General",TV Rennes
 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/chunklist_b1096000.m3u8
@@ -180,146 +177,67 @@ https://live-c.cf.dmcdn.net/sec2(WP900diZdRVSbfjCmsV2RJFd_AzV2xew7g47LL8XhUAe7sw
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tebeo.bzh/wp-content/uploads/2023/05/groupe-logo.png" group-title="General",Tébéo et Tébé Sud
 https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index-720p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tl7.fr/images/interface/bannerLogo.png" group-title="General",TL7 Loire	https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CvwFLd_0sfmQlISsiXbSN3BxId7a71VS-wj5kLtQJUZQx-W5s3Hf2XR0rC7fm2EtWmifT8HHESGqdI1wcCUozZ2qUJFQItdSC_ut7j3iajMdRuFEbia6KvcYRNZ-SfeIsJLNRUPbAArRXfpCw_rjwQYVQoGV1XcHvkTjQ5Cr4u390vVNAL8UkUDsfzqRblb_ZXv79lem5eOW3mZBV542RLW7pa4lRBwdnW9NHsmz9kaGUns9JJp7FMDJIGsoOQGPRMtcDHLjACdEfY5TOVxt50lbrF4VRjQluL-aELox8yMtz-Dil0437tF8bi3lb0UUZEi8f3A1PXVLuSbOZfH98wtfrdKCYg-iQ3x6lvmRjUXCD-hGRDLnBgRmQAfQWuXAoCmfLcNx8BFQH-SynK7p5HnfDbY2tICGrhX_frkIkTAWSQG0jGeix2e7JtM82LTAANh8kIvf3yL-eouPoEj9AvPlxcpJcE2LcWmGFFxEP6CrW4Z_dd1Uz7qjM-1YVrecyXHZ0fhYEz2qxMq_x-dA9d6RY1ignUv3ekA6LnKcNNc1O9adGdEFBZmwRl1mdV37qG1bJ1ewGfbqBtK2xrPT6VnDk72IDCD17ZIu86ju48zvpcgWp0ULjaY13PVRA8whcKQQ_gh63PhztDwbvv6gvzjz8IXaJw-CHzOf2WauGH2G4etHe-f1XQlvUwklFJ7ERiIfto7IT2cGLQYPI5f-PQ3QT7xFfNMvjg7jk3wEgm_X7tamC1eGlJpjBpiEL6l1YMPwQ317AKSAPa1O6dDV_X3j9PMT0i4Ft01JfpgOECnXq7-73Z-Gb-1IFPwbWqhW7jR7oTOuZvTmGZiP5Wty6Sj1dpcOKFnlZSu5CdF22Ml6EzjhuXIwQuyopz4Wdp-1SgzbjkErDv8huZGozHydhIrMJNg58iSq7vjkWMdcDKde5Ccds9L7VRr0DKyv05CaKK5gOZ4IWrgxLQ3Ue5h6qjZnDI97CHHMxPdhKxIQkgRK6C-XnhSNkzEjNPDpKSEaDHsy7U22I71It1d5eyABKglldS13ZXN0LTEw3wU.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/lmtv-sarthe_logo.jpg" group-title="General",LM TV Sarthe
+https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CoUG26PBAU8e2Mqmi9VgfiWnymVkIh7acHu-nn0F4vP9RYnq52OqGSE0MvwR-ldt9bGBOiJ9YLwmevAhwIiixtrqRdTvLSBKM2KIrjwQVicVS8LxV-zv9wnzJhC-zqn7XRZPN_5aY4jD1ab9oOkO56qFXUJZFr-A8oer4hp3YtNjfKolTvzWjEDMc4WeYw2VGggI3Y4Bz_0U5oIDXtZtpHBYF0x0LK3czwvSWXAkkpz1SXJYzNfVFweYHOcVWM_gy7GLY0PcMDvJtExGv9ZfBPdrpbRWBUdvWzNjxzPDTouqgeBfRBbg1Sm6r5eqZRsK5kK4IJomIfkbmaa7gquAdXwkB5sMfGEybRYFaNS2hApRcyy59NvoaUVfPujv0oKSCSxqczYQ_VqtxNW8DCosPBGPTfFsViobR3cWLkyI__hEZacnznkTMIAMfLFHXu7A7E7sY43HXD_zxWLmgbszLZcBP_vtc8QcP92OUnK6SgtdUtNbZr7yMk-34ZQHQGk1GlXvtY8GwoWLjYCaJN9IL89pJvU42qD_ybCIhMy-w9sLBV2HZzBEU1zwKxVunxFcZdQkH-8t4-GCZi6J39k82qFz3A3dGVe-8bF5EvzGTxYuFZ3UBGlqaQprpzpfPlp85TVr0aikEPlVn5_8PsZYz_sStI3YHWg5deccbqvNGXst1eC0_Rbf4WfVAscOTnU6rpWZkwhpKjHIljEEzQ2onn-jlMAeljK3Lav4eLuCbl4hANIybHMbjiSoJhsDE_2q_PWgsrON3G1kuAFrs4psn8xKYYOoe4QyxMUKPzRquvVVh21Sl0z17boTIB0Ki4UVwN4LZx6QamcO4uxOAFUauVQuZ2g000Bgeyu_RNunaf1Gvbp0EtGaLlk6ROQ8cDMAgpROqcUsoyKTNQkKhQrjNf6ZoRxTHYTNebq6F55_2wvtjFGITuHYhakYYwyBuq7ZpsTR1klewrSuD8dBpf7juHpcbf1_wQO65GIe-hRj9UoOAtYcQAKxryXq6u8fdmZIvt_nd-4ba0MaDPBhOEz28XuDatOUcSABKglldS13ZXN0LTEw3wU.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV7Colmar.fr.png" group-title="General",TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/chunklist_w1089291400.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/alpe-dhuez-televison.jpg" group-title="General",Alpe D'Huez TV
+https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://viamirabelle.tv/wp-content/uploads/2020/07/viamoselletv_header03.png" group-title="General",Vià Moselle
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/Telenantes.fr.png" group-title="General",Télé Nantes
+https://live-b.cf.dmcdn.net/sec2(uaG1tGsfkuZGLdvJJgUghJ56Z1RFO22aW3v3-aBCMXwWqhPcQvjRCTSB9Qlm6VH2SwW-C5uTnqg1LMsH4HHc1zv9XBMalLMhh2emTFz0MIE)/dm/3/x5so98l/d/live-1.m3u8#cell=lcfb
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV7Bordeaux.fr.png" group-title="General",TV7 Sudouest
+https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index-480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/tv3v.jpg" group-title="General",TV3V
+https://tv3v.live-kd.com/live/tv3v/livestream/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hGEcXbk.png" group-title="General",Bip TV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/Monaco_info.jpg" group-title="General",Monaco Info
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/Logo_RTL2_Lux.png" group-title="General",RTL2 LU
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/Logo_RTL2_Lux.png" group-title="General",RTL2 (LU)
 https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Canal9_logo.gif" group-title="General",Canal 9 CH
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Canal9_logo.gif" group-title="General",Canal 9 (CH)
 http://livehd.vedge.infomaniak.com/livecast/livehd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5f92b5ba040eaa0007074d0a" tvg-logo="https://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png",Bet Classics
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTe6I355ctVZ2hh7EEO200aNQai/44KOaVbbg/N7p1AqHei7Nx2JgaaSQOomAHrTj0rYElvA2Gi/eY5hO5a7fgH9AklTBd2Cri2RYu3a7MWvA4znJH+KPi3tzzR0dk3F1N/LjFjLSrlUAF7kwlgvvX7p0W0zdNkHGiVt21/tKE/EfFi6LzMjz3xxLB1WNtBg6HRJXVvAO6NywHTyvJLZ+pzustS8oyzwRdeKPr5FNrJBkJRKgfVz5kyA/gNj2W2turf0oKztVurBrTFxK/uQgi15gSo7gmJQSLGj8PZSUdzS2A3TUDmL7gKjL3LmVHZiGbFCZPWdO5pSbCTsgvl9D9aXMokqhB6uqxcZb5+mi9CsM9UH4+Ip8slzGJIm+G5VtBxGlZU3Orf157aMuvMB3I6LXiuP3SPiSExMdFRTjtOiOsOli7kMDUc2yLve56O0Q8RttBmX74KZ9kJjKm1WvZjabCB39aKbUyC2vKF6gWa9ddbZzTeD4ZboZGdcQcxI8XhJHBcuv421Zcyp9v2eWyph/xLvXjkX+T0pevQPX+Fd+2tTx3jb4SdRpbvtaGPFwFu2lR073eBi0UuGPjifr18d8Mwtogg0fcJH7jwUxEHRjINQWXRwJDlyr+gJ/f9sXR3PhS9580CmKOZ/brGn/jSv
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.matele.be/layouts/defaut/ALL/files/matele-logo-couleur.png" group-title="General",Ma Télé (BE)
+https://live.matele.be/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/v9ljtGM.png",TV Show
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Srs/Bsg07ffwdRVBABbYwjcq5A5SybP/KcSCQ6e6qdTYXWg/H2PMmNtBY5RmQEiWlxae3rMghOcs5i2dLT+dh4OK4C+jreoWsJbS2kfCSuU=
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LN24_-_Logo.png/480px-LN24_-_Logo.png" group-title="News",LN24 (BE)
+https://live-ln24.digiteka.com/1911668011/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="5f8ed673cad35f0007651fd4" tvg-logo="https://images.pluto.tv/channels/5f8ed673cad35f0007651fd4/colorLogoPNG.png",Femmes de Loi
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTe6I355ctVZ2hh7EEO200aNQai/44KOaVbbg/N7p1AqHQZX2kpz9UWCxxXUNNZUZ6xPHPtt8VCdLXZvc58otCqaAklTBd2Cri2RYu3a7MWvA4znJH+KPi3tzzR0dk3F1N/LjFjLSrlUAF7kwlgvvX7p0W0zdNkHGiVt21/tKE/EfFi6LzMjz3xxLB1WNtBg6HRJXVvAO6NywHTyvJLZ+pzustS8oyzwRdeKPr5FNrJBkJRKgfVz5kyA/gNj2W2turf0oKztVurBrTFxK/uQgi15gSo7gmJQSLGj8PZSUdzS2A3TUDmL7gKjL3LmVHZiGbFCZPWdO5pSbCTsgvl9D9aXMokqhB6uqxcZb5+mi9CsM9UH4+Ip8slzGJIm+G5VtBxGlZU3Orf157aMuvMB3I6LXiuP3SPiSExMdFRTjtOiOsOli7kMDUc2yLve56O0Q8RttBmX74KZ9kJjKm1WvZjabCB39aKbUyC2vKF6gWa9ddbZzTeD4ZboZGdcQcxI8XhJHBcuv421Zcyp9v2eWyph/xLvXjkX+T0pevQPX+Fd+2tTx3jb4SdRpbvtaGPFwFu2lR073eBi0UuGPjifr18d8Mwtogg0fcJH7jwUxEHRjINQWXRwJDlyr+gJ/f9sXR3PhS9580CmKOZ/brGn/jSv
+#EXTINF:-1 tvg-id="RTI1" tvg-logo="https://www.rti.info/images/white-logo.png" group-title="News",RTI Info (Côte d'Ivoire)
+https://vod.cf.dmcdn.net/sec2(mqPp_fmEO0hXJwNYZ_2YF7w7IItgDDtHCExdnLagsixBv0-cRBgOUqhZkFjL6cZua7akGOSZ5VBm25ok2jhq2N2oaLVKjxmmA3sySz2Z7Ph9bVp7demc5cBR19jA1-1H14nNOJf3UCrGlHYiZNsYkg)/video/026/397/546793620_mp4_h264_aac_hd_1.m3u8#cell=cf
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dWNxCqp.png",Drama Movies
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Srs/Bsg07ffwdRVBABbYwjcq5A5SybP/KcSCQ6e6qdTYXWg/H2PMmNtBY5RmQEiWlxae3rMghOcs5i2dLT+dh4OK4C+jreoWsJbS2kfCSuU=
+#EXTINF:-1 tvg-id="RTI1" tvg-logo="https://i.imgur.com/HwZMzDZ.png" group-title="Entertainment",RTI 1 HD (Côte d'Ivoire)
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg",Action Movies
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Srs/Bsg07ffwdRVBABbYwlGCiYCPwTPVMcLltuzYdmBDEj+82MsdsIonfR+7zQozAdAUSznJjrN4IwZCha3X7JOeZXFpHii3XDMUF2+7jPY=
+#EXTINF:-1 tvg-id="RTI2" tvg-logo="https://i.imgur.com/qMYL669.png" group-title="Entertainment",RTI 2 (Côte d'Ivoire)
+https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ch/rouge_tv_ch.png",Rouge TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:eypaHKzmSI02VwjAge338fnou+AscUMTGV7sn4iKZYhE0Qu2o1xNhmCqn8PHj3ViLHAi1dx83Mm2KkSR4RK4LIOK4C+jreoWsJbS2kfCSuU=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/Telenantes.fr.png",Télé Nantes
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5NWdph6noAWb5XQlbrQM1s7gNIC+rAg374R0cn1i6DlxOuJ+ZPtJPlKc2W+v8FzrQLLMuX8x9kaiEUmkCVBcSQ9JFu+9i9KWXPOwadmtc5sgKZaVh/QCRsQ5K7lx8wbrbD9zmW8Ka51XpS6z3V8uMbp9hOaC7cWVCPlKEFURccw=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.matele.be/layouts/defaut/ALL/files/matele-logo-couleur.png",Ma Télé
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:DvBOHnG+nktlfbTv+210QLO60C6ULRvdpEqmHFcfv0ZR1d4nHt0FxacpF4bgaBXZbylXOCjZf5Skhu+6QI5r3XEQ2JkuTYhDU7Xi3KSuTXc=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/tv3v.jpg",TV3V
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vqbS8C51v/QrH1XQEsRs3CEVMPJWQhCzOKWVU9zRchBc/vNvszWY5VQcN1KrsiLAHqSuWMmen/dCuNUUlCiNCA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hGEcXbk.png",Bip TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:IPPUc1w5WMGYr1ZWgvGwLGGelyL+L7xIDnbTwBBYxEbm0tZtR0/EzHfbQ0AvZRA5un2E5oLtxZUI+UoQVRFxzA==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WpQ3N82.png",Stormcast Novelas TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:f932OkakdxA+YZa3X4Uj8RwDRpEo4Gzx9333mEz+e6tcO4lBAOs2B8ynLoYD8OaVzFnitqsmcfRQttgaNeFl83mwFKTAsFp6pMPvs6Fv07Q=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hboiinD.jpg",Family Movies
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Srs/Bsg07ffwdRVBABbYwreFM1EKtnTtn8pOHlyDp81gVln3CmHPQVbAEkNGA9UzgGCYT8Sc9B+8Q2tHQooPJZWjkFawM0SRzI1dprfHPcQ=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dwOoEmE.jpg",Movies Central
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Z8a04fSqh0Ow2tPKArEE4AmDrkP6Z72CSe3L/4kz4sAuqQud0Qo3W29JZ4kwOc1tjDlLR7Puk+lxPdfHylLIat2YLDvlHPi3oh9GcE/+EFE=
+#EXTINF:-1 tvg-id="LA3" tvg-logo="https://feedlix.net/tv/fr/rti-la3.png" group-title="Entertainment",La 3 (Côte d'Ivoire)
+https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f8ed168f72fcd0007e56269" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png",Ciné Rétro
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTe6I355ctVZ2hh7EEO200aNQai/44KOaVbbg/N7p1AqHaFB7L/vmJU5hXsTtNfdv3ZNnQ88oVq+XNCeGtkLHZzFAklTBd2Cri2RYu3a7MWvA4znJH+KPi3tzzR0dk3F1N/LjFjLSrlUAF7kwlgvvX7p0W0zdNkHGiVt21/tKE/EfFi6LzMjz3xxLB1WNtBg6HRJXVvAO6NywHTyvJLZ+pzustS8oyzwRdeKPr5FNrJBkJRKgfVz5kyA/gNj2W2turf0oKztVurBrTFxK/uQgi15gSo7gmJQSLGj8PZSUdzS2A3TUDmL7gKjL3LmVHZiGbFCZPWdO5pSbCTsgvl9D9aXMokqhB6uqxcZb5+mi9CsM9UH4+Ip8slzGJIm+G5VtBxGlZU3Orf157aMuvMB3I6LXiuP3SPiSExMdFRTjtOiOsOli7kMDUc2yLve56O0Q8RttBmX74KZ9kJjKm1WvZjabCB39aKbUyC2vKF6gWa9ddbZzTeD4ZboZGdcQcxI8XhJHBcuv421Zcyp9v2eWyph/xLvXjkX+T0pevQPX+Fd+2tTx3jb4SdRpbvtaGPFwFu2lR073eBi0UuGPjifr18d8Mwtogg0fcJH7jwUxEHRjINQWXRwJDlyr+gJ/f9sXR3PhS9580CmKOZ/brGn/jSv
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png",TV Crime
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTe6I355ctVZ2hh7EEO200aNQai/44KOaVbbg/N7p1AqHfBy3ckYgzUBrNWHqJwHJHTLX/L6xnm39kkofEjQLPqgAklTBd2Cri2RYu3a7MWvA4znJH+KPi3tzzR0dk3F1N/LjFjLSrlUAF7kwlgvvX7p0W0zdNkHGiVt21/tKE/EfFi6LzMjz3xxLB1WNtBg6HRJXVvAO6NywHTyvJLZ+pzustS8oyzwRdeKPr5FNrJBkJRKgfVz5kyA/gNj2W2turf0oKztVurBrTFxK/uQgi15gSo7gmJQSLGj8PZSUdzS2A3TUDmL7gKjL3LmVHZiGbFCZPWdO5pSbCTsgvl9D9aXMokqhB6uqxcZb5+mi9CsM9UH4+Ip8slzGJIm+G5VtBxGlZU3Orf157aMuvMB3I6LXiuP3SPiSExMdFRTjtOiOsOli7kMDUc2yLve56O0Q8RttBmX74KZ9kJjKm1WvZjabCB39aKbUyC2vKF6gWa9ddbZzTeD4ZboZGdcQcxI8XhJHBcuv421Zcyp9v2eWyph/xLvXjkX+T0pevQPX+Fd+2tTx3jb4SdRpbvtaGPFwFu2lR073eBi0UuGPjifr18d8Mwtogg0fcJH7jwUxEHRjINQWXRwJDlyr+gJ/f9sXR3PhS9580CmKOZ/brGn/jSv
-
-#EXTINF:-1 tvg-id="viaMirabelle" tvg-logo="https://i.imgur.com/YXUMEbi.png",Vià Mirabelle
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:AaRlii+RzYO9JoCotw+9OLoSbosnJ4RbRscvh0kBsK/rCCM8rHn8QcbqRMSlAQK7pMnMP4ZbCh5gVKE7xoRUsJOeZXFpHii3XDMUF2+7jPY=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.azur-tv.fr/wp-content/uploads/2020/03/logo-AZUR-TV-300x279.png",Azur TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5NWdph6noAWb5XQlbrQM1pGLUUoOOcDSOTbePvbNEwsEcFQIStPOD6eyaxJ+NmbWcdds2tAPs7i6HRn+0ErmcJsgFzW8UILgEVcwZN8NJD1v59hAU+OKAfDzaKczHXdhvOhofaVSAd93QneLnEREFbp9hOaC7cWVCPlKEFURccw=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV7Colmar.fr.png",TV7 Colmar
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Yho/vvRIMKggbqN2iEzO/zKwXT0N0ODRxkkCct3xkGBEMId5yEaFuh7Zir9a2E+U7h88KdXDbxo2K1iIUHo5CoOK4C+jreoWsJbS2kfCSuU=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/D5tv.fr.png",D5 TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5NWdph6noAWb5XQlbrQM1rDNLjmYCAlybkuHWYze+FQCQ/WcEZVi/FxjRAOwT9/ovE/Up3jfXWIYsJDc88weHUVSuwv6FPJUFq1WUwvJ4n06Ch0lPCzrnWtHLemB7VrqaOfeyB6FC5rU7ATB/NSzNLp9hOaC7cWVCPlKEFURccw=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/tfx.jpg",TFX
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NJecEVtpnvP7NqIh5gfd6ECP6dUx502Ro0hS/meCSFa8Y7AOhi33ceiMCup9E4TdxgkQZpClwx7YvZWiSjBczQ==
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/alpe-dhuez-televison.jpg",Alpe D'Huez TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:UvREtqtZhGRUPmJW+A2qPhIk7k4ILuXWOVL8LbhAw4CcnqBa+DN+/XVBMMqJQIlk+jCy8eNJyO0rvbA/uAijhJWjkFawM0SRzI1dprfHPcQ=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://viamirabelle.tv/wp-content/uploads/2020/07/viamoselletv_header03.png",Vià Moselle
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:AaRlii+RzYO9JoCotw+9OLoSbosnJ4RbRscvh0kBsK/rCCM8rHn8QcbqRMSlAQK7pMnMP4ZbCh5gVKE7xoRUsJOeZXFpHii3XDMUF2+7jPY=
-
-#EXTINF:-1 tvg-id="TV86" tvg-logo="https://www.tv78.com/wp-content/uploads/2019/04/cropped-tv78_logo.png",TV78
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:AccBzuU5UcJaXVUiitPmjN/x/aRBha/7kETQ5g3L1an/RHcfUoHEIX5YAJ9/BbIbw5WrYEju+wwnvY1nQTNBDYOK4C+jreoWsJbS2kfCSuU=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LN24_-_Logo.png/480px-LN24_-_Logo.png",LN24
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:eYYzuIKbCse42T8xQ7pd58S7sgdP3dE34rKiABpuJxwwfRF+H6ap0SM49vwz29qwYWbma5gCRifM5Ot7ZxF3/I0FHK69WnM/D6sPYN6c4yA=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/375475_66870a02c5e047c88b26b25cd07ed1fd~mv2.png",Lfm TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2ckAVwHD8/zVD/wpWb6V+BIk7k4ILuXWOVL8LbhAw4DG19KQm/xqK80xgi67SA3gldZoNVD7jS7AIpqPRf5stPqQHX1uU9++fZvpLaMzTS64YK9XjwKus5PIYmGoO07k
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.canalc.be/wp-content/uploads/logo@2x2-copie2.png",Canal C
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:DvBOHnG+nktlfbTv+210QLO60C6ULRvdpEqmHFcfv0YSZq8bsFzdwnC9LERBgsKJIQR91cJW8emMpElwDcgzetsDj+5wRPh9nrpWA0srl/HuDkjf1F2CYKsr3lXyRCwI
-
-#EXTINF:-1 tvg-id="RTI1" tvg-logo="https://i.imgur.com/HwZMzDZ.png",RTI 1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ReSOyo9j+gX1Hecay4R4oOgU0LMSn+HzZSqJKk+NdhentY1fuoolFEO6haennW77A0GCD/yY46Gd3P6bR+VmFrmaItOLEvd2scAC+mQkxmbjQBvdR+qPl/mDJmFIdEQv
-
-#EXTINF:-1 tvg-id="RTI2" tvg-logo="https://i.imgur.com/qMYL669.png",RTI 2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ReSOyo9j+gX1Hecay4R4oOgU0LMSn+HzZSqJKk+NdhcyqgAmuEiZkYSubAagS48YA9YpapYZksWuinH5EMnhBXgqJitmfIYKtg/5YrKfIEnjQBvdR+qPl/mDJmFIdEQv
-
-#EXTINF:-1 tvg-id="LA3" tvg-logo="https://feedlix.net/tv/fr/rti-la3.png",La 3
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ReSOyo9j+gX1Hecay4R4oOgU0LMSn+HzZSqJKk+NdhfpapngKwXl/1eEJog0sOv79rhz1pmWZqROIvk0Ie1SiL1LakMTwKurpj1jHobXVdvjQBvdR+qPl/mDJmFIdEQv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/tv5_style.png",TV5 Style HD (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:7LcmdQD+IR+hxeVaYp/9ZeFZBqoPadS1CY1JeyjZ/PO87Om1iDGapm7eX9pdHXP+zKxZ/oD5fG35qsz1SPkxtViHhrqZvYvKcQMX8hWS60iDiuAvo63qFrCW0tpHwkrl
-
-#EXTINF:-1 tvg-id="MDL" tvg-logo="https://feedlix.net/tv/fr/monde_loisir.png",Monde du Loisir
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:TCRbhBG4graCHFOJe4dKbl0AfRerTrRR9+QUaN+eqJFuoQRM2grwDtWV7XUFb2Hj9Qjjf2yHlmsbxsFyBSecxrp9hOaC7cWVCPlKEFURccw=
-
-#EXTINF:-1 tvg-id="Moods" tvg-logo="https://i.imgur.com/zSdsBGc.jpg",Moods
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Z8a04fSqh0Ow2tPKArEE4BVWM+JUtcjuU1Wct4bHq45gVln3CmHPQVbAEkNGA9UzgGCYT8Sc9B+8Q2tHQooPJZWjkFawM0SRzI1dprfHPcQ=
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="5f8ed48146ba9e00078424b6"tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png",TV Cuisine
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTe6I355ctVZ2hh7EEO200aNQai/44KOaVbbg/N7p1AqHdlJ2tcoyRuPR1/QLaePz+BqVvOR7leR6WecJuBlV3X6AklTBd2Cri2RYu3a7MWvA4znJH+KPi3tzzR0dk3F1N/LjFjLSrlUAF7kwlgvvX7p0W0zdNkHGiVt21/tKE/EfFi6LzMjz3xxLB1WNtBg6HRJXVvAO6NywHTyvJLZ+pzustS8oyzwRdeKPr5FNrJBkJRKgfVz5kyA/gNj2W2turf0oKztVurBrTFxK/uQgi15gSo7gmJQSLGj8PZSUdzS2A3TUDmL7gKjL3LmVHZiGbFCZPWdO5pSbCTsgvl9D9aXMokqhB6uqxcZb5+mi9CsM9UH4+Ip8slzGJIm+G5VtBxGlZU3Orf157aMuvMB3I6LXiuP3SPiSExMdFRTjtOiOsOli7kMDUc2yLve56O0Q8RttBmX74KZ9kJjKm1WvZjabCB39aKbUyC2vKF6gWa9ddbZzTeD4ZboZGdcQcxI8XhJHBcuv421Zcyp9v2eWyph/xLvXjkX+T0pevQPX+Fd+2tTx3jb4SdRpbvtaGPFwFu2lR073eBi0UuGPjifr18d8Mwtogg0fcJH7jwUxEHRjINQWXRwJDlyr+gJ/f9sXR3PhS9580CmKOZ/brGn/jSv
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/laArg26.png",Atelier des Chefs
 https://feedlix.net/videos/promo.mp4
@@ -357,9 +275,8 @@ https://feedlix.net/videos/promo.mp4
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:337VnHoi6nI2rrDxwHpAwW55Y4UcBvdPDme58wS+Dqn9bYO3VYc3sZNNNgtc+sgsKWKONkV6l7eN5gTJJfd1sSwNGWhISy5PJOhPv+GFFew=
 
-#EXTINF:-1 tvg-id="KTO" tvg-logo="https://i.imgur.com/LvbXFUy.jpg",KTO
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:gAPVjCI1+l+gi080SdpvoBiaNd4f2H+G3CfZW0GnqCvSOaExGBVD0nr3UE/q0Nw2eDLwTYG97kL+tk4P56wdK5WjkFawM0SRzI1dprfHPcQ=
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/KTO_2012.jpg/revision/latest?cb=20150312180310" group-title="Religious",KTO
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tzurFum.png",Holygod TV
 https://feedlix.net/videos/promo.mp4
