@@ -744,11 +744,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f0008
 #EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="https://mma.prnewswire.com/media/1905810/The_Pet_Collective_Logo.jpg" group-title="Pets",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD (Dog TV)
+#EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD
 https://install.akctvcontrol.com/speed/broadcast/138/file-3128k.m3u8
-
-#EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD (op.2)
-https://install.akctvcontrol.com/speed/broadcast/138/file-996k.m3u8
 
 #EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Puppies HD
 https://install.akctvcontrol.com/speed/broadcast/140/file-3128k.m3u8
@@ -758,6 +755,15 @@ https://install.akctvcontrol.com/speed/broadcast/139/file-3128k.m3u8
 
 #EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Irish Setter Club of ANS HD
 https://install.akctvcontrol.com/speed/broadcast/141/file-3128k.m3u8
+
+#EXTINF:-1 tvg-id="USBA3000044BJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000044BJ_20240415T233046SQUARE.png" group-title="Pets",Lucky Dog
+https://jmp2.uk/SamsungTVPlus/USBA3000044BJ.m3u8
+
+#EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Pets",Dogs 24/7
+https://jmp2.uk/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
+
+#EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
+https://jmp2.uk/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://feedlix.net/tv/es/clan_tv.png",Clan HD
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
