@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://feedlix.net/tv/fr/arte_fr.png" group-title="General",Arte HD (geo)
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 
+#EXTINF:-1 tvg-id="Arte" tvg-logo="https://feedlix.net/tv/fr/arte_fr.png" group-title="General",Arte HD (op.2)
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="News",TV5 Monde Info (geo)
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
@@ -243,6 +246,9 @@ https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/3ABN_Francais_Logo_2015.png" group-title="Religious",3ABN France
 https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
 
+#EXTINF:-1 tvg-id="SophiaTVFrancais.de" tvg-logo="" group-title="Religious",Sophia TV
+https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" group-title="Religious",A2i Religion
 https://stream.sen-gt.com/A2iReligion/myStream/chunklist_w672043691.m3u8
 
@@ -357,77 +363,113 @@ https://jmp2.uk/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
 #EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
 https://jmp2.uk/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/be/696px-Gulli_logo_2017.png/revision/latest?cb=20180705143108",Gulli
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:xVlzpjAxMBrWwQ9i9vjl4l6GIoSbMnqJWeRH9fIPqk39tV0CeRuyfXHSDvLsmaRKEkQ4u8dSMfScq4bvW/2uyXnc0/b7kMaNe2KYbzwivoY=
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/be/696px-Gulli_logo_2017.png/revision/latest?cb=20180705143108" group-title="Kids",Gulli
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 
-#EXTINF:-1 tvg-id="Supertoons" tvg-logo="https://i.imgur.com/kUmPbel.jpg",Supertoons TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:HThRbjB+w7E5YiBz/RNCwxBweQmMn7xO1XOqBO4qePY+ngnDoambf/d2qDdURLMsS3REIz+kRkHWuvPiqNRYiq9vRSWOsNLs98tV7aOIetg=
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/featuredImage.jpg" group-title="Kids",Baby Shark TV
+https://newidco-babysharktv-1-fr.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5f92b625c1ffbc0007e60c37" tvg-logo="https://images.pluto.tv/channels/5f92b625c1ffbc0007e60c37/colorLogoPNG.png",Kids Collection
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTe6I355ctVZ2hh7EEO200aNQai/44KOaVbbg/N7p1AqHemCqFyXTfGEPhVZ/y6OexMNac/Nka+tsr43ScViSABGAklTBd2Cri2RYu3a7MWvA4znJH+KPi3tzzR0dk3F1N/LjFjLSrlUAF7kwlgvvX7p0W0zdNkHGiVt21/tKE/EfFi6LzMjz3xxLB1WNtBg6HRJXVvAO6NywHTyvJLZ+pzustS8oyzwRdeKPr5FNrJBkJRKgfVz5kyA/gNj2W2turf0oKztVurBrTFxK/uQgi15gSo7gmJQSLGj8PZSUdzS2A3TUDmL7gKjL3LmVHZiGbFCZPWdO5pSbCTsgvl9D9aXMokqhB6uqxcZb5+mi9CsM9UH4+Ip8slzGJIm+G5VtBxGlZU3Orf157aMuvMB3I6LXiuP3SPiSExMdFRTjtOiOsOli7kMDUc2yLve56O0Q8RttBmX74KZ9kJjKm1WvZjabCB39aKbUyC2vKF6gWa9ddbZzTeD4ZboZGdcQcxI8XhJHBcuv421Zcyp9v2eWyph/xLvXjkX+T0pevQPX+Fd+2tTx3jb4SdRpbvtaGPFwFu2lR073eBi0UuGPjifr18d8Mwtogg0fcJH7jwUxEHRjINQWXRwJDlyr+gJ/f9sXR3PhS9580CmKOZ/brGn/jSv
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Kids",Rakuten Family
+https://rakuten-family-7-fr.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H7GtB0T.jpg",Amuse Animation
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Dkg/a8SC67GdIfcWWzFi6K/WKJ5M/tcmNriRMY+64LZDEj+82MsdsIonfR+7zQozAdAUSznJjrN4IwZCha3X7JOeZXFpHii3XDMUF2+7jPY=
+#EXTINF:-1 tvg-id="618e34ac4a270700077b1f32" tvg-logo="https://images.pluto.tv/channels/618e34ac4a270700077b1f32/colorLogoPNG.png" group-title="Kids",South Park
+https://jmp2.uk/PlutoTV/618e34ac4a270700077b1f32-alt.m3u8
+
+#EXTINF:-1 tvg-id="6380c94947c72b0007ee9a13" tvg-logo="https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/colorLogoPNG.png" group-title="Kids",One Piece
+https://jmp2.uk/PlutoTV/6380c94947c72b0007ee9a13-alt.m3u8
+
+#EXTINF:-1 tvg-id="5f8ecb9524419b0007365a1c" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png" group-title="Kids",Dora TV
+https://jmp2.uk/PlutoTV/5f8ecb9524419b0007365a1c-alt.m3u8
+
+#EXTINF:-1 tvg-id="5f92b625c1ffbc0007e60c37" tvg-logo="https://images.pluto.tv/channels/5f92b625c1ffbc0007e60c37/colorLogoPNG.png",Kids Classics
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a58dbf9cc82000868f0fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072639-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f64d55f0-5a5d-460e-9d8f-a12bb3309360
+
+#EXTINF:-1 tvg-id="62f3e8ad2a8e8000077b013d" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png" group-title="Kids",Detective Conan
+https://jmp2.uk/PlutoTV/62f3e8ad2a8e8000077b013d-alt.m3u8
+
+#EXTINF:-1 tvg-id="5f8ecb336537e8000764a17f" tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG.png" group-title="Kids",Pluto TV Junior
+https://jmp2.uk/PlutoTV/5f8ecb336537e8000764a17f-alt.m3u8
+
+#EXTINF:-1 tvg-id="611e6a9b4bb5790007a6f0f8" tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" group-title="Kids",Pluto TV Retro Toons
+https://jmp2.uk/PlutoTV/611e6a9b4bb5790007a6f0f8-alt.m3u8
+
+#EXTINF:-1 tvg-id="611e78c4954f250007ef7b84" tvg-logo="https://images.pluto.tv/channels/611e78c4954f250007ef7b84/colorLogoPNG.png" group-title="Kids",Sabrina, la série animée
+https://jmp2.uk/PlutoTV/611e78c4954f250007ef7b84-alt.m3u8
+
+#EXTINF:-1 tvg-id="60dc6937b450ad0007377e48" tvg-logo="https://images.pluto.tv/channels/60dc6937b450ad0007377e48/colorLogoPNG.png" group-title="Kids",Charlotte aux Fraises
+https://jmp2.uk/PlutoTV/60dc6937b450ad0007377e48-alt.m3u8
 
 #EXTINF:-1 tvg-id="Caillou" tvg-logo="https://i.imgur.com/4zJqmw6.png",Caillou
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:9XLKxVkNSvQr7Vg346u0k4omTrz6vw5y9BehDdpbP6LHM8R4CkH2mQ2AV0CAzFNYoi0BCkMTIojz11tBLJEbqg==
+https://dhx-caillou-2-fr.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5f8ed52a62fa750007733239" tvg-logo="https://images.pluto.tv/channels/5f8ed52a62fa750007733239/colorLogoPNG.png",Animé All Day
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTe6I355ctVZ2hh7EEO200aNQai/44KOaVbbg/N7p1AqHQpp+tbdGhEOPAVHRD45pzaIRwzQ0HB6qVPyrVlymCbUAklTBd2Cri2RYu3a7MWvA4znJH+KPi3tzzR0dk3F1N/LjFjLSrlUAF7kwlgvvX7p0W0zdNkHGiVt21/tKE/EfFi6LzMjz3xxLB1WNtBg6HRJXVvAO6NywHTyvJLZ+pzustS8oyzwRdeKPr5FNrJBkJRKgfVz5kyA/gNj2W2turf0oKztVurBrTFxK/uQgi15gSo7gmJQSLGj8PZSUdzS2A3TUDmL7gKjL3LmVHZiGbFCZPWdO5pSbCTsgvl9D9aXMokqhB6uqxcZb5+mi9CsM9UH4+Ip8slzGJIm+G5VtBxGlZU3Orf157aMuvMB3I6LXiuP3SPiSExMdFRTjtOiOsOli7kMDUc2yLve56O0Q8RttBmX74KZ9kJjKm1WvZjabCB39aKbUyC2vKF6gWa9ddbZzTeD4ZboZGdcQcxI8XhJHBcuv421Zcyp9v2eWyph/xLvXjkX+T0pevQPX+Fd+2tTx3jb4SdRpbvtaGPFwFu2lR073eBi0UuGPjifr18d8Mwtogg0fcJH7jwUxEHRjINQWXRwJDlyr+gJ/f9sXR3PhS9580CmKOZ/brGn/jSv
+#EXTINF:-1 tvg-id="5f8ed52a62fa750007733239" tvg-logo="https://images.pluto.tv/channels/5f8ed52a62fa750007733239/colorLogoPNG.png",Kids Animation
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc42-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1894d5d0-76ab-4321-9f74-30abda806f6e
 
-#EXTINF:-1 tvg-id="5f8eccd81062c300078a11df" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png",Gaming TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4YaPuZNyh4MV/RzIWNKgCGcy0FUrPnFIhQUlMKYpLTe6I355ctVZ2hh7EEO200aNQai/44KOaVbbg/N7p1AqHS963vUl3+NoRn/OdSOPEpGbdkDbWZ/nBCDB+4n72HxkAklTBd2Cri2RYu3a7MWvA4znJH+KPi3tzzR0dk3F1N/LjFjLSrlUAF7kwlgvvX7p0W0zdNkHGiVt21/tKE/EfFi6LzMjz3xxLB1WNtBg6HRJXVvAO6NywHTyvJLZ+pzustS8oyzwRdeKPr5FNrJBkJRKgfVz5kyA/gNj2W2turf0oKztVurBrTFxK/uQgi15gSo7gmJQSLGj8PZSUdzS2A3TUDmL7gKjL3LmVHZiGbFCZPWdO5pSbCTsgvl9D9aXMokqhB6uqxcZb5+mi9CsM9UH4+Ip8slzGJIm+G5VtBxGlZU3Orf157aMuvMB3I6LXiuP3SPiSExMdFRTjtOiOsOli7kMDUc2yLve56O0Q8RttBmX74KZ9kJjKm1WvZjabCB39aKbUyC2vKF6gWa9ddbZzTeD4ZboZGdcQcxI8XhJHBcuv421Zcyp9v2eWyph/xLvXjkX+T0pevQPX+Fd+2tTx3jb4SdRpbvtaGPFwFu2lR073eBi0UuGPjifr18d8Mwtogg0fcJH7jwUxEHRjINQWXRwJDlyr+gJ/f9sXR3PhS9580CmKOZ/brGn/jSv
+#EXTINF:-1 tvg-id="652557d93fd33c000802f995" tvg-logo="https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG.png" group-title="Kids",Super Kids
+https://jmp2.uk/PlutoTV/652557d93fd33c000802f995-alt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://block-out.fr/wp-content/uploads/2019/09/LEquipe-21.png",L'Equipe TV (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6C9odraqdGwh6hjYaeKPVaL0kAHDZ8bE0y5CGZd8uhulT7Fa467lNnQWqX1VBXMar29FJY6w0uz3y1Xto4h62A==
+#EXTINF:-1 tvg-id="60b4c17a81e29300071d3a39" tvg-logo="https://images.pluto.tv/channels/60b4c17a81e29300071d3a39/colorLogoPNG.png" group-title="Kids",Avatar
+https://jmp2.uk/PlutoTV/60b4c17a81e29300071d3a39-alt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/500px-Logo_RMC_Sport_2018.svg.png",RMC Sport (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:u6eiXmMIbGxjsfswt3Gm1v4AywtPuObUgzRAXmiekIPcofen4i4cXBAdQut2bi1kLkrkOC01zuBFqieVv/Q0Renny7kCWo5g7NLddKzi+UivhwhQaEZQiKOm9qAy8zvcrP0/O8uDXC09m3053XlAUA==
+#EXTINF:-1 tvg-id="5f8ecc1b37867f00071469e9" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png" group-title="Kids",Tortues Ninja TV
+https://jmp2.uk/PlutoTV/5f8ecc1b37867f00071469e9-alt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6L6hQnn.png",Sport en France
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Z8a04fSqh0Ow2tPKArEE4Ah/c8Ef96HWl38cv5yFuiKmFDwDwrSPn+AyV/cC28b3yAjswRx6QkXwY6i7gI+ooUI3N9IMc6Vm7NfLwQO9SOo=
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.pngaaa.com/279/426279-middle.png" group-title="Kids",Yu-Gi-Oh
+https://fastmedia-yu-gi-oh-4-fr.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cVCb02R.jpg",MotorSport TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Z8a04fSqh0Ow2tPKArEE4LmSXNbOzRbhjSB0Dhzq7vlDEj+82MsdsIonfR+7zQozAdAUSznJjrN4IwZCha3X7JOeZXFpHii3XDMUF2+7jPY=
+#EXTINF:-1 tvg-id="5f8eccd81062c300078a11df" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" group-title="Sports",Gaming TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/byD2nrE.png",My Surf TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Z8a04fSqh0Ow2tPKArEE4PH3rlJdDkGDgv+Br+nzGYPYXWg/H2PMmNtBY5RmQEiWlxae3rMghOcs5i2dLT+dh4OK4C+jreoWsJbS2kfCSuU=
+#EXTINF:-1 tvg-id="" tvg-logo="https://block-out.fr/wp-content/uploads/2019/09/LEquipe-21.png" group-title="Sports",L'Equipe TV (geo)
+https://live-b.cf.dmcdn.net/sec2(p2rQIFogIVhzddJbug9CGtdzC1GSwE6NnmlX5NFijUjsRYrzmeS-3V39vhjAHvM0VFO8OPhPdsOP61ZPCCgI-1tFO5GErKwtiPsJXsTo1HU)/dm/3/x6hczsw/d/live-3.m3u8#cell=lcfb
 
-#EXTINF:-1 tvg-id="Fuel TV" tvg-logo="https://i.imgur.com/XboGSjX.png",Fuel TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:H7ULqxZsrVr1/aijCVwxe32Zidp+B0nBIs30O7MhRP4S4Vsen564ahs0VtGnasZU/nDBwnQXcy6e+9EjQOZnv5/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/500px-Logo_RMC_Sport_2018.svg.png" group-title="Sports",RMC Sport (geo)
+https://rmcsporthdslive-lh.akamaihd.net/i/BFMSPORT_KB@182576/index_1000_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CKnSeT7.png",One Golf
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4SgZh/eJRSCoqzUzgt5F0YutFBOroOTe8PnlAVKeKzqR6TBmeeMp4hutzh5dLqTbhwoRZKmTnu3MJa8nx1dzPQ==
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6L6hQnn.png" group-title="Sports",Sport en France
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
 
-#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png",Real Madrid TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:+4W4BIL8UfBAU1THOZclq8t/if0erQfxQO+4I70pPwKMMrRqRJUvieaPDZYneOuw1Pjalg7VygONhtJgQsY27sR0sg1o/GCHBy4HVnTKtz8=
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" group-title="Sports",Motorvision TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/CBC_Olympics_400x400.png",Olympic Channel HD (geo, US)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KMNbJIMRhBDDp2kdF+mESPHvT5c9Y24VZS0TNkPizURRUbyhxajioYHtv8p3R7Hr01YoBjLcIwyZZuBO0Do96Q==
+#EXTINF:-1 tvg-id="65251c883fd33c000801a119" tvg-logo="https://images.pluto.tv/channels/65251c883fd33c000801a119/colorLogoPNG.png" group-title="Sports",Ultimate Classic Wrestling
+https://jmp2.uk/PlutoTV/65251c883fd33c000801a119-alt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/RedBullTv.png",Red Bull
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:T3iLbl6h73W0cf6XNmOxLcFyCeG+hRwYY1utx9l2GthxTwYdLUChNpj8AhDAmWAaPu3hZ6BgGhFk/Zfg0UMxGq4uC8xmhUmaNJ5Vn52SjrA=
+#EXTINF:-1 tvg-id="64d626ac9b414d000820e2fc" tvg-logo="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/colorLogoPNG.png" group-title="Sports",DAZN Combat
+https://jmp2.uk/PlutoTV/64d626ac9b414d000820e2fc-alt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/msHBlDz.png",People are Awesome
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ln8SUvGY1zxVGTDJektJ1vrb6t8RZguIWnhIujF17SMCNwgGMm3u0ful5oS1NW6cI2Pf8xEmq9sS8/yJSNC5DcqqksrVbwHED1cADQ08sUA=
+#EXTINF:-1 tvg-id="6081310e48d3200007afaf3b" tvg-logo="https://images.pluto.tv/channels/6081310e48d3200007afaf3b/colorLogoPNG.png" group-title="Sports",Pluto TV Sports
+https://jmp2.uk/PlutoTV/6081310e48d3200007afaf3b-alt.m3u8
+
+#EXTINF:-1 tvg-id="5f8ed327f9e9b0000761141e" tvg-logo="https://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG-1608309868765.png" group-title="Sports",Pluto TV Extrême
+https://jmp2.uk/PlutoTV/5f8ed327f9e9b0000761141e-alt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://unbeaten.com/assets/images/Unbeaten_Buffering.jpg" group-title="Sports",Unbeaten
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-lgfr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfchannel.png" group-title="Sports",Surf Channel
+https://bit.ly/3Hxwlb8?/playlist_1920x1080_4200k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fuel.png" group-title="Sports",Fuel TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeafr-lgfr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/f700e9a8-f1dc-4b40-8f3f-a387cfceb0d8-world-billiards-tv-1654685118.png" group-title="Sports",World Billiards TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=3694&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=ed47a41c-3ded-4b26-beb0-af573520c5fb&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=967
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2900001LI_20230926T032241SQUARE.png_20230926032242.png" group-title="Sports", World Poker Tour
+https://jmp2.uk/SamsungTVPlus/CHBD2900001LI.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tavilatam.com/wp-content/uploads/2022/04/TAVI_FIFAPlus.png" group-title="Sports",FIFA Plus
+https://fbbd2a5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzX0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=5061&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=06fd7c9b-945a-41bf-ae0a-8b8b330867a4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1459
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e6ca508c-b569-4bd5-b183-070f477b0076.png" group-title="Sports",DAZN Women's Football
+https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8?ads_amagi_channel=855&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=5029&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=2dce0380-7a76-4411-acdb-85da64d2790b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png" group-title="Sports",Real Madrid TV HD
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/RedBullTv.png" group-title="Sports",Red Bull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.vogue.fr/photos/61782965304ba1ab3bb5e966/16:9/w_1280,c_limit/logo%20IG%20FINAL.jpg" group-title="Lifestyle",Vogue Europe
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883060
