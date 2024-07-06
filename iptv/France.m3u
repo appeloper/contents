@@ -543,6 +543,9 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w2011542814_b189
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/chunklist_w888342636_b1896000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="Music",DBM TV
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FRBC900001LB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20230208T013112SQUARE.png_20230208013112.png" group-title="Music",Émotion
 https://jmp2.uk/SamsungTVPlus/FRBC900001LB.m3u8
 
@@ -797,6 +800,15 @@ https://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-midfi.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/Fun_Radio.png" group-title="Radio",Fun Radio (Radio)
 http://streaming.radio.funradio.fr/fun-1-44-128
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Fun%20Radio%20Anthology.png" group-title="Music",Fun Radio Anthology (Radio)
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/funanthologie/130/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Fun%20Radio%20Electro.png" group-title="Music",Fun Radio Electro (Radio)
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/fun/202/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Images/Fun%20Radio%20Latino.png" group-title="Music",Fun Radio Latino (Radio)
+https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/funlatino/130/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/10/Radio-Latina-France.jpg" group-title="Radio",Latina (Radio)
 https://start-latina.ice.infomaniak.ch/start-latina-high.aac
