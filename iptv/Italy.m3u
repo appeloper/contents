@@ -1,99 +1,91 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai1_hd.png",RAI 1 HD (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyy4ELZeeSPrWzVakjgA6/Y33vbfFQ/ncWp/bUXzoNZDyM=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai1_hd.png" group-title="News",RAI 1 HD (geo)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai1_hd.png",RAI 1 HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:wKmRaF5GEQcLPIGvDSMdZtoDV+VkniGyaUJ+pPCuTBg7ENedxOa9wTrJmkBNzedoH5YWxc6GSBCCJVM95fXPhQ==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai1_hd.png" group-title="News",RAI 1 HD (op.2)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai2.png",RAI 2 HD (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyJ1uIg1tmU1ipqEuBJK7PLJCyYhrLqMV7jFRVMGXONnY=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai2.png" group-title="News",RAI 2 HD (geo)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai2.png",RAI 2 HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:wKmRaF5GEQcLPIGvDSMdZtoDV+VkniGyaUJ+pPCuTBikwlJRWQQcdYyLqhSwIpQymfTXnOKQ4moaoNIEmh+7pw==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai2.png" group-title="News",RAI 2 HD (op.2)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai3.png",RAI 3 (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyJ1uIg1tmU1ipqEuBJK7PLFs6Hqw8m5fSezfRF/i06Ps=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai3.png" group-title="News",RAI 3 (geo)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai3.png",RAI 3 (Op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qzwX3qjbNcQymEvgR+XWSnnW44Ctx4yDoePDGypaYnXYR3zlnHN2ZNz+SqpbYWQXk55lcWkeKLdcMxQXb7uM9g==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai3.png" group-title="News",RAI 3 (Op.2)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/it/RaiNews.it.png",RAI News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:XakB8AI5W7cIs3apC4sq6eBg32XY/DepmW7CH9GCyI9XXCCeFTNvSCOGbZgWn2Y3vMuC5X3EoKSMgIZ3FNdVppbGpM9kNdF7aq7KAQ70786B0dbVcK4IaQE+eGqkz3ZSun2E5oLtxZUI+UoQVRFxzA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/it/RaiNews.it.png" group-title="News",RAI News (geo)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiNews24.png",RAI News 24 (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:PRdejN3kccqEYttBUPTviCV15jmT60TI9/mCwM1h0fW05QnyIAiSt1N9NVh0Zq89quaiVnReoxCmIL+HFne+7qaDrPKbe4gCpTUz5Do5P1U=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiNews24.png" group-title="News",RAI News 24 (op.2)
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiSudTirol.png",RAI Sudtirol
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qzwX3qjbNcQymEvgR+XWSnnW44Ctx4yDoePDGypaYnXYR3zlnHN2ZNz+SqpbYWQXk55lcWkeKLdcMxQXb7uM9g==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiSudTirol.png" group-title="News",RAI Sudtirol
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/SkyTg24_hd.png",TG 24 HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:afjBla5e+5BkE2GaQmFSK3lws6tqvqyCxReWVoHRTX8SmoHGZ7MDkCXV46cQNoGS1lTLQy+MnHCLqNJfq7nyJCR9a57xogvCl98WLgxZlyY=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/SkyTg24_hd.png" group-title="News",TG 24 HD (geo)
+https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/TgNorba24.png",TG Norba 24 
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dwXzYQlW2y6IAEWUw4gRUe4WyHg18xUdNOeCqlh/ou0WglW1YTPiMiwSb8a2RsY6N6Ius5b7Dbrm/WMhmmLxWy6AMKtimFjVZ7vh2pPmdWq6fYTmgu3FlQj5ShBVEXHM
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/TgNorba24.png" group-title="News",TG Norba 24 
+https://stream1.xdevel.com/video0s976570-1420/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (uncensored)
-https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/chunklist_b978000.m3u8
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png" group-title="News",RTVE 24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (4500kb)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JNzukjJQ6axbRZsTcEOQv1M7SFj6BtmqBwT/ilh85XlMQ==
+#EXTINF:-1 tvg-name="TVE Int. Europa" tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="News",TVE Int. Europa
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (2500kb)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JOmQYbeAI2wOF6zxjY9wuq87SFj6BtmqBwT/ilh85XlMQ==
+#EXTINF:-1 tvg-chno=730 tvg-id="euronews-live-it" tvg-name="Euronews DIRETTA" group-title="News",Euronews
+https://9466889d0a604b36b064c8f5808fd48c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_EuroNewsLive/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=it&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3424&ads.rtv_content_language=ita&ads.rtvid=271861&ads.streaming_id=63215e08-499b-4441-b2aa-ce0c561808c3&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=866
 
-#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png",RTVE 24H
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:PTUipkkhWbLV0upoPjlCkIzskJvi0F/2/kMuCe8ow4L+vjOUwyma0FmZsVI2n7e3VfgODH1G5Y+ud1b1UYONxg==
+#EXTINF:-1 tvg-id="DeutscheWelleEnglish.de" tvg-logo="https://feedlix.net/tv/de/dw_en.png" group-title="News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjw39e2lrovOxk37uyGcnN8LThNUI4PwUjk3MnFQHyrGHg==
+#EXTINF:-1 tvg-id="DeutscheWelleEspanol.de" tvg-logo="https://feedlix.net/tv/de/dw_es.png" group-title="News",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 (english)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjzX6DjlcYPzKYL6xVaLwPHLThNUI4PwUjk3MnFQHyrGHg==
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240319T022550SQUARE.png" group-title="News",BBC News
+https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/dw_tv.png",DW
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NhWRP5bsL7mCyEb5qRljuEv8EWpIPD/KH6nChdaQOaOxoRoYqz3BhWMhwbLe1m6Je/SSqTnELIXYNPBkhmn46zGew+Mk87Q205Mylz0bEPnUe9LG7rE+rk0Z57Tp6Wru
+#EXTINF:-1 tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240319T022317SQUARE.png" group-title="News",Sky News
+https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn.png",CGTN News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Bf8aSMZ87edMEd3nPhsVtYQa9rPucEFHY5Q/QpYM0mfy+ZqEno7wnuSroRJLaCMr
+#EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg" group-title="News",RT Español HD
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png",CGTN Documentary
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:yxHBfDzCqK/a8o2EedOl7n1YTJhAJ5a9s0X1bQi0MRTJmHTt+cbSHOSvrTE7DOCa
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg" group-title="News",RT News HD
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai4_hd.png",RAI 4 HD (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:PRdejN3kccqEYttBUPTviFV3wTmmUzRCJN3EDCCCcG6Zt8GrbLrNY76yFu8JocgbhVQnv+4E/yVYdWwPSi7sszOB95bfwFRGkaOx4TeAnNk=
+#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary" group-title="Documentary",RT Documentary HD
+http://rtmp.api.rt.com/hls/rtdru.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai5_hd.png",RAI 5 HD (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyrbz3Xvfbr86/z4S9q9Rj8aCAJ7JINXoVwOAkCOaCWGI=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn.png" group-title="News",CGTN News
+https://live.cgtn.com/500/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiMovie.png",RAI Movie HD (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyAyyJ1l4ud+aMGMJAR1TM/jGHRNycXuvMhqXFw3v/aLM=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary
+https://livedoc.cgtn.com/500d/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiPremium.png",RAI Premium HD (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyRZNoFUWtluJltRwrOWBkgMxZRbLWG3DoDsfcFzuWv+Q=
+#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png" group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/nhk_japan.png" group-title="News",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai4_hd.png" group-title="Entertainment",RAI 4 HD (geo)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rai5_hd.png" group-title="Entertainment",RAI 5 HD (geo)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiMovie.png" group-title="Entertainment",RAI Movie HD (geo)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiPremium.png" group-title="Entertainment",RAI Premium HD (geo)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Italia1_hd.png",Italia 1 HD
 https://feedlix.net/videos/promo.mp4
