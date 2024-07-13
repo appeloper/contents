@@ -87,133 +87,95 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiPremium.png" group-title="Entertainment",RAI Premium HD (geo)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Italia1_hd.png",Italia 1 HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6iGcErIgmd4FtYrozydETyIasvZkWvq9FPETuN4imocr2YEGoR+28R4IfMWdMTqUttDLbf1sXBP56hl5YKqR6d4x5MeWue95srjn/24MGu2TeaGRfyBUhCwn9kpdgy77jUNIW2PPYhA/QExBiT14lp/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Italia1_hd.png" group-title="Entertainment",Italia 1 HD (geo)
+https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.assistenzaonline10.it/wp-content/uploads/2012/07/Italia2-Mediaset-Logo-e1309700032466.jpg",Italia 2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6iGcErIgmd4FtYrozydETyIasvZkWvq9FPETuN4imocr2YEGoR+28R4IfMWdMTqUttDLbf1sXBP56hl5YKqR6d4x5MeWue95srjn/24MGu1u453y1q5EaxI1Qj0ndA9QjUNIW2PPYhA/QExBiT14lp/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-logo="https://www.assistenzaonline10.it/wp-content/uploads/2012/07/Italia2-Mediaset-Logo-e1309700032466.jpg",Italia 2 (geo)
+https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rete4_hd.png",Rete 4 HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6iGcErIgmd4FtYrozydETyIasvZkWvq9FPETuN4imocr2YEGoR+28R4IfMWdMTqUttDLbf1sXBP56hl5YKqR6d4x5MeWue95srjn/24MGu1bdjta2UzRPT7lZ79+KncvjUNIW2PPYhA/QExBiT14lp/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rete4_hd.png" group-title="Entertainment",Rete 4 HD (geo)
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Canale5_hd.png",Canale 5 HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6iGcErIgmd4FtYrozydETyIasvZkWvq9FPETuN4imocr2YEGoR+28R4IfMWdMTqUttDLbf1sXBP56hl5YKqR6d4x5MeWue95srjn/24MGu1RyDT2PSYu7G5k5mWt0UiTjUNIW2PPYhA/QExBiT14lp/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Canale5_hd.png" group-title="Entertainment",Canale 5 HD (geo)
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Canale20_hd.png",Canale 20 HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6iGcErIgmd4FtYrozydETyIasvZkWvq9FPETuN4imocr2YEGoR+28R4IfMWdMTqUttDLbf1sXBP56hl5YKqR6d4x5MeWue95srjn/24MGu1XZX2VOJ53m30D94gU19a2jUNIW2PPYhA/QExBiT14lp/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Canale20_hd.png" group-title="Entertainment",Canale 20 HD (geo)
+https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20181106/aer/kisspng-la5-logo-italy-la-cinq-television-5be27132c70ca1.9523043215415667708153.jpg",La 5
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6iGcErIgmd4FtYrozydETyIasvZkWvq9FPETuN4imocr2YEGoR+28R4IfMWdMTqUttDLbf1sXBP56hl5YKqR6d4x5MeWue95srjn/24MGu2VHUBi0KRJ66M8oRBP5m6yjUNIW2PPYhA/QExBiT14lp/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20181106/aer/kisspng-la5-logo-italy-la-cinq-television-5be27132c70ca1.9523043215415667708153.jpg" group-title="Entertainment",La 5 (geo)
+https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/La7_hd.png",La 7 HD (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ZWXIz4Id7vzVp4XIihPK3eijU/QCHBBHTgLkWf5pQp1VpudKhzh3kSGyr6E996+dhc7D4wHn5gpL83SfqIgu7Q==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/La7_hd.png" group-title="Entertainment",La 7 HD (geo)
+https://d15umi5iaezxgx.cloudfront.net/OUT/HLS/Live.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/7gold2.png",7 Gold
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:oP24wIT+CFENlQ1PpIuoS4wVq9lCvVdaORpJ71mLlmpM5h/qeml4GLedEtr9C/47S42oh4ZQOgY8jj7+LkdIQw==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/La7_hd.png" group-title="Entertainment",La 7 HD (op.2)
+http://tvit.leicaflorianrobert.dev/la7/la7/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2018/05/Paramount-Network.png",Paramount Channel (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KXGkwU34RB4hdMXucP/skg6b4+fDTmPqP/Mdq5p/zlvwIibo9FnNn/lGeRC7JIgh7BSoPmbs0oXjxo0afjwQ6NwdVC4QP2uL6ER8yjxFk4+vhwhQaEZQiKOm9qAy8zvcrP0/O8uDXC09m3053XlAUA==
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/254/logo?width=120&theme=dark" group-title="Entertainment",La 7d
+http://tvit.leicaflorianrobert.dev/la7/la7d/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Iris_hd.png",Iris HD (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:GXmD8pRUfxh//4/6DDwvTKD579/+w9WxRRN1Icc6QYPGDh7wGOeWcKvRZMXr2UseR/dgRF4hwkVvzexLzYlD40O2Me6RZkNODsvwVwnxPMPvcOPlm/wBStqivx16mmdQ3ZgsO+Uc+LeiH0ZwT/4QUQ==
+#EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2018/05/Paramount-Network.png" group-title="Entertainment",Paramount Channel (geo)
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/1200px-Cine34_logo.svg.png",Cine 34
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6iGcErIgmd4FtYrozydETyIasvZkWvq9FPETuN4imocr2YEGoR+28R4IfMWdMTqUttDLbf1sXBP56hl5YKqR6d4x5MeWue95srjn/24MGu359l9cP2pLJzFDVKOZrH9c
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Iris_hd.png" group-title="Entertainment",Iris HD (geo)
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tele-a.jpg",Tele A
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:WKMDwIfnaLFK0JdULspW6H3FblyWcu79tfx2r/TG1kahs7IXK4RrotGxvCyPupgd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png" group-title="Entertainment",Cielo (geo)
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png",Cielo (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:afjBla5e+5BkE2GaQmFSK3lws6tqvqyCxReWVoHRTX8SmoHGZ7MDkCXV46cQNoGSOVR/8bATxRFCJ7Bz2m3laK9vRSWOsNLs98tV7aOIetg=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xhoeVg7nRLPp8GnPkFzLUWvJ5WolvU-iYw&s" group-title="General",Tele Venezia
+https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/chunklist_w1084589865.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/spike.png",Spike (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KXGkwU34RB4hdMXucP/skg6b4+fDTmPqP/Mdq5p/zlvwIibo9FnNn/lGeRC7JIgheFSSIqLzwvBoJk2Bt7MIWR6krljJnp/3QrjVFJQojQg=
+#EXTINF:-1 tvg-logo="https://www.trgmedia.it/Immagini/diretta2015.png" group-title="General",TRG Umbria
+https://www.trgmedia.it/hls/livestreamHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RG4o4Ni.png",Tele Venezia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:OMtg6oi/vOalXCKLBcX38dvj4kfEmd/7cOE39vwh+RnK5T2GJFKER6JyeJizJX5n3fe/znbksHhXLx0Xvc2GTMkCHBfd3xQH4r2VH1A1GEg=
+#EXTINF:-1 tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png" group-title="General",Sardegna 1
+https://streamcdnb2-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/32xXpaS.png",TRG Umbria
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nx6dFjL9oE7pDnnuxWBjoY62qBxL84LZO2pkgeHcF6y/d/H6FxqNhTcNiQeGgRv/SBNcdmzvx26QfT+WMyPAzg==
+#EXTINF:-1 tvg-logo="https://www.primatv.tv/wp-content/uploads/2022/04/cropped-cropped-Logo-facebook.png" group-title="General",Prima TV Sicilia
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/chunklist_w1232874680.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png",Sardegna 1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qk2+yOjuf0Ey30XxD46lHy6WHeIEDQ0sr3eeFAQ+K9Tv3Av9Lh+dCgBR4sT8kfNVU5H9qz4LAdKITfNyQSY6ZSR9a57xogvCl98WLgxZlyY=
+#EXTINF:-1 tvg-logo="https://www.radiotsn.tv/sites/default/files/logo_1_1.png" group-title="General",TSN Tele Sondrio
+https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/rewind-3600.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ouSptk1.png",Prima TV Sicilia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4FYKYmiC2c8ixwVNoUCuju4WyHg18xUdNOeCqlh/ou0IbJrySo9QLPxwCVQE2eOP+NV1jcCi8dltwTOfTBgJGQ==
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-tele-arena.jpg" group-title="General",Tele Arena
+https://5f204aff97bee.streamlock.net/TeleArena/livestream/chunklist_w2146376232.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radiotsn.tv/sites/default/files/logo_1_1.png",TSN Tele Sondrio
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qk2+yOjuf0Ey30XxD46lHy6WHeIEDQ0sr3eeFAQ+K9Qth+1YT2g+IDPlRCGFO6V53ZgsO+Uc+LeiH0ZwT/4QUQ==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Videolina_-_secondo_logo.jpg" group-title="General",Videolina TV
+https://streamcdnb4-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-tele-arena.jpg",Tele Arena
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:bmjiIvtZ0ncVIhmdf+qDJNEki6munn6hG/LiDyO/VSDVoEkSiddQZrECyJvVWfwuWf9eY4b0vVTkqDkMZ7VkDUI3N9IMc6Vm7NfLwQO9SOo=
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/420da34a4240f2e5034e134dfb1bd001.jpg" group-title="General",Canale 7 TV
+https://59d7d6f47d7fc.streamlock.net/canale7/canale7/chunklist_w2075892000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Videolina_-_secondo_logo.jpg",Videolina TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:JdCPRka7bMRA+QcezVTmrgXCK4exLeby7X20W7jkaJetH3BOT4HRfcakmYMn13E4AsLx1amphnXm47niQCKGFJ/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-logo="https://massimoemanuelli.files.wordpress.com/2018/06/canale-10-ostia.jpg" group-title="General",Canale Dieci
+https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/chunklist_w1358362693.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/420da34a4240f2e5034e134dfb1bd001.jpg",Canale 7
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qk2+yOjuf0Ey30XxD46lHy6WHeIEDQ0sr3eeFAQ+K9SWtlr7VKouyDx8zudpzLePQjc30gxzpWbs18vBA71I6g==
+#EXTINF:-1 tvg-logo="http://www.canale21.it/images/logo.png" group-title="General",Canale 21 Campania
+https://streamcdnb1-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://comune.bagheria.pa.it/wp-content/uploads/2014/07/canale8-300x185.png",Canale Otto Palermo
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qk2+yOjuf0Ey30XxD46lHyvXTePyZTXl8IF2mvWUmre2nfn4BZgRWmFTag6+jiCzOrqSmYgzYEINS6H8+f8S1w==
+#EXTINF:-1 tvg-logo="http://www.canale21.it/images/logo.png" group-title="General",Canale 21 Lazio
+https://streamcdnb2-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://massimoemanuelli.files.wordpress.com/2018/06/canale-10-ostia.jpg",Canale 10
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:h446i0MctFc8anO+xuDZw1celD2ya31JTEkwOG7WjYD5C42CfZcMsA5DhlYL392Y9P3l0i4DuTSZrcgx4GPjYQ==
+#EXTINF:-1 tvg-logo="https://www.marchenotizie.it/wp-content/uploads/2013/08/tvrs-logo.jpg" group-title="General",TVRS
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canale21.it/images/logo.png",Canale 21 Napoli
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:j/tMvdu3P9+MKybf7YRdAsa1iuuoohhVU8qLcUrrBgedpI1lqiDxu4f1PDXKNwjAr29FJY6w0uz3y1Xto4h62A==
+#EXTINF:-1 tvg-logo="http://www.tvdream.net/immagini/altoadige-tv.jpg" group-title="General",Alto Adige TV
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.canale21.it/images/logo.png",Canale 21 Lazio
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:j/tMvdu3P9+MKybf7YRdAsa1iuuoohhVU8qLcUrrBgdwvSJLXgTSW2sDCocNskbDyqqSytVvAcQPVwANDTyxQA==
+#EXTINF:-1 tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="General",Trentino TV
+https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/01_logo/teleticino.jpg",Teleticino
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:wX4vGKmuHAe+b2VtfZfzlq5D7MF1Y5iIpeNJxXK3QnOB3sV9rKWcKJvSqlOxc+b00EYwajBD6rgAy9LRqKlahQ==
+#EXTINF:-1 tvg-logo="https://www.elivebrescia.tv/wp-content/uploads/2018/09/Logo-Footer_argento2.png" group-title="General",Elive Brescia TV
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.marchenotizie.it/wp-content/uploads/2013/08/tvrs-logo.jpg",TVRS
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qk2+yOjuf0Ey30XxD46lHyvXTePyZTXl8IF2mvWUmrd+YgrWMkLOiFBYDTGnOQRApenwvc0uX9Mp9EfcrbY7/A==
+#EXTINF:-1 tvg-logo="http://www.tvdream.net/immagini/video-brescia.jpg" group-title="General",Video Brescia
+http://wms.shared.streamshow.it/videobrescia/videobrescia/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvdream.net/immagini/altoadige-tv.jpg",Alto Adige
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:m9lPCIUI8fLXPKU3FoTWbcoIV6L/SS5kXr3VjquF7ICVcXvs/4C08+3x82qa8b6dlplR3nW5c0b13Ljfz2H2wpOeZXFpHii3XDMUF2+7jPY=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Focus_Logo.svg/1200px-Focus_Logo.svg.png" group-title="General",Focus TV (geo)
+https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.elivebrescia.tv/wp-content/uploads/2018/09/Logo-Footer_argento2.png",Elive Brescia TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:xQEQMdNBz4ODRf811CM6SdueAUM8OzOiqYT+Hg+dN2/bUMPdw95W1UI3AcWB300CEHanUxMgeWitTE6kRd0Y6/jVdY3AovHZbcEzn0wYCRk=
-
-#EXTINF:-1 tvg-logo="http://www.tvdream.net/immagini/video-brescia.jpg",Video Brescia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qk2+yOjuf0Ey30XxD46lHy6WHeIEDQ0sr3eeFAQ+K9RU+Gn31aj7QHsFxNdloWkICztRKQ2YINhjTbQyq7Fhmq9vRSWOsNLs98tV7aOIetg=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Focus_Logo.svg/1200px-Focus_Logo.svg.png",Focus TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6iGcErIgmd4FtYrozydETyIasvZkWvq9FPETuN4imocr2YEGoR+28R4IfMWdMTqUttDLbf1sXBP56hl5YKqR6d4x5MeWue95srjn/24MGu1aSj1USj0uNDaY+kiO6EgYjUNIW2PPYhA/QExBiT14lp/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/01_logo/teleticino.jpg" group-title="General",Teleticino (CH)
+https://vstream-cdn.ch/hls/teleticino_240p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N6OtbVs.png",Donna TV
 https://feedlix.net/videos/promo.mp4
