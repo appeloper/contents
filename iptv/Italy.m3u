@@ -366,95 +366,146 @@ https://ed06.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png" group-title="General",Cafe TV24
 https://srvx1.selftv.video/cafe/smil:live/chunklist_w1387919377_b500000_sleng_t64NTAwa2Jwcw==.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/5/5c/TeleColor.png/260px-TeleColor.png" group-title="General",Telecolor Lombardia
+https://streamcdnb3-1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/01_logo/telecolor_italy.jpg" group-title="General",Telecolore Salerno
+https://stream10.xdevel.com/video14s975955-1911/stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/01_logo/teleticino.jpg" group-title="General",Teleticino (CH)
 https://vstream-cdn.ch/hls/teleticino_240p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/5/5a/RTV_San_Marino_2013.png" group-title="General",RTV Sat (San Marino)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LQ_aBL5zIr4/TcpBEQEhiDI/AAAAAAAAB50/bxgOTccByRg/s1600/REAL+TIME_digitale+terrestre.jpg",RealTime (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:bNHYVhKfxqYyT6xBnZ35+0v8EWpIPD/KH6nChdaQOaMYxyYullA6J2Ok8XIHsmW8tAPBfs1mg171MQLoVhmxfA==
+#EXTINF:-1 tvg-id="cinema-italiano-pluto-tv" tvg-name="Cinema Italiano – Pluto TV" tvg-logo="https://i.imgur.com/drDX5DC.png" group-title="Movies",Cinema Italiano
+http://tvit.leicaflorianrobert.dev/plutotv/cinema-italiano-pluto-tv/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LQ_aBL5zIr4/TcpBEQEhiDI/AAAAAAAAB50/bxgOTccByRg/s1600/REAL+TIME_digitale+terrestre.jpg",RealTime (op. 2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:EewEsNeMX8tzVeAC/yBRlEv8EWpIPD/KH6nChdaQOaNrP0Qc/POZhCdM0X9qxfZNwLhyjXIi/6O2L3Th+dgl9w==
+#EXTINF:-1 tvg-id="film-azione-pluto-tv" tvg-name="Film Azione – Pluto TV" tvg-logo="https://i.imgur.com/ZmAuf3H.png" group-title="Movies",Film Azione
+http://tvit.leicaflorianrobert.dev/plutotv/film-azione-pluto-tv/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png",Dmax
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:EewEsNeMX8tzVeAC/yBRlEv8EWpIPD/KH6nChdaQOaMrkJgNb416OraH9hGICtSJfHUD+eTAAf1QzEDMiEWZMw==
+#EXTINF:-1 tvg-id="film-romantici-pluto-tv" tvg-name="Film Romantici – Pluto TV" tvg-logo="https://i.imgur.com/sHg0bZc.png" group-title="Movies",Film Romantici
+http://tvit.leicaflorianrobert.dev/plutotv/film-romantici-pluto-tv/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MDip78GJA0k/hqdefault.jpg",Tele Ambiente
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:AA4c7jN5pr/V8Cf/ClvVUjluWg2n+9shYSU/JgVQpiQKJW4TFLobh0LQ9NWRLjiNv57TAuYD2O72ocvRT/MGqm52m5P2bGbRWzqcsfN6o68=
+#EXTINF:-1 tvg-id="film-commedia-pluto-tv" tvg-name="Film Commedia – Pluto TV" tvg-logo="https://i.imgur.com/cSKaVHW.png" group-title="Movies",Film Commedia
+http://tvit.leicaflorianrobert.dev/plutotv/film-commedia-pluto-tv/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",Food TV (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:EewEsNeMX8tzVeAC/yBRlEv8EWpIPD/KH6nChdaQOaNqxSgzz0h+NIRwox7nbGqD1HWu81xfQiN1kcyeJC1IsVhiW/YHSIQEGRaw9k0EFxf4No31/hSURxb1P7ZjW+YiFpOVAGR3FQ3oDz5kLspDn84M93CJxyBel0U87twykwcEZ0OOltm8qxs4IFM5E4AiTwqjjqihMm+3orJd2kducx1zSvxEu/ymn6y8a9GOCKBC84uk5O5wAh0Ki/Bh7hIU
+#EXTINF:-1 tvg-id="film-thriller-pluto-tv" tvg-name="Film Thriller – Pluto TV" tvg-logo="https://i.imgur.com/hIWMGRW.png" group-title="Movies",Film Thriller
+http://tvit.leicaflorianrobert.dev/plutotv/film-thriller-pluto-tv/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",Home and Garden (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:EewEsNeMX8tzVeAC/yBRlEv8EWpIPD/KH6nChdaQOaMfFaTG/GXxJx1bGUL2lfCBZEf65Vr8/jgDh/hGoBdUlpdqpav1niTKXQ1WBf7REg0sH42D/szbXtKU9koP2BwOwFTc1w+YspnnFxsAeMZHWnkEwGpP6esuyufcHH6JjDz9pB4aYYojazEIotmq3JGnDEniveQDoNLOxF1JZZ70AIlij+e1HwaoC7/k5vVwbLhMheFULALj+S5wfn67pFTA
+#EXTINF:-1 tvg-id="film-classici-pluto-tv" tvg-name="Film Classici – Pluto TV" tvg-logo="https://i.imgur.com/jNyZPLV.png" group-title="Movies",Film Classici
+http://tvit.leicaflorianrobert.dev/plutotv/film-classici-pluto-tv/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png",History Lab
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BD70yppK2xfNkxWFCa7dP5OGRvxIrXmYURih7ge4LkObhJ2NwL8rKp9zkdxvI8OdRldYiomWZbjyujAd0yDr6Q==
+#EXTINF:-1 tvg-id="sci-fi-pluto-tv" tvg-name="Sci-Fi – Pluto TV" tvg-logo="https://i.imgur.com/5B94N8g.png" group-title="Movies",Sci-Fi
+http://tvit.leicaflorianrobert.dev/plutotv/sci-fi-pluto-tv/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiStoria_hd.png",RAI Storia HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyRZNoFUWtluJltRwrOWBkgE/q+GwlR/3Unv7BCHALvBE=
+#EXTINF:-1 tvg-id="people-are-awesome-pluto-tv" tvg-name="" tvg-logo="https://i.imgur.com/jn0OeWv.png" group-title="Entertainment",People are Awesome
+http://tvit.leicaflorianrobert.dev/plutotv/people-are-awesome-pluto-tv/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiScuola_hd.png",RAI Scuola HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cwVbxpe9G2eTQ0nJRRQAqHsoJViUnWOnnPIzb7cAyfb1rEgIq3xH0Titnqo6qeyyAyyJ1l4ud+aMGMJAR1TM/oRtHn5kDgrOSQyeE8PJJnc=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="General",Dmax (geo)
+https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1Yq3iV.png",Aurora Arte
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:xQEQMdNBz4ODRf811CM6SdueAUM8OzOiqYT+Hg+dN28EDLwIZ1SxREevKDSQmbq2At1kqaLx6c4ptcBHg1fCGJOeZXFpHii3XDMUF2+7jPY=
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-LQ_aBL5zIr4/TcpBEQEhiDI/AAAAAAAAB50/bxgOTccByRg/s1600/REAL+TIME_digitale+terrestre.jpg" group-title="Realtime",RealTime (geo)
+https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.artenetwork.it/wp-content/uploads/2017/01/Schermata-2017-01-19-alle-15.25.43-686x350.png",Arte Network
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:AA4c7jN5pr/V8Cf/ClvVUjluWg2n+9shYSU/JgVQpiQKJW4TFLobh0LQ9NWRLjiNv57TAuYD2O72ocvRT/MGqqcRvnMNtuc7MXiCtImMXxq6fYTmgu3FlQj5ShBVEXHM
+#EXTINF:-1 tvg-id="reality-pluto-tv" tvg-name="" tvg-logo="https://i.imgur.com/tPEOeTk.png" group-title="Reality",Reality
+http://tvit.leicaflorianrobert.dev/plutotv/reality-pluto-tv/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.teleartetv.it/resources/thumb/TA_background.jpg",Tele Arte
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:xQEQMdNBz4ODRf811CM6SdueAUM8OzOiqYT+Hg+dN29ZEtJfLK2e5WYMt1LUQth8dgHkRlRJ2IIMkJTbC8ikQYOK4C+jreoWsJbS2kfCSuU=
+#EXTINF:-1 tvg-id="real-life-pluto-tv" tvg-name="" tvg-logo="https://i.imgur.com/FpwqJYw.png" group-title="Reality",Real Life
+http://tvit.leicaflorianrobert.dev/plutotv/real-life-pluto-tv/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RPXusvS.png",Sophia TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:XtmwRAFKdOBFrpnza+u02ppySvtsPIPzPk0AxsfiXUK0ud3AnX0TfoVPzelhRd/CPXm8O0T6DTIH6yCIR0eUxMqqksrVbwHED1cADQ08sUA=
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MDip78GJA0k/hqdefault.jpg" group-title="Nature",Tele Ambiente
+https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/78/Tele_Radio_Padre_Pio.png",Padre Pio TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:uUoXUD2Y4arXhE7ubc4NsgUDTnEcF52zLtVo03f/K9sozD9Q6wqMV8z7DyIVWA8t74DyU5m2YmwjNIGY32ELnwpIJZI75jZ/VvKlNj75xGx0jKMLH3mG9Ktd+RUepZCA+X1k1rzqCaKchoTdOU7p1w==
+#EXTINF:-1 tvg-id="natura-pluto-tv" tvg-name="" tvg-logo="https://i.imgur.com/Pc4gx12.png" group-title="Nature",Natura
+http://tvit.leicaflorianrobert.dev/plutotv/natura-pluto-tv/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/5/5c/TeleColor.png/260px-TeleColor.png",Telecolor Lombardia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:GQv9idjPrb3K4w0jRm0qViqbUfpWvrSqN1G9leFA036bKcsEkp2z0vE5G/e0XFLJpSfQrpAJZnD0ea5fRVvbdw==
+#EXTINF:-1 tvg-id="ITBC4700003GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700003GR_20240131T031232SQUARE.png_20240131031233.png" group-title="Documentary",Love the Planet
+https://jmp2.uk/SamsungTVPlus/ITBC4700003GR.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/01_logo/telecolor_italy.jpg",Telecolore Salerno
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1loeHGFKSAWajdo910NKXyz5uMCD674lyqMr4h5CxIep/kBr5rUkoNqRHZKQb/6NKABm7Pr0PfrbHynySCtzDsqqksrVbwHED1cADQ08sUA=
+#EXTINF:-1 tvg-id="documentari-pluto-tv" tvg-name="" tvg-logo="https://i.imgur.com/0jYrODf.png" group-title="Documentary",Documentari
+http://tvit.leicaflorianrobert.dev/plutotv/documentari-pluto-tv/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/QVC_Italy.png",QVC Italia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:LMF+BGgYc+pbLj1sbd5ZUFlamjBOhac6dh/NkjkbkVPajXpFbH9bQroFytbgGtVxt7pquX/eDTb3PjN6yAgFR+4OSN/UXYJgqyveVfJELAg=
+#EXTINF:-1 tvg-id="cucina-pluto-tv" tvg-name="" tvg-logo="https://i.imgur.com/KsOhaOn.png" group-title="Kitchen",Cucina
+http://tvit.leicaflorianrobert.dev/plutotv/cucina-pluto-tv/stream.m3u8
 
-#EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png",AKC TV HD (Dog TV)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJRcU++C9F2dC/g9Hdp8QKnbp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="brindiamo" tvg-name="" tvg-logo="https://ornellafado.com/wp-content/uploads/2020/10/ARTWORK-SAMSUNG-POSTERS--1024x576.png" group-title="Kitchen",Brindiamo!
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB8&ads._fw_content_genre=food+%26+drink&ads._fw_content_language=it&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=Brindiamo%21&ads.csid=zeus_it_okproductionsbrindiamotv_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=it&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3783&ads.rakuten_streaming_id=b60437d6-10cd-4b3f-930d-f5cc0b95ad21&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883014&ads.xumo_contentId=2791&ads.xumo_contentName=OKProductionsBrindiamoTV&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2791&ads.xumo_providerName=OKProductionsBrindiamoTV&ads.xumo_streamId=88883014
 
-#EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png",AKC TV HD (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJmz0N3Iu2SAoI7NUqdcy36K9vRSWOsNLs98tV7aOIetg=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Home and Garden",Home and Garden (geo)
+https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png",AKC Puppies HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxmhqSHBbSp39SMNJRKENrJuiFUGDgDZpew62sAPtmsULp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="60802b37709d6b0007b0c549" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png" group-title="Documentary",TV Natura
+https://jmp2.uk/PlutoTV/60802b37709d6b0007b0c549-alt.m3u8
 
-#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png",AKC Meet the Breeds HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:kqu6OjrVfkpOSHUBWxSivJpSfc35BJCd1gHD7DQTHZxujGe4PgenSLJ7vUmwjKn+sKX9xKxTlGpyczO2wj08N7p9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="608aa8a5709d6b0007b132fe" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="Documentary",TV Documentari
+https://jmp2.uk/PlutoTV/608aa8a5709d6b0007b132fe-alt.m3u8
+
+#EXTINF:-1 tvg-id="63c923944207be0007fd0887" tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG.png" group-title="Travel",TV Viaggi
+https://jmp2.uk/PlutoTV/63c923944207be0007fd0887-alt.m3u8
+
+#EXTINF:-1 tvg-id="travelxp-eng" tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/689077cb-e4d9-4cd5-8488-1e5a5c243733_thumb.jpg" group-title="Travel",Travel XP
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=it&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=223&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=e9cd33c8-3b9f-4a99-a5e3-0bedd57c8043&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=473
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png" group-title="History",History Lab Telepace Trento
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/chunklist_w2106446322.m3u8
+
+#EXTINF:-1 tvg-id="65253fdf3fd33c00080214a3" tvg-logo="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG.png" group-title="History",TV Storia
+https://jmp2.uk/PlutoTV/65253fdf3fd33c00080214a3-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiStoria_hd.png" group-title="History",RAI Storia HD (geo)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiScuola_hd.png" group-title="Education",RAI Scuola HD (geo)
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="Religious",Sophia TV
+https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/chunklist_w1064364247_b2000000_slit.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/78/Tele_Radio_Padre_Pio.png" group-title="Religious",Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/chunklist_w1415951746.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.teleartetv.it/resources/thumb/TA_background.jpg" group-title="Shopping",Tele Arte
+https://59d7d6f47d7fc.streamlock.net/telearte/telearte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1Yq3iV.png" group-title="Shopping",Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.artenetwork.it/wp-content/uploads/2017/01/Schermata-2017-01-19-alle-15.25.43-686x350.png" group-title="Shopping",Arte Orler 1
+https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.artenetwork.it/wp-content/uploads/2017/01/Schermata-2017-01-19-alle-15.25.43-686x350.png" group-title="Shopping",Arte Orler 2
+https://tsw.streamingwebtv24.it:1936/artepertutti/artepertutti/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/QVC_Italy.png" group-title="Shopping",QVC Italia
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/1/720p.m3u8
+
+#EXTINF:-1 tvg-id="the-pet-collective-new" tvg-logo="https://thepetcollective.com/cdn/shop/files/TPC_LOGO_COLOR_RGB_BLACK_ORANGE_128589b2-1397-4b8d-9f90-05c77497304c.png" group-title="Pets",The Pet Collective
+https://81d1c38525014f39a1705b01e04d91c2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ThePetCollective-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=it&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5389&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=c6e4ce87-e574-46dc-8b8f-89a442f55920&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1020
+
+#EXTINF:-1 tvg-id="ITAJ4500016FM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500016FM_20230222T012101SQUARE.png_20230222012101.png" group-title="Pets",The Pet Collective
+https://jmp2.uk/SamsungTVPlus/ITAJ4500016FM.m3u8
+
+#EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD
+https://install.akctvcontrol.com/speed/broadcast/138/file-3128k.m3u8
+
+#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Puppies HD
+https://install.akctvcontrol.com/speed/broadcast/140/file-3128k.m3u8
+
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Meet the Breeds HD
+https://install.akctvcontrol.com/speed/broadcast/139/file-3128k.m3u8
+
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Irish Setter Club of ANS HD
+https://install.akctvcontrol.com/speed/broadcast/141/file-3128k.m3u8
+
+#EXTINF:-1 tvg-id="USBA3000044BJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000044BJ_20240415T233046SQUARE.png" group-title="Pets",Lucky Dog
+https://jmp2.uk/SamsungTVPlus/USBA3000044BJ.m3u8
+
+#EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Pets",Dogs 24/7
+https://jmp2.uk/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
+
+#EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
+https://jmp2.uk/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiGulp_hd.png",RAI Gulp HD (geo)
 https://feedlix.net/videos/promo.mp4
