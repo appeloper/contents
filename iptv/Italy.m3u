@@ -90,7 +90,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Italia1_hd.png" group-title="Entertainment",Italia 1 HD (geo)
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.assistenzaonline10.it/wp-content/uploads/2012/07/Italia2-Mediaset-Logo-e1309700032466.jpg",Italia 2 (geo)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEV-2Z5NMrfyk0yGD2-m-xHpLmuXWMKqwQug&s" group-title="Entertainment",Italia 2 (geo)
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Rete4_hd.png" group-title="Entertainment",Rete 4 HD (geo)
@@ -114,13 +114,13 @@ http://tvit.leicaflorianrobert.dev/la7/la7/stream.m3u8
 #EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/channels/254/logo?width=120&theme=dark" group-title="Entertainment",La 7d
 http://tvit.leicaflorianrobert.dev/la7/la7d/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2018/05/Paramount-Network.png" group-title="Entertainment",Paramount Channel (geo)
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png" group-title="Entertainment",Paramount Channel (geo)
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/Iris_hd.png" group-title="Entertainment",Iris HD (geo)
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png" group-title="Entertainment",Cielo (geo)
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/img/cielotv-cover.jpg" group-title="Entertainment",Cielo (geo)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xhoeVg7nRLPp8GnPkFzLUWvJ5WolvU-iYw&s" group-title="General",Tele Venezia
@@ -129,7 +129,7 @@ https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/chunklist_w10845898
 #EXTINF:-1 tvg-logo="https://www.trgmedia.it/Immagini/diretta2015.png" group-title="General",TRG Umbria
 https://www.trgmedia.it/hls/livestreamHD.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png" group-title="General",Sardegna 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Logo_Sardegna_1.png" group-title="General",Sardegna 1
 https://streamcdnb2-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.primatv.tv/wp-content/uploads/2022/04/cropped-cropped-Logo-facebook.png" group-title="General",Prima TV Sicilia
@@ -138,7 +138,7 @@ https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/chunklist_w1232874680.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiotsn.tv/sites/default/files/logo_1_1.png" group-title="General",TSN Tele Sondrio
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/rewind-3600.m3u8
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-tele-arena.jpg" group-title="General",Tele Arena
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/TeleArena_logo.png" group-title="General",Tele Arena
 https://5f204aff97bee.streamlock.net/TeleArena/livestream/chunklist_w2146376232.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Videolina_-_secondo_logo.jpg" group-title="General",Videolina TV
@@ -186,7 +186,7 @@ https://donnatv.grupposciscione.knoxstreaming.com/live/1080p/livestream_def.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/d4/Ab_channel_i_logo.png" group-title="General",AB Channel (geo)
 https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.uscremonese.it/wp-content/uploads/cremona1_colori-2-773x507.jpg" group-title="General",Cremona 1 HD
+#EXTINF:-1 tvg-logo="https://cremona1.it/app/uploads/2022/03/logo_e504ca6e.png" group-title="General",Cremona 1 HD
 https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cisl.logico.cloud/tmp/tt/0x0x0/img_post/old_dabb70006bc71ebbbfa59e1f8a86b1b3.jpg" group-title="General",ETV Marche
@@ -195,7 +195,7 @@ https://live.ipstream.it/etvmarche/etvmarche.stream/chunklist_w990671561.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/blog/wp-content/uploads/logo-facebook1.jpg" group-title="General",Video Calabria
 https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://riviste.newbusinessmedia.it/wp-content/uploads/sites/16/2017/01/image1.jpg" group-title="General",Fano TV
+#EXTINF:-1 tvg-logo="https://prolocopesarourbino.it/wp-content/uploads/2019/07/FANO-TV.jpg" group-title="General",Fano TV
 https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/wp-content/uploads/2022/04/quadrati_loghi_14.png" group-title="General",Antenna Sud
@@ -213,7 +213,7 @@ https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lactv.it/wp-content/uploads/2017/12/lactv-new-2.png" group-title="Entertainment",La C TV
 https://streamcdnb4-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/chunklist_b3128000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/1280px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="General",TV Peloritana
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMDLwSIrB9khQ8t8mtFnGEvnYVJ7PgfHkRgQ&s" group-title="General",TV Peloritana
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rivieraoggi.it/wp-content/uploads/2015/09/vera-tv-incidenti-780x431.jpg" group-title="General",Vera TV
@@ -228,7 +228,7 @@ https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.approdonews.it/giornale/wp-content/uploads/2014/04/foto_nuove_Rubriche_Approdonews_telemia.jpg" group-title="General",TeleMia Extra 
 https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/it-telepavia-6559.jpg" group-title="General",Tele Pavia
+#EXTINF:-1 tvg-logo="https://www.dtti.it/wp-content/uploads/2012/01/telepavia.jpg" group-title="General",Tele Pavia
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/videostar.tv/wp-content/uploads/2022/11/star-news-icona.png" group-title="General",Video Star News
@@ -246,10 +246,10 @@ https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.manzoniadvertising.com/media/img/rete-veneta-logo-pagina.jpg" group-title="General",Reteveneta
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.telecalabria.it/logoRTCnew.jpg" group-title="General",RTC Telecalabria
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/933432337119014912/dE6UppZe_400x400.jpg" group-title="General",RTC Telecalabria
 http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://thermaeski.com/wp-content/uploads/2018/10/teleboario-logo.png" group-title="General",TeleBoario
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.teleboario.it/uploads/teleboario_cover.png" group-title="General",TeleBoario
 https://stream7.xdevel.com/video0s976425-1244/stream/chunks_dvr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.manzoniadvertising.com/media/img/logo-tele-chiara_HCn0klV.jpg" group-title="General",Telechiara
@@ -258,13 +258,13 @@ http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/teleromagna_tv.png" group-title="General",Teleromagna TV
 https://livetr.teleromagna.it/teleromagna/live/live/teleromagna480/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://teleromagna.it/Content/images/logo-tr24.png" group-title="General",Teleromagna TR24
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfh4BMylMNPNCvKdVDfEBEd0tCHvQzmhusMQ&s" group-title="General",Teleromagna TR24
 https://livetr.teleromagna.it/mia/live/live/mia480/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://beyondprod.it/images/telefriuli_positivo.jpg" group-title="Sports",Telefriuli HD
 https://streamcdnb2-5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.telesudweb.it/wp-content/uploads/2019/03/LogoTelesud-1-700x158.png" group-title="General",Telesud HD Trapani
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMATE3dt0XBDlNddoyYcIC48iL0j4kppstRQ&s" group-title="General",Telesud HD Trapani
 https://64b16f23efbee.streamlock.net/telesudtrapani/telesudtrapani/chunklist_w1740798516.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleliguriasud.it/tls/wp-content/uploads/2015/10/logo.png" group-title="General",Tele Liguria Sud
@@ -273,63 +273,44 @@ https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/chunklist_w85
 #EXTINF:-1 tvg-id="" tvg-logo="https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo.png" group-title="General",Tele Quattro
 https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/chunklist_w2106440953.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://21km.stravicenza.it/wp-content/uploads/2018/12/tvavicenza_logo_new.png" group-title="General",TVA Vicenza
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sportnetwork.it/wp-content/uploads/2021/11/tva-big.png" group-title="General",TVA Vicenza
 https://fms.telemar.it:1936/live/diretta_1/chunklist_w963510258.m3u8
+
+#EXTINF:-1 tvg-logo="https://admuzzum.xdevel.com/cloud/x/cid/35/im/jpeg/XZXX/U/XR/97144b27d22d594949775145b5297815.jpg" group-title="General",Studio 7 HD
+https://stream9.xdevel.com/video0s976596-1371/stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H3uItqg.png" group-title="General",Super J TV Teramo
+https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/chunklist_w1072531611.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alKlcEp.png" group-title="General",Tele Pegaso Catania
+https://stream10.xdevel.com/video0s977504-2067/stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/img/ts2000-cover.jpg" group-title="General",Tele Tuscia Sabina 2000
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tv33.it/wp-content/uploads/2024/01/cropped-LogoTV33.jpg" group-title="General",TV 33 HD
+https://live.ipstream.it/vb33/vb33.stream/chunklist_w463655375.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJAYgyN.png" group-title="General",Video Novara
+https://ed06.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.frontierarieti.com/wp-content/uploads/2017/06/tv2000_1_0.jpg" group-title="General",TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/hls_1_3000/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.giornalisticalabria.it/wp-content/uploads/2013/01/LogoEsperiaTV.jpg" group-title="General",Esperia TV
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvluna.it/wp-content/uploads/2020/08/logo-tvluna.jpg" group-title="General",TV Luna
+https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IFPpG7X.png" group-title="General",La Tr3 Marsala
+https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/01_logo/teleticino.jpg" group-title="General",Teleticino (CH)
 https://vstream-cdn.ch/hls/teleticino_240p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3UvjR39.png",Studio 7 HD
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ps9irhF2YPFs0qaynKug4ga88/9VXs/Rhm8qRSWYtwHcIUlXZfGejUECG02R7DeIJ0frekYXzcJyOqBXepG+Ug==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logoicona.png",Studio 100
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:OMtg6oi/vOalXCKLBcX38dvj4kfEmd/7cOE39vwh+RlAvD6k6J38EbFNomhcvCoN9i4AFXsLM1shWEh3ZW0GW4ECBomyVtt4ouL8oODyCyk8DA72Ovgl1bNCsL/i9Iv4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H3uItqg.png",Super J TV Teramo
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:lpHIRnCKBYxx82Dj1TxtmP+ciYvE32LsW/Agm9qTSWqKQUdFLruN8tBSd3KbFUpcu4JI3s9WOEsTarZdJTh1AJ/kCkAz2miXb/PCywdcBWE=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/alKlcEp.png",Tele Pegaso Catania
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:yHfMhT4NknYSTMigofY92VSbK987NGajZXH2Bm3guGCqDjCFyLlHmEfFB/bJvUuI+Gl1MWbLTUupASXMinQAFkaFo/WHVtYl802bsbNkgpQ=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K6tTjJC.png",Tele Tuscia Sabina 2000
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nCabllqzbFQC1W0PrmdeR+rl/uWG40yoj/7Uay+ICcmSfUYvp2K4MFFNAOyvNpRjO/e6a0lBg0UFepXvhdce18kCHBfd3xQH4r2VH1A1GEg=
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VGaREZx.png",Video 33
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ak/PE6FhVvmqU762f17YsiJ4XFbAZqUDnXOuJdyuD7/FGxgG95PJghBcPopEU0ibyqqSytVvAcQPVwANDTyxQA==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AJAYgyN.png",Video Novara
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:XJbE1bsqFcJaroE3ARd7MHW8eO2SOnw8aGxMavlbPc3y/jQVoLGRh4Wl4jQ7WBY7reJKjR2DabSln6NYglXRgA==
-
-#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/5/5a/RTV_San_Marino_2013.png",RTV Sat (San Marino)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mnnQZ3QQdOtQ4DMXHI9DBVVfRJaW3G78oa4l4Nq7o1oC2IPXWG+feVDrRQ8WCLfo+R4DS8lxscvVnZV8ZS+DNKXCZioQLR4wve0T5jy5+nlFz6GAjRK2jTfzm7jBHbl3wzY4Y3iSvLD8gPX4ADpQ3Q==
-
-#EXTINF:-1 tvg-logo="http://www.frontierarieti.com/wp-content/uploads/2017/06/tv2000_1_0.jpg",TV 2000
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:WqUmWYzkDjptJQqheGo3coGL7Vu4fEZ+GG1iibUnU7lAGOW9ov3TAqG75bV+kzEX
-
-#EXTINF:-1 tvg-logo="https://www.giornalisticalabria.it/wp-content/uploads/2013/01/LogoEsperiaTV.jpg",Esperia TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qk2+yOjuf0Ey30XxD46lHy6WHeIEDQ0sr3eeFAQ+K9SQFs5CMv9ZGPc/ggNf70bNwP+KdGxHNP+s6Ma5A9AmBbp9hOaC7cWVCPlKEFURccw=
-
-#EXTINF:-1 tvg-logo="https://tvluna.it/wp-content/uploads/2020/08/logo-tvluna.jpg",TV Luna
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:7y5oMjv16GKY9VPoPAogFSDJEyjrUCOl2klKYmEecYYtZp/4SI7aEEWpiKjEOehrVQCLqHd/F27oXXzVntxUYQ==
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IFPpG7X.png",La Tr3 Marsala
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:AA4c7jN5pr/V8Cf/ClvVUjluWg2n+9shYSU/JgVQpiSsC6leTlrdGwQqaO+bVVlos9EvJNz/SEn/Zv+0+Ekv5JG9DRfvvEjPlZ8poc0IG9U=
-
-#EXTINF:-1 tvg-logo="https://www.miotv.it/images/blog/img/_43919/trmh24-1583431416.jpg",TRM h24
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Z6S54kqD7Zcf/uW29sKYtQfi+CrGoGgTjZPI8tCTDXypUrXmVURuw7Yym+fj8YqgyQIcF93fFAfivZUfUDUYSA==
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/5/5a/RTV_San_Marino_2013.png" group-title="General",RTV Sat (San Marino)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aTs88Es.png",Telemolise
 https://feedlix.net/videos/promo.mp4
