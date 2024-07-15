@@ -330,7 +330,7 @@ https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uh4R5Ih.png" group-title="General",Canale 2 Altamura
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.televideoagrigento.tv/images/TVA.gif" group-title="General",Televideo Agrigento
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3228521886/8cf6f55386a2f0a8619bc933d381a9ee_400x400.png" group-title="General",Televideo Agrigento
 https://media2021.rtvweb.com/tva/live/chunklist_w949858255.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/teleone.jpg" group-title="General",Tele One
@@ -573,7 +573,7 @@ https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/e/eb/Logo_Frisbee.png/800px-Logo_Frisbee.png" group-title="Kids",Frisbee (geo)
 https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/240px-Super%21_logo_2021.svg.png" group-title="Kids",Super
+#EXTINF:-1 tvg-id="" tvg-logo="https://tbivision.com/files/2019/10/Super_Logo2015_1280x800_RGB.png" group-title="Kids",Super
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 
 #EXTINF:-1 tvg-id="IT700004X4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700004X4_20240611T062036SQUARE.png" group-title="Kids",Pocoyo
@@ -714,216 +714,122 @@ https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioCapitalTv.it" tvg-chno="713" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiocapitaltv.png" group-title="Music",Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2015/12/Bella-Radio.jpg",Bella Radio TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ctq49lyS9Vy593ZgdkvdQZiJC4HlW3X9UWWYWtBm/rus7OZlNpEODnlJQwl692fouC1CnhJdy7mCaw4tTBC3T7p9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2015/12/Bella-Radio.jpg" group-title="Music",Bella Radio TV
+https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-radioitalia.akamaized.net/img/2020/web/logo_radioitalia_forma_new2.png",Radio Italia TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:sQ21hI5dJbLuDq+nqhMQiDQhW6PZT9blKtn4Ra2XM7ErV+IUy6zKPOoHFxXPzL35mkJ222aqi6mfCEx+n2CCNuES2j9dJVkX/ae1S2MOu/FqDANQG+ulyTr4qEs1WyH4PszY0NYpFhqpwpfGp45A8Q==
+#EXTINF:-1 tvg-logo="https://static-radioitalia.akamaized.net/img/2020/web/logo_radioitalia_forma_new2.png" group-title="Music",Radio Italia TV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream01/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/58/0c/580cb2a92bc8e362d32ca87661b9ee8c.jpg",Radio Italia Vision TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:KUupqFWVi2y8dwezu0+Q1ydbPDfWA0CLWel7cwSWybKMKZXllkwdyYEdl7lngxn5/h4ZDAZsro63lHwsImgh8rJwMybnm520xtM2AayWO9A=
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s63639/images/logog.png" group-title="Music",Radio Number One TV
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/chunklist_w1349343213.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s63639/images/logog.png",Radio Number One TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Np7spIzdCNylxMwhA4OPeRvzNZ4G4h/SMTr43zv/CuDXAkAZI86hBesJ2a+gR7nIEUqstPq3kY+Gl6Dq8ApteqqU1zJQcaJx9g+ngsVgogQ=
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/fe/71/96/fe7196e7-7d76-e34a-d6c9-29aabb514e1f/source/512x512bb.jpg" group-title="Music",Radio Azzurra TV
+https://video.azotosolutions.com:9553/radioazzurrarandazzo/radioazzurrarandazzo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/m2o_it_tv.png",M2O TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:eXOhOXf6hSC2Bhwaxh5Y/af1Nc2EMCGOCmEAdgXzMfw4+MNAfAa5LxWXlPv2/1WnUXczIR57gr5rbgbshfLbZ3enw6HnAN1SLSK4NrGV5dKpGnP54ZW5MM6XDRTvvRzc
+#EXTINF:-1 tvg-logo="https://storiaradiotv.files.wordpress.com/2017/11/radio-stereo-5.jpg" group-title="Music",Radio TV Stereo 5
+https://stream1.aswifi.it/stereo5/live/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/fe/71/96/fe7196e7-7d76-e34a-d6c9-29aabb514e1f/source/512x512bb.jpg",Radio Azzurra TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ccpd3cbDGf4ETcWFnugDaEOZYIhpd0x64gJXh2IkRcJc+NRSIvpwAKh0S/M8e4I7VvVrAzCo/v3b9oJjYnucEIaZ5MFLGhcN0Ae274FmMWpCNzfSDHOlZuzXy8EDvUjq
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7T3LMcphfe.png" group-title="Music",Birikina TV
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://billows.files.wordpress.com/2009/04/sorrriso.jpg" group-title="Music",SorRriso TV
+https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streamsolution1.xdevel.com/services-logos/nvQDblX3jWlnt0Ll0KhPgBFHZ8YjQl9svO1WtyQ7-400x400.png" group-title="Music",FM Italia TV
+https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/it/51radiotv.png" group-title="Music",51 Radio TV
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.radio.pt/images/broadcasts/67/e4/11668/c300.png" group-title="Music",Radio Norba TV
+https://stream12.xdevel.com/video0s975885-2349/stream/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61hvF5ZSDvL.png" group-title="Music",RTL 102.5 TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 	
-#EXTINF:-1 tvg-logo="https://storiaradiotv.files.wordpress.com/2017/11/radio-stereo-5.jpg",Radio TV Stereo 5
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:zOkUPZIYCtu0RqKqFeqkJIxUZG/voz/X5XcTlMNPbWB7cmk5GKtZD7FG+B0iweQfun2E5oLtxZUI+UoQVRFxzA==
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61hvF5ZSDvL.png" group-title="Music",RTL 102.5 TV Best
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiou.com/wp-content/uploads/2014/07/LogoFullsize140724-300x300.jpg",Radio U TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:HOxDqa1cuO44XNNaFXRYbYfK4LP4uvcg5NdtkWDb5Kw5GN21xo8flOheMkUWfw6F6TbS/zy5eD0dzpDfRaUorg==
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61hvF5ZSDvL.png" group-title="Music",RTL 102.5 Bro&Sis
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7T3LMcphfe.png",Birikina TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Np7spIzdCNylxMwhA4OPeRvzNZ4G4h/SMTr43zv/CuAqcmuYaE6sIeQQlQAZPvLSQtbZUI040OHCxIapsdu4FEI3N9IMc6Vm7NfLwQO9SOo=
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61hvF5ZSDvL.png" group-title="Music",RTL 102.5 Romeo&Juliet
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/kiss_kiss_tv.jpg",Kiss Kiss TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:jqE5HgvWG2lB0kjpQMFCCK6kNBm6GzXEuHuUC9UKO+yNhlhGbmrHKJaXtFgi4JQYtVCP6D7ZgGlDJuIakWzhAYy1qhZxYZbE9cA/Z8iBqCaVo5BWsDNEkcyNXaa3xz3E
-	
-#EXTINF:-1 tvg-logo="https://billows.files.wordpress.com/2009/04/sorrriso.jpg",SorRriso TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Np7spIzdCNylxMwhA4OPeRvzNZ4G4h/SMTr43zv/CuALZfEVcv1EIIvFMyeytoPx6oecYYblJ8WjDrIkOAJGp0I3N9IMc6Vm7NfLwQO9SOo=
+#EXTINF:-1 tvg-logo="http://www.conodeliaband.it/wp-content/uploads/2016/07/Radio-Carina-Azzurro.png" group-title="Music",Radio Carina TV 
+https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/3703933b-ffe5-41e0-a244-de22cf8a36bc.png",Yvii TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:FISxzQf5YLbG8jvlV0gwF9Xo1PzpnxDl/TaJgf3jVp3vUx0pwSzC9DlEWRrA9k+Wn+QKQDPaaJdv88LLB1wFYQ==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="Music",Radio Freccia TV
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 
-#EXTINF:-1 tvg-logo="https://streamsolution1.xdevel.com/services-logos/nvQDblX3jWlnt0Ll0KhPgBFHZ8YjQl9svO1WtyQ7-400x400.png",FM Italia TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:oP24wIT+CFENlQ1PpIuoSyaB+3F5lUKyvt7VloqYTRsDRYkK6Zdi8aaNGOPTk+RTZn42VRkKtPSTTSg4Gn/vFw==
+#EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/cover-canali/zeta-tv-hd.jpg" group-title="Music",RTL Zeta TV
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/it/51radiotv.png",51 Radio TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:xQEQMdNBz4ODRf811CM6SdueAUM8OzOiqYT+Hg+dN29FVSuHedP+RZr9qznvM09JNZ55YiFb7rruZTu2mIqjw4OK4C+jreoWsJbS2kfCSuU=
+#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/e1/c1/11624/c175.png" group-title="Music",Radio Bruno TV
+https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/rmc.tv.png",Radio Monte Carlo TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vOgBiX1WACJd99vj8Wt7ZyIasvZkWvq9FPETuN4imoeRexhCccemCD5fNdpUtnXUttDLbf1sXBP56hl5YKqR6d4x5MeWue95srjn/24MGu06IsA50tQvY+6VGLgK/OXjjUNIW2PPYhA/QExBiT14lp/kCkAz2miXb/PCywdcBWE=
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/45/93/c3/4593c364-9bc1-7ce0-93dd-9acbd8256a91/source/512x512bb.jpg" group-title="Music",Radio Linea 1 TV
+https://64b16f23efbee.streamlock.net/radiolineatv/radiolineatv/chunklist_w1574905286.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.radio.pt/images/broadcasts/67/e4/11668/c300.png",Radio Norba TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dwXzYQlW2y6IAEWUw4gRUe4WyHg18xUdNOeCqlh/ou02w9XHYxf9lqZTtQIZqZ7VWEaLwmgSNtyFcXr/tCvJQiRX+giWTiLstxkvLqdC8bEgYjntHK1IrZpQFGv5OSbd
+#EXTINF:-1 tvg-logo="https://admuzzum.xdevel.com/cloud/x/35/im/jpeg/2019/10/22/3934ea3c.jpg" group-title="Music",Radio Taormina TV
+https://stream2.xdevel.com/video1s3-7/stream/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61hvF5ZSDvL.png",RTL 102.5 TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:lKWb2b952ltivRDG9If8UR80wKt+fzk4E8onXyVVh6N7zb79xvkPAggqmQkiBB5HKXZZ3tvVKGMsnzkRDBzIge1voEAvosdzJRVEJxhCZCq6fYTmgu3FlQj5ShBVEXHM
-	
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61hvF5ZSDvL.png",RTL 102.5 TV Best
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:lKWb2b952ltivRDG9If8UUpxhfDJVupZVgLy67x9/jJ7zb79xvkPAggqmQkiBB5H3Ep+S74VuLNCdqYlueAahU+ZFi9me6Ko0mF6AkxJ/iO6fYTmgu3FlQj5ShBVEXHM
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.nododigordio.org/assets/uploads/2018/10/RL_06-300x168.png" group-title="Music",Radio Lombardia TV
+https://stream9.xdevel.com/video0s976574-1330/stream/chunks_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.conodeliaband.it/wp-content/uploads/2016/07/Radio-Carina-Azzurro.png",Radio Carina TV 
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qk2+yOjuf0Ey30XxD46lHy6WHeIEDQ0sr3eeFAQ+K9TOu9IvmZsAhVpkZhenm327J0frekYXzcJyOqBXepG+Ug==
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Zess4Q.png" group-title="Music",Radio Universal TV Catania
+http://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O8ByUjT.png",Radio Freccia TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:lKWb2b952ltivRDG9If8US23KbwY7dLYZ7lVQLbMVOF7zb79xvkPAggqmQkiBB5H5QFizgwlM8oE6UBh/1D7ckX7KxLs20qpYmNCahDa7ge6fYTmgu3FlQj5ShBVEXHM
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/radioportals/radioviainternet-it/images/stations/radio-ibiza-cover.png" group-title="Music",Radio Ibiza TV
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/cover-canali/zeta-tv-hd.jpg",RTL Zeta TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:lKWb2b952ltivRDG9If8Uc+TaUvn1JCMGiEznfEjM7N7zb79xvkPAggqmQkiBB5Hsaj/nfOUYdy9Oz8RtrPprSjexJwlW/3A1+9NHTeR9+XQk/iYy7lVmqoABnfMb44c
+#EXTINF:-1 tvg-logo="http://img.radios.com.br/radio/lg/radio12026_1439401439.jpg" group-title="Music",Radio Company TV
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/e1/c1/11624/c175.png",Radio Bruno TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:T6mGhxmp55r4nuphpoZBpIwVq9lCvVdaORpJ71mLlmoxCOsWK7W9JMiOKsWJcBQ4Ml9NjmGPy+LS+X5iD0gI1A==
-	
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/capital_tv_uk.png",Radio Capital TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:GAUZzLnY68W3r+Jy7S2S5Bc8J8QHjd4o75A8e0+Yfejv/Pd6D28xyubIzDGHabUs259+iownubdu/ODfVWx1tkgeg7uRXv4IewgsjTNzw1Y=
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DfugVgy.png" group-title="Music",Radio Piter Pan TV
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/45/93/c3/4593c364-9bc1-7ce0-93dd-9acbd8256a91/source/512x512bb.jpg",Radio Linea 1 TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:fqdaT4Rf0W6JE6hxm7Q2Uppx4WOrZ/llA1VEMD9oMQIrU/bfwJShp8evrKLcGOnyFuvQb6rM+jj8qcQhOrjgW92YLDvlHPi3oh9GcE/+EFE=
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/babayaga_tv.png" group-title="Music",Babayaga TV
+https://stream1.xdevel.com/video0s975770-326/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ottofm.com/wp-content/uploads/2017/07/01anni80.png",Otto FM TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nx6dFjL9oE7pDnnuxWBjoaRJ6b06rCqDw2gApWTRDWSKcFHu7qhxYWFoFOjL3bEsst/mLdaORT5GVwmrq8jtjbp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/bellla-monella-tv.jpg" group-title="Music",Bella y Monella TV
+https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://admuzzum.xdevel.com/cloud/x/35/im/jpeg/2019/10/22/3934ea3c.jpg",Radio Taormina TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:oP24wIT+CFENlQ1PpIuoS4wVq9lCvVdaORpJ71mLlmqdtckNlwZmMSJYnGqAaN920r1fvN/pfVW5tH6KgUbWtg==
-	
-#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/2556.gif",Visual Radio
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:qk2+yOjuf0Ey30XxD46lHyvXTePyZTXl8IF2mvWUmrf3PeYMAFutw6BfJQ6c1eFJqe3RKPEIS+T+kxmXnnTw2LUO0AmsOmpyTxKyNB43m6g=
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/jukebox-tv.jpg" group-title="Music",Jukebox Radio TV
+https://5926fc9c7c5b2.streamlock.net/9108/9108/chunklist_w191251077.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static-media.streema.com/media/cache/9c/e5/9ce5447852a5ad584af332d716e46f39.jpg",Radio Lombardia TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ps9irhF2YPFs0qaynKug4hq/J4E1P3E77Qk+Nym0lgjnmYe0tB4HsB/qYGLAsg/BUgPSYWAAZKI9wNxOfkIvM5OeZXFpHii3XDMUF2+7jPY=
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/love-fm-tv.jpg" group-title="Music",Love FM TV
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Zess4Q.png",Radio Universal TV Catania
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:4FYKYmiC2c8ixwVNoUCuju4WyHg18xUdNOeCqlh/ou35rNe8VAO5lOnLfada+zysvHg5p/a0ixOQPo+3JWRRtzqPa3h16JE9dKiEjvSf6dXuDkjf1F2CYKsr3lXyRCwI
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/radio-italia-cina-tv.jpg" group-title="Music",Radio Italia Cina
+https://585b674743bbb.streamlock.net/9054/9054/chunklist_w1879408038.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/radioportals/radioviainternet-it/images/stations/radio-ibiza-cover.png",Radio Ibiza TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BD70yppK2xfNkxWFCa7dP9yMaUDk3E98V3/vytNol4jt4Uz74pYEz+WYrx07s/ZUFBynMgYkrbeHU8YbSXvepIFq6Zk1NJJMVwPRVSB5kqo=
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/radiolinea-tv.jpg" group-title="Music",Radiolina TV
+https://5bb65e9de3fdf.streamlock.net/live/RadiolinaTV/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.radios.com.br/radio/lg/radio12026_1439401439.jpg",Radio Company TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ZOWM21EvtgLq/kT2jnjGmBLB5GJsE0NIwoxlJ5sYN9Ax09tECxNwyKhpKo6ybmmUhrVFtHTpzbMRHiX87aq/ZDtaD/mQqg+cguFymSj6TPg=
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/radio-marte-tv.jpg" group-title="Music",Radio Marte TV
+https://stream7.xdevel.com/video0s975753-774/stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/toplatino.png",Top Latino
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mVkuoOT0N0rLZ4Iw7sgawfOQ4RRGtHHqhgHvghg35AVtLzmmJpU8LM8ncyOntvhZbvWKrKj43uS3lyJ2GrqqT41pCr6GccJAT47PaDhkcnY=
+#EXTINF:-1 tvg-logo="https://www.radiotime.it/wp-content/uploads/2020/02/Logo_Time_1500-e1580898267395.png" group-title="Music",Radio Time TV
+https://stream3.xdevel.com/video0s975521-196/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DfugVgy.png",Radio Piter Pan TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:bmjiIvtZ0ncVIhmdf+qDJNEki6munn6hG/LiDyO/VSCCh+wEpAgTxjt7qDVso3XzET9ncjLMxuxMg3xaNLv1nkI3N9IMc6Vm7NfLwQO9SOo=
+#EXTINF:-1 tvg-logo="https://www.607080.it/wp-content/uploads/2017/07/LOGO_S_rosso-300x235.png" group-title="Music",Studio Più
+https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/babayaga_tv.png",Babayaga TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:zOkUPZIYCtu0RqKqFeqkJIwVq9lCvVdaORpJ71mLlmozZlXe6qGfcBk9g3lyXEHEgflB/V+1l/+j68F5e1aPz7p9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/vuemme-tv.jpg" group-title="Music",Vuemme TV
+https://5db313b643fd8.streamlock.net/vm/vm/chunklist_w1085428370.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/radio-675-tv.jpg",675 TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:QwkI001Y44noArjfNsfLBOECRLPFACRsQjBsSrHKB3W9XPchetTaTOUKdzsPsiHMxNpxAZNvul8SZ78yzs0/1Q==
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/zerounotv.jpg" group-title="Music",Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist_w912406944.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/bellla-monella-tv.jpg",Bella y Monella TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:bmjiIvtZ0ncVIhmdf+qDJNEki6munn6hG/LiDyO/VSCE2eKGRYKbq4b4SKkOWn0NggXikC5J8lHneyoWFXp4VViHQE9n6uSq80FtTpyKITuDiuAvo63qFrCW0tpHwkrl
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/230-2305091_deejay-tv.png" group-title="Music",DeeJay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/jukebox-tv.jpg",Jukebox Radio TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:QwkI001Y44noArjfNsfLBOECRLPFACRsQjBsSrHKB3XrsQg2YtV17yHIrTqHq9kuBpM19lnxANGqXtNEcz1sIEakNMZxRzXcl75OvRt8Wy8=
+#EXTINF:-1 tvg-id="ITBA3300036R8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300036R8_20221012T021059SQUARE.png_20221012021100.png" group-title="Music",Vivaldi TV
+https://jmp2.uk/SamsungTVPlus/ITBA3300036R8.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/love-fm-tv.jpg",Love FM TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Np7spIzdCNylxMwhA4OPeRvzNZ4G4h/SMTr43zv/CuDNwXlW5JEh1Ul2eniUOWOCQJAKzcv27j1Imx3ZRnLimu4OSN/UXYJgqyveVfJELAg=
-
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/nsl-radio-tv.jpg",NSL TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:HFbQymBgl5E4/go+GaNx4blG3+SZcMCb5cnEjls78HAEVRZPPVkuoZl0EJeIfK5DIf94SNtQHxtyqhmKY9Nhpmmvp2040erc/TnFVIaQLMUqF7ZuT6xbGRy20q5RzgemtB6+33z6Jr2ltzCytUmx1qatgWz686Mf1AqMnmLBxLo=
-
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/paradisetv.jpg",Paradise TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:AA4c7jN5pr/V8Cf/ClvVUjluWg2n+9shYSU/JgVQpiTSTRLDmEGqGeEqTd889eQaVEUdt9lHNhzNkQaquNI7NIdKkpyBVF6VpUGnV/AnBpTKqpLK1W8BxA9XAA0NPLFA
-
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/radio-4-you.jpg",Radio 4 You
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0y8GRjX6zMTs6gxFlcDx7j7oYjQLhSQegzfyvX2WWfaSHiLsmQaipMnd/8HMO6QPv6L53HChucHzgxEgwsOZc2r5/J4mg7AzQ4eMdGtcfxRkY7zTHQJiGiukrat1zyScXdzFhnH1kxrzk8LAWAKfF6mHkVHdZhfk2EtJlfTiQGFU1xLxVbaQx2jFFgTG7VLZHoTVPYkEe0CqJGPhOp0rpRD7AwXOIFT6qgYot6d5j5LfAtQBylLazDzYoFYURnXYJVq2vlEfAKmh08wWK7b3SbLSfYJzgCo8NjAuRqZ67rkJORKgglCD6O4BfJVk4ImDHI3TBUuTtlekU07D1w2ymXxhOevnkhMnHUxA6wKL5VYDHkrB2CbLp2K0QjABdW+HlQ3P6N5pni/prnUBdNm6ekoXl8TU5Bb8HRisIiaRjQpRCtBx4vzBvau6eu/eQjSiO7LQKel1UJOqyGkLS2o9I+8MHmCj/Z+X0hjgIe9qxG084T6A59Q6YtLuJ/cu/7f2KY0Tp0TdgtTSBTWbXY4LrMbascnH305fBnxlX+giEfvqJTFyvZ4/8mPA0qkG32Wbd7gF96MBXQj61DtceXwgxbEv9VdE62gHuo+MA1EKrRk5x6+bIB6eRwvRfFy5dRmoeQcPkfvbUa+d0X3jJ8nVxW4kvMAS1NenDC1CIFuV7aJTWpOxBhZVPX5Jh3UdCIQhJAZgq+3QveUM/bze6Cx11KhLRTrr3kxhW+rtk2qU3k+/KxImNbsk3QrUmh/M+0lK36gS08zbl++exuTTsO3JPyx1x67NrOA6WdtHGouUakUxGE5U3lSab+NbqOoMHLNXQqalQIbFi66Ll3j56uMiNYeWwIdQjj/zKq/zzf9DsTSCUA4GS9wtPtrGcdH60DF4W2F9yCqOH8RwPVkxTHBa+YeXUv9aCvpxveQnk7ZHg39LT/D9dP3vhD4vPTffT1E+nijfDrEE9uRVYxVWFkT3jxYhBpT5GfoAnc/KJjJIhpWWL2fd9zm3dWdW1CLgHeeis+PeC+F83F+FzH+j+c/fQzSqWgqhu67zjeeYlU1MrL3vGZm01QmWjtEV0bvO6nOtZaMM+RjBh/3w3TWZu8vuUvO3NgWPagQo7YcYT2BmZZJX5gZ3Or0hveSVYmHJfYyUWa/hYvm9YU/jdLfTfxg/QEnDVsVfU087ZJXfZbpcr+YQVHmbg33zA84ngupFebolqYIe2MO2k3wVkgpUTmVpPlhCp9wxMAcxcfh7I8ntTCg9CHea3xjjctq07bUPVn0JRzHZ3dWUWoiE3JB0mRnFWHGtmJegBiB0O2KT2HtnkEvIYs3TO6EXDTzjGWqv0IPtOo5QSkzMZGGLKQOO0ZhiSIwhu1FkKdNXU1WXrJv2RyOf5ApAM9pol2/zwssHXAVh
-
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/radio-italia-cina-tv.jpg",Radio Italia Cina
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:JwRo335YKSAMxwvxyKNJ02hrDNKzUPvxzVAm82YVaHDjL0kFZmT/KUinXGS9UaMW3dLVd955JXg0hyTsvF+RgIWzTRmnlwMgvrJSxvv+rng=
-
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/radiolinea-tv.jpg",Radiolina TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:JdCPRka7bMRA+QcezVTmrgXCK4exLeby7X20W7jkaJdRLFTuICRX8VQFmQPq9bJJxTHosFkFuWzchZ0ZV53B+IOK4C+jreoWsJbS2kfCSuU=
-
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/radio-marte-tv.jpg",Radio Marte TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ps9irhF2YPFs0qaynKug4gmugqFDFJEhjgDndIrc8hZZPSnJ6VUvS8VsQTO2RJ3kjWkKvoZxwkBPjs9oOGRydg==
-
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/nkdaa3sc7dcc.png",Radio Pescara TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:8L7bOuPaqWMd68LVCraIjlYnDMQi+KI1TGNfgu4bSoV2RwzRXrDKPP1/7pkbz0xwjKnoRgYBs9uttrYiJ5oaJe4OSN/UXYJgqyveVfJELAg=
-
-#EXTINF:-1 tvg-logo="https://www.radiotime.it/wp-content/uploads/2020/02/Logo_Time_1500-e1580898267395.png",Radio Time TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nVS2U6Jh+Eu9fl4n7VncuYwVq9lCvVdaORpJ71mLlmpm4avoApRI2T6hSLGZdj5lgflB/V+1l/+j68F5e1aPz7p9hOaC7cWVCPlKEFURccw=
-
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/simply-tivu.jpg",Simply Tivù
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ps9irhF2YPFs0qaynKug4vVn3y4n4bgJC/UUYfuHYtF26RejAl62fOzqidQL6/aNjWkKvoZxwkBPjs9oOGRydg==
-
-#EXTINF:-1 tvg-logo="https://www.607080.it/wp-content/uploads/2017/07/LOGO_S_rosso-300x235.png",Studio Più
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ps9irhF2YPFs0qaynKug4ga88/9VXs/Rhm8qRSWYtwEWsrksmhLF5MdZIBLrupOPzBThBrkRUBgcX341lMpfow==
-
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/vuemme-tv.jpg",Vuemme TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:fqdaT4Rf0W6JE6hxm7Q2Uppx4WOrZ/llA1VEMD9oMQIKcHpS1zzzmYJqA+SQfbhnyTLwiZrT8ZTrHqRKUOLVDLp9hOaC7cWVCPlKEFURccw=
-
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/zerounotv.jpg",Zerouno TV Music
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:fqdaT4Rf0W6JE6hxm7Q2Uppx4WOrZ/llA1VEMD9oMQJUGISTb6gccS5XRSJkZg3AyEbvgpe7r/spwUs2kfVLU69vRSWOsNLs98tV7aOIetg=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/NRJ_Hits_2017.svg/1200px-NRJ_Hits_2017.svg.png",NRJ Hits TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:FBr9+CWpE/ZJMDGGXtNPT9e25+Q5BKc/gJs8uxbF3qIbIMIqYnG0fxbqiBBc9itmGdXiUPIHF4d/EACJVA9lmcYGEt/KoVf6BhrMjuH9PSA=
-
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/230-2305091_deejay-tv.png",DeeJay TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:itdayVVNYIl43OGFgZVPliUxmJ7LayZX07z9IUF/f9+KNSzCO0i8meEdTDdI1qWFPBYQ7YPxAxfTB3QsY5+HHo2tzH8siplEVUa5BFcQKBM=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/m2o_it_tv.png" group-title="Music",M2O TV
-https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-id="ITBC400004TU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400004TU_20221109T010911SQUARE.png_20221109010912.png" group-title="Music",Cmusic
+https://jmp2.uk/SamsungTVPlus/ITBC400004TU.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Music",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
@@ -955,13 +861,13 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/retro_plus.png" group-title="Music",Retro Plus Classic
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/jukebox-tv.jpg",Jukebox Radio TV
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/jukebox-tv.jpg" group-title="Music",Jukebox Radio TV
 https://5926fc9c7c5b2.streamlock.net/9108/9108/chunklist_w191251077.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/music_box.png",Music Box Gold
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/music_box.png" group-title="Music",Music Box Gold
 https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/1mushd.jpg",1 Music HD
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/1mushd.jpg" group-title="Music",1 Music HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/tr/Power.png" group-title="Music",Power HD
@@ -1083,6 +989,9 @@ https://dai.google.com/linear/hls/pa/event/6RPZlzksTCyB1euPqLcBZQ/stream/44d7167
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png" group-title="Nature",Drone TV
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.images.express.co.uk/img/dynamic/151/750x445/1414332.jpg" group-title="LiveCam",Live Vulcano Etna - Crateri Sommitali
+https://5e0add8153fcd.streamlock.net:1936/vedetta/catania-etna.stream/chunklist_w1364597699.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/it/rds_socialtv.jpg",RDS Radio Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_8.m3u8
