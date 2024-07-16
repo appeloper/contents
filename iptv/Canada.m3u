@@ -1,179 +1,115 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="GlobalNews.ca" tvg-logo="https://pbs.twimg.com/profile_images/722494555031871488/P_r3quu0_400x400.jpg",Global News (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:j1b/oDT9XoilHONjBMDYjLD2EN1RXoFne7jomu7kpc8K91jKPQoQUIFWksWSSUWLzFmOZBvjFp2kLpDimK24z38rO3e5a57kXW5LUDJExWJ3HXSv8mDl8KaPpYPjsSJE
+#EXTINF:-1 tvg-id="GlobalNews.ca" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="News",Global News (geo)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-id="GlobalNews.ca" tvg-logo="https://i.imgur.com/mhhVQE6.png",Global News (op.2)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ylV7tXr8ETAgz4tOcIEOMU2OlteXRCl5o+l9/IRhbmkI8hVkG0fbq4hz5KhXf70vk+85H6mrrd5P8NDPCbDPdst9gxoY79c7tCAXYd1QkUTC4lQx1JUbyU94emnJ5kJBjiS/ynlqQHRLG95dj5UGgQ==
+#EXTINF:-1 tvg-id="GlobalCalgary.ca" tvg-logo="https://i.imgur.com/ppMNSKT.png" group-title="News",Global Calgary (geo)
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-id="GlobalCalgary.ca" tvg-logo="https://i.imgur.com/ppMNSKT.png",Global Calgary
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ylV7tXr8ETAgz4tOcIEOMU2OlteXRCl5o+l9/IRhbmmM+YQVDfL4m6llwK9ypIZ7xKD/7+FaryWAos4axopJGeINghS3pjnoIQlGbXdsnD9isLcOm3nlvMPLk1kvvt7ZjiS/ynlqQHRLG95dj5UGgQ==
+#EXTINF:-1 tvg-id="GlobalBritishColumbia.ca" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="News",Global British Columbia (geo)
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-id="GlobalBritishColumbia.ca" tvg-logo="https://i.imgur.com/bcHP3Vg.png",Global British Columbia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ylV7tXr8ETAgz4tOcIEOMU2OlteXRCl5o+l9/IRhbmkBr9NZjy8WD3w3u7RraHnNA2E1fEKobSyOcvfTbJDkNa69aDAxlHCrf6jDL9ihRSgavdiFuaKjZ7PCASMb+DNNjiS/ynlqQHRLG95dj5UGgQ==
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/TVA_2012_logo.svg/1200px-TVA_2012_logo.svg.png" group-title="News",TVA Montreal (geo)
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/TVA_2012_logo.svg/1200px-TVA_2012_logo.svg.png",TVA Montreal (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:nPYiP3TzuUsn4myhnaABnCFlhXyUzXoaGotppnq48YDTAgLpolN6vcN+SnK2fS/Nop1/5BAhucNHokKH+/rWkrp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="" tvg-logo="https://s.tou.tv/images/parcourir/web/parcourir_chaine_rdi.jpg" group-title="News",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.tou.tv/images/parcourir/web/parcourir_chaine_rdi.jpg",ICI RDI TV1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BT6SoHKl7txvQlkrEPqONSFlhXyUzXoaGotppnq48YBY/bzd0f/t6j6XHmYlN66b0cX7bGgyDZ+z2BSZhWFlTiicyGCLDArS3CKl29X+3c4=
+#EXTINF:-1 tvg-id="" tvg-logo="https://s.tou.tv/images/parcourir/web/parcourir_chaine_rdi.jpg" group-title="News",ICI RDI (op.2)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_256.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s.tou.tv/images/parcourir/web/parcourir_chaine_rdi.jpg",ICI RDI TV2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:BT6SoHKl7txvQlkrEPqONSFlhXyUzXoaGotppnq48YDDdtEYoLtYi7lw9hWee5zxLV8gI1TOxo77Gu4BBBf5ebhgr1ePAq6zk8hiYag7TuQ=
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6XYQtyN.png" group-title="News",CTV News Live (geo)
+https://live-news.video.9c9media.com/f/news/ctvnews/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6XYQtyN.png",CTV News Live
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:eFc28jVpnsE1GJIw4ShXhQqn4L5wHyv+Zyi0gbdLk+9SJDdbZtW3KBtl2ePaevAOUbMPun5z/4tmySgaD+ZGzXaZP7c/bYUvSnKTQNFNcLRBo8j9onRtpVzwbZmsjqjZZczsLHEFNpKhZar0DtcDLg==
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/cbsn.us.png" group-title="News",CBS News
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/dead4fdb-f215-423c-aa13-9305735240bf:BRU/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/cbsn.us.png",CBS News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:TMNMk85SfTaCoi02LjgOxkv8EWpIPD/KH6nChdaQOaMqWYpowu73S1HQXDrMeefdndb+htHUmR9pnow4Z48esQ==
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/abc_news_now.png" group-title="News",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-id="CNNInternational.us" tvg-logo="https://i.imgur.com/2BXCg0x.jpg",CNN International
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:V8hBgrJ9smUN60CFrng5QN9mb/xWhGoFgBVl7UUEQgVaIY28pvrc9tGbkd9kvEFqAdAUSznJjrN4IwZCha3X7JOeZXFpHii3XDMUF2+7jPY=
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nbc-news-2023-logo-6CFF9512D3-seeklogo.com.png" group-title="News",NBC News Now
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/abc_news_now.png",ABC News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:XpbhghrbxhhelhUEd1Y2F0CrFPi/F56iOHZPowqxqsTZGi2E0loZb/wUaxzPuT+See1Uj8Qji8A5fZNyjCFOTVmVf1kWQT0XqvN2+unlbKM=
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Now
+https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png",CBN News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1NicNkHMizvWaq0cp7MJrxc8J8QHjd4o75A8e0+YfeguCTBhpHzc1SHQZ1Y2r8QsYihm47JBjo03hU71lT4pfA==
+#EXTINF:-1 tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="News",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://i.imgur.com/XCbSfMb.jpg",Bloomberg TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1kH1Oypcfx0yvgB30fd/z1FyfqykGTO0n4/Qe168Ebl8nJFED7HJZEeQqfVOpI1ble7NMzvZucYNqxS+yqh5YaB+2XJE1nPXnwT4RACQVvGtiNsOn5V0tESzP3efzLbApenwvc0uX9Mp9EfcrbY7/A==
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/sky_uk_news.png" group-title="News",Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/03_1080-30.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTVUSLiveEvent.us" tvg-logo="https://i.imgur.com/XCbSfMb.jpg",Bloomberg TV Live Event
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:0jzwfGyZ5jaJseHioAEuzKnxreEhHK0voO8q4AHzr9UBuWp3yfEjEpOE/HFvaB85MRIIdxeY6dNQAT6ftJ7RczIp9nh55s+RpobfKmhvjWRZIZz6DTndWttSbiYq5rdWg4rgL6Ot6hawltLaR8JK5Q==
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="News",Bloomberg TV
+https://bloomberg-bloomberg-1-dk.samsung.wurl.tv/3933ffa69c9a3b07e53ee721dbb36004.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 (english)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjxbHrPshfVqET91Dc7ZWyv+ThNUI4PwUjk3MnFQHyrGHg==
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/05/51xZAebJMXL._SL1280_.jpg" group-title="News",Bloomberg TV+
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/France24.fr.png",France 24 (français)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NlBd/qAcJqCQVumSYH50wt1hapsRR8irwNDfEwgxMjw39e2lrovOxk37uyGcnN8LThNUI4PwUjk3MnFQHyrGHg==
+#EXTINF:-1 tvg-id="BloombergQuicktake.us" tvg-logo="https://dp6mhagng1yw3.cloudfront.net/entries/13th/dbd1f7b3-388f-4bb8-ac6d-30bc4bbf0a55.png" group-title="News",Bloomberg Quicktake
+https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-07-kJjPiAMfNFn_live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/Franceinfo.svg.png",TV5 Monde Info
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1CsJTiiRIE5Fm9orQqD2l1lqcO3pjPFIviiofVuHrfkAbzF0jUYkpFZ/BA9nktryyyl9PQU7vDZjDK3CcsMD/QTJv/Fx/iYzGHFTAtDD1k6tfpI73LACagAD5fy2cucLun2E5oLtxZUI+UoQVRFxzA==
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/France24.fr.png" group-title="News",France 24 (english)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://bo-apac.tv5monde.com/sites/default/files/styles/x_large/public/2020-06/logo-asie-pacifique_instagram_0.jpg",TV5 Monde Asie
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mvbX0jFIBQ11LDP+s351Y2LwkICGpZ0Y79l+xoUqlee1aJihMuiqdwgINbBNwB5N
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="News",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/francofonie_tv.png",Francophonie 24
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NGRfaNZKp7IPXHVOUhEKzwfVQhq5vA8XKTl/Wi5036F6rJqNXCDpz2PNBv5lNHyWlruLC/I0ZFzl1PRZngT4fK2zeLzeoctPlD3+/2RYqps=
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/francofonie_tv.png" group-title="News",Francophonie 24
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/chunklist_w1057435251_b2000000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/sky_uk_news.png",Sky News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:3TCw7TxQz11Ve/WY9seWbunt3fk8fkYbDvfayyoJVQUIcPcE5axlkJJMI6qlPYa1sxkZgqrsjLqNEasBEYGvSw==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/dw_en.png" group-title="News",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/dw_en.png",DW
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NhWRP5bsL7mCyEb5qRljuEv8EWpIPD/KH6nChdaQOaOxoRoYqz3BhWMhwbLe1m6Je/SSqTnELIXYNPBkhmn46zGew+Mk87Q205Mylz0bEPnUe9LG7rE+rk0Z57Tp6Wru
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg" group-title="News" group-title="News",RT News HD
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-america.png",RT America HD (4500kb)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:fjkmm/VJdb/5ItPpJxtbHs4iwz7XlyhS7TJEdqD3aav27A1V502w8MXdQHX2SSZU7SFj6BtmqBwT/ilh85XlMQ==
+#EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg" group-title="News",RT Español HD
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-america.png",RT America HD (2500kb)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:fjkmm/VJdb/5ItPpJxtbHs4iwz7XlyhS7TJEdqD3aaujXPR/sWTflucd5+l4UYHN7SFj6BtmqBwT/ilh85XlMQ==
+#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary" group-title="Documentary",RT Documentary HD (english)
+http://rtmp.api.rt.com/hls/rtdru.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-france.png",RT France HD (4500kb)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:MjeoFgBiIHjHra0tB6rdSF/eBDNR2LZN+AmajC5SA1Rt5eT5va+6Odb/nHsxKJLgayOkWho1LtIii44et82lpw==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn.png" group-title="News",CGTN News
+https://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-france.png",RT France HD (2500kb)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:MjeoFgBiIHjHra0tB6rdSF/eBDNR2LZN+AmajC5SA1RUectSRmyQFWGZEdnmoWLQayOkWho1LtIii44et82lpw==
+#EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg",RT News HD (uncensored)
-https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/chunklist_b978000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/cctv_francais.png" group-title="News",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn.png",CGTN News
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Bf8aSMZ87edMEd3nPhsVtZ6o+oyA85jSocOlqVnuo/B/k7RnGYKQ5hvzxAg3vn8o
+#EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/cctv_francais.png",CGTN Français
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:SyDX/BwZU2tFFpUsVIG/HdXiTGpXJsJNEPjka4rmGicyP5LODUwb1DvETUQ+Mb+JeMcx6cXwLPwOD8GFWw3+kg==
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/nhk_japan.png" group-title="News",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/nhk_japan.png",NHK World
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vRYhQajgTsaeHMzpYaW/orqiDtizfCXmhaBG+UMr37R6L2zgWcBI2DA6CwnJ53eI7J8zgNJxCThsb1twBk54gK1ip4cPgkGjWFvoZqz2yaa6fYTmgu3FlQj5ShBVEXHM
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/asia_news.png" group-title="News",CNA NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 
-#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png",Al Jazeera
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:afsFoKzfBiI4YPxcuPgIyUbVq72yACJJbbWOO2PDgQJ26DG2JBcX4XTvbdJGRaQa
+#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png" group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/asia_news.png",CNA NewsAsia
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:MkHdV9uAhNWNSh8W11hiBCURLxgj19yYic1FuhlL7sA9mKo/tq+TABOMAn08oTqhPETVeP1qQBnBoAMRu+5epumKYAzqh8j/5cOILo0cH6OVo5BWsDNEkcyNXaa3xz3E
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.digitalstudioindia.com/public/images/2017/05/18/cpac-1.jpg" group-title="News",CPAC
+https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/onu_tv.png",ONU TV 
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:uh3ZWjBwtJlAAHOIrePeRDqw1nZlVw5lM7jTzhPcxs+fWXolp/4XW9o1y8l43oUnSBz0bfovaZMa4fznn7RY0A7+vaqS0/FXe9zhFGP+IxF3p8Oh5wDdUi0iuDaxleXSqRpz+eGVuTDOlw0U770c3A==
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNwxtc_wvgxixOPCTQcYjm3yroxrtduzN-VA&s" group-title="Legislative",Assemblée Nationale Quebec
+https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CPAC.ca" tvg-logo="https://www.itk.ca/wp-content/uploads/2017/05/cpac_social_seo_logo_bil_1200x630.jpg",CPAC English
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vsRcsEHUjXjZ2GmNpEVb1We+vsiiegX9YEGMeMN3vdoAbzF0jUYkpFZ/BA9nktryzhvQhepBMb3zCdObGtCpnvQL6FjysE8SGdoxdxW0JBhXNkHVRR7nP+VfIQz2FYBnsI3A21hr6G6JlV8rDCDL6Q==
+#EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Legislative",Legislative Assembly of Ontario
+https://temp4.isilive.ca/live/_definst_/ontla/house-en/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="CPAC.ca" tvg-logo="https://www.digitalstudioindia.com/public/images/2017/05/18/cpac-1.jpg",CPAC Français
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vsRcsEHUjXjZ2GmNpEVb1We+vsiiegX9YEGMeMN3vdoAbzF0jUYkpFZ/BA9nktryDzd1HPNJ7dqesjCqhCyG79IaXdetXZXIJHOENjaGXbef5ApAM9pol2/zwssHXAVh
+#EXTINF:-1 tvg-id="NTV.ca" tvg-logo="https://ntvplus.ca/wp-content/uploads/2024/04/ntvplus-logo-gold.png" group-title="Entertainment",NTV+ TV
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/iss_cam.jpg",International Space Station 1
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dSJzHPuPXRWlYMpVWq97M2nRpd2/l5YCy29bacWYwX2lYovON69g9MM949YUPbrl9qc9/EM1H7d21HZctXCVi6/XxrkHE3dQ0Lk8ohCAVLGf5ApAM9pol2/zwssHXAVh
+#EXTINF:-1 tvg-id="NTV.ca" tvg-logo="https://ntvplus.ca/wp-content/uploads/2024/04/ntvplus-logo-gold.png" group-title="WebCam",NTV (George Street Cam)
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/iss_cam.jpg",International Space Station 2
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dSJzHPuPXRWlYMpVWq97M2nRpd2/l5YCy29bacWYwX1FxTlhVnpmguwlyiIlCLNLr56ujUhDJCG+NnhbgNZuhyJ/eNi1QG4q1jb7kEBfjq66fYTmgu3FlQj5ShBVEXHM
+#EXTINF:-1 tvg-id="NTV.ca" tvg-logo="https://ntvplus.ca/wp-content/uploads/2024/04/ntvplus-logo-gold.png" group-title="WebCam",NTV (Port De Grave Cam)
+https://2-fss-2.streamhoster.com/pl_126/201748-1336964-1/chunklist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (4500kb)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JNzukjJQ6axbRZsTcEOQv1M7SFj6BtmqBwT/ilh85XlMQ==
-
-#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png",RT Documentary HD (2500kb)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:cafromm8AYjXl+J9lV+3udPWrUg8/mszj0KXBIxz2JOmQYbeAI2wOF6zxjY9wuq87SFj6BtmqBwT/ilh85XlMQ==
-
-#EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png",CGTN Documentary
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:yxHBfDzCqK/a8o2EedOl7qsNvedso7uhgaG7tGthdhQRYblB8eJL0fqXFjNhjZI2
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wSURfN9.jpg",Assemblée Nationale Quebec
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:o8LODIiuqkIDFlZjSHY8BnfNY2bGJEtkUm/WaWtTMKeaC4Lcgr/7qQNxrEgV30Un3ZgsO+Uc+LeiH0ZwT/4QUQ==
-
-#EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" tvg-logo="https://i.imgur.com/4gL9GEa.png",Legislative Assembly of Ontario
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:9t+wd9ap4ADnIL6qDt3cyXBkdeRwrplCq71tn5GjNZ51B/tJTCXWUQz9qZZTff0JeHXRlSPG8gVIEkDOacOpR2wNzRoDiMakerw+flUMQquVo5BWsDNEkcyNXaa3xz3E
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kdgMVOI.png",Knowledge Network (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:p8+jyMdtfaElY26GDfBODzYZcHLfX4crWs5CXMh2X3iSdSkDe6UaM0S2E96mL209QzPqzoFs/Gudft63VUEVDQ==
-
-#EXTINF:-1 tvg-id="NTV.ca" tvg-logo="https://i.imgur.com/rI4DCiE.png",NTV (CJON-DT)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:fGwtDb4yPLOSy4HDvXJuRRe/roVbBC/kAjqxepX0eDlVcUp8vWv2Gym4BF/+q6O7YWe3pWwTUVk19i6Cmaz61q9vRSWOsNLs98tV7aOIetg=
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/francofonie_tv.png",Francophonie 24
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:NGRfaNZKp7IPXHVOUhEKzwfVQhq5vA8XKTl/Wi5036F6rJqNXCDpz2PNBv5lNHyWlruLC/I0ZFzl1PRZngT4fK2zeLzeoctPlD3+/2RYqps=
+#EXTINF:-1 tvg-id="NTV.ca" tvg-logo="https://ntvplus.ca/wp-content/uploads/2024/04/ntvplus-logo-gold.png" group-title="WebCam",NTV (St. John’s Sky Cam)
+https://2-fss-2.streamhoster.com/pl_126/201748-1288230-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uIZSky1.png",Tele Quebec
 https://feedlix.net/videos/promo.mp4
