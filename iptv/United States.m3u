@@ -60,13 +60,16 @@ https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nbc-news-2023-logo-6CFF9512D3-seeklogo.com.png" group-title="News",NBC News Now
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News" group-title="News",Fox News Now
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Now
 https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="News",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="News",Bloomberg TV (geo)
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTVUSLiveEvent.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="News",Bloomberg TV Live Event
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="News",Bloomberg TV (op.2)
+https://bloomberg-bloomberg-1-dk.samsung.wurl.tv/3933ffa69c9a3b07e53ee721dbb36004.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVUSLiveEvent.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="News",Bloomberg TV Live Event (geo)
 https://d1g4mbj10o50ni.cloudfront.net/evt/Channel-USEvt-AWS-virginia-1/Source-USEvt-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVUSPoliticsLiveEvent.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="News",Bloomberg TV Politics Live Event
@@ -105,8 +108,8 @@ https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/cha
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1027724048439156738/A7YOKx0Z_400x400.jpg" group-title="News",Infowars (only audio)
 https://freespeech.akamaized.net/hls/live/2024573/live2/audio_0_eng/audio_0_eng.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/fr/France24.fr.png" group-title="News",France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/France24.fr.png" group-title="News",France 24 (english)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/dw_en.png" group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
@@ -137,6 +140,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png" group-title="News",RTVE 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-id="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1024px-TeleSUR-Logo.svg.png" group-title="News",TeleSur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png" group-title="News" group-title="News",Press TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
@@ -567,7 +573,7 @@ https://ctntv.getstreamhosting.com:1936/CTNTV/CTNTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2020/11/ctn-lifrsty-vipotv.png" group-title="Religious",CTN Lifestyle TV
 https://ctntv.getstreamhosting.com:1936/Lifestyle/Lifestyle/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="Religious",CBN News
+#EXTINF:-1 tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="News",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBNFamily.us" tvg-logo="https://image.roku.com/developer_channels/prod/b8a7fbc8508bddc8edc12b9edd8baccfed4287d230b63c3e750777d65dd9007d.png" group-title="Religious",CBN Family
