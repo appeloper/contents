@@ -111,106 +111,78 @@ https://2-fss-2.streamhoster.com/pl_126/201748-1336964-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="NTV.ca" tvg-logo="https://ntvplus.ca/wp-content/uploads/2024/04/ntvplus-logo-gold.png" group-title="WebCam",NTV (St. John’s Sky Cam)
 https://2-fss-2.streamhoster.com/pl_126/201748-1288230-1/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uIZSky1.png",Tele Quebec
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:k4pXBxFyk7vT4gsVaIQCtYzMe2jB4tRjx69LfRI7tOAoQmxo/4/nctIzsYnCba9Eras9btvSHHfTkyT0lSZ8wLeQ0YC4eS9avtdvSCO0S3b6U7QTbHbsWfnrlbUcOfgNJH1rnvGiC8KX3xYuDFmXJg==
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uIZSky1.png" group-title="General" group-title="General",Tele Quebec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/mycomedy-tv_logo.jpg",My Comedy
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5NWdph6noAWb5XQlbrQM1hqVJD+gVHqcTwglRY1apgcCQ/WcEZVi/FxjRAOwT9/ohsk3F76hT8vn1huHKoYSI1SgOsydobOrV+29nA/BWRXCtpaZTNZ7BQLvVVarmNLFfA+JCZFTCPqN2RxnLe1dLLp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/mycomedy-tv_logo.jpg" group-title="Entertainment",CBC Comedy (geo)
+https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
 
-#EXTINF:-1 tvg-id="MHZ.ca" tvg-logo="https://i.imgur.com/a5fw83n.jpg",MHZ
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:oRq7jxCBv5/jwlHJcfDkmrWMKr06idmstiZ6uSlUZ8+XvJFOUuqlxTB0PS7qNcfpzKZCislxjhhwL5diw6KFEO4OSN/UXYJgqyveVfJELAg=
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K1AUUrO.png" group-title="General",Noovo
+https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K1AUUrO.png",Noovo
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:vsRcsEHUjXjZ2GmNpEVb1We+vsiiegX9YEGMeMN3vdoAbzF0jUYkpFZ/BA9nktryo/lb8AQbgOE4X5F1bvftFPeUS1Tba5N8gsPWBY0tOTU=
+#EXTINF:-1 tvg-id="TeleCulturelleMedias.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlKOc76RPRJ6UkOTICZU-EPgu6sGB2GgW9yA&s" group-title="General",TCM Télé Culturelle Médias (geo)
+https://stream.castr.com/631f9bb9ecbe28ce6910385a/live_79b37a4032dd11ed85c9d9bece7b557e/index.m3u8
 
-#EXTINF:-1 tvg-id="TeleCulturelleMedias.ca" tvg-logo="https://i.imgur.com/oRigj9q.jpg",TCMN Télé Culturelle Médias
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:W/dDqYTF7iTyXYFJDdnUMIKXoUzozAp0nadDBowNWUQZbeXLSrekTzBr5bJdLMOgxNpxAZNvul8SZ78yzs0/1Q==
+#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="https://www.citeboomers.com/wp-content/uploads/2024/04/65c29c9f-1d58-4d52-b8af-5b9592aba34a_mq.png" group-title="General",Canal Savoir Media
+https://hls.savoir.media/live/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/D5tv.fr.png",D5 TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:5NWdph6noAWb5XQlbrQM1rDNLjmYCAlybkuHWYze+FQCQ/WcEZVi/FxjRAOwT9/ovE/Up3jfXWIYsJDc88weHUVSuwv6FPJUFq1WUwvJ4n06Ch0lPCzrnWtHLemB7VrqaOfeyB6FC5rU7ATB/NSzNLp9hOaC7cWVCPlKEFURccw=
+#EXTINF:-1 tvg-id="CanadaStarTV.ca" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nG-znf6MZA2409-_Qds7iOv3MufUSjVK_OaedK_4UAJwY=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Canada Star TV (geo)
+https://main.clickstreamcdn.com/agm/star-canada/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2bwPnSg.png",Medi 1 TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:1nFdR5axPf7h2tgi8aPdapL+d8Opp5dZdu7s+wZGdhltiTNAx4bjl9dJCofAYCMisHKNUJgUGLsYhy5vy52/7CFvARWgYjPxNVv4XB4eN50=
+#EXTINF:-1 tvg-id="PrimeCanadaTV.ca" tvg-logo="https://pbs.twimg.com/profile_images/1604955939836252163/cWfBXLdI_400x400.jpg" group-title="Entertainment",Prime Canada TV (geo)
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-logo="https://i.imgur.com/rAZBgir.png",Canal Savoir
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:6e8YXkSe2RuCG1WFm4GZQgvgwjUE4PBmudUgSVg2ArHkLZ40h0H4aLOWIL3pXoiT
+#EXTINF:-1 tvg-id="GHCanadaTV.ca"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPrDAkzeOJCkD_tJe9PgMkJlSjEv01SLHFMQ&s" group-title="General",GH Canada TV
+https://stream.bozztv.com/tvstat-tamar/tvstat-tamar/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanadaStarTV.ca" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg",Canada Star TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:z6Qc4RSkY+iwhCEYIyMsaVVyQwBXUE15ZBFkiG7wfsvzAjU3uDl2+y15VW/MiHvI9gcvzynIuxRWzbAmdC5aFJOeZXFpHii3XDMUF2+7jPY=
+#EXTINF:-1 tvg-id="GTNCanada.ca"tvg-logo="https://t4.ftcdn.net/jpg/05/26/49/71/360_F_526497171_bBDelA8waBpGjfX6C8jrHByxNuenkxB5.jpg" group-title="General",GTN Canada
+https://tvsw1-hls.secdn.net/tvsw1-chorigin/play/prod-1fddbb57573c4f80bcf79c807f720178/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PrimeCanadaTV.ca" tvg-logo="https://i.imgur.com/rEKsf20.jpg",Prime Canada TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ywe4W/cA7um4fPGIdwpal5hFk91ujPtruM19/JC1S68L9rHcVVGoUNybXqCm9FdaZadLLVZtm44RbpGIhUDe/RKs56L87uAijz//uWHv0h0=
+#EXTINF:-1 tvg-id="EMCITV.ca" tvg-logo="https://pbs.twimg.com/profile_images/980157462887256064/CcnUIYrA_400x400.jpg" group-title="General",EMCI TV
+https://live-c.cf.dmcdn.net/sec2(Mi7gJQf-as0BGdSmBU8TGpCixIc30PcfLRBuFUzKSqJLWUDgfiQPgJfv7lfQz2jU7maBj5bVUCg8x0hyGpjuG-eUl-yK9IarIw6oj07LEmo)/dm/3/x8azdk1/s/live-3.m3u8
 
-#EXTINF:-1 tvg-id="EMCITV.ca" tvg-logo="https://pbs.twimg.com/profile_images/980157462887256064/CcnUIYrA_400x400.jpg",EMCI TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:QqhR+VcJdYgDJODrSGdzEOrkf9DOVldx1wf/c3ODNR5BsAvQNknRP9RHyXvutW/4PYpnADQhUL8l1AXgN1gXpYOK4C+jreoWsJbS2kfCSuU=
+#EXTINF:-1 tvg-id="Toronto360TV.ca" tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="General",Toronto 360 TV
+http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Toronto360TV.ca" tvg-logo="https://i.imgur.com/PkWndsv.png",Toronto 360 TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:2olJclNwXZDksduYqQT/Ki5PfAu6utkMTrjk1BL7a+9YLcVVsBW74Te72f86Bwa4Qjc30gxzpWbs18vBA71I6g==
+#EXTINF:-1 tvg-id="CanadaOne.ca" tvg-logo="https://static.wikia.nocookie.net/closinglogogroup/images/1/12/EOneUK-2017-PeppaPigFirstCinemaExperience.png" group-title="General",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanadaOne.ca" tvg-logo="https://i.imgur.com/zr6KoiS.jpg",Canada One
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:HAgshoJ4bXOZX/kOi24kL8W8YCQE3J273rMEvspBTh66SePFF5ZefR5Xibt7VvZvyqqSytVvAcQPVwANDTyxQA==
+#EXTINF:-1 tvg-id="EawazTV.ca" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/715sGusMBZL.png" group-title="General",Eawaz TV
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DealornoDeal.ca" tvg-logo="https://i.imgur.com/soOgFFc.jpg",Deal or no Deal
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:VD+El/oGZJwqzL/KRqw9izPvEjl9D9jP6sCukQHPXRqC0VkRvbaBnzJ2146LgXSnAdAUSznJjrN4IwZCha3X7JOeZXFpHii3XDMUF2+7jPY=
+#EXTINF:-1 tvg-id="QVTV.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaKxCgaD-ND-WMJGY6qoLAPhYRnYJxNTmIEg&s" group-title="Religious",Quo Vadis TV
+https://tgn.bozztv.com/qvtv/qvtv-web/tracks-v1a1/mono.m3u8?nimblesessionid=141922112
 
-#EXTINF:-1 tvg-id="DryBarComedy.ca" tvg-logo="https://i.imgur.com/a3mGVRE.jpg",DryBar Comedy
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:eV5MMLJ5pIG8NRgUqOa6E2aHxrqvwG3COKhpsxcPSxsCNwgGMm3u0ful5oS1NW6cI2Pf8xEmq9sS8/yJSNC5DcqqksrVbwHED1cADQ08sUA=
+#EXTINF:-1 tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" group-title="Religious",EWTN
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EawazTV.ca" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/715sGusMBZL.png",Eawaz TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:ze200/baQdA86lHkfoGXaf/DdiV5i/4BxKcF4iILiurMKa5EK6QCtqvNn0IpGvEidX08WlXVFoNDmj7Ywi+3ka9vRSWOsNLs98tV7aOIetg=
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/526675/horizontal/3ABN--1480x840.1659535621.jpg" group-title="Religious",3ABN
+https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="QVTV.ca" tvg-logo="https://i.imgur.com/X9LBFzK.jpg",QV TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:N+fhS6UIDQAAC4MDOH3Gkly1fReYEXi3PVoP9Psfqi3Q4VWP5vwRubhFobKJKgu4n+QKQDPaaJdv88LLB1wFYQ==
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/3084114/horizontal/2f6216c2-f160-4427-94ec-efac4c351be4.jpg",3ABN Canada
+https://3abn.bozztv.com/3abncanada/3ABN/SD480/SD480.m3u8
 
-#EXTINF:-1 tvg-id="EWTNCanada.ca" tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png",EWTN
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:dDyLtS8CKhHxyh12RjyGS/e4gyVTKkjogYSaipxf+O8fuxOfSqp6ivtL7O/c6ttfDQhjUKkwE5gaTfoSTDHw2qv4CGukWj0mRSiw3uIaOdOVo5BWsDNEkcyNXaa3xz3E
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/739696/horizontal/French-1480x840.1659539108.jpg" group-title="Religious",3ABN France
+https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/chunklist_w2138748138_b1928000_slen.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg",3ABN
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:exFCOWBZOodrNdlT4gxcBGGYLtiG6Yty7Q815g+tMvbk/2bZIje5Y66xJbHJnLino1KYUGbDg4YGHRadc1Na2Y1pCr6GccJAT47PaDhkcnY=
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/534693/horizontal/Latino1480x840.1659537624.jpg" group-title="Religious",3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/chunklist_w161964424_b1928000_slen.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg",3ABN France
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:exFCOWBZOodrNdlT4gxcBGGYLtiG6Yty7Q815g+tMvaiXy9vdfBYH35UBCy4+2nOeSG8zksP43zvEnjm4W5qeY1pCr6GccJAT47PaDhkcnY=
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/530203/horizontal/D2D-1480x840.1659535818.jpg?auto=webp&width=700" group-title="Religious",3ABN Dare to Dream
+https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/chunklist_w86957213_b1928000_slen.m3u8
 
-#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-logo="https://i.imgur.com/zXWgbVk.png",Amazing Discoveries TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:AJ5yuAbHs4juH1Hlt3oxcIKyPTxQOjwkFJrBd7DtV+yOL5yLRH1c4CygEQUrjoZVOp7RjRjy024pH0a9fkYiAyy8K458c2f6yhIOv2Ff1e8=
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/527372/horizontal/Proclaim-1480x840.1659535750.jpg" group-title="Religious",3ABN Proclaim
+https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/chunklist_w330060329_b1928000_slen.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mpJICdg.png",Salt + Light TV
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:Ak/PE6FhVvmqU762f17YsqPib4HfYj4URF/Mq3ne4ukhi1+U8YQujxQMKwXSW90Lcypo7rr3VtXpqb0jPeV2LNCLC9NxtZ2zPdqPkzyN8HJ3HXSv8mDl8KaPpYPjsSJE
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/531102/horizontal/Praise-Him1480x840.1659537466.jpg" group-title="Religious",3ABN Music
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/chunklist_w476019436_b2128000_slen.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ca/miraclechannel_ca.png",Miracle Channel (geo)
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:mH+JTLQzLoNCa1IQ7nJlhbuG0Lsb89SonC+vKZVJ1G2xfGFBmaxjTKx/Uhuh8HqJ+44aGiBcLFe+JBdT42vjKLhfpUn2o1e/eMxO0Vu4YgE=
+#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ca/gospeltv_ca.jpg",Gospel TV Canada
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:W43hQDgn40As2Otiz/5kFhs5Oj2fIJBgPN4sTVI/PGcRlvLO0GhQgv+sqsYcMFGp9iIWaefU7fcvV6zU/YxfWg==
+#EXTINF:-1 tvg-id="TSC.ca" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToRDAkTyYR2Nif6TdX2jHe5KTmDoR4v3RkxEiNIOEPXpTDQt3zCQcG7zp4endSnttDdCs&usqp=CAU" group-title="Shopping",TSC
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_2_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="TSC.ca" tvg-logo="https://i.imgur.com/i3lItFB.png",TSC
-https://feedlix.net/videos/promo.mp4
-#EXTSEC:3f9R4Ou7tGXob4ERrLR+fYYU1/fG0ZuwsFW7jlBfjZEA2khdqw/lBHxKHOOgQ4jHvLaQNBO4KsH8eVCYiZAHHniaxVqNLv/pE+eluxQ/wjCvhwhQaEZQiKOm9qAy8zvcrP0/O8uDXC09m3053XlAUA==
-	
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BnSfbEk.png",The Weather Channel (geo)
 https://feedlix.net/videos/promo.mp4
 #EXTSEC:eyAJqzHow5yN8Y2dikbwASSYbRCBOBbNVHf3mABC2ale6IxDer9t1pGMFCXZJS6dr18JMCT8LMOlMQkR2WVRWA==
