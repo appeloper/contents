@@ -6,7 +6,7 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="Arte" tvg-logo="https://feedlix.net/tv/fr/arte_fr.png" group-title="General",Arte HD (op.2)
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="News",TV5 Monde Info (geo)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="News",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5Monde.fr.png" group-title="News",TV5 Monde (geo)
@@ -243,8 +243,8 @@ https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LA3" tvg-logo="https://feedlix.net/tv/fr/rti-la3.png" group-title="Entertainment",La 3 (Côte d'Ivoire)
 https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/3ABN_Francais_Logo_2015.png" group-title="Religious",3ABN France
-https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/739696/horizontal/French-1480x840.1659539108.jpg" group-title="Religious",3ABN France
+https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/chunklist_w2138748138_b1928000_slen.m3u8
 
 #EXTINF:-1 tvg-id="SophiaTVFrancais.de" tvg-logo="" group-title="Religious",Sophia TV
 https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
