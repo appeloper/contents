@@ -435,9 +435,6 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=180
 #EXTINF:-1 tvg-id="CABC2300017XX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300017XX_20230926T000658SQUARE.png_20230926000659.png" group-title="Kids",HappyKids
 https://jmp2.uk/SamsungTVPlus/CABC2300017XX.m3u8
 
-#EXTINF:-1 tvg-id="CABC2300017XX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300017XX_20230926T000658SQUARE.png_20230926000659.png" group-title="Kids",HappyKids
-https://jmp2.uk/SamsungTVPlus/CABC2300017XX.m3u8
-
 #EXTINF:-1 tvg-id="62ea3ec626dc1900078e9f26" tvg-logo="https://images.pluto.tv/channels/62ea3ec626dc1900078e9f26/colorLogoPNG.png" group-title="Kids",Paw Patrol
 https://jmp2.uk/PlutoTV/62ea3ec626dc1900078e9f26-alt.m3u8
 
