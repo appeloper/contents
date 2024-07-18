@@ -206,10 +206,10 @@ https://bonappetit-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-condenast-rakut
 https://jmp2.uk/PlutoTV/5e6f38792075160007d85823-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/526675/horizontal/3ABN--1480x840.1659535621.jpg" group-title="Religious",3ABN
-https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/530218/horizontal/International1480x840.1659537368.jpg" group-title="Religious",3ABN International
-https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/chunklist_w322769213_b1928000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" group-title="Religious",EWTN
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
@@ -277,8 +277,8 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_h
 #EXTINF:-1 tvg-id="" tvg-logo="http://static2.wikia.nocookie.net/__cb20120506182316/logopedia/images/2/21/Beano1974.png" group-title="Kids",Beano TV
 https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/532608/horizontal/Kids1480x840.1659537556.jpg" group-title="Kids",3ABN Kids
-https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg" group-title="Kids",3ABN Kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w1880211654_b1928000_slen.m3u8
 
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Teletubbies_Logo.png" group-title="Kids",Teletubbies
 https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
