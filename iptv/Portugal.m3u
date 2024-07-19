@@ -471,14 +471,29 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/4mg1tZ.png" group-title="Undefined",Carac1 TV (night +16)
 https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w2011542814_b1896000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/Bq59q3ZCYAAf-zZ.jpg" group-title="Lifestyle",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV Live
-https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/chunklist_w1416773050_b1896000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/visuals-000015507455-lyChCD-t1240x260.jpg" group-title="Lifestyle",Miami TV Life
+https://59ec5453559f0.streamlock.net/miamitvlife/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miami_tv.png" group-title="Lifestyle",Miami TV Latino
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/chunklist_w888342636_b1896000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://vivaespaña.tv/user/upload/source/Miami%20TV%20Latino%201080.png" group-title="Lifestyle",Miami TV Latino
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://channels.roku.com/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg" group-title="Lifestyle",Miami TV Mystery
+https://59ec5453559f0.streamlock.net/miamitvmystery/miamitvmystery/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://channels.roku.com/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg" group-title="Lifestyle",Miami TV Gold
+https://59ec5453559f0.streamlock.net/miamitvgold/smil:WEB/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://channels.roku.com/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg" group-title="Lifestyle",Miami TV Health
+https://59ec5453559f0.streamlock.net/miamitvhealth/smil:WEB/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000125108313-wt6hlw-t240x240.jpg" group-title="Lifestyle",Miami TV Music
+https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://miamitv.com/images/1720916971.jpg" group-title="Lifestyle",Miami TV DJ
+https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/onfm_tv.jpg" group-title="Music",ON FM TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
