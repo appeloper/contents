@@ -432,6 +432,21 @@ https://jmp2.uk/SamsungTVPlus/DEBC21000022L.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png",Vevo True School Hip-Hop
 https://jmp2.uk/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="Music",VH1+ Music Legends
+https://jmp2.uk/PlutoTV/62e8cc10ca869f00078efca8-alt.m3u8
+
+#EXTINF:-1 tvg-id="6552085aab05240008b05f6c" tvg-logo="https://images.pluto.tv/channels/6552085aab05240008b05f6c/colorLogoPNG.png" group-title="Music",VH1+ Back to 90's
+https://jmp2.uk/PlutoTV/6552085aab05240008b05f6c-alt.m3u8
+
+#EXTINF:-1 tvg-id="636a4173e34fd50007534542" tvg-logo="https://images.pluto.tv/channels/636a4173e34fd50007534542/colorLogoPNG.png" group-title="Music",VH1+ Rock!
+https://jmp2.uk/PlutoTV/636a4173e34fd50007534542-alt.m3u8
+
+#EXTINF:-1 tvg-id="63724270c7c2360007b170e8" tvg-logo="https://images.pluto.tv/channels/63724270c7c2360007b170e8/colorLogoPNG.png" group-title="Music",VH1+ Canzoni Italiane
+https://jmp2.uk/PlutoTV/63724270c7c2360007b170e8-alt.m3u8
+
+#EXTINF:-1 tvg-id="65e5d9d2ec9fda0008c35f91" tvg-logo="https://images.pluto.tv/channels/65e5d9d2ec9fda0008c35f91/colorLogoPNG.png" group-title="Music",VH1+ Dance
+https://jmp2.uk/PlutoTV/65e5d9d2ec9fda0008c35f91-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/2556.gif",Visual Radio
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 
