@@ -24,7 +24,7 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_6.m3u8
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/squidbillies.jpg" group-title="Kids",24/7 Squidbillies
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_6.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.sharetv.com/shows/standard/superjail.jpg" group-title="Kids",24/7 Superjail!
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cd/Superjail%21.png" group-title="Kids",24/7 Superjail!
 https://adultswim-vodlive.cdn.turner.com/live/superjail/stream_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/venturebros.png" group-title="Kids",24/7 The Venture Bros.
@@ -183,6 +183,9 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:-1 tvg-id="5db0ad56edc89300090d2ebb" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="Kids",Kids Movie Club
 https://jmp2.uk/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kTVf6XREeixxFD3Pf8EDj6qScrEFNEx_V1hlBb7TPeQQ=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",Kidspang TV
+https://newidco-kidspangtv-1-us.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://i.imgur.com/pb94kIk.png" group-title="Kids",Kids Station
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 
@@ -209,8 +212,6 @@ https://jmp2.uk/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
 
 #EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="Kids",Majid TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 3 EUR
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
@@ -320,6 +321,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pBv3Lz0.jpg" group-title="Kids",Pluto TV Vida Moderna de Rocko
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/640px-Pop_UK_TV_Logo_%282015%29.svg.png" group-title="Kids",Pop Kids
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiGulp_hd.png" group-title="Kids",RAI Gulp HD (geo IT)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
