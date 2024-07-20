@@ -1101,6 +1101,9 @@ https://stream.rfm.fr/rfm-wr4.aac
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/64517.v3.png" group-title="Radio",Top Hits France (Radio FR)
 http://91.121.59.45:8178/stream
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/13587.v4.png" group-title="Radio",105 (Radio IT)
+https://icecast.unitedradio.it/Radio IT105.mp3
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/CaPJzfPUsB.png" group-title="Radio",105 Dance 90 (Radio IT)
 https://icy.unitedradio.it/105Dance90.mp3
 
@@ -1110,17 +1113,17 @@ https://icy.unitedradio.it/105Classics.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/063/radio-105fm.9705b3b5.png" group-title="Radio",105 Hits (Radio IT)
 https://icy.unitedradio.it/105Hits.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/s2mBqFBu29.png" group-title="Radio",105 Miami (Radio IT)
-https://icy.unitedradio.it/105Miami.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/14092.v4.png" group-title="Radio",60 70 80 (Radio IT)
+https://ice.studiopiu.net/607080.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/USvJhJ2zXw.png" group-title="Radio",105 Rap Italia (Radio IT)
-https://icy.unitedradio.it/105RapItalia.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/11120.v3.png" group-title="Radio",Antenna 1 Roma (Radio IT)
+https://a1-it.newradio.it/stream?
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Vyp6Ef6smX.png" group-title="Radio",105 Story (Radio IT)
-https://icy.unitedradio.it/105Story.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/65110.v9.png" group-title="Radio",Balla Balla (Radio IT)
+https://ice15.fluidstream.net/ballaballa.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/90c2150b74aec8c5e3865d0419904069.jpg" group-title="Radio",Antenna Web (Radio IT)
-https://italiavera.radioca.st/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/14102.v4.png" group-title="Radio",Birikina (Radio IT)
+https://ice01.fluidstream.net/birikina
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/DUpAj8QVmN.png" group-title="Radio",Company (Radio IT)
 https://sphera.fluidstream.eu/company.aac
@@ -1134,50 +1137,35 @@ https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radio
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/cf4dcf54480ca9b2124731a90fdf9903.png" group-title="Radio",Disco FM (Radio IT)
 https://icstream.rds.radio/disco_aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/8a9d9327f2a2c49ef76939aa51fbf9a2.jpg" group-title="Radio",Energy Web (Radio IT)
-https://energyitalia.radioca.st//stream/;stream.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/11119.v11.png" group-title="Radio",Italia Anni 60 (Radio IT)
+https://ice10.fluidstream.net/anni60tn.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1eabb74ea59832ce3b190b1bd2a37367.jpg" group-title="Radio",Ibiza FM (Radio IT)
-https://ice02.fluidstream.net/ibiza.aac
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/radios-150px/8C5QtKWFvz.png" group-title="Radio",Italia Classics (Radio IT)
-https://www.shoutcastitalia.com/proxy/italiaclassic?mp=%2Fstream%3Fext%3D.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/3344b5a57aa75f949ba2ac334403a631.jpg" group-title="Radio",Italia Dance Music (Radio IT)
-https://sr2.inmystream.it/proxy/italiadancemusic/stream2/;stream.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/radios-150px/YAwPQLLnn3.jpg" group-title="Radio",Italia Novanta (Radio IT)
-http://stream.laut.fm/italia90
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/NYG2XdkZDK.jpg" group-title="Radio",Italia Ottanta (Radio IT)
-http://stream.laut.fm/italia80
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/radios-150px/A9NdzGxSc2.jpg" group-title="Radio",Italia Settanta (Radio IT)
-http://stream.laut.fm/italia70
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cgwtYkMAfr.jpg" group-title="Radio",Italia Vintage (Radio IT)
-https://nr12.newradio.it:8680/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/20557.v7.png" group-title="Radio",Italia Dance Music (Radio IT)
+https://sr2.inmystream.it:18032/stream
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/radios-150px/76QzcCMb3h.png" group-title="Radio",Kiss Kiss (Radio IT)
 https://kisskiss.fluidstream.eu/KKItalia.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/243c579b8e5057d250bee319088abe9a.jpg" group-title="Radio",Lolli Italia (Radio IT)
-https://stream.lolliradio.net/lolli_italia.mp3
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5626fc2fd15c8d040ac61f11f9860201.jpg" group-title="Radio",M20 (Radio IT)
 https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cp9tj2klt7e2.png" group-title="Radio",Music Italia (Radio IT)
-https://energyitalia.radioca.st/index
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/49046.v11.png" group-title="Radio",Milano Lounge (Radio IT)
+https://centova.wlservices.org/proxy/pufepstm?mp=/stream
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/20498.v12.png" group-title="Radio",Monte Carlo (Radio IT)
 https://icecast.unitedradio.it/RMC.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/11268.v4.png" group-title="Radio",Nostalgia (Radio IT)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cp9tj2klt7e2.png" group-title="Radio",Music Italia (Radio IT)
+https://energyitalia.radioca.st/index
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/11268.v4.png" group-title="Radio",Nostalgia Liguria (Radio IT)
 https://rn1.fluidstream.eu/nostalgia_li.mp3
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s63639/images/logog.png" group-title="Radio",Number One (Radio IT)
 http://wma02.fluidstream.net/RN1TV/livestream/chunklist_w860321532.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/18067.v5.png" group-title="Radio",Nuova San Giorgio (Radio IT)
+https://eu1.fastcast4u.com/proxy/eenter07?mp=/;
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/14037.v7.png" group-title="Radio",Otto FM Italy (Radio IT)
 http://streaming.bitonlive.net:12000/ottofmita.mp3
@@ -1185,17 +1173,38 @@ http://streaming.bitonlive.net:12000/ottofmita.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b76753db9d6121de7f08fcbb25b907c5.png" group-title="Radio",Radio One (Radio IT)
 https://hts04.kshost.com.br:8134/live/;stream.mp3
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/11107.v8.png" group-title="Radio",R101 (Radio IT)
+https://icecast.unitedradio.it/r101_mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/11863.v10.png" group-title="Radio",Rai 1 (Radio IT)
+https://icestreaming.rai.it/1.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/11860.v5.png" group-title="Radio",Rai Tutta Italiana (Radio IT)
+https://icestreaming.rai.it/4.mp3
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/radios-150px/sfLT5tVZWG.jpg" group-title="Radio",Relax (Radio IT)
 https://radiorelax.streamingmedia.it/play
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/49028.v1.png" group-title="Radio",Romantica 93.9 (Radio IT)
+http://5.196.75.187:8004/;
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/64621.v13.png" group-title="Radio",RTL 102.5 (Radio IT)
+https://streamingv2.shoutcast.com/rtl-1025
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/12129.v14.png" group-title="Radio",RTR 99 (Radio IT)
+https://rtr99.fluidstream.eu/rtr99.aac
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5d3ad5c9313ebc296b1755ab54312153.jpg" group-title="Radio",Top Italia (Radio IT)
 https://manager5.streamradio.fr:1815/stream
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/47354.v5.png" group-title="Radio",Virgin Radio (Radio IT)
-https://icecast.unitedradio.it/Virgin.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/89686.v5.png" group-title="Radio",Trance Energy (Radio IT)
+https://radio.trance-energy.org:8443/trance
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.virginradio.it/resizer/119/119/true/Webradio-Virgin-2020-Rock2K-1588063024607.png--.png" group-title="Radio",Virgin Rock 2K (Radio IT)
-https://icy.unitedradio.it/Virgin_02.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/20494.v4.png" group-title="Radio",Venice Classic (Radio IT)
+https://uk2.streamingpulse.com/ssl/vcr1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/47354.v5.png" group-title="Radio",Virgin (Radio IT)
+https://icecast.unitedradio.it/Virgin.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.virginradio.it/resizer/119/119/true/Webradio-Virgin-2020-Rock70-1588062930899.png--.png" group-title="Radio",Virgin Rock 70 (Radio IT)
 https://icy.unitedradio.it/VirginRock70.mp3
@@ -1223,9 +1232,6 @@ https://icy.unitedradio.it/VirginRockHits.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.virginradio.it/resizer/119/119/true/Webradio-Virgin-2020-RockParty-1588062511268.png--.png" group-title="Radio",Virgin Rock Party (Radio IT)
 https://icy.unitedradio.it/VirginRockParty.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/290db2f04a7a4c343e7be16343a41f84.jpg" group-title="Radio",Web-Base (Radio IT)
-https://radioweb-base.stream.laut.fm/radioweb-base
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/radios-150px/rp6ru8hVmA.jpg" group-title="Radio",Zeta (Radio IT)
 https://streamingv2.shoutcast.com/radio-zeta_48.aac
