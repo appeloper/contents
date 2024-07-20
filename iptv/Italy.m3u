@@ -438,6 +438,12 @@ http://tvit.leicaflorianrobert.dev/plutotv/natura-pluto-tv/stream.m3u8
 #EXTINF:-1 tvg-id="ITBC4700003GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700003GR_20240131T031232SQUARE.png_20240131031233.png" group-title="Documentary",Love the Planet
 https://jmp2.uk/SamsungTVPlus/ITBC4700003GR.m3u8
 
+#EXTINF:-1 tvg-id="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240415T233104SQUARE.png" group-title="Documentary",BBC Earth
+https://jmp2.uk/SamsungTVPlus/USBD1700001RW.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUjFHcGJI2XS4hksDvaRQg2YdHlZtZop2f5A&s" group-title="Documentary",Xumo Free Nature And Wildlife TV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951218
+
 #EXTINF:-1 tvg-id="documentari-pluto-tv" tvg-name="" tvg-logo="https://i.imgur.com/0jYrODf.png" group-title="Documentary",Documentari
 http://tvit.leicaflorianrobert.dev/plutotv/documentari-pluto-tv/stream.m3u8
 
@@ -714,6 +720,21 @@ https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioCapitalTv.it" tvg-chno="713" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiocapitaltv.png" group-title="Music",Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="Music",VH1+ Music Legends
+https://jmp2.uk/PlutoTV/62e8cc10ca869f00078efca8-alt.m3u8
+
+#EXTINF:-1 tvg-id="6552085aab05240008b05f6c" tvg-logo="https://images.pluto.tv/channels/6552085aab05240008b05f6c/colorLogoPNG.png" group-title="Music",VH1+ Back to 90's
+https://jmp2.uk/PlutoTV/6552085aab05240008b05f6c-alt.m3u8
+
+#EXTINF:-1 tvg-id="636a4173e34fd50007534542" tvg-logo="https://images.pluto.tv/channels/636a4173e34fd50007534542/colorLogoPNG.png" group-title="Music",VH1+ Rock!
+https://jmp2.uk/PlutoTV/636a4173e34fd50007534542-alt.m3u8
+
+#EXTINF:-1 tvg-id="63724270c7c2360007b170e8" tvg-logo="https://images.pluto.tv/channels/63724270c7c2360007b170e8/colorLogoPNG.png" group-title="Music",VH1+ Canzoni Italiane
+https://jmp2.uk/PlutoTV/63724270c7c2360007b170e8-alt.m3u8
+
+#EXTINF:-1 tvg-id="65e5d9d2ec9fda0008c35f91" tvg-logo="https://images.pluto.tv/channels/65e5d9d2ec9fda0008c35f91/colorLogoPNG.png" group-title="Music",VH1+ Dance
+https://jmp2.uk/PlutoTV/65e5d9d2ec9fda0008c35f91-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2015/12/Bella-Radio.jpg" group-title="Music",Bella Radio TV
 https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
 
@@ -989,6 +1010,9 @@ https://jmp2.uk/SamsungTVPlus/USBD3500038R6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yuTj5JCUt18/hq720.jpg" group-title="Nature",Escapes
 https://escapes-escapes-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Nature",Naturevision
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991197
 
 #EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-logo="https://i.imgur.com/7XsqSSZ.png" group-title="Nature",Stingray Naturescape HD
 https://dai.google.com/linear/hls/pa/event/6RPZlzksTCyB1euPqLcBZQ/stream/44d71678-d67d-4370-b5dd-286a8a998814:BRU/variant/9a9b2bd00fce20b8043c3566233433cf/bandwidth/5711200.m3u8
