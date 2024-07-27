@@ -693,6 +693,9 @@ https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png" group-title="Nature",Drone TV
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.images.express.co.uk/img/dynamic/151/750x445/1414332.jpg" group-title="Webcam",Live Vulcano Etna - Crateri Sommitali
+https://5e0add8153fcd.streamlock.net:1936/vedetta/catania-etna.stream/chunklist_w1364597699.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Alagoa, Altura (Castro Marim)
 https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
 
