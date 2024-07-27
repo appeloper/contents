@@ -870,9 +870,6 @@ https://server40.servistreaming.com:3477/stream/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/top_music.jpg" group-title="Music",Music Top
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/top_music.jpg" group-title="Music",Music Top
-https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/vintage_music.png" group-title="Music",Vintage Music TV
 https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
 
@@ -1023,7 +1020,7 @@ https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png" group-title="Nature",Drone TV
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.images.express.co.uk/img/dynamic/151/750x445/1414332.jpg" group-title="LiveCam",Live Vulcano Etna - Crateri Sommitali
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.images.express.co.uk/img/dynamic/151/750x445/1414332.jpg" group-title="Webcam",Live Vulcano Etna - Crateri Sommitali
 https://5e0add8153fcd.streamlock.net:1936/vedetta/catania-etna.stream/chunklist_w1364597699.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/it/rds_socialtv.jpg",RDS Radio Social TV
