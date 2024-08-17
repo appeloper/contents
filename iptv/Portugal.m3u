@@ -927,11 +927,20 @@ https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Monte Clérigo (Aljezur)
 https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Nazaré
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Nazaré (Vila)
 https://video-auth1.iol.pt/beachcam/nazarepraiadavila/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Norte (Nazaré)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Nazaré (Norte)
 https://video-auth1.iol.pt/beachcam/nazareparadonorte/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/praiadonortenazare.pt/wp-content/uploads/2018/01/pn-logotipo-397x397.jpg" group-title="WebCam",Praia da Nazaré (Forte S. Miguel Arcanjo - Baía)
+https://video-auth1.iol.pt/beachcam/bcarcanjo1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/praiadonortenazare.pt/wp-content/uploads/2018/01/pn-logotipo-397x397.jpg" group-title="WebCam",Praia da Nazaré (Forte S. Miguel Arcanjo - Panorâmica Canhão da Nazaré)
+https://video-auth1.iol.pt/beachcam/bcarcanjo2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/praiadonortenazare.pt/wp-content/uploads/2018/01/pn-logotipo-397x397.jpg" group-title="WebCam",Praia da Nazaré (Forte S. Miguel Arcanjo - Panorâmica Rotativa)
+https://video-auth1.iol.pt/beachcam/bcarcanjo3/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Odeceixe
 https://video-auth1.iol.pt/beachcam/bcodeceixe/playlist.m3u8
@@ -1076,6 +1085,9 @@ https://video-auth1.iol.pt/beachcam/bcbugio1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",WebCam Lagoa Azul (Ferreira do Zêzere)
 https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",WebCam Praia fluvial do Cabril (Pedrógão Grande)
+https://video-auth1.iol.pt/beachcam/bccabril/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",WebCam Praia interior das Rocas (Castanheira de Pêra)
 https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8
