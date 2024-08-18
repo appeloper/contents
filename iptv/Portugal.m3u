@@ -930,16 +930,19 @@ https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Nazaré (Vila)
 https://video-auth1.iol.pt/beachcam/nazarepraiadavila/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Nazaré (Norte)
-https://video-auth1.iol.pt/beachcam/nazareparadonorte/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://blob1.nazarewaves.com/memfs/32f6a35e-956f-4cd8-bf9a-8bfc89fa95c9.jpg" group-title="WebCam",Praia da Nazaré (Norte, op.2)
+https://blob1.nazarewaves.com/memfs/32f6a35e-956f-4cd8-bf9a-8bfc89fa95c9.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/praiadonortenazare.pt/wp-content/uploads/2018/01/pn-logotipo-397x397.jpg" group-title="WebCam",Praia da Nazaré (Forte S. Miguel Arcanjo - Baía)
+#EXTINF:-1 tvg-id="" tvg-logo="https://blob1.nazarewaves.com/memfs/32f6a35e-956f-4cd8-bf9a-8bfc89fa95c9.jpg" group-title="WebCam",Praia da Nazaré (op.3)
+https://blob2.nazarewaves.com/memfs/b5280749-b70f-44f7-b2ed-3205b9bd2ccc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/praiadonortenazare.pt/wp-content/uploads/2018/01/pn-logotipo-397x397.jpg" group-title="WebCam",Praia da Nazaré (Forte S. Miguel Arcanjo, Baía)
 https://video-auth1.iol.pt/beachcam/bcarcanjo1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/praiadonortenazare.pt/wp-content/uploads/2018/01/pn-logotipo-397x397.jpg" group-title="WebCam",Praia da Nazaré (Forte S. Miguel Arcanjo - Panorâmica Canhão da Nazaré)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/praiadonortenazare.pt/wp-content/uploads/2018/01/pn-logotipo-397x397.jpg" group-title="WebCam",Praia da Nazaré (Forte S. Miguel Arcanjo, Panorâmica Canhão da Nazaré)
 https://video-auth1.iol.pt/beachcam/bcarcanjo2/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/praiadonortenazare.pt/wp-content/uploads/2018/01/pn-logotipo-397x397.jpg" group-title="WebCam",Praia da Nazaré (Forte S. Miguel Arcanjo - Panorâmica Rotativa)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/praiadonortenazare.pt/wp-content/uploads/2018/01/pn-logotipo-397x397.jpg" group-title="WebCam",Praia da Nazaré (Forte S. Miguel Arcanjo, Panorâmica Rotativa)
 https://video-auth1.iol.pt/beachcam/bcarcanjo3/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Odeceixe
