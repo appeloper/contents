@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 channel-id="pluto-65cb77853ba51e00084cba02" tvg-id="65cb77853ba51e00084cba02" tvg-logo="https://images.pluto.tv/channels/65cb77853ba51e00084cba02/colorLogoPNG.png" group-title="Novità su Pluto TV",Mission Impossible
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cb77853ba51e00084cba02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=98003c90-6314-11ef-b27d-9e11b16f4a50&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=61176dde-d6e6-48c7-98d1-f71edfc292ac&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="pluto-661f8f4c307fa30008033ab5" tvg-id="661f8f4c307fa30008033ab5" tvg-logo="https://images.pluto.tv/channels/661f8f4c307fa30008033ab5/colorLogoPNG.png" group-title="Novità su Pluto TV",Pluto TV Alieni
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/661f8f4c307fa30008033ab5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=98003c90-6314-11ef-b27d-9e11b16f4a50&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=61176dde-d6e6-48c7-98d1-f71edfc292ac&userId=&serverSideAds=true
-
 #EXTINF:-1 channel-id="pluto-660fc6630cd4630008fae92f" tvg-id="660fc6630cd4630008fae92f" tvg-logo="https://images.pluto.tv/channels/660fc6630cd4630008fae92f/colorLogoPNG.png" group-title="Serie",Baywatch
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/660fc6630cd4630008fae92f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=98003c90-6314-11ef-b27d-9e11b16f4a50&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=61176dde-d6e6-48c7-98d1-f71edfc292ac&userId=&serverSideAds=true
 
