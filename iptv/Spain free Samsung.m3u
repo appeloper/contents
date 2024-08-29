@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 channel-id="SamsungTVPlus-ESBC4100001NZ" tvg-id="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240611T061840SQUARE.png" group-title="Entretenimiento",La 1
-https://jmp2.uk/sam-ESBC4100001NZ.m3u8
-
 #EXTINF:-1 channel-id="SamsungTVPlus-ES400002P5" tvg-id="ES400002P5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20240611T061836SQUARE.png" group-title="Drama",Cuéntame cómo pasó
 https://jmp2.uk/sam-ES400002P5.m3u8
 
@@ -20,6 +17,9 @@ https://jmp2.uk/sam-ES4000016U.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-ESBC2700009B4" tvg-id="ESBC2700009B4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20240827T040400SQUARE.png" group-title="Deportes",FIFA+
 https://jmp2.uk/sam-ESBC2700009B4.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-ESBC4100001NZ" tvg-id="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20240611T061840SQUARE.png" group-title="Entretenimiento",La 1
+https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-ESBC4100002AG" tvg-id="ESBC4100002AG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20221109T010944SQUARE.png_20221109010944.png" group-title="Entretenimiento",La 2
 https://jmp2.uk/sam-ESBC4100002AG.m3u8
