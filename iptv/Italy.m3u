@@ -49,10 +49,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/strea
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240319T022550SQUARE.png" group-title="News",BBC News
-https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
+https://jmp2.uk/sam-US4000033L.m3u8
 
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240319T022317SQUARE.png" group-title="News",Sky News
-https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
+https://jmp2.uk/sam-USBB52000022Q.m3u8
 
 #EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg" group-title="News",RT Español HD
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -436,10 +436,10 @@ https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.
 http://tvit.leicaflorianrobert.dev/plutotv/natura-pluto-tv/stream.m3u8
 
 #EXTINF:-1 tvg-id="ITBC4700003GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700003GR_20240131T031232SQUARE.png_20240131031233.png" group-title="Documentary",Love the Planet
-https://jmp2.uk/SamsungTVPlus/ITBC4700003GR.m3u8
+https://jmp2.uk/sam-ITBC4700003GR.m3u8
 
 #EXTINF:-1 tvg-id="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240415T233104SQUARE.png" group-title="Documentary",BBC Earth
-https://jmp2.uk/SamsungTVPlus/USBD1700001RW.m3u8
+https://jmp2.uk/sam-USBD1700001RW.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUjFHcGJI2XS4hksDvaRQg2YdHlZtZop2f5A&s" group-title="Documentary",Xumo Free Nature And Wildlife TV
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951218
@@ -463,13 +463,13 @@ https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883060
 
 #EXTINF:-1 tvg-id="60802b37709d6b0007b0c549" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png" group-title="Documentary",TV Natura
-https://jmp2.uk/PlutoTV/60802b37709d6b0007b0c549-alt.m3u8
+https://jmp2.uk/plu-60802b37709d6b0007b0c549-alt.m3u8
 
 #EXTINF:-1 tvg-id="608aa8a5709d6b0007b132fe" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" group-title="Documentary",TV Documentari
-https://jmp2.uk/PlutoTV/608aa8a5709d6b0007b132fe-alt.m3u8
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe-alt.m3u8
 
 #EXTINF:-1 tvg-id="63c923944207be0007fd0887" tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG.png" group-title="Travel",TV Viaggi
-https://jmp2.uk/PlutoTV/63c923944207be0007fd0887-alt.m3u8
+https://jmp2.uk/plu-63c923944207be0007fd0887-alt.m3u8
 
 #EXTINF:-1 tvg-id="travelxp-eng" tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/689077cb-e4d9-4cd5-8488-1e5a5c243733_thumb.jpg" group-title="Travel",Travel XP
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=it&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=223&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=e9cd33c8-3b9f-4a99-a5e3-0bedd57c8043&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=473
@@ -478,7 +478,7 @@ https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/
 https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/chunklist_w2106446322.m3u8
 
 #EXTINF:-1 tvg-id="65253fdf3fd33c00080214a3" tvg-logo="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG.png" group-title="History",TV Storia
-https://jmp2.uk/PlutoTV/65253fdf3fd33c00080214a3-alt.m3u8
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiStoria_hd.png" group-title="History",RAI Storia HD (geo)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
@@ -517,7 +517,7 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/1/720p.m3u8
 https://81d1c38525014f39a1705b01e04d91c2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ThePetCollective-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=it&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5389&ads.rtv_content_language=eng&ads.rtvid=271861&ads.streaming_id=c6e4ce87-e574-46dc-8b8f-89a442f55920&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1020
 
 #EXTINF:-1 tvg-id="ITAJ4500016FM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500016FM_20230222T012101SQUARE.png_20230222012101.png" group-title="Pets",The Pet Collective
-https://jmp2.uk/SamsungTVPlus/ITAJ4500016FM.m3u8
+https://jmp2.uk/sam-ITAJ4500016FM.m3u8
 
 #EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD
 https://install.akctvcontrol.com/speed/broadcast/138/file-3128k.m3u8
@@ -532,13 +532,13 @@ https://install.akctvcontrol.com/speed/broadcast/139/file-3128k.m3u8
 https://install.akctvcontrol.com/speed/broadcast/141/file-3128k.m3u8
 
 #EXTINF:-1 tvg-id="USBA3000044BJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000044BJ_20240415T233046SQUARE.png" group-title="Pets",Lucky Dog
-https://jmp2.uk/SamsungTVPlus/USBA3000044BJ.m3u8
+https://jmp2.uk/sam-USBA3000044BJ.m3u8
 
 #EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Pets",Dogs 24/7
-https://jmp2.uk/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
+https://jmp2.uk/plu-5b329e0a7b9d8872aeb49ceb-alt.m3u8
 
 #EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
-https://jmp2.uk/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
+https://jmp2.uk/plu-599375885ceaac3cabccbed7-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiGulp_hd.png" group-title="Kids",RAI Gulp HD (geo)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
@@ -547,7 +547,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 
 #EXTINF:-1 tvg-id="ITBC4700001E6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700001E6_20221214T045010SQUARE.png_20221214045011.png" group-title="Kids",DuckTV
-https://jmp2.uk/SamsungTVPlus/ITBC4700001E6.m3u8
+https://jmp2.uk/sam-ITBC4700001E6.m3u8
 
 #EXTINF:-1 tvg-id="mr-bean-it" tvg-name="" tvg-logo="https://i.pinimg.com/1200x/9a/54/c4/9a54c45f5c9de64ccd95909f8e08a401.jpg" group-title="Kids",Mr. Bean
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8?ads_amagi_channel=932&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=it&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6166&ads_rtv_content_language=ita&ads_rtvid=271861&ads_streaming_id=a87e84b4-3149-48c0-9f64-4fadb0c40e55&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
@@ -583,13 +583,13 @@ https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
 
 #EXTINF:-1 tvg-id="IT700004X4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700004X4_20240611T062036SQUARE.png" group-title="Kids",Pocoyo
-https://jmp2.uk/SamsungTVPlus/IT700004X4.m3u8
+https://jmp2.uk/sam-IT700004X4.m3u8
 
 #EXTINF:-1 tvg-id="ITBA3300020W1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300020W1_20240117T032859SQUARE.png_20240117032900.png" group-title="Kids",Mondo TV KIDS
-https://jmp2.uk/SamsungTVPlus/ITBA3300020W1.m3u8
+https://jmp2.uk/sam-ITBA3300020W1.m3u8
 
 #EXTINF:-1 tvg-id="ITAJ3800010RX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800010RX_20220404T005813SQUARE.png_20220404005815.png" group-title="Kids",Super Pop
-https://jmp2.uk/SamsungTVPlus/ITAJ3800010RX.m3u8
+https://jmp2.uk/sam-ITAJ3800010RX.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/RaiSport.png" group-title="Sports",RAI Sport HD (geo)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071
@@ -721,19 +721,19 @@ https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="Music",VH1+ Music Legends
-https://jmp2.uk/PlutoTV/62e8cc10ca869f00078efca8-alt.m3u8
+https://jmp2.uk/plu-62e8cc10ca869f00078efca8-alt.m3u8
 
 #EXTINF:-1 tvg-id="6552085aab05240008b05f6c" tvg-logo="https://images.pluto.tv/channels/6552085aab05240008b05f6c/colorLogoPNG.png" group-title="Music",VH1+ Back to 90's
-https://jmp2.uk/PlutoTV/6552085aab05240008b05f6c-alt.m3u8
+https://jmp2.uk/plu-6552085aab05240008b05f6c-alt.m3u8
 
 #EXTINF:-1 tvg-id="636a4173e34fd50007534542" tvg-logo="https://images.pluto.tv/channels/636a4173e34fd50007534542/colorLogoPNG.png" group-title="Music",VH1+ Rock!
-https://jmp2.uk/PlutoTV/636a4173e34fd50007534542-alt.m3u8
+https://jmp2.uk/plu-636a4173e34fd50007534542-alt.m3u8
 
 #EXTINF:-1 tvg-id="63724270c7c2360007b170e8" tvg-logo="https://images.pluto.tv/channels/63724270c7c2360007b170e8/colorLogoPNG.png" group-title="Music",VH1+ Canzoni Italiane
-https://jmp2.uk/PlutoTV/63724270c7c2360007b170e8-alt.m3u8
+https://jmp2.uk/plu-63724270c7c2360007b170e8-alt.m3u8
 
 #EXTINF:-1 tvg-id="65e5d9d2ec9fda0008c35f91" tvg-logo="https://images.pluto.tv/channels/65e5d9d2ec9fda0008c35f91/colorLogoPNG.png" group-title="Music",VH1+ Dance
-https://jmp2.uk/PlutoTV/65e5d9d2ec9fda0008c35f91-alt.m3u8
+https://jmp2.uk/plu-65e5d9d2ec9fda0008c35f91-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2015/12/Bella-Radio.jpg" group-title="Music",Bella Radio TV
 https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
@@ -847,10 +847,10 @@ https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/chunklist_w91
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITBA3300036R8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300036R8_20221012T021059SQUARE.png_20221012021100.png" group-title="Music",Vivaldi TV
-https://jmp2.uk/SamsungTVPlus/ITBA3300036R8.m3u8
+https://jmp2.uk/sam-ITBA3300036R8.m3u8
 
 #EXTINF:-1 tvg-id="ITBC400004TU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400004TU_20221109T010911SQUARE.png_20221109010912.png" group-title="Music",Cmusic
-https://jmp2.uk/SamsungTVPlus/ITBC400004TU.m3u8
+https://jmp2.uk/sam-ITBC400004TU.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Music",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
@@ -949,40 +949,40 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w2125207797_b2628000.m3u8
 
 #EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Music",Vevo 2K
-https://jmp2.uk/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f32f26bcd8aea00071240e5" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Music",Vevo '70s
-https://jmp2.uk/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8
+https://jmp2.uk/plu-5f32f26bcd8aea00071240e5-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5fd7b8bf927e090007685853" tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music",Vevo '80s
-https://jmp2.uk/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
+https://jmp2.uk/plu-5fd7b8bf927e090007685853-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5fd7bb1f86d94a000796e2c2" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Music",Vevo '90s
-https://jmp2.uk/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
+https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5da0d75e84830900098a1ea0" tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Music",Vevo Country
-https://jmp2.uk/PlutoTV/5da0d75e84830900098a1ea0-alt.m3u8
+https://jmp2.uk/plu-5da0d75e84830900098a1ea0-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-64d161c93c785e0008df575e" tvg-id="64d161c93c785e0008df575e" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" group-title="Music",Vevo Íconos Latinos
-https://jmp2.uk/PlutoTV/64d161c93c785e0008df575e-alt.m3u8
+https://jmp2.uk/plu-64d161c93c785e0008df575e-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5da0d64d0e8a62000964ebe4" tvg-id="5da0d64d0e8a62000964ebe4" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" group-title="Music",Vevo Latino
-https://jmp2.uk/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
+https://jmp2.uk/plu-5da0d64d0e8a62000964ebe4-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5d93b635b43dd1a399b39eee" tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music",Vevo Pop
-https://jmp2.uk/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
+https://jmp2.uk/plu-5d93b635b43dd1a399b39eee-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f32f397795b750007706448" tvg-id="5f32f397795b750007706448" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Music",Vevo Reggaeton & Trap
-https://jmp2.uk/PlutoTV/5f32f397795b750007706448-alt.m3u8
+https://jmp2.uk/plu-5f32f397795b750007706448-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-61d4b38226b8a50007fe03a6" tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="Music",Vevo Retro Rock
-https://jmp2.uk/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
+https://jmp2.uk/plu-61d4b38226b8a50007fe03a6-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5da0d83f66c9700009b96d0e" tvg-id="5da0d83f66c9700009b96d0e" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Music",Vevo R&B
-https://jmp2.uk/PlutoTV/5da0d83f66c9700009b96d0e-alt.m3u8
+https://jmp2.uk/plu-5da0d83f66c9700009b96d0e-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-61d4c2817a823d00070ba53e" tvg-id="61d4c2817a823d00070ba53e" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Music",Vevo True School Hip-Hop
-https://jmp2.uk/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
+https://jmp2.uk/plu-61d4c2817a823d00070ba53e-alt.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Music",KPOP Music TV
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
@@ -1003,7 +1003,7 @@ http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
 https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240401T235811SQUARE.png" group-title="Nature",Stingray Holidayscapes
-https://jmp2.uk/SamsungTVPlus/USBD3500038R6.m3u8
+https://jmp2.uk/sam-USBD3500038R6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yuTj5JCUt18/hq720.jpg" group-title="Nature",Escapes
 https://escapes-escapes-1-eu.xiaomi.wurl.tv/playlist.m3u8
