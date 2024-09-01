@@ -291,7 +291,7 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 #EXTINF:-1 channel-id="PlutoTV-645951c0e94c38000802d2cb" tvg-id="645951c0e94c38000802d2cb" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG.png" group-title="Kids",Nickelodeon Pluto TV
 https://jmp2.uk/plu-645951c0e94c38000802d2cb-alt.m3u8
 
-channel-id="PlutoTV-6202a7fcfb1b100008811f54" tvg-id="6202a7fcfb1b100008811f54" tvg-logo="https://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="Kids",Nickelodeon Rocket Power
+#EXTINF:-1 #EXTINF:-1 channel-id="PlutoTV-6202a7fcfb1b100008811f54" tvg-id="6202a7fcfb1b100008811f54" tvg-logo="https://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="Kids",Nickelodeon Rocket Power
 https://jmp2.uk/plu-6202a7fcfb1b100008811f54-alt.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-5f5c216df68f920007888315" tvg-id="5f5c216df68f920007888315" tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="Kids",O Reino Infantil
