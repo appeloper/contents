@@ -828,6 +828,21 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/643723936bb6be8434f8ca9e5aa71697.jpg" group-title="Kids",Zona de Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 
+#EXTINF:-1 channel-id="PlutoTV-61373c865ed5810007173fbc" tvg-id="61373c865ed5810007173fbc" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="Kids",Avatar
+https://jmp2.uk/plu-61373c865ed5810007173fbc-alt.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-65819cb3a620e300080f63bd" tvg-id="65819cb3a620e300080f63bd" tvg-logo="https://images.pluto.tv/channels/65819cb3a620e300080f63bd/colorLogoPNG.png" group-title="Kids",Cazadora de cartas
+https://jmp2.uk/plu-65819cb3a620e300080f63bd-alt.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-629a066860ef810008267b70" tvg-id="629a066860ef810008267b70" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png" group-title="Kids",Detective Conan
+https://jmp2.uk/plu-629a066860ef810008267b70-alt.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-61373f1a12dd9f00077dcd6f" tvg-id="61373f1a12dd9f00077dcd6f" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Kids",Las Tortugas Ninja
+https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f-alt.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-63d7a8e5a9957100086bfc23" tvg-id="63d7a8e5a9957100086bfc23" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" group-title="Kids",South Park Versión Original
+https://jmp2.uk/plu-63d7a8e5a9957100086bfc23-alt.m3u8
+
 #EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://feedlix.net/tv/pt/ZigZag.png" group-title="Kids",Zig Zag
 https://streaming-live.rtp.pt/liverepeater/smil:zigzagHD.smil/playlist.m3u8
 
