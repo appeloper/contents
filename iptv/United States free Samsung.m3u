@@ -778,7 +778,8 @@ https://jmp2.uk/sam-USBD3300019OU.m3u8
 https://jmp2.uk/sam-USBD3300013KV.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBA2300001S8" tvg-id="USBA2300001S8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20240520T214856SQUARE.png" group-title="Kids",The LEGO Channel
-https://jmp2.uk/sam-USBA2300001S8
+https://jmp2.uk/sam-USBA2300001S8.m3u8
+
 #EXTINF:-1 channel-id="samsung-USBD3300020PM" tvg-id="USBD3300020PM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300020PM_20240520T214843SQUARE.png" group-title="Kids",Sonic The Hedgehog
 https://jmp2.uk/sam-USBD3300020PM.m3u8
 
