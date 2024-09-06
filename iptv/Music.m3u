@@ -558,14 +558,26 @@ https://jmp2.uk/plu-668678bc0642e500080f90c6-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/16582.v7.png" group-title="Radio",1.FM (Radio BR)
 http://strm112.1.fm/loveclassics_mobile_mp3
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/35beae6b17382a233b9dd3eb1a51a22f.jpg" group-title="Radio",80 FM (Radio BR)
+https://centova.euroti.com.br:20001/1/stream.mp3/;stream.mp3
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiorock.com.br/assets/player/img/icons/logo-bottom.png" group-title="Radio",89 FM Rock (Radio BR)
-https://20833.live.streamtheworld.com/RADIO_89FM_ADP.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FMAAC.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/15850.v36.png" group-title="Radio",Alpha (Radio BR)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.radios.com.br/radio/lg/radio8779_1513097010.jpg" group-title="Radio",BestRadio (Radio BR)
+https://best.viaflux.com/radio/8000/radiosaovivonet
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/67372.v6.png" group-title="Radio",Bossa Nova (Radio BR)
 https://radio2.vip-radios.fm:18009/stream-128kmp3-BossaNovaBrazil
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/356f9caa2d1f30417989e88aaa57fa23.jpg" group-title="Radio",Box Mix (Radio BR)
 https://stm16.xcast.com.br:7446/stream/;stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.radios.com.br/radio/xl/radio11152_1674740005.png" group-title="Radio",Capital FM (Radio BR)
+https://ice.fabricahost.com.br/capitalfmsp
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/996bf57ba5e5a2fdfc82f5107c4819fe.jpg" group-title="Radio",Classic Hits (Radio BR)
 https://player.srvaudio.com.br/player-ssl/9790/
@@ -575,6 +587,9 @@ https://stream.vagalume.fm/hls/1470161190169185/aac.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/53916.v11.png" group-title="Radio",Das Antigas (Radio BR)
 http://stream.radiodasantigas.com.br:9992/;stream.nsv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/br/deep_house_mix.png" group-title="Radio",Deep House Mix (Radio BR)
+https://stream.vagalume.fm/hls/1470426692759789/aac.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/br/ferias.png" group-title="Radio",Férias (Radio BR)
 https://stream.vagalume.fm/hls/1474482422796242/aac.m3u8
@@ -588,8 +603,17 @@ https://servidor.geracaoradios.com/listen/sambaepagode/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d7a6c182f915b96c7ead65ff4c14de53.jpg" group-title="Radio",Kiss FM (Radio BR)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFMAAC.aac
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/br/made_in_brasil.jpg" group-title="Radio",Made in Brasil (Radio BR)
+https://stream.vagalume.fm/hls/1475171877276322/aac.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/15861.v12.png" group-title="Radio",Metropolitana (Radio BR)
 https://ice.fabricahost.com.br/metropolitana985sp
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/br/musica_brasileira_electro.png" group-title="Radio",Música Brasileira Electrónica (Radio BR)
+https://stream.vagalume.fm/hls/152911357157777/aac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d5e3bdbf69b875325c12662bffe9c8ae.jpg" group-title="Radio",On FM (Radio BR)
+https://cast4.hoost.com.br:20214/stream
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b3d9829ade350e79f8c45d83ae53f607.jpg" group-title="Radio",Pop e Rock (Radio BR)
 http://cast2.youngtech.radio.br:8160/radio
@@ -601,16 +625,10 @@ http://srv1.braudio.com.br:7014/;stream.nsv
 https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/jf8ygbdkcab5.png" group-title="Radio",Samba FM (Radio BR)
-https://hts01.kshost.com.br:8428/live
+https://hts01.brascast.com:8428/live
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/br/samba_pagode.png" group-title="Radio",Samba e Pagode (Radio BR)
 https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/16939.v7.png" group-title="Radio",Saudade FM (Radio BR)
-https://24363.live.streamtheworld.com/SAUDADE_FMAAC.aac
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/35857.v15.png" group-title="Radio",Raízes do Brasil (Radio BR)
-http://srv1.braudio.com.br:7014/;stream.nsv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/16939.v7.png" group-title="Radio",Saudade FM (Radio BR)
 https://24363.live.streamtheworld.com/SAUDADE_FMAAC.aac
@@ -665,9 +683,6 @@ https://live.leanstream.co/CILQFM-MP3?
 
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f6843b9b1ebe86c3c86ed96cf4cbf895.png" group-title="Radio",RdMix Classic Rock (Radio CA)
 https://cast1.torontocast.com:4610/stream
-
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f7ac9ec77991b94f51dcf8bc02edbd41.jpg" group-title="Radio",RdMix Eurodance 90s (Radio CA)
-https://maggie.torontocast.com:8046/strea
 
 #EXTINF:-1 tvg-logo="https://radiosuitenetwork.torontocast.stream/wp-content/uploads/2021/09/reggae.jpg" group-title="Radio",Reggae Chill Cafe (Radio CA)
 https://maggie.torontocast.com:8104/stream
@@ -849,9 +864,6 @@ http://nrj.de/partyhits
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/logo_nrj_energy.png" group-title="Radio",Energy Pop (Radio DE)
 http://nrj.de/pop
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/logo_nrj_energy.png" group-title="Radio",Energy Romantic (Radio DE)
-http://nrj.de/romantic
-
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/logo_nrj_energy.png" group-title="Radio",Energy Rapus (Radio DE)
 http://nrj.de/rapus
 
@@ -1017,6 +1029,15 @@ http://listen.radionomy.com/fm-80
 #EXTINF:-1 tvg-id="" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/10/Radio-Latina-France.jpg" group-title="Radio",Latina (Radio FR)
 https://start-latina.ice.infomaniak.ch/start-latina-high.aac
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/68/5f/140652/4/c300.png" group-title="Radio",Nostalgie Best of 60 (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30615/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/a8/69/140653/4/c300.png" group-title="Radio",Nostalgie Best of 70 (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30613/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/2f/38/140650/4/c100.png" group-title="Radio",Nostalgie Best of 80 (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/30605/mp3_128.mp3
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/34/72/39873/9/c300.png" group-title="Radio",Nostalgie Best of 90 (Radio FR)
 https://scdn.nrjaudio.fm/adwz1/fr/55206/mp3_128.mp3
 
@@ -1031,6 +1052,9 @@ https://scdn.nrjaudio.fm/adwz1/fr/30617/mp3_128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/e7/3b/39880/7/c300.png" group-title="Radio",Nostalgie Italia (Radio FR)
 https://scdn.nrjaudio.fm/adwz1/fr/30663/mp3_128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/5f/1f/168602/4/c300.png" group-title="Radio",Nostalgie Legends (Radio FR)
+https://scdn.nrjaudio.fm/adwz1/fr/55196/mp3_128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/a3/e7/39879/7/c300.png" group-title="Radio",Nostalgie Les Plus Grands Slows (Radio FR)
 https://scdn.nrjaudio.fm/adwz1/fr/30609/mp3_128.mp3
@@ -1091,9 +1115,6 @@ https://scdn.nrjaudio.fm/adwz1/fr/30037/mp3_128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/79/8b/26281/7/c300.png" group-title="Radio",NRJ Funky (Radio FR)
 https://scdn.nrjaudio.fm/adwz1/fr/31035/mp3_128.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/f3/6a/39968/6/c300.png" group-title="Radio",NRJ Futurs Hits 2024 (Radio FR)
-https://scdn.nrjaudio.fm/adwz1/fr/58779/mp3_128.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.net/images/broadcasts/21/ee/39963/7/c300.png" group-title="Radio",NRJ Hasppy Hits (Radio FR)
 https://scdn.nrjaudio.fm/adwz1/fr/55127/mp3_128.mp3
@@ -1173,14 +1194,11 @@ https://stream.rfm.fr/rfm-wr4.aac
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/64517.v3.png" group-title="Radio",Top Hits France (Radio FR)
 http://91.121.59.45:8178/stream
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/13587.v4.png" group-title="Radio",105 (Radio IT)
-https://icecast.unitedradio.it/Radio IT105.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/QWeMtjqdj8.png" group-title="Radio",105 Classics (Radio IT)
+https://icy.unitedradio.it/105Classics.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/CaPJzfPUsB.png" group-title="Radio",105 Dance 90 (Radio IT)
 https://icy.unitedradio.it/105Dance90.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/QWeMtjqdj8.png" group-title="Radio",105 Classics (Radio IT)
-https://icy.unitedradio.it/105Classics.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/063/radio-105fm.9705b3b5.png" group-title="Radio",105 Hits (Radio IT)
 https://icy.unitedradio.it/105Hits.mp3
@@ -1238,9 +1256,6 @@ http://wma02.fluidstream.net/RN1TV/livestream/chunklist_w860321532.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/18067.v5.png" group-title="Radio",Nuova San Giorgio (Radio IT)
 https://eu1.fastcast4u.com/proxy/eenter07?mp=/;
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/14037.v7.png" group-title="Radio",Otto FM Italy (Radio IT)
-http://streaming.bitonlive.net:12000/ottofmita.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b76753db9d6121de7f08fcbb25b907c5.png" group-title="Radio",Radio One (Radio IT)
 https://hts04.kshost.com.br:8134/live/;stream.mp3
@@ -1510,7 +1525,7 @@ https://cast2.hoost.com.br:20063/stream
 http://centova.radios.pt:8435/stream/1/
 
 #EXTINF:-1 tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo_xmas.png" group-title="Radio",Sines (Stream Radio PT)
-https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/chunklist_w1533853848_b4500000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/8d7c165452658fc0d38a56a4133c82f6.jpg" group-title="Radio",Smooth FM (Radio PT)
 https://stream-icy.bauermedia.pt/smooth.mp3
@@ -1519,7 +1534,7 @@ https://stream-icy.bauermedia.pt/smooth.mp3
 https://sp0.redeaudio.com/9974/stream
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s110774d.png" group-title="Radio",TSF (Radio PT)
-http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+https://gmg-tsfdireto.global.ssl.fastly.net/tsf1-dfg98mnb0/emissao/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radioregional.pt/play/generalistas/tmp/images/default.jpg" group-title="Radio",Vila Real (Radio PT)
 https://play.radioregional.pt/stream/3/
