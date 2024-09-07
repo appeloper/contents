@@ -24,7 +24,7 @@ http://radiocast.rtp.pt/antena380a.mp3
 #EXTINF:-1 tvg-logo="https://www.radioatlantida.net/wp-content/uploads/2019/10/logo.jpg" group-title="Radio",Atlantida
 https://cast1.lunabroadcasting.net/listen/atlantida/radio.mp3
 
-#EXTINF:-1 tvg-logo="https://batida.fm/images/fbcover.jpg" group-title="Radio",Batida FM
+#EXTINF:-1 tvg-logo="https://radiobatida.com/imagens/3108f80772909f00e0c68585038c53fc.png" group-title="Radio",Batida FM
 https://stream-icy.bauermedia.pt/batidafm.aac
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://radioregional.pt/play/generalistas/tmp/images/default.jpg" group-title="Radio",Bragança
@@ -54,28 +54,28 @@ https://stream-icy.bauermedia.pt/comercial.mp3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Rc-2000s.jpg" group-title="Radio",Comercial Best 00's
 https://stream-icy.bauermedia.pt/rcbest2000.aac
 
-#EXTINF:-1 tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-90s.jpg" group-title="Radio",Comercial Best 90s
+#EXTINF:-1 tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-90s-1200x630.jpg" group-title="Radio",Comercial Best 90s
 https://stream-hls.bauermedia.pt/rcbest90.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-brasil.jpg" group-title="Radio",Comercial Brasil
+#EXTINF:-1 tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-brasil-1200x630.jpg" group-title="Radio",Comercial Brasil
 https://stream-hls.bauermedia.pt/rcbrasil.aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ybykwjqku6rh.png" group-title="Radio",Comercial Dance
 https://stream-hls.bauermedia.pt/rcdance.aac/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://radiocomercial.iol.pt/images/noCover.png" group-title="Radio",Comercial One Hit
+#EXTINF:-1tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-ohw-1200x630.jpg" group-title="Radio",Comercial One Hit Wonders
 https://stream-hls.bauermedia.pt/rchit.aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Comercial-Kids.png" group-title="Radio",Comercial Kids
 https://stream-hls.bauermedia.pt/rckids.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiocomercial.iol.pt/images/webradios/wr-portugal.jpg" group-title="Radio",Comercial Tuga
+#EXTINF:-1 tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-portugal-1200x630.jpg" group-title="Radio",Comercial Tuga
 https://stream-hls.bauermedia.pt/rctuga.aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q6clfyhqvcg5.png" group-title="Radio",Comercial Rock
 https://stream-hls.bauermedia.pt/rcrock.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiocomercial.iol.pt/images/noCover.png" group-title="Radio",Comercial Soft
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/9/79499.v7.png" group-title="Radio",Comercial Soft
 https://stream-hls.bauermedia.pt/rcsoft.aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dianafm.com/wp-content/uploads/2016/03/diana_logo.png" group-title="Radio",Diana FM
@@ -147,7 +147,7 @@ https://ec2.yesstreaming.net:3025/stream
 #EXTINF:-1 tvg-logo="https://www.oxigenio.fm/wp-content/uploads/2018/11/radio_oxigenio-1.png" group-title="Radio",Oxigénio
 https://proic1.evspt.com/oxigenio_aac
 
-#EXTINF:-1 tvg-logo="http://www.apradiodifusao.pt/xiiicongresso/images/radios/radioportalegre.png" group-title="Radio",Portalegre
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ewwW9AXcqD.png" group-title="Radio",Portalegre
 http://centova.radios.pt:9492/stream
 
 #EXTINF:-1 tvg-logo="https://radarlisboa.fm/wp-content/uploads/2016/02/logo_abril-1.png" group-title="Radio",Radar Lisboa
