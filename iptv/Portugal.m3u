@@ -1333,7 +1333,7 @@ https://cast2.hoost.com.br:20063/stream
 http://centova.radios.pt:8435/stream/1/
 
 #EXTINF:-1 tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo_xmas.png" group-title="Radio",Sines (Stream Radio)
-https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/chunklist_w1533853848_b4500000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/8d7c165452658fc0d38a56a4133c82f6.jpg" group-title="Radio",Smooth FM (Radio)
 https://stream-icy.bauermedia.pt/smooth.mp3
