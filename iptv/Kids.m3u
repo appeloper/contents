@@ -603,6 +603,21 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/Y/Yu-Gu-Oh_-logo-FA1A029B70-seeklogo.com.png" group-title="Kids",Yu-Gi-Oh!
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/Y/Yu-Gu-Oh_-logo-FA1A029B70-seeklogo.com.png" group-title="Kids",Yu-Gi-Oh (DE)
+https://fastmedia-yu-gi-oh-2-de.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/Y/Yu-Gu-Oh_-logo-FA1A029B70-seeklogo.com.png" group-title="Kids",Yu-Gi-Oh (ES)
+https://fastmedia-yu-gi-oh-5-es.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/Y/Yu-Gu-Oh_-logo-FA1A029B70-seeklogo.com.png" group-title="Kids",Yu-Gi-Oh (FR)
+https://fastmedia-yu-gi-oh-4-fr.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/Y/Yu-Gu-Oh_-logo-FA1A029B70-seeklogo.com.png" group-title="Kids",Yu-Gi-Oh (IT)
+https://fastmedia-yu-gi-oh-3-it.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/Y/Yu-Gu-Oh_-logo-FA1A029B70-seeklogo.com.png" group-title="Kids",Yu-Gi-Oh (UK)
+https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.jpg" group-title="Kids",Zaz TV ES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
 
