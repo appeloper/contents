@@ -93,68 +93,86 @@ https://204280.global.ssl.fastly.net/64cd4f589272294ee667108d/live_2f24d2e05bfd1
 #EXTINF:-1 tvg-id="ARTV" tvg-logo="https://feedlix.net/tv/pt/Artv.pt.png" group-title="Parliament",AR TV
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Cinema",MyTime Movie Network (BR)
+#EXTINF:-1 tvg-id="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Movies",MyTime Movie Network (BR)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MovieSphere.jpg" group-title="Cinema",MovieSphere
+#EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MovieSphere.jpg" group-title="Movies",MovieSphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosCine.pt.png" group-title="Cinema",Kuriakos Cine
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosCine.pt.png" group-title="Movies",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="Cinema",Gospel Movie TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="Movies",Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/classiquetv.png" group-title="Cinema",Classique TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/classiquetv.png" group-title="Movies",Classique TV
 https://stmv1.srvif.com/classique/classique/chunklist_w1130333035.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Ação
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Movies",Cine Ação
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=56&deviceId=5f120f41b7d403000783a6d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Comédia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Movies",Cine Comédia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5f12101f0b12f00007844c7c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Drama
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Movies",Cine Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=63&deviceId=5f1210d14ae1f80007bafb1d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Família
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Movies",Cine Família
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=87&deviceId=5f171f032cd22e0007f17f3d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Retro
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Movies",Cine Retro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=5f1212ad1728050007a523b8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Séries
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Movies",Cine Séries
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=101&deviceId=5f121262a189a800076b9386&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Sucessos
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Movies",Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=52&deviceId=5f120e94a5714d00074576a1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Cinema",Cine Terror
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Movies",Cine Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=72&deviceId=5f12111c9e6c2c00078ef3bb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png" group-title="Cinema",Cine Real
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png" group-title="Movies",Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master_5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Cinema",Top Cine
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Movies",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Cinema",Rakuten Action
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",Rakuten Action
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Cinema",Rakuten Comedy
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",Rakuten Comedy
 https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Cinema",Rakuten Romance
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",Rakuten Romance
 https://rakuten-romance-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Cinema",Rakuten Thriller
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",Rakuten Thriller
 https://rakuten-thriller-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Cinema",Rakuten Top Free
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",Rakuten Top Free
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Cinema",Rakuten TV Shows
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",Rakuten TV Shows
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1411866446909644801/EgNGexfK_400x400.jpg" group-title="Movies",Runtime Ação
+https://run-rt-ra-lgchannels.otteravision.com/run/rt_ra/rt_ra.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1411866446909644801/EgNGexfK_400x400.jpg" group-title="Movies",Runtime Comedia
+https://run-rc-br-lgchannels.otteravision.com/run/rc_br/rc_br.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1411866446909644801/EgNGexfK_400x400.jpg" group-title="Movies",Runtime Crime
+https://run-cr-br-lgchannels.otteravision.com/run/cr_br/cr_br.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1411866446909644801/EgNGexfK_400x400.jpg" group-title="Movies",Runtime Familia
+https://run-rufb-lgchannels.otteravision.com/run/rufb/rufb.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1411866446909644801/EgNGexfK_400x400.jpg" group-title="Movies",Runtime Romance
+https://run-ro-br-lgchannels.otteravision.com/run/ro_br/ro_br.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1411866446909644801/EgNGexfK_400x400.jpg" group-title="Movies",Runtime TV Cine
+https://run-th-br-lgchannels.otteravision.com/run/th_br/th_br.m3u8
 
 #EXTINF:-1 tvg-id="KURIAKOS TV" tvg-logo="https://feedlix.net/tv/pt/KuriakosTv.pt.png" group-title="Religious",Kuriakos TV
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
