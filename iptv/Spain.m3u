@@ -843,6 +843,21 @@ https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-63d7a8e5a9957100086bfc23" tvg-id="63d7a8e5a9957100086bfc23" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" group-title="Kids",South Park Versión Original
 https://jmp2.uk/plu-63d7a8e5a9957100086bfc23-alt.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+
 #EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://feedlix.net/tv/pt/ZigZag.png" group-title="Kids",Zig Zag
 https://streaming-live.rtp.pt/liverepeater/smil:zigzagHD.smil/playlist.m3u8
 
