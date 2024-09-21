@@ -87,7 +87,7 @@ https://jmp2.uk/plu-5f99aad4e82db50007fac4b2-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-63dd5c904e83e700088fb68a" tvg-id="63dd5c904e83e700088fb68a" tvg-logo="https://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="Kids",As Tartarugas Ninja (PT)
 https://jmp2.uk/plu-63dd5c904e83e700088fb68a-alt.m3u8
 
-#EXTINF:-1 channel-id="PlutoTV-61373f1a12dd9f00077dcd6f" tvg-id="61373f1a12dd9f00077dcd6f" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Kids",Las Tortugas Ninja (ES)
+#EXTINF:-1 channel-id="PlutoTV-61373f1a12dd9f00077dcd6f" tvg-id="61373f1a12dd9f00077dcd6f" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Kids",As Tortugas Ninja (ES)
 https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f-alt.m3u8
 
 #EXTINF:-1 tvg-id="AtfalMawahebTV.sa" tvg-logo="https://i.imgur.com/Y2BqP9m.png" group-title="Kids",Atfal & Mawaheb TV
@@ -107,6 +107,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e1
 
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV 2
+https://newidco-babysharktv-1-de.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BabyTime.ru" tvg-logo="https://i.imgur.com/lW3WIBD.png" group-title="Kids",Baby Time
 https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
@@ -140,6 +143,36 @@ https://jmp2.uk/sam-ESBA3300020W5.m3u8
 
 #EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://img3.static-ottera.com/prod/tg/linear_channel/logo/960x540/camp-spoopy-2021_1920-x-1080_option-5.jpg" group-title="Kids",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 1 (ES)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 2 (ES)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 3 (ES)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 4 (ES)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 5 (ES)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 1 (PT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11777
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 2 (PT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11776
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 3 (PT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 4 (PT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 5 (PT)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f6d4c60d90805aad81d1b0cb5f566a5.jpg" group-title="Kids",Canela Kids ES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
