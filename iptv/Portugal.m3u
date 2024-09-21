@@ -258,6 +258,12 @@ http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary (english)
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
+#EXTINF:-1 tvg-id="60c343ad476ec00007c2ec1a" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" group-title="Travel",Pluto TV Viajes
+https://jmp2.uk/plu-60c343ad476ec00007c2ec1a-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://condista.com/wp-content/uploads/2022/05/travel-xp-hd.jpg" group-title="Travel",Travel XP
+https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="Documentary",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
