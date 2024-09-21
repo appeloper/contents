@@ -327,6 +327,21 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/875c68d876502060f56b9303cf91a09e.jpg" group-title="Kids",Kids Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11777
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11776
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11775
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773 
+
 #EXTINF:-1 channel-id="PlutoTV-656e28dd57fe4a0008819c3d" tvg-id="656e28dd57fe4a0008819c3d" tvg-logo="https://images.pluto.tv/channels/656e28dd57fe4a0008819c3d/colorLogoPNG.png" group-title="Kids",A Aventureira
 https://jmp2.uk/plu-656e28dd57fe4a0008819c3d-alt.m3u8
 
