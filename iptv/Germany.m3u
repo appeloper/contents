@@ -310,10 +310,10 @@ https://bcovlive-a.akamaihd.net/b9f68a14d78144abb5b883067a0cdb84/eu-central-1/61
 https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="630e00c065cfc10007c6e06b" tvg-logo="https://images.pluto.tv/channels/630e00c065cfc10007c6e06b/colorLogoPNG.png" group-title="Movies",Deutsches Kino
-https://jmp2.uk/plu-630e00c065cfc10007c6e06b-alt.m3u8
+https://jmp2.uk/plu-630e00c065cfc10007c6e06b.m3u8
 
 #EXTINF:-1 tvg-id="6305ca798bd95300072d2f93" tvg-logo="https://images.pluto.tv/channels/6305ca798bd95300072d2f93/colorLogoPNG.png" group-title="Movies",Film Gold
-https://jmp2.uk/plu-6305ca798bd95300072d2f93-alt.m3u8
+https://jmp2.uk/plu-6305ca798bd95300072d2f93.m3u8
 
 #EXTINF:-1 tvg-id="DEBA3300015ZU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300015ZU_20240214T035613SQUARE.png_20240214035614.png" group-title="Movies",Top
 https://jmp2.uk/sam-DEBA3300015ZU.m3u8
@@ -334,16 +334,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc287ce3086a20009f5024c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="5dde47b63585b500099f74ec" tvg-logo="https://images.pluto.tv/channels/5dde47b63585b500099f74ec/colorLogoPNG.png" group-title="Movies",Kult Movie
-https://jmp2.uk/plu-5dde47b63585b500099f74ec-alt.m3u8
+https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
 
 #EXTINF:-1 tvg-id="615c1e5ce3039400070a0547" tvg-logo="https://images.pluto.tv/channels/615c1e5ce3039400070a0547/colorLogoPNG.png" group-title="Movies",Movie Dome
-https://jmp2.uk/plu-615c1e5ce3039400070a0547-alt.m3u8
+https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 
 #EXTINF:-1 tvg-id="62f4f4b88157cf00075c22db" tvg-logo="https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png" group-title="Movies",Horror
-https://jmp2.uk/plu-62f4f4b88157cf00075c22db-alt.m3u8
+https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
 
 #EXTINF:-1 tvg-id="5ce40e59246a395e9758923e" tvg-logo="https://images.pluto.tv/channels/5ce40e59246a395e9758923e/colorLogoPNG.png" group-title="Movies",Indies
-https://jmp2.uk/plu-5ce40e59246a395e9758923e-alt.m3u8
+https://jmp2.uk/plu-5ce40e59246a395e9758923e.m3u8
 
 #EXTINF:-1 tvg-id="RBW" tvg-logo="https://rbwonline.de/img/ban1.png" group-title="General",RBW (geo)
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:rbw_high/chunklist_w1740043495.m3u8?ref=www.rbwonline.de
@@ -613,10 +613,10 @@ https://install.akctvcontrol.com/speed/broadcast/141/file-3128k.m3u8
 https://jmp2.uk/sam-USBA3000044BJ.m3u8
 
 #EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Pets",Dogs 24/7
-https://jmp2.uk/plu-5b329e0a7b9d8872aeb49ceb-alt.m3u8
+https://jmp2.uk/plu-5b329e0a7b9d8872aeb49ceb.m3u8
 
 #EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
-https://jmp2.uk/plu-599375885ceaac3cabccbed7-alt.m3u8
+https://jmp2.uk/plu-599375885ceaac3cabccbed7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/ric.jpg" group-title="Kids",RIC
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
@@ -817,7 +817,7 @@ https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="623a1b5188ecdc0007c9ef5a" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="Music",Xite Rock
-https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a-alt.m3u8
+https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
 
 #EXTINF:-1 tvg-id="DEBD3000002SI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3000002SI_20240131T031113SQUARE.png_20240131031114.png" group-title="Music",XITE Rock On
 https://jmp2.uk/sam-DEBD3000002SI.m3u8
@@ -934,40 +934,40 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w212
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Music",Vevo 2K
-https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c-alt.m3u8
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f32f26bcd8aea00071240e5" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Music",Vevo '70s
-https://jmp2.uk/plu-5f32f26bcd8aea00071240e5-alt.m3u8
+https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
 
 #EXTINF:-1 channel-id="pluto-5fd7b8bf927e090007685853" tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music",Vevo '80s
-https://jmp2.uk/plu-5fd7b8bf927e090007685853-alt.m3u8
+https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
 
 #EXTINF:-1 channel-id="pluto-5fd7bb1f86d94a000796e2c2" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Music",Vevo '90s
-https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2-alt.m3u8
+https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
 
 #EXTINF:-1 channel-id="pluto-5da0d75e84830900098a1ea0" tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Music",Vevo Country
-https://jmp2.uk/plu-5da0d75e84830900098a1ea0-alt.m3u8
+https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
 
 #EXTINF:-1 channel-id="pluto-64d161c93c785e0008df575e" tvg-id="64d161c93c785e0008df575e" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" group-title="Music",Vevo Íconos Latinos
-https://jmp2.uk/plu-64d161c93c785e0008df575e-alt.m3u8
+https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
 
 #EXTINF:-1 channel-id="pluto-5da0d64d0e8a62000964ebe4" tvg-id="5da0d64d0e8a62000964ebe4" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" group-title="Music",Vevo Latino
-https://jmp2.uk/plu-5da0d64d0e8a62000964ebe4-alt.m3u8
+https://jmp2.uk/plu-5da0d64d0e8a62000964ebe4.m3u8
 
 #EXTINF:-1 channel-id="pluto-5d93b635b43dd1a399b39eee" tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music",Vevo Pop
-https://jmp2.uk/plu-5d93b635b43dd1a399b39eee-alt.m3u8
+https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f32f397795b750007706448" tvg-id="5f32f397795b750007706448" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Music",Vevo Reggaeton & Trap
-https://jmp2.uk/plu-5f32f397795b750007706448-alt.m3u8
+https://jmp2.uk/plu-5f32f397795b750007706448.m3u8
 
 #EXTINF:-1 channel-id="pluto-61d4b38226b8a50007fe03a6" tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="Music",Vevo Retro Rock
-https://jmp2.uk/plu-61d4b38226b8a50007fe03a6-alt.m3u8
+https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 
 #EXTINF:-1 channel-id="pluto-5da0d83f66c9700009b96d0e" tvg-id="5da0d83f66c9700009b96d0e" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Music",Vevo R&B
-https://jmp2.uk/plu-5da0d83f66c9700009b96d0e-alt.m3u8
+https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
 
 #EXTINF:-1 channel-id="pluto-61d4c2817a823d00070ba53e" tvg-id="61d4c2817a823d00070ba53e" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Music",Vevo True School Hip-Hop
-https://jmp2.uk/plu-61d4c2817a823d00070ba53e-alt.m3u8
+https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Music",KPOP Music TV
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
