@@ -46,13 +46,13 @@ https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 http://stmv1.caxiashost.com.br/caxiashost/caxiashost/chunklist_w1090463670.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-5f779951372da90007fd45e8" tvg-id="5f779951372da90007fd45e8" tvg-logo="https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Music",Classica
-https://jmp2.uk/plu-5f779951372da90007fd45e8-alt.m3u8
+https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-ITBB1900001O3" tvg-id="ITBB1900001O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB1900001O3_20220404T005706SQUARE.png_20220404005708.png" group-title="Music",Clubbing TV
 https://jmp2.uk/sam-ITBB1900001O3.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-5f68f53eb1e5800007390bf8" tvg-id="5f68f53eb1e5800007390bf8" tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Music",CMT Equal Play
-https://jmp2.uk/plu-5f68f53eb1e5800007390bf8-alt.m3u8
+https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 
 #EXTINF:-1 channel-id="pluto-64240d00dbdaaa00085bc5e2" tvg-id="64240d00dbdaaa00085bc5e2" tvg-logo="https://images.pluto.tv/channels/64240d00dbdaaa00085bc5e2/colorLogoPNG.png" group-title="Music",CMusic
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d00dbdaaa00085bc5e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c9ccb53e-620e-11ef-b11f-5e151e6e439f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0864c78c-bab0-4409-bc59-b5376c638f28&userId=&serverSideAds=true
@@ -130,58 +130,58 @@ http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 https://ventdelnord.tv:8080/mola/directe.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/632afc466699570007ed1106/colorLogoPNG.png" group-title="Music",MTV Best of
-https://jmp2.uk/plu-65a6939b4a10d800085cee92-alt.m3u8
+https://jmp2.uk/plu-65a6939b4a10d800085cee92.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-5d14fd1a252d35decbc4080c" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
-https://jmp2.uk/plu-5d14fd1a252d35decbc4080c-alt.m3u8
+https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-634fe16981d8f50007198161" tvg-id="634fe16981d8f50007198161" tvg-logo="https://images.pluto.tv/channels/634fe16981d8f50007198161/colorLogoPNG.png" group-title="Musik",MTV Brandneu
-https://jmp2.uk/plu-634fe16981d8f50007198161-alt.m3u8
+https://jmp2.uk/plu-634fe16981d8f50007198161.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6329cd8809e10300073236c2/colorLogoPNG.png" group-title="Music",MTV Classic
-https://jmp2.uk/plu-635bfb89b5cd9b0007ca9d63-alt.m3u8
+https://jmp2.uk/plu-635bfb89b5cd9b0007ca9d63.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca6899a37b88b269472ea4b/colorLogoPNG-1641927416701.png" group-title="Music",MTV Dating
-https://jmp2.uk/plu-5ca6899a37b88b269472ea4b-alt.m3u8
+https://jmp2.uk/plu-5ca6899a37b88b269472ea4b.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-5d3609cd6a6c78d7672f2a81" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="Music",MTV Flow Latino
-https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81-alt.m3u8
+https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png" group-title="Music",MTV Made in Spain
-https://jmp2.uk/plu-60a26a056d55b30007918d5a-alt.m3u8
+https://jmp2.uk/plu-60a26a056d55b30007918d5a.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-6331a5f83eb57800074d4a0d" tvg-id="6331a5f83eb57800074d4a0d" tvg-logo="https://images.pluto.tv/channels/6331a5f83eb57800074d4a0d/colorLogoPNG.png" group-title="Music",MTV Movie Hits
-https://jmp2.uk/plu-6331a5f83eb57800074d4a0d-alt.m3u8
+https://jmp2.uk/plu-6331a5f83eb57800074d4a0d.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6245d15062cd1f00070a2338/colorLogoPNG.png" group-title="Music",MTV Music
-https://jmp2.uk/plu-6245d15062cd1f00070a2338-alt.m3u8
+https://jmp2.uk/plu-6245d15062cd1f00070a2338.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-668677b774f5ec0008124f33" tvg-id="668677b774f5ec0008124f33" tvg-logo="https://images.pluto.tv/channels/668677b774f5ec0008124f33/colorLogoPNG.png" group-title="Music",MTV New Music
-https://jmp2.uk/plu-668677b774f5ec0008124f33-alt.m3u8
+https://jmp2.uk/plu-668677b774f5ec0008124f33.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-65ba4b563af63d0008504d4f" tvg-id="65ba4b563af63d0008504d4f" tvg-logo="https://images.pluto.tv/channels/65ba4b563af63d0008504d4f/colorLogoPNG.png" group-title="Music",MTV On Tour!
-https://jmp2.uk/plu-65ba4b563af63d0008504d4f-alt.m3u8
+https://jmp2.uk/plu-65ba4b563af63d0008504d4f.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Music",MTV Party Music
-https://jmp2.uk/plu-61ea759737679900078ff559-alt.m3u8
+https://jmp2.uk/plu-61ea759737679900078ff559.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64f89fcfd661bb00081ba45c/colorLogoPNG.png" group-title="Music",MTV Reality
-https://jmp2.uk/plu-625eb3e245f5bc0007810046-alt.m3u8
+https://jmp2.uk/plu-625eb3e245f5bc0007810046.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-65787eab32c1b300089a84d7" tvg-id="65787eab32c1b300089a84d7" tvg-logo="https://images.pluto.tv/channels/65787eab32c1b300089a84d7/colorLogoPNG.png" group-title="Music",MTV Reggaeton
-https://jmp2.uk/plu-65787eab32c1b300089a84d7-alt.m3u8
+https://jmp2.uk/plu-65787eab32c1b300089a84d7.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a6939b4a10d800085cee92/colorLogoPNG.png" group-title="Music",MTV Rocks
-https://jmp2.uk/plu-624303598e45140007d765c1-alt.m3u8
+https://jmp2.uk/plu-624303598e45140007d765c1.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" group-title="Music",MTV Spankin New
-https://jmp2.uk/plu-5d14fdb8ca91eedee1633117-alt.m3u8
+https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6492e7e4d2c47c0008432967/colorLogoPNG.png" group-title="Music",MTV Summer Hits
-https://jmp2.uk/plu-6492e7e4d2c47c0008432967-alt.m3u8
+https://jmp2.uk/plu-6492e7e4d2c47c0008432967.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c1e14e5df1da0007bee0e3/colorLogoPNG.png" group-title="Music",MTV Unplugged
-https://jmp2.uk/plu-61c1e14e5df1da0007bee0e3-alt.m3u8
+https://jmp2.uk/plu-61c1e14e5df1da0007bee0e3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/muzzik-tv.jpg" group-title="Music",Muzzik
 https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
@@ -265,16 +265,16 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-625e79fe9b586d000785e330" tvg-id="625e79fe9b586d000785e330" tvg-logo="https://images.pluto.tv/channels/625e79fe9b586d000785e330/colorLogoPNG.png" group-title="Music",Pluto TV Classic Hip-Hop
-https://jmp2.uk/plu-625e79fe9b586d000785e330-alt.m3u8
+https://jmp2.uk/plu-625e79fe9b586d000785e330.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-619b80acac5329000740c022" tvg-id="619b80acac5329000740c022" tvg-logo="https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png" group-title="Music",Pluto TV Love Songs
-https://jmp2.uk/plu-619b80acac5329000740c022-alt.m3u8
+https://jmp2.uk/plu-619b80acac5329000740c022.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-65d4be214e01740008991d3b" tvg-id="65d4be214e01740008991d3b" tvg-logo="https://images.pluto.tv/channels/65d4be214e01740008991d3b/colorLogoPNG.png" group-title="Music",Pluto TV Rap
-https://jmp2.uk/plu-65d4be214e01740008991d3b-alt.m3u8
+https://jmp2.uk/plu-65d4be214e01740008991d3b.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-625e810f0035910007da288b" tvg-id="625e810f0035910007da288b" tvg-logo="https://images.pluto.tv/channels/625e810f0035910007da288b/colorLogoPNG.png" group-title="Music",Pluto TV Summer Hits
-https://jmp2.uk/plu-625e810f0035910007da288b-alt.m3u8
+https://jmp2.uk/plu-625e810f0035910007da288b.m3u8
 
 #EXTINF:-1 channel-id="pluto-64240d3d466225000827412b" tvg-id="64240d3d466225000827412b" tvg-logo="https://images.pluto.tv/channels/64240d3d466225000827412b/colorLogoPNG.png" group-title="Music",Qello Concerts
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d3d466225000827412b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c9ccb53e-620e-11ef-b11f-5e151e6e439f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0864c78c-bab0-4409-bc59-b5376c638f28&userId=&serverSideAds=true
@@ -313,7 +313,7 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_8.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-64c926b44e3f020008e19112" tvg-id="64c926b44e3f020008e19112" tvg-logo="https://images.pluto.tv/channels/64c926b44e3f020008e19112/colorLogoPNG.png" group-title="Music",Rotana M+
-https://jmp2.uk/plu-64c926b44e3f020008e19112-alt.m3u8
+https://jmp2.uk/plu-64c926b44e3f020008e19112.m3u8
 
 #EXTINF:-1 tvg-name="RTL 102.5 Italia" tvg-logo="https://www.rotas.com/wp-content/uploads/2018/02/Logo-RTL-banner.jpg" group-title="Music",RTL 102.5 Italia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
@@ -334,7 +334,7 @@ https://56b50ada2d659.streamlock.net/RadioSorrrisoTV/livestream/playlist.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-6317047f19d9930007fa8456" tvg-id="6317047f19d9930007fa8456" tvg-logo="https://images.pluto.tv/channels/6317047f19d9930007fa8456/colorLogoPNG.png" group-title="Music",Staccs TV
-https://jmp2.uk/plu-6317047f19d9930007fa8456-alt.m3u8
+https://jmp2.uk/plu-6317047f19d9930007fa8456.m3u8
 
 #EXTINF:-1 channel-id="samsung-GB1900002QZ" tvg-id="GB1900002QZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1900002QZ_20240611T062016SQUARE.png" group-title="Music",Staccs TV Celebrate
 https://jmp2.uk/sam-GB1900002QZ.m3u8
@@ -451,7 +451,7 @@ https://jmp2.uk/sam-CABC52000171D.m3u8
 https://jmp2.uk/sam-FRBC2100002JA.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" group-title="Music",Vevo Íconos Latinos
-https://jmp2.uk/plu-64d161c93c785e0008df575e-alt.m3u8
+https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230913T030617SQUARE.png_20230913030618.png" group-title="Music",Vevo Latino
 https://jmp2.uk/sam-ESBC2100002LV.m3u8
@@ -463,7 +463,7 @@ https://jmp2.uk/sam-ESBC2100001IU.m3u8
 https://jmp2.uk/sam-CABC5200015Q1.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64dab5fe35425100080e2991/colorLogoPNG.png" group-title="Music",Vevo Regional Mexicano
-https://jmp2.uk/plu-64dab5fe35425100080e2991-alt.m3u8
+https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC5200014PD_20230809T005128SQUARE.png_20230809005129.png" group-title="Music",Vevo Retro Rock
 https://jmp2.uk/sam-CABC5200014PD.m3u8
@@ -472,28 +472,28 @@ https://jmp2.uk/sam-CABC5200014PD.m3u8
 https://jmp2.uk/sam-DEBC21000022L.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Music",Vevo True School Hip-Hop
-https://jmp2.uk/plu-61d4c2817a823d00070ba53e-alt.m3u8
+https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-6076cd1df8576d0007c82193" tvg-id="6076cd1df8576d0007c82193" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Music",VH1 Classics
-https://jmp2.uk/plu-6076cd1df8576d0007c82193-alt.m3u8
+https://jmp2.uk/plu-6076cd1df8576d0007c82193.m3u8
 
 #EXTINF:-1 tvg-id="6552085aab05240008b05f6c" tvg-logo="https://images.pluto.tv/channels/6552085aab05240008b05f6c/colorLogoPNG.png" group-title="Music",VH1+ Back to 90's
-https://jmp2.uk/plu-6552085aab05240008b05f6c-alt.m3u8
+https://jmp2.uk/plu-6552085aab05240008b05f6c.m3u8
 
 #EXTINF:-1 tvg-id="63724270c7c2360007b170e8" tvg-logo="https://images.pluto.tv/channels/63724270c7c2360007b170e8/colorLogoPNG.png" group-title="Music",VH1+ Canzoni Italiane
-https://jmp2.uk/plu-63724270c7c2360007b170e8-alt.m3u8
+https://jmp2.uk/plu-63724270c7c2360007b170e8.m3u8
 
 #EXTINF:-1 tvg-id="65e5d9d2ec9fda0008c35f91" tvg-logo="https://images.pluto.tv/channels/65e5d9d2ec9fda0008c35f91/colorLogoPNG.png" group-title="Music",VH1+ Dance
-https://jmp2.uk/plu-65e5d9d2ec9fda0008c35f91-alt.m3u8
+https://jmp2.uk/plu-65e5d9d2ec9fda0008c35f91.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="Music",VH1+ Music Legends
-https://jmp2.uk/plu-62e8cc10ca869f00078efca8-alt.m3u8
+https://jmp2.uk/plu-62e8cc10ca869f00078efca8.m3u8
 
 #EXTINF:-1 tvg-id="636a4173e34fd50007534542" tvg-logo="https://images.pluto.tv/channels/636a4173e34fd50007534542/colorLogoPNG.png" group-title="Music",VH1+ Rock!
-https://jmp2.uk/plu-636a4173e34fd50007534542-alt.m3u8
+https://jmp2.uk/plu-636a4173e34fd50007534542.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-626180ec537f210007e94b52" tvg-id="626180ec537f210007e94b52" tvg-logo="https://images.pluto.tv/channels/626180ec537f210007e94b52/colorLogoPNG.png" group-title="Music",VH1+ Summer Vibes
-https://jmp2.uk/plu-626180ec537f210007e94b52-alt.m3u8
+https://jmp2.uk/plu-626180ec537f210007e94b52.m3u8
 
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/2556.gif" group-title="Music",Visual Radio
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
@@ -511,7 +511,7 @@ https://jmp2.uk/sam-CABB2600018T4.m3u8
 https://jmp2.uk/sam-CABD17000043J.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Music",XITE Classic Country
-https://jmp2.uk/plu-623b92a2ccefed0007b1db48-alt.m3u8
+https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240401T235722SQUARE.png" group-title="Music",XITE Country's Finest
 https://jmp2.uk/sam-CABD1200023UJ.m3u8
@@ -520,7 +520,7 @@ https://jmp2.uk/sam-CABD1200023UJ.m3u8
 https://jmp2.uk/sam-CABD120001993.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-623b93628e6ded0007337d4d" tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="Music",XITE Gospel
-https://jmp2.uk/plu-623b93628e6ded0007337d4d-alt.m3u8
+https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA22000070N_20240402T133359SQUARE.png" group-title="Music",XITE Hits
 https://jmp2.uk/sam-DEBA2200007V6.m3u8
@@ -541,7 +541,7 @@ https://jmp2.uk/sam-CABD12000207Z.m3u8
 https://jmp2.uk/sam-CABD1200021MS.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="Music",XITE Rock
-https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a-alt.m3u8
+https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBB2300004KV" tvg-id="USBB2300004KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="Music",XITE Rock x Metal
 https://jmp2.uk/sam-USBB2300004KV.m3u8
@@ -553,7 +553,7 @@ https://jmp2.uk/sam-CABB26000054K.m3u8
 https://jmp2.uk/sam-USBD3300010L9.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-668678bc0642e500080f90c6" tvg-id="668678bc0642e500080f90c6" tvg-logo="https://images.pluto.tv/channels/668678bc0642e500080f90c6/colorLogoPNG.png" group-title="Música",Yo! MTV 
-https://jmp2.uk/plu-668678bc0642e500080f90c6-alt.m3u8
+https://jmp2.uk/plu-668678bc0642e500080f90c6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/16582.v7.png" group-title="Radio",1.FM (Radio BR)
 http://strm112.1.fm/loveclassics_mobile_mp3
