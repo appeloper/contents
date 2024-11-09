@@ -1,52 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/aquateenhungerforce.jpg" group-title="Kids",24/7 Aqua Teen Hunger Force
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azzpKrT.png" group-title="Kids",24/7 Dream Corp
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Dethklok2.jpg/250px-Dethklok2.jpg" group-title="Kids",24/7 Metalocalypse
-https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/mrpickles.jpg" group-title="Kids",24/7 Mr. Pickles
-http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="Kids",24/7 Rick and Morty
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_6.m3u8
-
-#EXTINF:-1 tvg-logo="http://i0.kym-cdn.com/entries/icons/facebook/000/015/339/Robot_Chicken.jpg" group-title="Kids",24/7 Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/168-1687921_samurai-jack-logo-samurai-jack-logo-png.png" group-title="Kids",24/7 Samurai Jack
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/squidbillies.jpg" group-title="Kids",24/7 Squidbillies
-https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cd/Superjail%21.png" group-title="Kids",24/7 Superjail!
-https://adultswim-vodlive.cdn.turner.com/live/superjail/stream_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/venturebros.png" group-title="Kids",24/7 The Venture Bros.
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/willians_street.png" group-title="Kids",24/7 Williams Stream
-http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_5.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/3ABNKids.png" group-title="Kids",3ABN Kids
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w1129621867_b1428000_slen.m3u8
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-656e28dd57fe4a0008819c3d" tvg-id="656e28dd57fe4a0008819c3d" tvg-logo="https://images.pluto.tv/channels/656e28dd57fe4a0008819c3d/colorLogoPNG.png" group-title="Kids",A Aventureira
 https://jmp2.uk/plu-656e28dd57fe4a0008819c3d.m3u8
 
-#EXTINF:-1 channel-id="PlutoTV-5f6df6293a12e10007017396" tvg-id="5f6df6293a12e10007017396" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="Kids",A vida moderna de Rocko
-https://jmp2.uk/plu-5f6df6293a12e10007017396.m3u8
-
 #EXTINF:-1 tvg-id="ABCMESydney.au" tvg-logo="https://i.imgur.com/6NyFLAm.png" group-title="Kids",ABC Me
 https://c.mjh.nz/abc-me.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://unevenedge.com/uploads/monthly_2023_05/Adult-Swim-Logo-1.jpg.87eaa9723f966ab6fdccfec2d825346e.jpg" group-title="Kids",Adult Swim Kids
-https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_4.m3u8
 
 #EXTINF:-1 tvg-id="AghapyKids.us" tvg-logo="https://i.imgur.com/8ariztD.png" group-title="Kids",Aghapy Kids
 https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
@@ -81,9 +42,6 @@ https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/o4F6BrdDFB0/hqdefault.jpg" group-title="Kids",Arthur
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62556bfa3261a300076b0baa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 channel-id="PlutoTV-5f99aad4e82db50007fac4b2" tvg-id="5f99aad4e82db50007fac4b2" tvg-logo="https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png" group-title="Kids",As Pistas de Blue
-https://jmp2.uk/plu-5f99aad4e82db50007fac4b2.m3u8
-
 #EXTINF:-1 channel-id="PlutoTV-63dd5c904e83e700088fb68a" tvg-id="63dd5c904e83e700088fb68a" tvg-logo="https://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="Kids",As Tartarugas Ninja (PT)
 https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8
 
@@ -111,9 +69,6 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV 2
 https://newidco-babysharktv-1-de.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BabyTime.ru" tvg-logo="https://i.imgur.com/lW3WIBD.png" group-title="Kids",Baby Time
-https://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
-
 #EXTINF:-1 tvg-id="Balapan.kz" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="Kids",Balapan TV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 
@@ -134,9 +89,6 @@ https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBC4400013R7" tvg-id="USBC4400013R7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400013R7_20240819T165356SQUARE.png" group-title="Kids",Bob the Builder
 https://jmp2.uk/sam-USBC4400013R7.m3u8
-
-#EXTINF:-1 tvg-id="BratTV.us" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Kids",Brat TV
-https://brat-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-ESBA3300020W5" tvg-id="ESBA3300020W5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300020W5_20220914T041117SQUARE.png_20220914041117.png" group-title="Kids",Caillou
 https://jmp2.uk/sam-ESBA3300020W5.m3u8
@@ -177,17 +129,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f6d4c60d90805aad81d1b0cb5f566a5.jpg" group-title="Kids",Canela Kids ES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
-#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network (IN)
-https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network Southeast Asia (SG)
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-
 #EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
 https://jmp2.uk/plu-599375885ceaac3cabccbed7.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-65819cb3a620e300080f63bd" tvg-id="65819cb3a620e300080f63bd" tvg-logo="https://images.pluto.tv/channels/65819cb3a620e300080f63bd/colorLogoPNG.png" group-title="Kids",Cazadora de cartas
-https://jmp2.uk/plu-65819cb3a620e300080f63bd.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://feedlix.net/tv/es/clan_tv.png",Clan HD
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
@@ -227,9 +170,6 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-ES3000010YY" tvg-id="ES3000010YY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000010YY_20240827T040406SQUARE.png" group-title="Kids",El Ninja Boy
 https://jmp2.uk/sam-ES3000010YY.m3u8
-
-#EXTINF:-1 tvg-id="Eureka.co" tvg-logo="https://i.imgur.com/WgnZPol.png" group-title="Kids",Eureka
-https://cdn.livewave.co:19360/eurekalive/720p.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBD42000124T" tvg-id="USBD42000124T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000124T_20240520T214759SQUARE.png" group-title="Kids",Fireman Sam
 https://jmp2.uk/sam-USBD42000124T.m3u8
@@ -308,9 +248,6 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/inde
 
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 3 EUR
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC3USA.us" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 5
-https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-ESBD3200002V5" tvg-id="ESBD3200002V5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20240827T040347SQUARE.png" group-title="Kids",Mini Me
 https://jmp2.uk/sam-ESBD3200002V5.m3u8
@@ -447,9 +384,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eaPxZxN.jpg" group-title="Kids",Pluto TV Turma da Mónica
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f997e44949bc70007a6941e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=719&deviceId=5f997e44949bc70007a6941e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pBv3Lz0.jpg" group-title="Kids",Pluto TV Vida Moderna de Rocko
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=731&deviceId=5f6df6293a12e10007017396&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-
 #EXTINF:-1 channel-id="samsung-GBBD1100005QY" tvg-id="GBBD1100005QY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100005QY_20230726T033546SQUARE.png_20230726033547.png" group-title="Kids",Pocket.watch
 https://jmp2.uk/sam-GBBD1100005QY.m3u8
 
@@ -521,9 +455,6 @@ https://jmp2.uk/sam-USBD33000180S.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBD3300020PM" tvg-id="USBD3300020PM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300020PM_20240520T214843SQUARE.png" group-title="Kids",Sonic The Hedgehog
 https://jmp2.uk/sam-USBD3300020PM.m3u8
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327" tvg-logo="https://provider-static.plex.tv/epg/cms/production/14362d39-32e6-41c8-894d-2401013362ff/Adventures_of_Sonic_the_Hedgehog_channel_logo_dark_-_Dana_Foster.png" group-title="Kids",Sonic TV
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/KBus6cj6F_w/maxresdefault.jpg" group-title="Kids",South Park (EN)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64edf6eaa7ec0d000812f58c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -629,9 +560,6 @@ https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/83/24/8b/83248b803d701c8b5a75cd3b4881ecbb.jpg" group-title="Kids",Xiaomi Ninja Kidz TV
 https://playworksdigital-ninjakidztv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png" group-title="Kids",Watch it Kid
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/Y/Yu-Gu-Oh_-logo-FA1A029B70-seeklogo.com.png" group-title="Kids",Yu-Gi-Oh!
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
