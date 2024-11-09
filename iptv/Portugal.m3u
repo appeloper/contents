@@ -456,6 +456,9 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=120
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 4
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=180
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/ipapool.com/wp-content/uploads/2023/09/US_STVP_BilliardTV_ChannelTile_1000x1000_Square.jpg" group-title="Sports",Billiards TV
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfchannel.png" group-title="Sports",Surf Channel
 https://bit.ly/3Hxwlb8?/playlist_1920x1080_4200k.m3u8
 
