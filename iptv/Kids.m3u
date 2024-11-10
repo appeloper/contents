@@ -63,14 +63,20 @@ https://jmp2.uk/sam-USBD350002338.m3u8
 #EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png" group-title="Kids",BabyFirst
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.pinimg.com/474x/f8/1c/33/f81c336e7ba44795062593264a90d3cf.jpg" group-title="Kids",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/f8/1c/33/f81c336e7ba44795062593264a90d3cf.jpg" group-title="Kids",Baby Shark TV 2
 https://newidco-babysharktv-1-de.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/f8/1c/33/f81c336e7ba44795062593264a90d3cf.jpg" group-title="Kids",Baby Shark TV 3
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951209
 
 #EXTINF:-1 tvg-id="Balapan.kz" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="Kids",Balapan TV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0GWNND634OHQ/600x337.jpg" group-title="Kids",Barney TV (Xumo TV)
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951148
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/95C3A69E-55D2-4550-B3A4-B83B02A22152.png" group-title="Kids",Barney and Friends
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ac405b3874370007419b7f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -242,6 +248,9 @@ http://ares.mnet.mk/hls/mnet-kids.m3u8
 
 #EXTINF:-1 tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="Kids",Lego Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ugc.production.linktr.ee/3cda8de8-e2f1-4a22-adb4-d0ec3fd69b77_LBB-3D-MB-LOGO-LOCKUPS-WHITE-RGB-ALT-27-02.png" group-title="Kids",Little Baby Bum
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991671
 
 #EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="Kids",Majid TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
