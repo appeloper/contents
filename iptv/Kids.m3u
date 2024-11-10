@@ -240,17 +240,17 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-GBBC4300005AL" tvg-id="GBBC4300005AL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4300005AL_20221109T010843SQUARE.png_20221109010844.png" group-title="Kids",LEGO Channel
 https://jmp2.uk/sam-GBBC4300005AL.m3u8
 
-#EXTINF:-1 tvg-id="LogosTVKids.es" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="Kids",Logos TV Kids
-https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MNetKids.mk" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="Kids",M-Net Kids
-http://ares.mnet.mk/hls/mnet-kids.m3u8
-
 #EXTINF:-1 tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="Kids",Lego Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ugc.production.linktr.ee/3cda8de8-e2f1-4a22-adb4-d0ec3fd69b77_LBB-3D-MB-LOGO-LOCKUPS-WHITE-RGB-ALT-27-02.png" group-title="Kids",Little Baby Bum
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991671
+
+#EXTINF:-1 tvg-id="LogosTVKids.es" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="Kids",Logos TV Kids
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNetKids.mk" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="Kids",M-Net Kids
+http://ares.mnet.mk/hls/mnet-kids.m3u8
 
 #EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="Kids",Majid TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
