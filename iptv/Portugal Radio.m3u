@@ -82,7 +82,7 @@ https://stream-hls.bauermedia.pt/rcsoft.aac/playlist.m3u8
 https://centova.radios.com.pt/proxy/460?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOFESTIVAL.png" group-title="Radio",Festival
-http://centova.radios.pt:9520/stream/1/
+https://audio.serv.pt/8012/stream.mp3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOHIPERFM.png" group-title="Radio",Hiper FM
 http://195.23.85.126:9500/stream/1/
@@ -132,9 +132,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITSAAC.a
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/e/5/de5c79b747e468a8a7718608927a8bcd_icon.png" group-title="Radio",Meo Sudoeste
 http://centova.radios.pt:8495/stream/1/
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/chmagazine.pt/wp-content/uploads/2011/10/radio_nostalgia_logo.jpg" group-title="Radio",Nostalgia
-http://centova.radios.pt:8435/;
-
 #EXTINF:-1 tvg-logo="https://radionoar.pt/wp-content/uploads/2024/02/RadioNoAr_LOGO-BRANCO-copy-2.png" group-title="Radio",No Ar 107.8 FM
 https://radios.justweb.pt/8034/stream/1/
 
@@ -175,7 +172,7 @@ http://streaming.radioregional.pt:8040/;
 http://streaming.radioregional.pt:8046/;
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_renascenca.jpg" group-title="Radio",Renascença
-https://25643.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_rfm.jpg" group-title="Radio",RFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
@@ -197,9 +194,6 @@ https://25543.live.streamtheworld.com/DANCEONTHEFLOORAAC_SC
 
 #EXTINF:-1 tvg-logo="https://www.radioritmos.com/wp-content/uploads/2020/11/logoradioritmos.fw_.png" group-title="Radio",Ritmos
 https://cast2.hoost.com.br:20063/stream
-
-#EXTINF:-1 tvg-logo="https://superbocksuperrock.pt/static/media/sbsr_logo.03f9bedf5b9fab799429.png" group-title="Radio",SBSR Superbock
-http://centova.radios.pt:8435/stream/1/
 
 #EXTINF:-1 tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo_xmas.png" group-title="Radio",Sines (Stream Radio PT)
 https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/chunklist_w1533853848_b4500000_slen.m3u8
