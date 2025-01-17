@@ -325,7 +325,7 @@ https://jmp2.uk/plu-5b329e0a7b9d8872aeb49ceb.m3u8
 https://jmp2.uk/plu-599375885ceaac3cabccbed7.m3u8
 
 #EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://feedlix.net/tv/pt/ZigZag.png" group-title="Kids",Zig Zag (ocasional)
-https://streaming-live.rtp.pt/liverepeater/smil:zigzagHD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:zigzagHD.smil/chunklist_b290000_slpor.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosKids.pt.png" group-title="Kids",Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
