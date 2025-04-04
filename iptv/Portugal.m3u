@@ -271,7 +271,7 @@ http://rtmp.api.rt.com/hls/rtdru.m3u8
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 #EXTINF:-1 tvg-id="60c343ad476ec00007c2ec1a" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" group-title="Travel",Pluto TV Viajes
-https://jmp2.uk/plu-60c343ad476ec00007c2ec1a.m3u8
+https://jmp2.uk/plu-5dcddfbdb7cf0e0009ae09ea.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.info/l/o/7/7146.1525122979.png",Travel XP (legendado PT)
 https://b3cc72d0160f4e168712e880c78c4dcc.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_TravelXP/474d1e81-5738-4e46-a169-260206510f5a/2.m3u8
@@ -282,8 +282,8 @@ https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="Documentary",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 tvg-id="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240415T233104SQUARE.png" group-title="Documentary",BBC Earth
-https://jmp2.uk/sam-USBD1700001RW.m3u8
+#EXTINF:-1 channel-id="GBBB5000002PL" tvg-id="GBBB5000002PL" tvg-chno="4486" tvg-name="Wild Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="Documentary",Wild Planet
+https://jmp2.uk/sam-GBBB5000002PL.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUjFHcGJI2XS4hksDvaRQg2YdHlZtZop2f5A&s" group-title="Documentary",Xumo Free Nature And Wildlife TV
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951218
