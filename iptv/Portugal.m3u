@@ -129,33 +129,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d0007
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Movies",Cine Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=72&deviceId=5f12111c9e6c2c00078ef3bb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png" group-title="Movies",Cine Real
-https://cinereal-plex.amagi.tv/CineReal/master_5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" group-title="Movies",Top Cine
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-645a309c5a0cd5000873f609" tvg-id="645a309c5a0cd5000873f609" tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png" group-title="Movies",Pluto TV Catástrofes (ES)
-https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Movies",Pluto TV Cine Estelar (ES)
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-#EXTINF:-1 tvg-id="5983" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/bd059380-7181-47a0-8f7c-e20a86788a99-top-movies-rakutentv-1646658125.png" group-title="Movies",Películas Top
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_year=1970&ads.did=09bef241-987c-45b2-b024-acc61a336afa&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=38dfcf44-9fc3-4d5b-9699-d634efb485c1&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5
-
-#EXTINF:-1 tvg-id="6069" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463.png" group-title="Movies",Acción
-https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_year=1970&ads.did=09bef241-987c-45b2-b024-acc61a336afa&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=ac0a3b17-5c53-498c-aed4-93fd9b7f254d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6069&publishing_platform_id=5
-
-#EXTINF:-1 tvg-id="6092" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463.png" group-title="Movies",Drama
-https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_year=1970&ads.did=09bef241-987c-45b2-b024-acc61a336afa&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=1c33fbb6-690c-4079-a2da-60cf57e7e180&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6092&publishing_platform_id=5
-
-#EXTINF:-1 tvg-id="6105" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463.png" group-title="Movies",Románticas
-https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_year=1970&ads.did=09bef241-987c-45b2-b024-acc61a336afa&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=312d4aaf-0b19-4052-8c65-5f8148a6380d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",Rakuten Thriller
-https://rakuten-thriller-2-eu.rakuten.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1411866446909644801/EgNGexfK_400x400.jpg" group-title="Movies",Runtime Ação
 https://run-rt-ra-lgchannels.otteravision.com/run/rt_ra/rt_ra.m3u8
 
@@ -173,6 +146,51 @@ https://run-ro-br-lgchannels.otteravision.com/run/ro_br/ro_br.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1411866446909644801/EgNGexfK_400x400.jpg" group-title="Movies",Runtime TV Cine
 https://run-th-br-lgchannels.otteravision.com/run/th_br/th_br.m3u8
+
+#EXTINF:-1 tvg-id="action-rakuten-tv" tvg-name="action-rakuten-tv" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Movies",Acción (ES)
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=e86d5d63-520f-48c6-a793-073bb3cac45e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6069&publishing_platform_id=5
+
+#EXTINF:-1 channel-id="PlutoTV-645a309c5a0cd5000873f609" tvg-id="645a309c5a0cd5000873f609" tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png" group-title="Movies",Catástrofes
+https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-61373bb45168fe000773eecd" tvg-id="61373bb45168fe000773eecd" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="Movies",Cine Clásico
+https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-60cc807324d60a0007708dc8" tvg-id="60cc807324d60a0007708dc8" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="Movies",Cine de Autor
+https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
+
+#EXTINF:-1 tvg-id="comedy-rakuten-tv" tvg-name="comedy-rakuten-tv" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg" group-title="Movies",Comedia
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=comedy-rakuten-tv_es&ads.rtv_content_id=6180&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=633d7113-8d4d-4d2a-880b-0f75fd1f076b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6180&publishing_platform_id=5
+
+#EXTINF:-1 channel-id="PlutoTV-655b5d865812e80008843bd1" tvg-id="655b5d865812e80008843bd1" tvg-logo="https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG.png" group-title="Movies",Comedias Románticas
+https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
+
+#EXTINF:-1 tvg-id="drama-rakuten-tv" tvg-name="drama-rakuten-tv" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg" group-title="Movies",Drama
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=2182edad-1451-480f-b269-d25d9de4866f&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6092&publishing_platform_id=5
+
+#EXTINF:-1 tvg-id="spanish-cinema-rakuten-tv" tvg-name="spanish-cinema-rakuten-tv" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg" group-title="Movies",Cine Español
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=146580c6-53af-425b-a2bd-0a16f143304d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6196&publishing_platform_id=5
+
+#EXTINF:-1 channel-id="PlutoTV-5f1ac1f1b66c76000790ef27" tvg-id="5f1ac1f1b66c76000790ef27" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Movies",Cine Estelar
+https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+
+#EXTINF:-1 tvg-id="romance-rakuten-tv" tvg-name="romance-rakuten-tv" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg" group-title="Movies",Películas Románticas
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=26314731-4c89-4db7-9dee-80246de60760&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5
+
+#EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-name="top-movies-rakuten-tv" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Movies",Pelis Top
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=8a666854-a030-4ad5-9508-b903d8f7fc7d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5
+
+#EXTINF:-1 channel-id="PlutoTV-65ce480a78df2200131c597b" tvg-id="65ce480a78df2200131c597b" tvg-logo="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" group-title="Movies",Psycho
+https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
+
+#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-name="sci-fi-rakuten-tv" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg" group-title="Movies",Sci-Fi
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=c3c739d8-ba24-4e4e-8d6e-fa784dbefb92&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6740&publishing_platform_id=5
+
+#EXTINF:-1 tvg-id="thriller-rakuten-tv" tvg-name="thriller-rakuten-tv" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/6e6e627e-d9ef-46da-8f3a-eea4949f632e.jpeg" group-title="Movies",Thrillers
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=ebb0adb4-0a88-456e-bfad-665cc1ef3d6c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6480&publishing_platform_id=5
+
+#EXTINF:-1 channel-id="PlutoTV-6385e82900ab2e000768a058" tvg-id="6385e82900ab2e000768a058" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" group-title="Movies",Western
+https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 
 #EXTINF:-1 tvg-id="KURIAKOS TV" tvg-logo="https://feedlix.net/tv/pt/KuriakosTv.pt.png" group-title="Religious",Kuriakos TV
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
@@ -261,8 +279,8 @@ https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/rakuten_doc.jpg" group-title="Documentary",Rakuten Documentaries
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/rakuten_doc.jpg" group-title="Documentary",Rakuten Documentários (legendado PT)
+https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
 
 #EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary",RT Documentary HD (english)
 http://rtmp.api.rt.com/hls/rtdru.m3u8
@@ -270,14 +288,38 @@ http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary (english)
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
-#EXTINF:-1 tvg-id="60c343ad476ec00007c2ec1a" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" group-title="Travel",Pluto TV Viajes
-https://jmp2.uk/plu-5dcddfbdb7cf0e0009ae09ea.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.info/l/o/7/7146.1525122979.png",Travel XP (legendado PT)
+#EXTINF:-1 tvg-logo="https://media.info/l/o/7/7146.1525122979.png" group-title="Travel",Travel XP (legendado PT)
 https://b3cc72d0160f4e168712e880c78c4dcc.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_TravelXP/474d1e81-5738-4e46-a169-260206510f5a/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://condista.com/wp-content/uploads/2022/05/travel-xp-hd.jpg" group-title="Travel",Travel XP (espanol)
 https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-5dcddfbdb7cf0e0009ae09ea" tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Travel",Viajes
+https://jmp2.uk/plu-5dcddfbdb7cf0e0009ae09ea.m3u8
+
+#EXTINF:0 channel-id="bbc-earth" channel-number="3560" tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" tvc-guide-title="BBC Earth" group-title="Documentary",BBC Earth
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ba859734-12f9-11f0-a6bb-39c8c137afbb&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5b0fa2d8-5392-47d7-8868-0bccc59234ab&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="PlutoTV-5ddc266f80e3550009136843" tvg-id="5ddc266f80e3550009136843" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Documentary",Pluto TV Aventura
+https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="Documentary",Pluto TV Ciencia
+https://jmp2.uk/plu-5dd8364ea1d6780009929902.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-6474aadc8e3c0a0008b98493" tvg-id="6474aadc8e3c0a0008b98493" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="Documentary",Pluto TV Curiosidade
+https://jmp2.uk/plu-6474aadc8e3c0a0008b98493.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-61cd7b49543066000713b620" tvg-id="61cd7b49543066000713b620" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documentary",Pluto TV Historia
+https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-5dd6ab8056beb000091fc6b6" tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Hogar
+https://jmp2.uk/plu-5dd6ab8056beb000091fc6b6.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-65786abdb3801200084c593a" tvg-id="65786abdb3801200084c593a" tvg-logo="https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Homeful
+https://jmp2.uk/plu-65786abdb3801200084c593a.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-5fac52f142044f00078e2a51" tvg-id="5fac52f142044f00078e2a51" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="Documentary",Pluto TV Mistérios
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="Documentary",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
@@ -294,10 +336,10 @@ https://beaece44.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFr
 #EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Kitchen",TV Cocina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://images.fubo.tv/station_logos/TastemadeEnEspanol_m.png" group-title="Kitchen",Tastemade PT
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://images.fubo.tv/station_logos/TastemadeEnEspanol_m.png" group-title="Kitchen",Tastemade (ES)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeenespanol-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34929b38fd8794231ed1bb4f0f59a40c.jpg" group-title="Kitchen",Gusto TV (en)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34929b38fd8794231ed1bb4f0f59a40c.jpg" group-title="Kitchen",Gusto TV (EN)
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=4114&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=394a148d-283c-4361-9e3d-81e7f0c725be&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=858
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pets",Animais de Estimação TV
@@ -555,20 +597,17 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chun
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/tYb9P1pPaos/mqdefault.jpg" group-title="Lifestyle",Kaloopy TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.dpname=distrotv&ads.rnd=qz2z&ads.env_i=31e3f53f-b228-4f6e-958c-3a55b467855e&ads.env_u=0540abc3-1fd1-4c22-9260-e54c6506a9be&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=560&ads.height=315&ads.deviceId=0540abc3-1fd1-4c22-9260-e54c6506a9be&ads.deviceDNT=0&ads.gdpr=1&ads.us_privacy=0&ads.aid=0540abc3-1fd1-4c22-9260-e54c6506a9be&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=84.91.165.111&ads.geo=PT&ads.lat=39.29770&ads.long=-7.43360&ads.dma=false&ads.geoType=2&ads.contentid=22868&ads.content_duration=18000&ads.episode_id=73234&ads.show_id=1093&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CLifestyle&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Kaloopy&ads.episodetitle=Kaloopy&ads.keywords=kaloopy%2Ceye%20candy%20channel%2Ccalifornia%20eye%20candy%2Ccalifornia%20eye%20candy%20channel&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Fembed_episode.html%3Fshow%3Dkaloopy&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=AQzzBGQE-4ahKmWn6T4og6I7Gfouq0gTNDu6pqiHtUArChtKnTFXf2hE03hAnQJ4SowtvGfD5WrRIaEJwCakWoSLV0uvloonod7jPTHJfSiJ2ny64w4BX_cNyM7qwdTsjxNAhqIUhoqgI4iTAb_Ng7dgNHbExq5K1E_TrZhaTqrQYY9D75qkAczrWW_L-jfbUINr8sX8xDLc_VJ-rhZcZUGW-2IxXMkomUmY6IAESlzDQq579qgt-ZCZR981byrfUzD4ROO2tGhs_ReZ_RshPQPwQYuNCJCyc8vVDYMHfJPkoSJ7ZLo9BEhLfRM9djklIZOi6zKDE-z_WxeaILRlkZ0GPkJX_T4WaQXFK6PIN1KnUjbSfEKBtHhXBnGEyw36QeQ1URvBjfO3DYWy6y6wIBOQaUjJDPrdtq186iGaw5vc2xoyfzbk_VATaAZLMRqTfhXF2XU-hqN2FOWPxcKLBEQZfKSwqKS76ovsgAu6MQs0FQy5vFOcu9mR7zpAarWrxL01ALkxedbilM1Gslb0brav3JmAxfpzdEf9DxfAmxK3s7Rkgxyz8doqATIzL70K2AP9Ozc1ujlH3gGW8eFRASVnXWg2zDQg-EGAl0CX42qZQKmvemtl7vP-eZUNhniFpIQ_M7RGHbrLjk3iveQS4CH_fJNaSLGG3UzBzX0TLXfP1HLI0rDT0G73MW0a9-VLY7LKj8aX49LAGK2VQN-wb8tCWYv6WM7-YNWfpNIdoZDK3BxOwJVL4gXzYku51NdntVNeUBnEj7mRKmG37O3jsFy6WKaRdjTVU-hhXF6pGUpps3TZNSAicx8DJmmTKhd5ntB-ysXf1MXfJyivrgHiFnIlSw9e5yyXVDAdWaPhRtTxRyCwGr36xVRluVzzGKcYFRIok-CJbGv7xHLsx2wQgCkpeqC9fKqT8rkNR4dcoA_9MF9M9Wtp1WSWx_5gb0vzHsbCN9M0b9H6gUfrogTMcd46g5ZPl8UPP134PVZQg3006qXDAqu9GJ8tJlCbfcVkNd0VGOlIMDWWLxbUv1WS5Fm0c8LnrkJBlVnZDMFsalIhkpuBvvFhEqgqZrGGA1LbFEUBlM-osD_ZQQ0IDK2sWs-ctOUIcqSixsBfnqRNqPqcj5HDyxdPj1z9R11VWPJUEARM18wM10qRSwDgp1xRvWt7sxk4QurEUXuRmecP&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20240702
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/4mg1tZ.png" group-title="Undefined",Carac1 TV (night +16)
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/4mg1tZ.png" group-title="General",Carac1 TV (night +16)
 https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/Bq59q3ZCYAAf-zZ.jpg" group-title="Lifestyle",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/visuals-000015507455-lyChCD-t1240x260.jpg" group-title="Lifestyle",Miami TV Life
-https://59ec5453559f0.streamlock.net/miamitvlife/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://miamitv.com/images/1720916971.jpg" group-title="Lifestyle",Miami TV DJ
+https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vivaespaña.tv/user/upload/source/Miami%20TV%20Latino%201080.png" group-title="Lifestyle",Miami TV Latino
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://channels.roku.com/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg" group-title="Lifestyle",Miami TV Mystery
-https://59ec5453559f0.streamlock.net/miamitvmystery/miamitvmystery/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://xn--vivaespaa-s6a.tv/user/upload/source/miamitvfashion.jpg" group-title="Lifestyle",Miami TV Fashion
+https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/smil:34256/chunklist_w188786852_b1896000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://channels.roku.com/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg" group-title="Lifestyle",Miami TV Gold
 https://59ec5453559f0.streamlock.net/miamitvgold/smil:WEB/playlist.m3u8
@@ -576,11 +615,20 @@ https://59ec5453559f0.streamlock.net/miamitvgold/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://channels.roku.com/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg" group-title="Lifestyle",Miami TV Health
 https://59ec5453559f0.streamlock.net/miamitvhealth/smil:WEB/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://1a-1791.com/video/s8/1/D/L/Y/4/DLY4q.oq1b.2-small-Jenny-Live.jpg" group-title="Lifestyle",Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/JennyLive/_definst_/smil:41235/chunklist_w821565779_b1896000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vivaespaña.tv/user/upload/source/Miami%20TV%20Latino%201080.png" group-title="Lifestyle",Miami TV Latino
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/visuals-000015507455-lyChCD-t1240x260.jpg" group-title="Lifestyle",Miami TV Life
+https://59ec5453559f0.streamlock.net/miamitvlife/smil:WEB/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://channels.roku.com/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg" group-title="Lifestyle",Miami TV Mystery
+https://59ec5453559f0.streamlock.net/miamitvmystery/miamitvmystery/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000125108313-wt6hlw-t240x240.jpg" group-title="Lifestyle",Miami TV Music
 https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://miamitv.com/images/1720916971.jpg" group-title="Lifestyle",Miami TV DJ
-https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosMusic.pt.png" group-title="Music",Kuriakos Music
 https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8
