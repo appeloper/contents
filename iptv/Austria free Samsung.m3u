@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-name="Aniverse TV" tvg-id="ATBD390000167" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD390000167_20250207T120836SQUARE.png" tvg-chno="4007" group-title="Anime",Aniverse TV
-https://jmp2.uk/sam-ATBD390000167.m3u8
-
-#EXTINF:-1  tvg-name="Beyblade" tvg-id="AT2300003IC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT2300003IC_20250107T022040SQUARE.png" tvg-chno="4194" group-title="Anime",Beyblade
-https://jmp2.uk/sam-AT2300003IC.m3u8
-
-#EXTINF:-1  tvg-name="Naruto" tvg-id="ATBC3900002PV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBC3900002PV_20250107T022155SQUARE.png" tvg-chno="4190" group-title="Anime",Naruto
-https://jmp2.uk/sam-ATBC3900002PV.m3u8
-
 #EXTINF:-1  tvg-name="Yu-Gi-Oh!" tvg-id="ATBA1000010E4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1000010E4_20250107T022245SQUARE.png" tvg-chno="4192" group-title="Anime",Yu-Gi-Oh!
 https://jmp2.uk/sam-ATBA1000010E4.m3u8
 
