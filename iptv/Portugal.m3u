@@ -3,23 +3,14 @@
 #EXTINF:-1 tvg-id="RTP 1 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPHD_monocromaticoAzul_horiz_RGB.png" group-title="General",RTP 1 HD (geo)
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTP 1 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_positivo_horiz_RGB.png" group-title="General",RTP 1 (op.2)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8?http-user-agent=Firefox
-
 #EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 (geo)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8?http-user-agent=Firefox
-
-#EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 (op.2)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8?token=1614920400_de94cfcbb3f1a5b36458841ccf472bdce0fd6f64
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3 (geo)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8?http-user-agent=Firefox
-
-#EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3 (op.2)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b1290000_DVR_slpt.m3u8?token=1614920400_4426142211539bddbfb7215d7f7aaa366a49c337
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP I" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPInternacional_negativo_horiz_RGB.png" group-title="News",RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8?http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 
 #EXTINF:-1 tvg-id="RTP Memória.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtpMemoria_negativo_horiz_RGB.png" group-title="General",RTP Memória
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8?http-user-agent=Firefox
@@ -31,10 +22,10 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8?pxt_rt
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP Madeira.pt" tvg-logo="https://feedlix.net/tv/pt/RtpMadeira.pt.png" group-title="Regional",RTP Madeira
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP África.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" group-title="Regional",RTP África
-https://streaming-live-app.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SIC HD.pt" tvg-logo="https://feedlix.net/tv/pt/Sic.pt.png" group-title="General",SIC (geo)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
@@ -53,9 +44,6 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 
 #EXTINF:-1 tvg-id="SIC Alta Definição HD.pt" tvg-logo="https://images.impresa.pt/opto/2024-11-02-sicaltadef.png-7adb0db7/original" group-title="Entertainment",SIC Opto Alta Definição HD
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-
-#EXTINF:-1 tvg-id="SIC Novelas HD.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Entertainment",SIC Opto Novelas HD
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9ae705b449477523ec/channels/d9070446-8448-455e-8075-773b1ba12562/f083c6ea-33af-458e-82c5-f27f6b42f9ec/media_.m3u8
 
 #EXTINF:-1 tvg-id="TVI HD.pt" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png" group-title="General",TVI (geo)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
@@ -78,17 +66,11 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w1637960336_b714000
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85622a63246e88cadd968505db88bcf7.jpg" group-title="General",TV Zimbo HD Angola
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/tracks-v1/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b36111563fdd349672dbae745c75bd3.jpg" group-title="General",TV Independente de Cabo Verde
-https://cdn.live.br1.jmvstream.com/webtv/tiver/playlist/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/TdmInfo.mo.png" group-title="General",TDM/RTP Macau
 https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/TdmInfo.mo.png" group-title="General",TDM/Macau (CN)
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://famaradio.tv/wp-content/uploads/2023/11/Fama-radio-e-televisao-Retangulo-fundo-azul-1-e1699897642904.png" group-title="General",Fama TV
-https://204280.global.ssl.fastly.net/64cd4f589272294ee667108d/live_2f24d2e05bfd11eeb524673aae68b8ac/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ARTV" tvg-logo="https://feedlix.net/tv/pt/Artv.pt.png" group-title="Parliament",AR TV
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr_360p/playlist.m3u8
