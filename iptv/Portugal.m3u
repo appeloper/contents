@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RTP 1 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPHD_monocromaticoAzul_horiz_RGB.png" group-title="General",RTP 1 HD (geo)
-https://streaming-live-app.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8?inputstream.adaptive.manifest_type=hls
+https://streaming-live.rtp.pt/liverepeater/smil:rtpClean1HD.smil/playlist.m3u8?tk=1744254000_3263420bef47881a8aa73a8afa112d57270b64d8
 
 #EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 HD (geo)
 https://streaming-live-app.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
