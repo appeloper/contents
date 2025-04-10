@@ -9,6 +9,9 @@ https://fullness.wideiptv.top/RTP1/tracks-a1/index.fmp4.m3u8?token=de82eb9462d01
 #EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 HD (geo)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpClean2HD.smil/playlist.m3u8?tk=1744340400_8f3e43624bd204c3da0484de86c57847a3b3ed43
 
+#EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 HD (op.2)
+https://moonlight.wideiptv.top/RTP2/tracks-a1/index.fmp4.m3u8?token=c2f28d83af51da0eb6160589f2a9bce6ea4a30a1-759eb11d7d23cf64c373eff56ed95506-1744336592-1744325792 
+
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3 (geo)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
