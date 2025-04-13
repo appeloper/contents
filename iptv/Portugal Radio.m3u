@@ -174,23 +174,26 @@ http://streaming.radioregional.pt:8046/;
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_renascenca.jpg" group-title="Radio",Renascença
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_rfm.jpg" group-title="Radio",RFM
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Online_sharefb.jpg" group-title="Radio",RFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
 
-#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/rfm-00s-radio-online_280x280.jpg" group-title="Radio",RFM 00s
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-00s_sharefb.jpg" group-title="Radio",RFM 00s
 https://25583.live.streamtheworld.com/LIVESTREAMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_rfm80s.png" group-title="Radio",RFM 80s
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-80s_sharefb.jpg" group-title="Radio",RFM 80s
 https://playerservices.streamtheworld.com/api/livestream-redirect/GR80SRFM_SC
 
-#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/rfm-90s-radio-online_280x280.jpg" group-title="Radio",RFM 90s
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-90s_sharefb.jpg" group-title="Radio",RFM 90s
 https://27753.live.streamtheworld.com/RFM_90SAAC.aac
 
-#EXTINF:-1 tvg-logo="https://images.rfm.sapo.pt/dancefloor64295da3_socialshare.png" group-title="Radio",RFM Dance
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Dance-It_sharefb.jpg" group-title="Radio",RFM Dance It
 https://stream-icy.bauermedia.pt/m80dance.aac
 
 #EXTINF:-1 tvg-logo="https://www.radio.pt/images/broadcasts/5b/65/121316/1/c300.png" group-title="Radio",RFM Dancefloor
 https://playerservices.streamtheworld.com/api/livestream-redirect/DANCEONTHEFLOORAAC_SC
+
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Jazzy_sharefb.jpg" group-title="Radio",RFM Jazzy
+https://25603.live.streamtheworld.com/RFM_JAZZYAAC.aac
 
 #EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Latinas_sharefb.jpg" group-title="Radio",RFM Latinas
 https://22353.live.streamtheworld.com/RFM_LATINASAAC.aac
@@ -198,10 +201,10 @@ https://22353.live.streamtheworld.com/RFM_LATINASAAC.aac
 #EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Novas_sharefb.jpg" group-title="Radio",RFM Novas
 https://25283.live.streamtheworld.com/RFM_FRESCASAAC.aac
 
-#EXTINF:-1 tvg-logo="https://cdn.popcasts.pt/wp-content/uploads/2023/02/webradios_rfm-oceano-pacifico.png" group-title="Radio",RFM Oceano Pacifico
+#EXTINF:-1 tvg-logo="h" group-title="Radio",RFM Oceano Pacifico
 https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFICAAC_SC
 
-#EXTINF:-1 tvg-logo="https://www.radio.pt/images/broadcasts/09/f1/110226/1/c300.png" group-title="Radio",RFM Rock
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Rocks_sharefb.jpg" group-title="Radio",RFM Rock
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFMONTHEROCKAAC_SC
 
 #EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Toca-Portugal_sharefb.jpg" group-title="Radio",RFM Toca Portugal
@@ -220,7 +223,7 @@ https://stream-icy.bauermedia.pt/smooth.mp3
 https://sp0.redeaudio.com/9974/stream
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s110774d.png" group-title="Radio",TSF
-https://gmg-tsfdireto.global.ssl.fastly.net/tsf1-dfg98mnb0/emissao/chunklist.m3u8
+https://directo.tsf.pt/tsfdirecto.mp3
 
 #EXTINF:-1 tvg-logo="https://radioregional.pt/play/generalistas/tmp/images/default.jpg" group-title="Radio",Vila Real
 https://play.radioregional.pt/stream/3/
