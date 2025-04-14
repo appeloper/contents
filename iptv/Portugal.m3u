@@ -409,7 +409,7 @@ https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8
 https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-63da6bcd60bc8f0008a5d364" tvg-id="63da6bcd60bc8f0008a5d364" tvg-logo="https://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="Kids",Baby Shark (english)
-https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/8db90e6d-e76d-4b83-85eb-fa961e177574/2.m3u8
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-62545c0b002f4b0007688b61" tvg-id="62545c0b002f4b0007688b61" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Kids",Bob Esponja Calça Quadrada
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
@@ -425,9 +425,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://feedlix.net/tv/es/clan_tv.png" group-title="Kids",Clan HD
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
-
-#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Boinges.png" group-title="Kids",Boing
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png" group-title="Kids",Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
@@ -502,7 +499,7 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=180
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfchannel.png" group-title="Sports",Surf Channel
-https://bit.ly/3Hxwlb8?/playlist_1920x1080_4200k.m3u8
+https://daiconnect.com/live/hls/tvup/rk-surfchannel/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=3740&ads_rtv_content_language=spa&ads_streaming_id=52c97d10-13ae-4216-bec5-0ba837edbd48&ads_tcs_channel_id=931&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://entry.motorsport.tv/images/channel/id68/avatar/672bc4405081569476c07f483dbb6d838656b10e-300-300.jpg" group-title="Sports",Motorsport TV
 https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
@@ -510,8 +507,8 @@ https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fuel.png" group-title="Sports",Fuel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2023/09/motorvision.png" group-title="Sports",Motor Vision
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d86f2b13-9af8-4566-bcb8-75eea0df3d52/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2023/09/motorvision.png" group-title="Sports",Motorvision
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv_es.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB2&ads._fw_content_genre=automotive&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=MotorvisionSpanish&ads.csid=zeus_es_motorvision_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4193&ads.rakuten_streaming_id=22c9b424-46dd-4892-88cd-2fd2e57ab690&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883004&ads.xumo_contentId=3791&ads.xumo_contentName=MotorvisionSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3791&ads.xumo_providerName=MotorvisionSpanish&ads.xumo_streamId=88883004
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/f700e9a8-f1dc-4b40-8f3f-a387cfceb0d8-world-billiards-tv-1654685118.png" group-title="Sports",World Billiards TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=3694&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=ed47a41c-3ded-4b26-beb0-af573520c5fb&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=967
@@ -552,12 +549,6 @@ https://cdn.wfc.tv/cdn/stream-rus.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/GlobalFashion.jpg" group-title="Lifestyle",Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Original
-https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/f7/372028/se9_CELEB_INTE_658220.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV UHD
-https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV F-Men HD
 https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/chunklist.m3u8
 
@@ -570,20 +561,23 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chun
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV New York HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/chunklist_b4628000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Paris HD
-https://stream-us-east-1.getpublica.com/cl/241107csmhh8urb960tfh1ifpg/1920x1080_5450021_0_f.m3u8?i=775_5457
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Original
+https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/f7/372028/se9_CELEB_INTE_658220.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Paris
+https://stream-us-east-1.getpublica.com/cl/250414cvul47e3tolkdphd4is0/1920x1080_4667229_0_f.m3u8?i=775_5457
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Paris (op.2)
-https://jmp2.uk/sam-GBAJ4900002DE.m3u8
+https://jmp2.uk/sam-FRAJ4500020YA.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV UHD
+https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTV-UK_fashion-tv" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/838ea64b-a331-4322-971a-3c8c52ac1124-fashion-tv-1643624523.png" group-title="Lifestyle",Fashion Rakuten TV
 https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=1279&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=e2de34f0-9207-43bd-9ef9-db4d4092ae0e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=381
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/plex_fashion.png" group-title="Lifestyle",Plex Fashion TV Top Models
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2022/06/Fashion-TV-England.png" group-title="Lifestyle",FTV Bikini
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/tYb9P1pPaos/mqdefault.jpg" group-title="Lifestyle",Kaloopy TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.dpname=distrotv&ads.rnd=qz2z&ads.env_i=31e3f53f-b228-4f6e-958c-3a55b467855e&ads.env_u=0540abc3-1fd1-4c22-9260-e54c6506a9be&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=560&ads.height=315&ads.deviceId=0540abc3-1fd1-4c22-9260-e54c6506a9be&ads.deviceDNT=0&ads.gdpr=1&ads.us_privacy=0&ads.aid=0540abc3-1fd1-4c22-9260-e54c6506a9be&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=84.91.165.111&ads.geo=PT&ads.lat=39.29770&ads.long=-7.43360&ads.dma=false&ads.geoType=2&ads.contentid=22868&ads.content_duration=18000&ads.episode_id=73234&ads.show_id=1093&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CLifestyle&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Kaloopy&ads.episodetitle=Kaloopy&ads.keywords=kaloopy%2Ceye%20candy%20channel%2Ccalifornia%20eye%20candy%2Ccalifornia%20eye%20candy%20channel&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Fembed_episode.html%3Fshow%3Dkaloopy&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=AQzzBGQE-4ahKmWn6T4og6I7Gfouq0gTNDu6pqiHtUArChtKnTFXf2hE03hAnQJ4SowtvGfD5WrRIaEJwCakWoSLV0uvloonod7jPTHJfSiJ2ny64w4BX_cNyM7qwdTsjxNAhqIUhoqgI4iTAb_Ng7dgNHbExq5K1E_TrZhaTqrQYY9D75qkAczrWW_L-jfbUINr8sX8xDLc_VJ-rhZcZUGW-2IxXMkomUmY6IAESlzDQq579qgt-ZCZR981byrfUzD4ROO2tGhs_ReZ_RshPQPwQYuNCJCyc8vVDYMHfJPkoSJ7ZLo9BEhLfRM9djklIZOi6zKDE-z_WxeaILRlkZ0GPkJX_T4WaQXFK6PIN1KnUjbSfEKBtHhXBnGEyw36QeQ1URvBjfO3DYWy6y6wIBOQaUjJDPrdtq186iGaw5vc2xoyfzbk_VATaAZLMRqTfhXF2XU-hqN2FOWPxcKLBEQZfKSwqKS76ovsgAu6MQs0FQy5vFOcu9mR7zpAarWrxL01ALkxedbilM1Gslb0brav3JmAxfpzdEf9DxfAmxK3s7Rkgxyz8doqATIzL70K2AP9Ozc1ujlH3gGW8eFRASVnXWg2zDQg-EGAl0CX42qZQKmvemtl7vP-eZUNhniFpIQ_M7RGHbrLjk3iveQS4CH_fJNaSLGG3UzBzX0TLXfP1HLI0rDT0G73MW0a9-VLY7LKj8aX49LAGK2VQN-wb8tCWYv6WM7-YNWfpNIdoZDK3BxOwJVL4gXzYku51NdntVNeUBnEj7mRKmG37O3jsFy6WKaRdjTVU-hhXF6pGUpps3TZNSAicx8DJmmTKhd5ntB-ysXf1MXfJyivrgHiFnIlSw9e5yyXVDAdWaPhRtTxRyCwGr36xVRluVzzGKcYFRIok-CJbGv7xHLsx2wQgCkpeqC9fKqT8rkNR4dcoA_9MF9M9Wtp1WSWx_5gb0vzHsbCN9M0b9H6gUfrogTMcd46g5ZPl8UPP134PVZQg3006qXDAqu9GJ8tJlCbfcVkNd0VGOlIMDWWLxbUv1WS5Fm0c8LnrkJBlVnZDMFsalIhkpuBvvFhEqgqZrGGA1LbFEUBlM-osD_ZQQ0IDK2sWs-ctOUIcqSixsBfnqRNqPqcj5HDyxdPj1z9R11VWPJUEARM18wM10qRSwDgp1xRvWt7sxk4QurEUXuRmecP&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20240702
@@ -732,11 +726,11 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/NOW_90s.png" group-title="Music",Now 90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/rock_serbia.jpg" group-title="Music",Rock and Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-
-#EXTINF:-1 tvg-id="Rockland TV-Mainz" tvg-logo="https://www.rockland.de/fileadmin/_processed_/e/6/csm_Rockland-Radio_TV_Logo_dfaa5c5b6e.png" group-title="Music",Rockland Radio TV 
-https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w2125207797_b2628000.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902SQUARE.png" group-title="Music",Vevo 2010s
 https://jmp2.uk/sam-USBD120002431.m3u8
@@ -1239,229 +1233,238 @@ https://video-auth1.iol.pt/beachcam/bccabril/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",WebCam Praia interior das Rocas (Castanheira de Pêra)
 https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/eu4jwpqpsadb.png" group-title="Radio",80 Rock (Radio)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/eu4jwpqpsadb.png" group-title="Radio" group-title="Radio",80 Rock
 http://rs2.ptservidor.com:8003/stream?type=.mp3
 
-#EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png" group-title="Radio",A Radio Rock - Super FM (Radio)
+#EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png" group-title="Radio",A Radio Rock - Super FM
 https://play.radioregional.pt:8210/stream/2/;/stream.mp3
 
-#EXTINF:-1 tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png" group-title="Radio",Amália (Radio)
+#EXTINF:-1 tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png" group-title="Radio",Amália
 http://link.radios.pt/amalia?1487014253471.mp3
 
-#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="Radio",Antena 1 (Radio)
+#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="Radio",Antena 1
 http://radiocast.rtp.pt/antena180a.mp3
 
-#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="Radio",Antena 1 Fado (Radio)
+#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="Radio",Antena 1 Fado
 https://radioip.rtp.pt/liveradio/antena1fado80a/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena2.png" group-title="Radio",Antena 2 (Radio)
+#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena2.png" group-title="Radio",Antena 2
 http://radiocast.rtp.pt/antena280a.mp3
 
-#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png" group-title="Radio",Antena 3 (Radio)
+#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png" group-title="Radio",Antena 3
 http://radiocast.rtp.pt/antena380a.mp3
 
-#EXTINF:-1 tvg-logo="https://www.radioatlantida.net/wp-content/uploads/2019/10/logo.jpg" group-title="Radio",Atlantida (Radio)
+#EXTINF:-1 tvg-logo="https://www.radioatlantida.net/wp-content/uploads/2019/10/logo.jpg" group-title="Radio",Atlantida
 https://cast1.lunabroadcasting.net/listen/atlantida/radio.mp3
 
-#EXTINF:-1 tvg-logo="https://radiobatida.com/imagens/3108f80772909f00e0c68585038c53fc.png" group-title="Radio",Batida FM (Radio)
+#EXTINF:-1 tvg-logo="https://radiobatida.com/imagens/3108f80772909f00e0c68585038c53fc.png" group-title="Radio",Batida FM
 https://stream-icy.bauermedia.pt/batidafm.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://radioregional.pt/play/generalistas/tmp/images/default.jpg" group-title="Radio",Bragança (Radio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://radioregional.pt/play/generalistas/tmp/images/default.jpg" group-title="Radio",Bragança
 https://play.radioregional.pt/stream/5/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.1054cascais.com/img/logo.png" group-title="Radio",Cascais 104.5 (Radio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.1054cascais.com/img/logo.png" group-title="Radio",Cascais 104.5
 https://play.radioregional.pt:8220/stream/1/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://radioregional.pt/play/generalistas/tmp/images/default.jpg" group-title="Radio",Chaves (Radio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://radioregional.pt/play/generalistas/tmp/images/default.jpg" group-title="Radio",Chaves
 https://play.radioregional.pt/stream/4/
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/cidade_fm.png" group-title="Radio",Cidade FM (Radio)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/cidade_fm.png" group-title="Radio",Cidade FM
 https://stream-icy.bauermedia.pt/cidade.mp3
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Logo_WB_HIPHOP.png" group-title="Radio",Cidade Hip Hop (Radio)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Logo_WB_HIPHOP.png" group-title="Radio",Cidade Hip Hop
 https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qc88fglurkce.jpg" group-title="Radio",Cidade Latina FM (Radio)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qc88fglurkce.jpg" group-title="Radio",Cidade Latina FM
 https://stream-hls.bauermedia.pt/cidlatina.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/EN6YEx4trm.png" group-title="Radio",Classic Rock (Radio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/EN6YEx4trm.png" group-title="Radio",Classic Rock
 https://online2.classicrock.pt/stream2
 
-#EXTINF:-1 tvg-logo="https://radiocomercial.pt/images/logo_big.png" group-title="Radio",Comercial (Radio)
+#EXTINF:-1 tvg-logo="https://radiocomercial.pt/images/logo_big.png" group-title="Radio",Comercial
 https://stream-icy.bauermedia.pt/comercial.mp3
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Rc-2000s.jpg" group-title="Radio",Comercial Best 00's (Radio)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Rc-2000s.jpg" group-title="Radio",Comercial Best 00's
 https://stream-icy.bauermedia.pt/rcbest2000.aac
 
-#EXTINF:-1 tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-90s-1200x630.jpg" group-title="Radio",Comercial Best 90s (Radio)
+#EXTINF:-1 tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-90s-1200x630.jpg" group-title="Radio",Comercial Best 90s
 https://stream-hls.bauermedia.pt/rcbest90.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-brasil-1200x630.jpg" group-title="Radio",Comercial Brasil (Radio)
+#EXTINF:-1 tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-brasil-1200x630.jpg" group-title="Radio",Comercial Brasil
 https://stream-hls.bauermedia.pt/rcbrasil.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ybykwjqku6rh.png" group-title="Radio",Comercial Dance (Radio)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ybykwjqku6rh.png" group-title="Radio",Comercial Dance
 https://stream-hls.bauermedia.pt/rcdance.aac/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-ohw-1200x630.jpg" group-title="Radio",Comercial One Hit Wonders (Radio)
+#EXTINF:-1tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-ohw-1200x630.jpg" group-title="Radio",Comercial One Hit Wonders
 https://stream-hls.bauermedia.pt/rchit.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Comercial-Kids.png" group-title="Radio",Comercial Kids (Radio)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Comercial-Kids.png" group-title="Radio",Comercial Kids
 https://stream-hls.bauermedia.pt/rckids.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-portugal-1200x630.jpg" group-title="Radio",Comercial Tuga (Radio)
+#EXTINF:-1 tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-portugal-1200x630.jpg" group-title="Radio",Comercial Tuga
 https://stream-hls.bauermedia.pt/rctuga.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q6clfyhqvcg5.png" group-title="Radio",Comercial Rock (Radio)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q6clfyhqvcg5.png" group-title="Radio",Comercial Rock
 https://stream-hls.bauermedia.pt/rcrock.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/9/79499.v7.png" group-title="Radio",Comercial Soft (Radio)
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/9/79499.v7.png" group-title="Radio",Comercial Soft
 https://stream-hls.bauermedia.pt/rcsoft.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dianafm.com/wp-content/uploads/2016/03/diana_logo.png" group-title="Radio",Diana FM (Radio)
+#EXTINF:-1 tvg-logo="https://www.dianafm.com/wp-content/uploads/2016/03/diana_logo.png" group-title="Radio",Diana FM
 https://centova.radios.com.pt/proxy/460?mp=/stream
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOFESTIVAL.png" group-title="Radio",Festival (Radio)
-http://centova.radios.pt:9520/stream/1/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOFESTIVAL.png" group-title="Radio",Festival
+https://audio.serv.pt/8012/stream.mp3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOHIPERFM.png" group-title="Radio",Hiper FM (Radio)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RADIOHIPERFM.png" group-title="Radio",Hiper FM
 http://195.23.85.126:9500/stream/1/
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80.png" group-title="Radio",M80 (Radio)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80.png" group-title="Radio",M80
 https://stream-icy.bauermedia.pt/m80.mp3
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_60s.png" group-title="Radio",M80 60's (Radio)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_60s.png" group-title="Radio",M80 60's
 https://stream-icy.bauermedia.pt/m8060.aac
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_70s.png" group-title="Radio",M80 70's (Radio)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_70s.png" group-title="Radio",M80 70's
 https://stream-icy.bauermedia.pt/m8070.aac
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_80s.png" group-title="Radio",M80 80's (Radio)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_80s.png" group-title="Radio",M80 80's
 https://stream-icy.bauermedia.pt/m8080.aac
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_90s.png" group-title="Radio",M80 90's (Radio)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_90s.png" group-title="Radio",M80 90's
 https://stream-icy.bauermedia.pt/m8090.aac
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_ballads.png" group-title="Radio",M80 Ballads (Radio)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_ballads.png" group-title="Radio",M80 Ballads
 https://stream-icy.bauermedia.pt/m80ballads.aac
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_dance.png" group-title="Radio",M80 Dance (Radio)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_dance.png" group-title="Radio",M80 Dance
 https://stream-icy.bauermedia.pt/m80dance.aac
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_disco.png" group-title="Radio",M80 Disco (Radio)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_disco.png" group-title="Radio",M80 Disco
 https://stream-icy.bauermedia.pt/m80disco.aac
 
-#EXTINF:-1 tvg-logo="https://bauermedia.pt/upload/I/imgrd-indie-1200x630-square.jpg" group-title="Radio",M80 Indie (Radio)
-https://stream-icy.bauermedia.pt/m80indie.aac
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_pop.png" group-title="Radio",M80 Pop (Radio)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_pop.png" group-title="Radio",M80 Pop
 https://stream-icy.bauermedia.pt/m80pop.aac
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_pt.png" group-title="Radio",M80 Portugal (Radio)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_pt.png" group-title="Radio",M80 Portugal
 https://stream-icy.bauermedia.pt/m80nacional.aac
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_rock.png" group-title="Radio",M80 Rock (Radio)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_rock.png" group-title="Radio",M80 Rock
 https://stream-icy.bauermedia.pt/m80rock.aac
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_soul.png" group-title="Radio",M80 Soul (Radio)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_soul.png" group-title="Radio",M80 Soul
 https://stream-icy.bauermedia.pt/m80soul.aac
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hLdfPxTAXc.png" group-title="Radio",Marginal (Radio)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hLdfPxTAXc.png" group-title="Radio",Marginal
 https://radios.justweb.pt/8034/stream
 
-#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png" group-title="Radio",Mega Hits (Radio)
+#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png" group-title="Radio",Mega Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITSAAC.aac
 
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/e/5/de5c79b747e468a8a7718608927a8bcd_icon.png" group-title="Radio",Meo Sudoeste (Radio)
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/e/5/de5c79b747e468a8a7718608927a8bcd_icon.png" group-title="Radio",Meo Sudoeste
 http://centova.radios.pt:8495/stream/1/
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/chmagazine.pt/wp-content/uploads/2011/10/radio_nostalgia_logo.jpg" group-title="Radio",Nostalgia (Radio)
-http://centova.radios.pt:8435/;
-
-#EXTINF:-1 tvg-logo="https://radionoar.pt/wp-content/uploads/2024/02/RadioNoAr_LOGO-BRANCO-copy-2.png" group-title="Radio",No Ar 107.8 FM (Radio)
+#EXTINF:-1 tvg-logo="https://radionoar.pt/wp-content/uploads/2024/02/RadioNoAr_LOGO-BRANCO-copy-2.png" group-title="Radio",No Ar 107.8 FM
 https://radios.justweb.pt/8034/stream/1/
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LqBRhemRSn.png" group-title="Radio",Nova Era (Radio)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LqBRhemRSn.png" group-title="Radio",Nova Era
 https://centova.radios.pt/proxy/478?mp=/stream/;
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s15270/images/logod.png" group-title="Radio",Orbital (Radio)
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s15270/images/logod.png" group-title="Radio",Orbital
 https://ec2.yesstreaming.net:3025/stream
 
-#EXTINF:-1 tvg-logo="https://www.oxigenio.fm/wp-content/uploads/2018/11/radio_oxigenio-1.png" group-title="Radio",Oxigénio (Radio)
+#EXTINF:-1 tvg-logo="https://www.oxigenio.fm/wp-content/uploads/2018/11/radio_oxigenio-1.png" group-title="Radio",Oxigénio
 https://proic1.evspt.com/oxigenio_aac
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ewwW9AXcqD.png" group-title="Radio",Portalegre (Radio)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ewwW9AXcqD.png" group-title="Radio",Portalegre
 http://centova.radios.pt:9492/stream
 
-#EXTINF:-1 tvg-logo="https://radarlisboa.fm/wp-content/uploads/2016/02/logo_abril-1.png" group-title="Radio",Radar Lisboa (Radio)
+#EXTINF:-1 tvg-logo="https://radarlisboa.fm/wp-content/uploads/2016/02/logo_abril-1.png" group-title="Radio",Radar Lisboa
 https://proic1.evspt.com/radar_aac
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0vmzhdz.png" group-title="Radio",Regional (Radio)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vmzhdz.png" group-title="Radio",Regional
 https://play.radioregional.pt/stream/4/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0vmzhdz.png" group-title="Radio",Regional Alternativa (Radio)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0vmzhdz.png" group-title="Radio",Regional Alternativa
 http://streaming.radioregional.pt:8000/;
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hUrEKgu.png" group-title="Radio",Regional Dance & DJS (Radio)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hUrEKgu.png" group-title="Radio",Regional Dance & DJS
 http://streaming.radioregional.pt:8064/;
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/aPZ5joL.png" group-title="Radio",Regional Love Songs (Radio)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/aPZ5joL.png" group-title="Radio",Regional Love Songs
 http://streaming.radioregional.pt:8058/;
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1zntJ9S.png" group-title="Radio",Regional Oldies (Radio)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1zntJ9S.png" group-title="Radio",Regional Oldies
 http://streaming.radioregional.pt:8052/;
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/x48qEMX.png" group-title="Radio",Regional Portuguesa (Radio)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/x48qEMX.png" group-title="Radio",Regional Portuguesa
 http://streaming.radioregional.pt:8040/;
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tKrKYOR.png" group-title="Radio",Regional Rock (Radio)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tKrKYOR.png" group-title="Radio",Regional Rock
 http://streaming.radioregional.pt:8046/;
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_renascenca.jpg" group-title="Radio",Renascença (Radio)
-https://25643.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_renascenca.jpg" group-title="Radio",Renascença
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_rfm.jpg" group-title="Radio",RFM (Radio)
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Online_sharefb.jpg" group-title="Radio",RFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_rfm80s.png" group-title="Radio",RFM 80 (Radio)
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-00s_sharefb.jpg" group-title="Radio",RFM 00s
+https://25583.live.streamtheworld.com/LIVESTREAMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-80s_sharefb.jpg" group-title="Radio",RFM 80s
 https://playerservices.streamtheworld.com/api/livestream-redirect/GR80SRFM_SC
 
-#EXTINF:-1 tvg-logo="https://cdn.popcasts.pt/wp-content/uploads/2023/02/webradios_rfm-oceano-pacifico.png" group-title="Radio",RFM Oceano Pacifico (Radio)
-https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFICAAC_SC
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-90s_sharefb.jpg" group-title="Radio",RFM 90s
+https://27753.live.streamtheworld.com/RFM_90SAAC.aac
 
-#EXTINF:-1 tvg-logo="https://www.radio.pt/images/broadcasts/09/f1/110226/1/c300.png" group-title="Radio",RFM On the Rock (Radio)
-https://playerservices.streamtheworld.com/api/livestream-redirect/RFMONTHEROCKAAC_SC
-
-#EXTINF:-1 tvg-logo="https://images.rfm.sapo.pt/dancefloor64295da3_socialshare.png" group-title="Radio",RFM Dance (Radio)
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Dance-It_sharefb.jpg" group-title="Radio",RFM Dance It
 https://stream-icy.bauermedia.pt/m80dance.aac
 
-#EXTINF:-1 tvg-logo="https://www.radio.pt/images/broadcasts/5b/65/121316/1/c300.png" group-title="Radio",RFM Dancefloor (Radio)
-https://25543.live.streamtheworld.com/DANCEONTHEFLOORAAC_SC
+#EXTINF:-1 tvg-logo="https://www.radio.pt/images/broadcasts/5b/65/121316/1/c300.png" group-title="Radio",RFM Dancefloor
+https://playerservices.streamtheworld.com/api/livestream-redirect/DANCEONTHEFLOORAAC_SC
 
-#EXTINF:-1 tvg-logo="https://www.radioritmos.com/wp-content/uploads/2020/11/logoradioritmos.fw_.png" group-title="Radio",Ritmos (Radio)
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Jazzy_sharefb.jpg" group-title="Radio",RFM Jazzy
+https://25603.live.streamtheworld.com/RFM_JAZZYAAC.aac
+
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Latinas_sharefb.jpg" group-title="Radio",RFM Latinas
+https://22353.live.streamtheworld.com/RFM_LATINASAAC.aac
+
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Novas_sharefb.jpg" group-title="Radio",RFM Novas
+https://25283.live.streamtheworld.com/RFM_FRESCASAAC.aac
+
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Oceano-Pacifico_sharefb.jpg" group-title="Radio",RFM Oceano Pacifico
+https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFICAAC_SC
+
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Rocks_sharefb.jpg" group-title="Radio",RFM Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFMONTHEROCKAAC_SC
+
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Toca-Portugal_sharefb.jpg" group-title="Radio",RFM Toca Portugal
+https://29043.live.streamtheworld.com/RFM_PORTUGALAAC
+
+#EXTINF:-1 tvg-logo="https://www.radioritmos.com/wp-content/uploads/2020/11/logoradioritmos.fw_.png" group-title="Radio",Ritmos
 https://cast2.hoost.com.br:20063/stream
 
-#EXTINF:-1 tvg-logo="https://superbocksuperrock.pt/static/media/sbsr_logo.03f9bedf5b9fab799429.png" group-title="Radio",SBSR Superbock (Radio)
-http://centova.radios.pt:8435/stream/1/
-
-#EXTINF:-1 tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo_xmas.png" group-title="Radio",Sines (Stream Radio)
+#EXTINF:-1 tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo_xmas.png" group-title="Radio",Sines (Stream Radio PT)
 https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/chunklist_w1533853848_b4500000_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/8d7c165452658fc0d38a56a4133c82f6.jpg" group-title="Radio",Smooth FM (Radio)
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/8d7c165452658fc0d38a56a4133c82f6.jpg" group-title="Radio",Smooth FM
 https://stream-icy.bauermedia.pt/smooth.mp3
 
-#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/UpAScsBkG7.png" group-title="Radio",Toca a Dançar (Radio)
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/UpAScsBkG7.png" group-title="Radio",Toca a Dançar
 https://sp0.redeaudio.com/9974/stream
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s110774d.png" group-title="Radio",TSF (Radio)
-http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s110774d.png" group-title="Radio",TSF
+https://directo.tsf.pt/tsfdirecto.mp3
 
-#EXTINF:-1 tvg-logo="https://radioregional.pt/play/generalistas/tmp/images/default.jpg" group-title="Radio",Vila Real (Radio)
+#EXTINF:-1 tvg-logo="https://radioregional.pt/play/generalistas/tmp/images/default.jpg" group-title="Radio",Vila Real
 https://play.radioregional.pt/stream/3/
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7aYnVC253V.jpg" group-title="Radio",Viva Portugal (Radio)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/7aYnVC253V.jpg" group-title="Radio",Viva Portugal
 https://sp0.redeaudio.com/9920/stream
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/vodafonefm.png" group-title="Radio",Vodafone FM (Radio)
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/vodafonefm.png" group-title="Radio",Vodafone FM
 https://stream.laut.fm/vodafone?ref=radiode
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/16582.v7.png" group-title="Radio",1.FM (Radio BR)
