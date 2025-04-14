@@ -138,6 +138,9 @@ https://jmp2.uk/plu-62d969fd8451a30007f0fd94.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD1100011V3" tvg-id="GBBD1100011V3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100011V3_20231115T012336SQUARE.png_20231115012337.png" group-title="Kids",Dennis and Gnasher
 https://jmp2.uk/sam-GBBD1100011V3.m3u8
 
+#EXTINF:-1 tvg-name="Desenhos Clássicos" tvg-id="655e5c4d2c46f3000877a54b" tvg-logo="https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/colorLogoPNG.png" group-title="Kids",Desenhos Clássicos
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+
 #EXTINF:-1 channel-id="PlutoTV-629a066860ef810008267b70" tvg-id="629a066860ef810008267b70" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png" group-title="Kids",Detective Conan
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 
@@ -405,6 +408,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/
 #EXTINF:-1 channel-id="samsung-GB25000016G" tvg-id="GB25000016G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB25000016G_20240815T003704SQUARE.png" group-title="Kids",POP Up
 https://jmp2.uk/sam-GB25000016G.m3u8
 
+#EXTINF:-1 tvg-name="Popeye" tvg-id="677d93f37bffa600080795e7" tvg-logo="https://images.pluto.tv/channels/677d93f37bffa600080795e7/colorLogoPNG.png" group-title="Kids",Popeye
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
+
 #EXTINF:-1 channel-id="SamsungTVPlus-ESBD2300003S5" tvg-id="ESBD2300003S5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20240821T160522SQUARE.png" group-title="Kids",Rabbids La invasion (ES)
 https://jmp2.uk/sam-ESBD2300003S5.m3u8
 
@@ -465,11 +471,26 @@ https://jmp2.uk/sam-USBD33000180S.m3u8
 #EXTINF:-1 channel-id="samsung-USBD3300020PM" tvg-id="USBD3300020PM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300020PM_20240520T214843SQUARE.png" group-title="Kids",Sonic The Hedgehog
 https://jmp2.uk/sam-USBD3300020PM.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/KBus6cj6F_w/maxresdefault.jpg" group-title="Kids",South Park (EN)
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64edf6eaa7ec0d000812f58c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="PlutoTV-64edf6eaa7ec0d000812f58c" tvg-id="64edf6eaa7ec0d000812f58c" tvg-logo="https://images.pluto.tv/channels/64edf6eaa7ec0d000812f58c/colorLogoPNG.png" group-title="Kids",South Park (EN)
+https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-63d7a8e5a9957100086bfc23" tvg-id="63d7a8e5a9957100086bfc23" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png" group-title="Kids",South Park (ES)
 https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
+
+#EXTINF:-1 tvg-name="South Park Coleção Cartman" tvg-id="65df71008b24c80008f04281" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="Kids",South Park Coleção Cartman (PT)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df71008b24c80008f04281/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-name="South Park Coleção Kenny" tvg-id="65df704366eec8000898e32f" tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png" group-title="Kids",South Park Coleção Kenny (PT)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df704366eec8000898e32f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-name="South Park Coleção Kyle" tvg-id="65df713dec9fda0008b7a81d" tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png" group-title="Kids",South Park Coleção Kyle (PT)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df713dec9fda0008b7a81d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-name="South Park Coleção Stan" tvg-id="65df70b0f7f0af0008c3b316" tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="Kids",South Park Coleção Stan (PT)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65df70b0f7f0af0008c3b316/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 tvg-name="Comedy Central South Park" tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Kids",Comedy Central South Park (PT)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=samsung-tvplus&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Spacetoon_toon.png" group-title="Kids",Space Toon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
@@ -521,6 +542,9 @@ https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://banner2.cleanpng.com/20180606/fly/kisspng-tiny-pop-television-channel-television-show-5b18378ba63754.9213680815283137396808.jpg" group-title="Kids",Tiny Pop
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tom & Jerry" tvg-logo="https://logo.iptveditor.com/tomejerry.png" group-title="Kids",Tom & Jerry
+http://45.134.141.161:2200/BRX/24HS_Tom_e_Jerry/index.m3u8
 
 #EXTINF:-1 channel-id="samsung-GBBC4000017F" tvg-id="GBBC4000017F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4000017F_20220323T071332SQUARE.png_20220323071335.png" group-title="Kids",Toon Goggles (EN)
 https://jmp2.uk/sam-ITBD51000010V.m3u8
