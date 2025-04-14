@@ -90,9 +90,6 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cinemonde.png" group-title="Movies",Cinemonde
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MovieSphere.jpg" group-title="Movies",MovieSphere
-https://moviesphere-plex.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosCine.pt.png" group-title="Movies",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
@@ -189,9 +186,6 @@ https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 #EXTINF:-1 tvg-id="KURIAKOS TV" tvg-logo="https://feedlix.net/tv/pt/KuriakosTv.pt.png" group-title="Religious",Kuriakos TV
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANCAO NOVA" tvg-logo="https://feedlix.net/tv/pt/CancaoNova.pt.png" group-title="Religious",Canção Nova
-https://5c643ed5107b7.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png" group-title="Religious",KTV Angola
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/chunklist_w329371841_b413000_sleng.m3u8
 
@@ -206,6 +200,9 @@ https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w738321579_b41300
 
 #EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore10/avatars/84/5f/19/sobrenaturaltv_partnerlogo_1693326992.jpg" group-title="Religious",Sobrenatural TV - Igreja Online
 https://36723.global.ssl.fastly.net/5d714f6a0bd97874e36f14e4/live_43f24df056e711ec8a98fbc0216fffd2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore10/avatars/84/5f/19/sobrenaturaltv_partnerlogo_1693326992.jpg" group-title="Religious",Away TV
+https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore10/avatars/84/5f/19/sobrenaturaltv_partnerlogo_1693326992.jpg" group-title="Religious",Sobrenatural TV - ADBtv
 https://36723.global.ssl.fastly.net/5d714f6a0bd97874e36f14e4/live_fb0bd5501f3111efa26bbdf96dc3f28e/index.m3u8
@@ -256,10 +253,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png" group-title="News",HispanTV
-https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w1182724625_b644100_slen.m3u8
+https://live.presstv.ir/hls/hispantv_2_482/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png" group-title="News",Press TV (english)
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/9806be74ba5860cbd39978bc9a53fcf9eca7aaf5bdf65d3d890d3c0b5ce3cc68.png" group-title="News",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
@@ -277,7 +274,7 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
 
 #EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary",RT Documentary HD (english)
-http://rtmp.api.rt.com/hls/rtdru.m3u8
+https://rumble.com/live-hls/6oyh3s/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary (english)
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
@@ -343,7 +340,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f0008
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="https://mma.prnewswire.com/media/1905810/The_Pet_Collective_Logo.jpg" group-title="Pets",The Pet Collective 2
-https://6ec8627d.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/25766b6d-91ca-45cf-a0c5-d1344ae1e24f/0.m3u8
+https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 
 #EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD
 https://install.akctvcontrol.com/speed/broadcast/138/file-3128k.m3u8
