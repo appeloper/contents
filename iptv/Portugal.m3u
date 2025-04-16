@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RTP 1 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPHD_monocromaticoAzul_horiz_RGB.png" group-title="General",RTP 1 HD (geo)
-https://fullness.wideiptv.top/RTP1/index.fmp4.m3u8?token=90d0447aa2d7d7477867cdffb8547ffa05b167e3-65cea08a40767ea06ecff24dcbaa85cb-1744837805-1744827005
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=118450&extension=ts&play_token=FAcsN7kiJf
 
 #EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 HD (geo)
-https://moonlight.wideiptv.top/RTP2/index.fmp4.m3u8?token=1fe415b5928d9962299adda3c0ecd1c4c3a99fdc-11229802eb7c0975cc56929866f9d60b-1744837749-1744826949
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=118449&extension=ts&play_token=0jWOUzXb38
 
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3 (geo)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
@@ -813,38 +813,59 @@ https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-DEBC21000022L" tvg-id="DEBC21000022L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20230412T042621SQUARE.png_20230412042621.png" group-title="Music",Vevo Schlager Pop
 https://jmp2.uk/sam-DEBC21000022L.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-CABB2600017ZU" tvg-id="CABB2600017ZU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600017ZU_20240702T044756SQUARE.png" group-title="Music",XITE 80s Flashback
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/V2Beat.tv.png" group-title="Music",V2Beat
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/2556.gif" group-title="Music",Visual Radio
+http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240401T235855SQUARE.png" group-title="Music",XITE 80s Flashback
 https://jmp2.uk/sam-CABB2600017ZU.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-CABB2600018T4" tvg-id="CABB2600018T4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20240702T044758SQUARE.png" group-title="Music",XITE 90s Throwback
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240401T235856SQUARE.png" group-title="Music",XITE 90s Throwback
 https://jmp2.uk/sam-CABB2600018T4.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-CABD17000043J" tvg-id="CABD17000043J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20240702T044800SQUARE.png" group-title="Music",XITE Celebrates
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240401T235814SQUARE.png" group-title="Music",XITE Celebrates
 https://jmp2.uk/sam-CABD17000043J.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-CABD1200023UJ" tvg-id="CABD1200023UJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200023UJ_20240716T002940SQUARE.png" group-title="Music",XITE Classic Country
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Music",XITE Classic Country
+https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240401T235722SQUARE.png" group-title="Music",XITE Country's Finest
 https://jmp2.uk/sam-CABD1200023UJ.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-CABD120001993" tvg-id="CABD120001993" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD120001993_20240716T002938SQUARE.png" group-title="Music",XITE Country Today
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240401T235720SQUARE.png" group-title="Music",XITE Country Today
 https://jmp2.uk/sam-CABD120001993.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-CABD1200038NZ" tvg-id="CABD1200038NZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200038NZ_20240716T002942SQUARE.png" group-title="Music",XITE Hits
-https://jmp2.uk/sam-CABD1200038NZ.m3u8
+#EXTINF:-1 channel-id="PlutoTV-623b93628e6ded0007337d4d" tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="Music",XITE Gospel
+https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-CABB2600004RZ" tvg-id="CABB2600004RZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600004RZ_20240716T002949SQUARE.png" group-title="Music",XITE Just Chill
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA22000070N_20240402T133359SQUARE.png" group-title="Music",XITE Hits
+https://jmp2.uk/sam-DEBA2200007V6.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240401T235851SQUARE.png" group-title="Music",XITE Just Chill
 https://jmp2.uk/sam-CABB2600004RZ.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-CABB26000054K" tvg-id="CABB26000054K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000054K_20240716T002951SQUARE.png" group-title="Music",XITE Rock x Metal
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240401T235728SQUARE.png" group-title="Music",XITE Nuevo Latino
+https://jmp2.uk/sam-USBD3300007PB.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240401T235731SQUARE.png" group-title="Music",XITE R&B Classic Jams
+https://jmp2.uk/sam-CABD1200021MS.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="Music",XITE Rock
+https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBB2300004KV" tvg-id="USBB2300004KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="Music",XITE Rock x Metal
+https://jmp2.uk/sam-USBB2300004KV.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240401T235853SQUARE.png" group-title="Music",XITE Rock On
 https://jmp2.uk/sam-CABB26000054K.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-CABD1200021MS" tvg-id="CABD1200021MS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200021MS_20240716T002936SQUARE.png" group-title="Music",XITE R&B Classic Jams
-https://jmp2.uk/sam-CABD1200021MS.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240401T235733SQUARE.png" group-title="Music",XITE Siempre Latino
+https://jmp2.uk/sam-USBD3300010L9.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-CABD1200034DU" tvg-id="CABD1200034DU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200034DU_20240313T064738SQUARE.png" group-title="Music",Stingray Today's K-Pop
 https://jmp2.uk/sam-CABD1200034DU.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/V2Beat.tv.png" group-title="Music",V2Beat
-http://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2a0fed5fd6bbc785bbd8e5589a08023e.jpg" group-title="Music",Play Ibiza TV
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JZ4Z9XTDAHRPC70E1XSB/hls3/now,-1m/master.m3u8
@@ -2109,9 +2130,6 @@ https://scdn.nrjaudio.fm/adwz1/fr/30085/mp3_128.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/6249.v11.png" group-title="Radio",RFM 80s (Radio FR)
 https://stream.rfm.fr/rfm-wr4.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/64517.v3.png" group-title="Radio",Top Hits France (Radio FR)
-http://91.121.59.45:8178/stream
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/QWeMtjqdj8.png" group-title="Radio",105 Classics (Radio IT)
 https://icy.unitedradio.it/105Classics.mp3
 
@@ -2157,9 +2175,6 @@ https://kisskiss.fluidstream.eu/KKItalia.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5626fc2fd15c8d040ac61f11f9860201.jpg" group-title="Radio",M20 (Radio IT)
 https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/49046.v11.png" group-title="Radio",Milano Lounge (Radio IT)
-https://centova.wlservices.org/proxy/pufepstm?mp=/stream
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/20498.v12.png" group-title="Radio",Monte Carlo (Radio IT)
 https://icecast.unitedradio.it/RMC.mp3
 
@@ -2174,9 +2189,6 @@ http://wma02.fluidstream.net/RN1TV/livestream/chunklist_w860321532.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/18067.v5.png" group-title="Radio",Nuova San Giorgio (Radio IT)
 https://eu1.fastcast4u.com/proxy/eenter07?mp=/;
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b76753db9d6121de7f08fcbb25b907c5.png" group-title="Radio",Radio One (Radio IT)
-https://hts04.kshost.com.br:8134/live/;stream.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/11107.v8.png" group-title="Radio",R101 (Radio IT)
 https://icecast.unitedradio.it/r101_mp3
@@ -2562,9 +2574,6 @@ https://bigrradio.cdnstream1.com/5183_128
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Alternative Rock (Radio US)
 https://bigrradio.cdnstream1.com/5189_128
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Classic RnB (Radio US)
-https://bigrradio.cdnstream1.com/5194_128
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.bigrradio.com/image/Bigrradio-logo.png" group-title="Radio",Big R Radio - Classic Rock (Radio US)
 https://bigrradio.cdnstream1.com/5171_128
 
@@ -2600,6 +2609,3 @@ https://live.powerhitz.com/1power
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/enwj8elm2dej.png" group-title="Radio",Pulse EDM Dance (Radio US)
 http://naxos.cdnstream.com/1373_128
-
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/710a916179ce162ddcf546f384054147.jpg" group-title="Radio",USA Dance (Radio US)
-https://stream2.rcast.net/66781
