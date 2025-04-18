@@ -31,16 +31,13 @@ https://ztnr.rtve.es/ztnr/3987218.m3u8
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 
 #EXTINF:-1 tvg-id="TVC.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="News" tvg-name="TV3.CAT",TV3 CAT
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 
-#EXTINF:-1 tvg-name="3CAT Exclusiu 1" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="News",3CAT Exclusiu 1 GEO CAT
-https://directes-tv-cat.ccma.cat/live-origin/oca1-hls/master.m3u8
+#EXTINF:-1 tvg-id="TVC.TV" tvg-logo="https://img.ccma.cat/multimedia/jpg/6/2/1677514528626.jpg" group-title="News" tvg-name="324.CAT",324 CAT
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-name="3CAT Exclusiu 2" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="News",3CAT Exclusiu 2 GEO CAT
-https://directes-tv-cat.ccma.cat/live-origin/oca2-hls/master.m3u8
-
-#EXTINF:-1 tvg-name="3CAT Exclusiu 3" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="News",3CAT Exclusiu 3 GEO CAT
-https://directes-tv-cat.ccma.cat/live-origin/oca3-hls/master.m3u8
+#EXTINF:-1 tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/Canal33/picture?width=320&height=320" group-title="General",C33 Catalunya (geo)
+https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="News" tvg-name="El País",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
@@ -51,20 +48,14 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="News" tvg-name="El Confidencial",El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="News",7NN Noticias
-https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="News",Euronews
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg" group-title="News",RT Español HD
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg" group-title="News",RT News HD
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_espanol.png" group-title="News",CGTN Español
-https://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_espanol.png" group-title="News",CGTN (espanol)
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeutscheWelleEspanol.de" tvg-logo="https://feedlix.net/tv/de/dw_es.png" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
@@ -76,28 +67,22 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 http://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png" group-title="News",HispanTV
-https://cdnlive.presstv.ir/live/smil:live.smil/chunklist_w1182724625_b644100_slen.m3u8
+https://live.presstv.ir/hls/hispantv_2_482/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png" group-title="News",Press TV (english)
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/sky_uk_news.png" group-title="News",Sky News (UK)
-https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.foxtv.com/static/orion/img/core/s/logos/fts-philadelphia-a.svg" group-title="News",Fox News Now
-https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Free-Speech-TV.webp" group-title="News",Free Speech TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/9806be74ba5860cbd39978bc9a53fcf9eca7aaf5bdf65d3d890d3c0b5ce3cc68.png" group-title="News",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
 
-#EXTINF:-1 tvg-id="BLOOM.meo.pt" tvg-logo="https://feedlix.net/tv/us/BloombergTV.us.png" group-title="News",Bloomberg TV Europe
-https://dai.google.com/linear/hls/pa/event/TPKhqf0BQn2_ijC-0rOJcA/stream/8645d7dd-1833-499b-a27c-584105e5ee66:GRQ/variant/151c7fe8276bc9031337b1bc8e0ba426/bandwidth/400000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/sky_uk_news.png" group-title="News",Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="News",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3 (geo)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP I" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPInternacional_negativo_horiz_RGB.png" group-title="News",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
@@ -123,14 +108,11 @@ https://live.divinity.es/hls/live/2005335/divinity/master.m3u8
 #EXTINF:-1 tvg-id="13.TV" tvg-logo="https://feedlix.net/tv/es/trece.jpg" group-title="General",Trece TV (geo)
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="13.TV" tvg-logo="https://feedlix.net/tv/es/trece.jpg" group-title="General",Trece TV (op.2)
-https://live-edge-ams-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
-
 #EXTINF:-1 tvg-id="Energy.TV" tvg-logo="https://feedlix.net/tv/es/Energy.png" group-title="Entertainment",Energy (geo)
 https://live.energytv.es/hls/live/2005337/energy/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" tvg-name="¡HOLA! Play" group-title="Entertainment",¡HOLA! Play
-https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+https://jmp2.uk/sam-ES26000025M.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Movies" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
@@ -207,12 +189,6 @@ https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/televigo/picture?width=320&height=320" group-title="General",Televigo
 https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://anove.gal/wp-content/uploads/2022/07/TV-1.png" group-title="General",Anove TV
-https://205245.gvideo.io/cmaf/205245_786753/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/491789551017784/picture?width=200&height=200" group-title="General",Hermes Vigo TV
-https://usher.ttvnw.net/api/channel/hls/hermestelevisionvigo.m3u8?acmb=e30%3D&allow_source=true&browser_family=microsoft%20edge&browser_version=126.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=4729788&platform=web&play_session_id=4b7f2f28ed60efc253ce586ee142da6f&player_backend=mediaplayer&player_version=1.30.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=414fe37b503c1a82c44d7966eb942293db858d70&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22hermestelevisionvigo%22%2C%22channel_id%22%3A672490845%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%221a918062ab1c694d%22%2C%22expires%22%3A1719679376%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22popout%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2284.91.165.111%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/eitb.jpg" group-title="General",EITB Basque HD
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 
@@ -220,7 +196,7 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="ETB2.TV" tvg-logo="https://feedlix.net/tv/es/eitb.jpg",ETB 2 HD
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200",ETB Eventos 1
 https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
@@ -258,8 +234,8 @@ https://cloud.fastchannel.es/mic/manifiest/hls/aturismo/aturismo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1060205704110313472/7gDQtefc.jpg" group-title="General",7 TV Andalucia (geo)
 https://dcunilive72-lh.akamaihd.net/i/dclive_1@800535/master.m3u8
 
-#EXTINF:-1 tvg-id="Extremadura.TV" tvg-logo="https://feedlix.net/tv/es/canal_extremadura.jpg" group-title="General",Extremadura TV
-https://cdnapi.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_in8cxw3w/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="Extremadura.TV" tvg-logo="https://feedlix.net/tv/es/canal_extremadura.jpg" group-title="Regional",Extremadura TV (ES)
+https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1148201655726432256/1z6jtKTp_400x400.png" group-title="General",Canal 33 Madrid
 https://media2.streambrothers.com:1936/8140/8140/.m3u8
@@ -270,29 +246,17 @@ https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 #EXTINF:-1 tvg-id="Distrito.TV" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200" group-title="General",Distrito TV
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
-#EXTINF:-1 tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/Canal33/picture?width=320&height=320" group-title="General",C33 Catalunya (geo)
-https://directes-tv-es.ccma.cat/live-origin/c33-super3-hls/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://canal56.com/wp-content/uploads/2017/06/logoc56header.png" group-title="General",Canal 56
 https://videos.canal56.com/directe/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Canalblau_logo.png" group-title="General",Canal Blau (geo)
 https://liveingesta118.cdnmedia.tv/blautvlive/smil:live.smil/chunklist_b1600000.m3u8
 
-#EXTINF:-1 tvg-id="APUNT.TV" tvg-logo="http://i.imgur.com/ROPlvzc.png" group-title="General",À Punt HD
-https://bcovlive-a.akamaihd.net/a51c31c10f6e42b2bbb7c7649e9f305c/eu-west-1/6057955885001/playlist_dvr.m3u8
-
 #EXTINF:-1 tvg-id="TVR.TV" tvg-logo="https://feedlix.net/tv/es/LaRioja.jpg" group-title="General",TV Rioja
 https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVR.TV" tvg-logo="https://cocina-familiar.com/wp-content/uploads/2022/09/logo_cocina_familiar_crema.png" group-title="Kitchen",Cocina Familiar La Rioja
 https://cloud.fastchannel.es/mic/manifiest/hls/cocinafamiliar/cocinafamiliar.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/7riojatv/picture?width=200&height=200" group-title="General",La 7 La Rioja
-https://live-c.cf.dmcdn.net/sec2(917dBCsFhvuhHmkhKCRZQ8tjMtguePjP3gLMmckoKpZYEC1txx-thWHTgQJNeiMo9XBT8AIl2PNz12UG8pDR3HHHMXlhxEL9VJTuQjkrOQg)/dm/3/x8dhao1/s/live-2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/VallesOriental.jpg" group-title="General",Vallès Visió TV (geo)
-https://liveingesta318.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.canal10.cat/img/logofacebook_400x400.jpg" group-title="General",Empordà TV (geo)
 https://video3.lhdserver.es/empordatv2/live.m3u8
@@ -303,11 +267,8 @@ https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/tvgirona/picture?width=320&height=320" group-title="General",TV Girona (geo)
 https://ventdelnord.tv:8080/girona/directe.m3u8
 
-#EXTINF:-1 tvg-id="La7.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_La_7.svg/150px-Logo_La_7.svg.png" group-title="General",La 7 Castilla y León (geo)
-https://la7live.flumotion.cloud/la7live/smil:channel1.smil/fmt_token/MBWnR_8quddnbZTJYtj99k-JQoJTM7gTU4NagDJhTPg/eyJleHBpcmUiOiIxNzE5NzgwNjczIiwidXJsX2FsbG93IjpbIi9vbmRlbWFuZC85ODFjNDhlNi1jNjNlLTRkMDAtYjFlMS03OTc4MjBhNjFjNTkiLCIvbGE3bGl2ZSJdLCJyZWZfYWxsb3ciOlsiY2RuYXBpLmNvZGV2OC5uZXQiLCJjbXMuY29kZXY4Lm5ldCJdfQ/chunklist_b2200000.m3u8
-
 #EXTINF:-1 tvg-id="8Avila.TV" tvg-logo="https://pbs.twimg.com/profile_images/1364545643319087104/7qp4nrtS.jpg" group-title="General",La 8 Avila (geo)
-https://la8avilalive.flumotion.cloud/la8avilalive/smil:channel1PRG.smil/fmt_token/N-84XNRTB3ynLheGap3eANt6wU6nWADB4gIiH4eNEzc/eyJleHBpcmUiOiIxNzE5Nzc5NjQ3IiwidXJsX2FsbG93IjpbIi9vbmRlbWFuZC8xZTg5NDkzMC1lMmY2LTQxNGUtYjgzOC05MTA3MjZlOTMxYjIiLCIvbGE4YXZpbGFsaXZlIl0sInJlZl9hbGxvdyI6WyJjZG5hcGkuY29kZXY4Lm5ldCIsImNtcy5jb2RldjgubmV0Il19/chunklist_b2200000.m3u8
+https://la8avilalive.flumotion.cloud/la8avilalive/smil:channel1PRG.smil/fmt_token/Zeoiq4a2hwk9b6eA-tbQsKfiukz6maIY7kXDYSxZYXU/eyJleHBpcmUiOiIxNzQ1MDkxMjcxIiwidXJsX2FsbG93IjpbIi9vbmRlbWFuZC8xZTg5NDkzMC1lMmY2LTQxNGUtYjgzOC05MTA3MjZlOTMxYjIiLCIvbGE4YXZpbGFsaXZlIl0sInJlZl9hbGxvdyI6WyJjZG5hcGkuY29kZXY4Lm5ldCIsImNtcy5jb2RldjgubmV0Il19/chunklist_b2200000.m3u8
 
 #EXTINF:-1 tvg-id="8Bierzo.TV" tvg-logo="https://graph.facebook.com/La8Bierzo/picture?width=200&height=200" group-title="General",La 8 Bierzo (geo)
 https://la8bierzolive.flumotion.cloud/la8bierzolive/smil:channel1PRG.smil/fmt_token/uotm-GsQdEH_lyufC-f54plnow4hrUQY3oFy_YYPX2Y/eyJleHBpcmUiOiIxNzE5NzgwNzMyIiwidXJsX2FsbG93IjpbIi9vbmRlbWFuZC84NDRiY2RlOS0wM2JlLTRmNzgtYjc1Yy0yNTIzNzI4MWQxODMiLCIvbGE4YmllcnpvbGl2ZSJdLCJyZWZfYWxsb3ciOlsiY2RuYXBpLmNvZGV2OC5uZXQiLCJjbXMuY29kZXY4Lm5ldCJdfQ/chunklist_b2200000.m3u8
@@ -342,9 +303,6 @@ https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 #EXTINF:-1 tvg-id="AragonTV.TV" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=320&height=320" group-title="General",Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvbarbastro/picture?width=200&height=200" group-title="General",Canal 25 Barbastro TV
-https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
-
 #EXTINF:-1 tvg-id="7RM.TV" tvg-logo="http://7tvregiondemurcia.es/wp-content/uploads/2015/04/LOGO.jpg" group-title="General",7 TV Murcia HD
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 
@@ -356,12 +314,6 @@ https://streaming004.gestec-video.com/hls/FTV.m3u8
 
 #EXTINF:-1 tvg-id="PopularTV_S.TV" tvg-logo="http://www.sotodelamarina.com/Logos/Populartv_Cantabria.jpg" group-title="General",Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/populartvml/picture?width=200&height=200" group-title="General",Popular TV Melilla
-https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TPA.TV" tvg-logo="https://graph.facebook.com/RTPAoficial/picture?width=320&height=320" group-title="General",RTPAsturias
-https://cdnlive.codev8.net/rtpalive/smil:directo/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_400x400.jpg" group-title="General",TV Badalona (geo)
 https://liveingesta318.cdnmedia.tv/badalonatvlive/live/chunklist.m3u8
@@ -383,15 +335,6 @@ https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/canalterrassa/picture?width=320&height=320" group-title="General",Canal Terrassa (geo)
 https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvgirona/picture?width=200&height=200" group-title="General",TV de Girona
-https://ventdelnord.tv:8080/girona/directe.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal10emporda/picture?width=200&height=200" group-title="General",Canal 10 Empordà
-https://ventdelnord.tv:8080/escala/directe.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teve.cat/picture?width=200&height=200" group-title="General",Tevecat HD
-https://www.tdtchannels.com/stream/tevecat.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/CanalTaronjaOsona/picture?width=320&height=320" group-title="General",Canal Taronja
 https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8
@@ -417,12 +360,6 @@ http://amaru.dyndns.org:8870/0.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200" group-title="General",RTV Mogán
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
 
-#EXTINF:-1 tvg-id="HuelvaTV.TV" tvg-logo="https://graph.facebook.com/Huelvatv/picture?width=200&height=200" group-title="General",Huelva TV
-https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeleOnuba.TV" tvg-logo="https://graph.facebook.com/Teleonuba/picture?width=320&height=320" group-title="General",Teleonuba
-https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200" group-title="General",Onda Valencia
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 
@@ -441,9 +378,6 @@ https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvArtequatre/picture?width=200&height=200" group-title="General",TV Artequatre
 https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/maestrat.tv/picture?width=200&height=200" group-title="General",Maestrat TV
-https://stream.maestrat.tv/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/UniversValenciaMedia/picture?width=200&height=200" group-title="General",Univers TV
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 
@@ -453,9 +387,6 @@ https://streamingtvi.gestec-video.com/hls/unesd.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/8lamarinatelevision/picture?width=200&height=200" group-title="General",8 La Marina TV
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 
-#EXTINF:-1 tvg-id="CMM.TV" tvg-logo="http://www.cmmedia.es/wp-content/themes/canal_rtvcm/images/logo.png",Castilla La Mancha
-https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvhellin/picture?width=200&height=200" group-title="General",TV Hellín
 https://5940924978228.streamlock.net/directohellin/directohellin/chunklist_w116762869.m3u8
 
@@ -464,9 +395,6 @@ https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/104927246235553/picture?width=200&height=200" group-title="General",Visión 6 TV
 https://streaming.proceso.info:8888/vision6-web/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/television.imas/picture?width=200&height=200" group-title="General",Imás HD TV
-https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200" group-title="General",Canal 4 Mancha Centro
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
@@ -483,29 +411,17 @@ https://cloudvideo.servers10.com:8081/8022/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Canal-4-Baleares-en-DIRECTO-Online-en-vivo.png" group-title="General",Canal 4 HD Baleares
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/TEFTV/picture?width=320&height=320" group-title="General",TEF TV
-https://5940924978228.streamlock.net/EIVISSA_1/EIVISSA_1/playlist.m3u8
-	
 #EXTINF:-1 tvg-id="OndaAlgeciras.TV" tvg-logo="https://graph.facebook.com/ondaalgecirastv/picture?width=320&height=320" group-title="General",Onda Algeciras TV
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/donanacomunica/picture?width=320&height=320" group-title="General",Canal Doñana
 https://secure5.todostreaming.es/live/division-alm.m3u8
 
-#EXTINF:-1 tvg-id="CanalCosta.TV" tvg-logo="https://graph.facebook.com/canalcosta/picture?width=200&height=200" group-title="General",Canal Costa
-https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/tvcostabrava/picture?width=320&height=320" group-title="General",TV Costa Brava
-https://video3.lhdserver.es/costabravatv/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.lancelot.tv/lancelot.jpg" group-title="General",Lancelot TV
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 
 #EXTINF:-1 tvg-id="8M.TV" tvg-logo="http://www.enetres.tv/img/slider-projects/mediterraneo-tv.jpg" group-title="General",La 8 Mediterraneo TV
 https://streaming004.gestec-video.com/hls/8TV.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/101tv.jpg" group-title="General",101 TV Malaga
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=320&height=320" group-title="General",Canal Málaga HD
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
@@ -519,29 +435,11 @@ https://cdnlive.codev8.net/rtvcelive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MelillaTV.TV" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320" group-title="General",TV Melilla
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1612490465005142019/AU1R7Q6q_400x400.jpg" group-title="General",PTV Almería
-https://streamer.zapitv.com/ptv_almeria/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1806603545581404161/9SRbUmXB_400x400.jpg" group-title="General",PTV Sevilla
-https://streamer.zapitv.com/PTV_sevilla/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1715274213500608512/PFF-p-Dx_400x400.jpg" group-title="General",PTV Córdoba
-https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1766938585003896832/mP9mpY-9_400x400.jpg" group-title="General",PTV Málaga
-https://streamer.zapitv.com/PTV-malaga/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ptvtelecom.com//wp-content/uploads/ptv-granada-directo-1.png" group-title="General",PTV Granada
-https://streamer.zapitv.com/PTV-granada/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1766239355822133248/RKQ2O04K_400x400.jpg" group-title="General",PTV Linares
-https://streamer.zapitv.com/ptv-linarez/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/canal4mancha.png" group-title="General",C4 Mancha
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/chunklist_w2062760919.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.canal4tenerife.tv/wp-content/uploads/2017/02/LOGO-CANAL-4-azul-80.png" group-title="General",Canal 4 Tenerife
-https://5940924978228.streamlock.net/Directo2/Directo2/playlist.m3u8
+https://videoserver.tmcreativos.com:19360/ccxwhsfcnq/ccxwhsfcnq.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://files.ondalitoralcadiz.webnode.es/200000217-c70eac80a6/DJUETRYUERT.jpg" group-title="General",8 TV Cadiz (geo)
 https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
@@ -555,35 +453,20 @@ https://limited2.todostreaming.es/live/m95-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/AlcarriaTv.es.png" group-title="General",Alcarria TV
 https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png" group-title="General",Vega Baja TV
-https://streaming.tvt.es:8080/hls/tvb_interno/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/TVM.Cordoba/picture?width=320&height=320" group-title="General",TVM Córdoba
 https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mijas340TV.TV" tvg-logo="https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200" group-title="General",Mijas 3.40 TV
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="General",Onda Cádiz
-https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canal45television/picture?width=200&height=200" group-title="General",Canal 45 TV
 https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tuyalajandatv/picture?width=200&height=200" group-title="General",Tuya La Janda TV
-https://vdo.grupolimalive.com:3847/live/tuyatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/torremolinostv/picture?width=200&height=200",Torremolinos TV
 https://cdnlivevlc.codev8.net/canaltorremolinoslive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="General",Diez TV
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/costadelsoltv/picture?width=200&height=200" group-title="General",Costa del Sol TV
-https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/SalTelevision/picture?width=200&height=200" group-title="General",Sal TV
-https://cloudvideo.servers10.com:8081/8126/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/106272064368271/picture?width=200&height=200" group-title="General",Canal Coín
 https://canalcoin.garjim.es/hls/directo.m3u8
@@ -593,9 +476,6 @@ https://www.streaming101tv.es:19360/antequera/antequera.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/Tele7Safor/picture?width=320&height=320" group-title="Entertainment",Tele Safor
 http://video.telesafor.com/hls/video_high.m3u8
-
-#EXTINF:-1 tvg-id="Condavision.TV" tvg-logo="https://feedlix.net/tv/es/condavision.png" group-title="General",Condavision
-https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/chunklist_w2143302183.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/teleribera.png" group-title="General",Tele Ribera
 https://video3.lhdserver.es/teleribera/live.m3u8
@@ -622,7 +502,7 @@ https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/534693/horizontal/Latino1480x840.1659537624.jpg" group-title="Religious",3ABN Latino
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/chunklist_w161964424_b1928000_slen.m3u8
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f1abce155a03d0007718834" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="Entertainment",Comedia Made in Spain
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
@@ -660,38 +540,47 @@ https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
 #EXTINF:-1 tvg-id="6385e82900ab2e000768a058" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" group-title="Movies",Pluto TV Cine Western
 https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",Rakuten Action
-https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="spanish-cinema-rakuten-tv" tvg-name="spanish-cinema-rakuten-tv" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg" group-title="Movies",Cine Español
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=146580c6-53af-425b-a2bd-0a16f143304d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6196&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",Rakuten Cine Espanol
-https://rakuten-cine-espanol-1-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="action-rakuten-tv" tvg-name="action-rakuten-tv" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Movies",Acción
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=e86d5d63-520f-48c6-a793-073bb3cac45e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6069&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",Rakuten Comedy
-https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cine-friki" tvg-name="cine-friki" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg" group-title="Movies",Cine Friki
+https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=d212b610-0e5a-48e2-89cc-0cf5bc5dd104&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",Rakuten Romance
-https://rakuten-romance-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="comedy-rakuten-tv" tvg-name="comedy-rakuten-tv" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg" group-title="Movies",Comedia
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=comedy-rakuten-tv_es&ads.rtv_content_id=6180&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=633d7113-8d4d-4d2a-880b-0f75fd1f076b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6180&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",Rakuten Thriller
-https://rakuten-thriller-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="drama-rakuten-tv" tvg-name="drama-rakuten-tv" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg" group-title="Movies",Drama
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=2182edad-1451-480f-b269-d25d9de4866f&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6092&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",Rakuten Top Free
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="grjngo-es" tvg-name="grjngo-es" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg" group-title="Movies",Grjngo
+https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=783cabd6-74f4-443a-b630-88e35b337ee1&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1906
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",TV Shows
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="dark-matter-es-new" tvg-name="dark-matter-es-new" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/24715bce-c332-47de-b4bd-746e70068660.jpeg" group-title="Movies",Dark Matter - Horror Visión
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=DarkMatterTV&ads.csid=zeus_es_tricoastdarkmatteres_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4070&ads.rakuten_streaming_id=fc088259-9837-43e5-8581-1b4697a3928e&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883019&ads.xumo_contentId=3479&ads.xumo_contentName=TriCoastDarkMatterES&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3479&ads.xumo_providerName=TriCoastDarkMatterES&ads.xumo_streamId=88883019
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Movies",Series Crime
-https://rakuten-seriescrime-2-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="romance-rakuten-tv" tvg-name="romance-rakuten-tv" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg" group-title="Movies",Películas Románticas
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=26314731-4c89-4db7-9dee-80246de60760&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5
+
+#EXTINF:-1 tvg-id="top-movies-rakuten-tv" tvg-name="top-movies-rakuten-tv" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Movies",Pelis Top
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=8a666854-a030-4ad5-9508-b903d8f7fc7d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5
+
+#EXTINF:-1 tvg-id="sci-fi-rakuten-tv" tvg-name="sci-fi-rakuten-tv" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg" group-title="Movies",Sci-Fi
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=c3c739d8-ba24-4e4e-8d6e-fa784dbefb92&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6740&publishing_platform_id=5
+
+#EXTINF:-1 tvg-id="thriller-rakuten-tv" tvg-name="thriller-rakuten-tv" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/6e6e627e-d9ef-46da-8f3a-eea4949f632e.jpeg" group-title="Movies",Thrillers
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=ebb0adb4-0a88-456e-bfad-665cc1ef3d6c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6480&publishing_platform_id=5
+
+#EXTINF:-1 tvg-id="trailers" tvg-name="trailers" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd19f8e4-0477-4129-96f7-89b5817f7957.jpeg" group-title="Movies",Trailers
+https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rakutentv_channel=4452&ads.rtv_content_id=4452&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=2d3e26f5-5f11-45c2-a24a-acf5e5ae0549&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=4452
 
 #EXTINF:-1 tvg-id="654a35ce346f420008d5c36e" tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png" group-title="Documentary",TV Invasión Alien
 https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Documentary",Spotlight
-https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/rakuten_doc.jpg" group-title="Documentary",Rakuten Documentaries
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/rakuten_doc.jpg" group-title="Documentary",Rakuten Documentários (PT)
+https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
 
 #EXTINF:-1 tvg-id="5f1acba0d1f6340007db8843" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="Documentary",Los Nuevos Detectives
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
@@ -705,17 +594,20 @@ https://jmp2.uk/plu-622f42b831233300078658cc.m3u8
 #EXTINF:-1 tvg-id="61cd7b49543066000713b620" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documentary",Pluto TV Historia
 https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
 
-#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary",RT Documentary HD
-http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary",RT Documentary HD (english)
+https://rumble.com/live-hls/6oyh3s/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary (english)
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="Documentary",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 tvg-id="61cd78920b90cb0007e28231" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png" group-title="Documentary",Pluto TV Documentales
-https://jmp2.uk/plu-61cd78920b90cb0007e28231.m3u8
+#EXTINF:-1 channel-id="61922be835f3910007fc58f6" tvg-id="61922be835f3910007fc58f6" tvg-chno="423" tvg-name="En el punto de mira" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png" group-title="Documentales",En el punto de mira
+https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
+
+#EXTINF:-1 channel-id="61cd7b49543066000713b620" tvg-id="61cd7b49543066000713b620" tvg-chno="422" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documentales",Pluto TV Historia
+https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
 
 #EXTINF:-1 tvg-id="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240415T233104SQUARE.png" group-title="Documentary",BBC Earth
 https://jmp2.uk/sam-USBD1700001RW.m3u8
@@ -724,7 +616,7 @@ https://jmp2.uk/sam-USBD1700001RW.m3u8
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951218
 
 #EXTINF:-1 tvg-id="60c343ad476ec00007c2ec1a" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png" group-title="Travel",Pluto TV Viajes
-https://jmp2.uk/plu-60c343ad476ec00007c2ec1a.m3u8
+https://jmp2.uk/plu-5dcddfbdb7cf0e0009ae09ea.m3u8
 
 #EXTINF:-1 tvg-logo="https://condista.com/wp-content/uploads/2022/05/travel-xp-hd.jpg" group-title="Travel",Travel XP
 https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
@@ -738,8 +630,8 @@ https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
 #EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Kitchen",TV Cocina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://images.fubo.tv/station_logos/TastemadeEnEspanol_m.png" group-title="Kitchen",Tastemade Español
-https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="ESAJ3800007PC" tvg-id="ESAJ3800007PC" tvg-chno="4513" tvg-name="Pluto TV Cocina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png" group-title="Kitchen",Pluto TV Cocina
+https://jmp2.uk/sam-ESAJ3800007PC.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pets",Animais de Estimação TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=505&deviceId=5f515ebac01c0f00080e8439&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
@@ -768,7 +660,7 @@ https://jmp2.uk/plu-5b329e0a7b9d8872aeb49ceb.m3u8
 #EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
 https://jmp2.uk/plu-599375885ceaac3cabccbed7.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://feedlix.net/tv/es/clan_tv.png",Clan HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://feedlix.net/tv/es/clan_tv.png" group-title="Kids",Clan HD
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="Kids",TVG Xabarin
@@ -783,17 +675,11 @@ https://crtvg-xabarinr2-schlive.flumotion.cloud/crtvglive/smil:channel7PRG.smil/
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/galiciatv.jpg" group-title="Kids",TVG Mociños (geo)
 https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/chunklist_b2200000.m3u8
 
-#EXTINF:-1 tvg-id="Boing.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Boinges.png" group-title="Kids",Boing
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=320&height=320" group-title="Kids",Peque TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/RetroCartoon.png" group-title="Kids",Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png" group-title="Kids",Anime TV
-https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
+#EXTINF:-1 channel-id="608035b8d8705f0007260287" tvg-id="608035b8d8705f0007260287" tvg-chno="402" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" group-title="Kids",Pluto TV Anime
+https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b22af84bdf817ed88a396951cda5988b.jpg" group-title="Kids",Pitufo TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211
@@ -807,12 +693,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72bf2ecca24095d1f015ae7c52749e68.jpg" group-title="Kids",Kids TV Español Latino
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95cd63c87a3e478f54ab5af706844922.jpg" group-title="Kids",Mundo Pequeño
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ebaf4e9bbdc1cfd28bc1138e879cff4.jpg" group-title="Kids",Planeta de Aventuras
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e164c1f449172affe344cb1f7420adce.jpg" group-title="Kids",Toon Goggles Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
@@ -823,10 +703,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.jpg" group-title="Kids",Zaz TV ES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/643723936bb6be8434f8ca9e5aa71697.jpg" group-title="Kids",Zona de Acción
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv_distro/zaztv.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-61373c865ed5810007173fbc" tvg-id="61373c865ed5810007173fbc" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="Kids",Avatar
 https://jmp2.uk/plu-61373c865ed5810007173fbc.m3u8
@@ -858,32 +735,29 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.prensario.net/multimedios/imgs/51183_750.jpg" group-title="Kids",Canal Anime Onegai 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 
-#EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://feedlix.net/tv/pt/ZigZag.png" group-title="Kids",Zig Zag
-https://streaming-live.rtp.pt/liverepeater/smil:zigzagHD.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosKids.pt.png" group-title="Kids",Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Kids" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg",Rakuten Family HD
-https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/476faeb2-0128-4709-8a60-67c1b253a55e-width308-quality90.png" group-title="Kids",Rakuten Family HD
+https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
+
+#EXTINF:-1 tvg-id="family-rakuten-tv" tvg-name="family-rakuten-tv" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/55bcbbe9-d8ec-45de-849e-775854edea1e.jpeg" group-title="Kids",En Familia
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=family-rakuten-tv_es&ads.rtv_content_id=6205&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=c9432b88-c3eb-49c5-9901-ca58ac328bd7&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6205&publishing_platform_id=5
 
 #EXTINF:-1 tvg-id="Kidz.es" tvg-logo="https://i.imgur.com/iBgsCOV.png" group-title="Kids",Kidz Atresmedia (geo)
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
 
-#EXTINF:-1 tvg-id="Eureka.co" tvg-logo="https://i.imgur.com/WgnZPol.png" group-title="Kids",Eureka
-https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LogosTVKids.es" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="Kids",Logos TV Kids
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAnimakids.es" tvg-logo="https://i.imgur.com/MSGZ3S9.png" group-title="Kids",Anima kids
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 channel-id="5f1aab1d29b39600073e243f-es" tvg-id="5f1aab1d29b39600073e243f" tvg-chno="514" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png" group-title="Kids",Pluto TV Kids
+https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVToonsClasico.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Kids",TV Toons Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg" group-title="Kids",3ABN Kids
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w1880211654_b1928000_slen.m3u8
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/GospelCartoon.png" group-title="Kids",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist.m3u8
@@ -900,8 +774,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Kids",Nick Junior
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network (IN)
-https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-ESBD5100001G0" tvg-id="ESBD5100001G0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20240904T135718SQUARE.png" group-title="Spain" tvg-chno="4613",SuperToons TV
+https://jmp2.uk/sam-ESBD5100001G0.m3u8
 
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="Sports",TDP HD (geo)
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
