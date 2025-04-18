@@ -786,35 +786,62 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="Sports",Esport 3 (geo)
 https://directes-tv-es.ccma.cat/es/ngrp:es3_web/playlist_DVR.m3u8
 
+#EXTINF:-1 tvg-id="top-barca-es" tvg-name="top-barca-es" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="Sports",TOP Barça
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8?ads_amagi_channel=941&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6347&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=9c433264-4f54-4bf9-aefe-be084b018270&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 tvg-id="laliga-inside" tvg-name="laliga-inside" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/99ae16ca-3e5a-4f96-8924-46d2c034f959.jpeg" group-title="Sports",LaLiga Inside
+https://daiconnect.com/live/hls/tvup/rk-ligainside/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5966&ads_rtv_content_language=spa&ads_streaming_id=5f94981f-d270-428d-994e-6960506863c2&ads_tcs_channel_id=227&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
 #EXTINF:-1 tvg-name="Mundo Nautica" tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200" group-title="Sports",Mundo Nautica
 https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
 
-#EXTINF:-1 tvg-name="MyPadel TV" tvg-logo="https://graph.facebook.com/mypadeltv/picture?width=200&height=200" group-title="Sports",MyPadel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="fifa-plus-es-new" tvg-name="fifa-plus-es-new" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e37664a3-8cb2-4f78-b683-8ed89d108924.jpeg" group-title="Sports",FIFA+
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6128&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=315427b7-40a4-4983-8241-1923bc448c57&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1780
 
-#EXTINF:-1 tvg-name="Futsalmafer.tv" tvg-logo="https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200" group-title="Sports",Futsalmafer TV
-https://vdo.grupolimalive.com:3398/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e6ca508c-b569-4bd5-b183-070f477b0076.png" group-title="Sports",DAZN Women's Football
+https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8?ads_amagi_channel=855&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=5029&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=2dce0380-7a76-4411-acdb-85da64d2790b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-id="5f1ac8588734f8000823b7de" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="Sports",TV Action Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 tvg-id="hard-knocks-fighting-championship" tvg-name="hard-knocks-fighting-championship" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398.jpeg" group-title="Sports",Hard Knocks Fighting Championship
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=HardKnocks&ads.csid=zeus_eu_hardknocks_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=359&ads.rakuten_streaming_id=8a7b8cc5-1ae9-4a6e-90ee-638310c29fb7&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883037&ads.xumo_contentId=212&ads.xumo_contentName=HardKnocks&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=212&ads.xumo_providerName=HardKnocks&ads.xumo_streamId=88883037
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfchannel.png" group-title="Sports",Surf Channel
-https://bit.ly/3Hxwlb8?/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1 tvg-id="glory-kickboxing" tvg-name="glory-kickboxing" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/0a96318f-fb4e-444c-950b-91f0524ca77c.jpeg" group-title="Sports",GLORY Kickboxing
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4843&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=2ce3a6ef-d4d4-4b9c-aabd-09282eb39249&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1360
+
+#EXTINF:-1 tvg-id="surf-channel" tvg-name="surf-channel" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ee7406e0-5a2a-49dc-9722-f3888314566c-surf-channel-1631785285.jpeg" group-title="Sports",Surf Channel
+https://daiconnect.com/live/hls/tvup/rk-surfchannel/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=3740&ads_rtv_content_language=spa&ads_streaming_id=52c97d10-13ae-4216-bec5-0ba837edbd48&ads_tcs_channel_id=931&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 tvg-id="pfl-mma" tvg-name="pfl-mma" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1.jpeg" group-title="Sports",PFL MMA
+https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6506&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=8deea12f-3412-4e4c-85a8-bbc4e61d3008&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1309
+
+#EXTINF:-1 tvg-id="motorsport-tv-en" tvg-name="motorsport-tv-en" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/d1e02c44-7aa4-443e-aa8d-e5bd1389b9a3.jpeg" group-title="Sports",Motorsport.tv
+https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4668&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=a5783e9d-e92d-4ebc-b5a4-6161a70431cf&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1370
+
+#EXTINF:-1 tvg-id="mavtv-motorsports-network-new" tvg-name="mavtv-motorsports-network-new" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/f1af70ab-1f78-4af7-97c5-bcf61aa1acf7.jpeg" group-title="Sports",MAVTV International
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8?ads_amagi_channel=872&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5458&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=134e709d-3862-4d66-a6a3-ddc3c08e7d5d&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 tvg-id="mypadel-tv" tvg-name="mypadel-tv" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/1de5d983-6666-4d47-8f02-b7a898f2ebc3.png" group-title="Sports",MyPadel TV
+https://daiconnect.com/live/hls/tvup/rk-mypadeltv/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=4399&ads_rtv_content_language=spa&ads_streaming_id=75aedd8d-7289-4020-b5f7-44a18f56435d&ads_tcs_channel_id=929&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 channel-id="5f32d2db0af67400077f29c4-br" tvg-id="5f32d2db0af67400077f29c4" tvg-chno="827" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="Sports",Pluto TV Esportes
+https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
+
+#EXTINF:-1 channel-id="65a6884c07e03a00088e0d6e-es" tvg-id="65a6884c07e03a00088e0d6e" tvg-chno="158" tvg-name="Pluto TV Extremo" tvg-logo="https://images.pluto.tv/channels/65a6884c07e03a00088e0d6e/colorLogoPNG.png" group-title="Sports",Pluto TV Extremo
+https://jmp2.uk/plu-65a6884c07e03a00088e0d6e.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/ipapool.com/wp-content/uploads/2023/09/US_STVP_BilliardTV_ChannelTile_1000x1000_Square.jpg" group-title="Sports",Billiards TV
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fuel.png" group-title="Sports",Fuel TV
-https://bit.ly/3vCaVZr?profile=inspirationFreeTV.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2023/09/motorvision.png" group-title="Sports",Motorvision
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv_es.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB2&ads._fw_content_genre=automotive&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=MotorvisionSpanish&ads.csid=zeus_es_motorvision_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4193&ads.rakuten_streaming_id=22c9b424-46dd-4892-88cd-2fd2e57ab690&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883004&ads.xumo_contentId=3791&ads.xumo_contentName=MotorvisionSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3791&ads.xumo_providerName=MotorvisionSpanish&ads.xumo_streamId=88883004
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/f700e9a8-f1dc-4b40-8f3f-a387cfceb0d8-world-billiards-tv-1654685118.png" group-title="Sports",World Billiards TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=3694&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=ed47a41c-3ded-4b26-beb0-af573520c5fb&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=967
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2900001LI_20230926T032241SQUARE.png_20230926032242.png" group-title="Sports", World Poker Tour
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2900001LI_20230926T032241SQUARE.png_20230926032242.png" group-title="Sports",World Poker Tour
 https://jmp2.uk/sam-CHBD2900001LI.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tavilatam.com/wp-content/uploads/2022/04/TAVI_FIFAPlus.png" group-title="Sports",FIFA Plus
-https://fbbd2a5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0ZJRkFQbHVzX0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=5061&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=06fd7c9b-945a-41bf-ae0a-8b8b330867a4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1459
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e6ca508c-b569-4bd5-b183-070f477b0076.png" group-title="Sports",DAZN Women's Football
-https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8?ads_amagi_channel=855&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=5029&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=2dce0380-7a76-4411-acdb-85da64d2790b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/RedBullTv.png" group-title="Sports" group-title="Sports",Red Bull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -823,16 +850,10 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ru/world_fashion_channel_ru.png" group-title="Lifestyle",World Fashion Channel Russia HD
-https://cdn.wfc.tv/cdn/stream-rus.m3u8
+https://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/GlobalFashion.jpg" group-title="Lifestyle",Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_720p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Original
-https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/f7/372028/se9_CELEB_INTE_658220.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV UHD
-https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV F-Men HD
 https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/chunklist.m3u8
@@ -844,55 +865,40 @@ https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV New York HD
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/chunklist_b4628000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Paris HD
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_asi_i2j_43441_1080p_1611_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Original
+https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/f7/372028/se9_CELEB_INTE_658220.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Paris
+https://stream-us-east-1.getpublica.com/cl/250414cvul47e3tolkdphd4is0/1920x1080_4667229_0_f.m3u8?i=775_5457
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Paris (op.2)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+https://jmp2.uk/sam-FRAJ4500020YA.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Portugal HD
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV UHD
+https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Singapura HD
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_hd_gmt__vm6_43433_default_1597_hls.smil/chunklist_b5228000_t64MTA4MA==.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png" group-title="Lifestyle",Fashion TV Tokyo HD
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="RakutenTV-UK_fashion-tv" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/838ea64b-a331-4322-971a-3c8c52ac1124-fashion-tv-1643624523.png" group-title="Lifestyle",Fashion Rakuten TV
+https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=1279&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=e2de34f0-9207-43bd-9ef9-db4d4092ae0e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=381
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/plex_fashion.png" group-title="Lifestyle",Plex Fashion TV Top Models
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/plex_fashion.png" group-title="Lifestyle",FashionTV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=xgcnW5im4L_9t9ERRzQB
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d3740a2e-4a7c-4bc2-b0ca-15fa24121fc5/1500X1000_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="Lifestyle",FashionTV Vogue
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2022/06/Fashion-TV-England.png" group-title="Lifestyle",FTV Bikini
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.coolstreaming.us/img/ch/ima88748185384.jpg" group-title="Lifestyle",A3 Bikini
-https://vse2-na-all49.secdn.net/tvsw5-chorigin/play/prod-6496a962f5df4378afc60b62f6081b27/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/tYb9P1pPaos/mqdefault.jpg" group-title="Lifestyle",Kaloopy TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.dpname=distrotv&ads.rnd=qz2z&ads.env_i=31e3f53f-b228-4f6e-958c-3a55b467855e&ads.env_u=0540abc3-1fd1-4c22-9260-e54c6506a9be&ads.name=DistroTV&ads.bundle=undefined&ads.storeurl=undefined&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=560&ads.height=315&ads.deviceId=0540abc3-1fd1-4c22-9260-e54c6506a9be&ads.deviceDNT=0&ads.gdpr=1&ads.us_privacy=0&ads.aid=0540abc3-1fd1-4c22-9260-e54c6506a9be&ads.deviceMake=Web&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.client_ip=84.91.165.111&ads.geo=PT&ads.lat=39.29770&ads.long=-7.43360&ads.dma=false&ads.geoType=2&ads.contentid=22868&ads.content_duration=18000&ads.episode_id=73234&ads.show_id=1093&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CLifestyle&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Kaloopy&ads.episodetitle=Kaloopy&ads.keywords=kaloopy%2Ceye%20candy%20channel%2Ccalifornia%20eye%20candy%2Ccalifornia%20eye%20candy%20channel&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Fembed_episode.html%3Fshow%3Dkaloopy&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=AQzzBGQE-4ahKmWn6T4og6I7Gfouq0gTNDu6pqiHtUArChtKnTFXf2hE03hAnQJ4SowtvGfD5WrRIaEJwCakWoSLV0uvloonod7jPTHJfSiJ2ny64w4BX_cNyM7qwdTsjxNAhqIUhoqgI4iTAb_Ng7dgNHbExq5K1E_TrZhaTqrQYY9D75qkAczrWW_L-jfbUINr8sX8xDLc_VJ-rhZcZUGW-2IxXMkomUmY6IAESlzDQq579qgt-ZCZR981byrfUzD4ROO2tGhs_ReZ_RshPQPwQYuNCJCyc8vVDYMHfJPkoSJ7ZLo9BEhLfRM9djklIZOi6zKDE-z_WxeaILRlkZ0GPkJX_T4WaQXFK6PIN1KnUjbSfEKBtHhXBnGEyw36QeQ1URvBjfO3DYWy6y6wIBOQaUjJDPrdtq186iGaw5vc2xoyfzbk_VATaAZLMRqTfhXF2XU-hqN2FOWPxcKLBEQZfKSwqKS76ovsgAu6MQs0FQy5vFOcu9mR7zpAarWrxL01ALkxedbilM1Gslb0brav3JmAxfpzdEf9DxfAmxK3s7Rkgxyz8doqATIzL70K2AP9Ozc1ujlH3gGW8eFRASVnXWg2zDQg-EGAl0CX42qZQKmvemtl7vP-eZUNhniFpIQ_M7RGHbrLjk3iveQS4CH_fJNaSLGG3UzBzX0TLXfP1HLI0rDT0G73MW0a9-VLY7LKj8aX49LAGK2VQN-wb8tCWYv6WM7-YNWfpNIdoZDK3BxOwJVL4gXzYku51NdntVNeUBnEj7mRKmG37O3jsFy6WKaRdjTVU-hhXF6pGUpps3TZNSAicx8DJmmTKhd5ntB-ysXf1MXfJyivrgHiFnIlSw9e5yyXVDAdWaPhRtTxRyCwGr36xVRluVzzGKcYFRIok-CJbGv7xHLsx2wQgCkpeqC9fKqT8rkNR4dcoA_9MF9M9Wtp1WSWx_5gb0vzHsbCN9M0b9H6gUfrogTMcd46g5ZPl8UPP134PVZQg3006qXDAqu9GJ8tJlCbfcVkNd0VGOlIMDWWLxbUv1WS5Fm0c8LnrkJBlVnZDMFsalIhkpuBvvFhEqgqZrGGA1LbFEUBlM-osD_ZQQ0IDK2sWs-ctOUIcqSixsBfnqRNqPqcj5HDyxdPj1z9R11VWPJUEARM18wM10qRSwDgp1xRvWt7sxk4QurEUXuRmecP&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20240702
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/4mg1tZ.png" group-title="Undefined",Carac1 TV (night +16)
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/4mg1tZ.png" group-title="General",Carac1 TV (night +16)
 https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/Bq59q3ZCYAAf-zZ.jpg" group-title="Lifestyle",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/visuals-000015507455-lyChCD-t1240x260.jpg" group-title="Lifestyle",Miami TV Life
-https://59ec5453559f0.streamlock.net/miamitvlife/smil:WEB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3473-320x180-000000.jpg" group-title="Lifestyle",Miami TV DJ
+https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vivaespaña.tv/user/upload/source/Miami%20TV%20Latino%201080.png" group-title="Lifestyle",Miami TV Latino
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://channels.roku.com/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg" group-title="Lifestyle",Miami TV Mystery
-https://59ec5453559f0.streamlock.net/miamitvmystery/miamitvmystery/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://xn--vivaespaa-s6a.tv/user/upload/source/miamitvfashion.jpg" group-title="Lifestyle",Miami TV Fashion
+https://59ec5453559f0.streamlock.net/miamitvfashion/_definst_/smil:34256/chunklist_w188786852_b1896000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://channels.roku.com/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg" group-title="Lifestyle",Miami TV Gold
 https://59ec5453559f0.streamlock.net/miamitvgold/smil:WEB/playlist.m3u8
@@ -900,11 +906,20 @@ https://59ec5453559f0.streamlock.net/miamitvgold/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://channels.roku.com/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg" group-title="Lifestyle",Miami TV Health
 https://59ec5453559f0.streamlock.net/miamitvhealth/smil:WEB/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://1a-1791.com/video/s8/1/D/L/Y/4/DLY4q.oq1b.2-small-Jenny-Live.jpg" group-title="Lifestyle",Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/JennyLive/_definst_/smil:41235/chunklist_w821565779_b1896000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/miamitv_latino.jpg" group-title="Lifestyle",Miami TV Latino
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/visuals-000015507455-lyChCD-t1240x260.jpg" group-title="Lifestyle",Miami TV Life
+https://59ec5453559f0.streamlock.net/miamitvlife/smil:WEB/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://channels.roku.com/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg" group-title="Lifestyle",Miami TV Mystery
+https://59ec5453559f0.streamlock.net/miamitvmystery/miamitvmystery/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/avatars-000125108313-wt6hlw-t240x240.jpg" group-title="Lifestyle",Miami TV Music
 https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://miamitv.com/images/1720916971.jpg" group-title="Lifestyle",Miami TV DJ
-https://59ec5453559f0.streamlock.net/miamitvDJ/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Music",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
