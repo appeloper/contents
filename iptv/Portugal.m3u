@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RTP 1 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPHD_monocromaticoAzul_horiz_RGB.png" group-title="General",RTP 1 HD (geo)
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=118450&extension=ts&play_token=FAcsN7kiJf
+https://fullness.wideiptv.top/RTP1/index.fmp4.m3u8?token=de07a09f672fb697aa67f11402d03ba7c32485e6-e7ca450d28fa223340f04dd087519ae1-1745080477-1745069677
 
 #EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 HD (geo)
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:13:52:EF&stream=118449&extension=ts&play_token=0jWOUzXb38
+https://moonlight.wideiptv.top/RTP2/index.fmp4.m3u8?token=4d46dd857006df7284506f841aca0f4bb67dfc63-67377c60066640d38d3914071fc1a4cb-1745080407-1745069607
 
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3 (geo)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
