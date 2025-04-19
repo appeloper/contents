@@ -375,11 +375,17 @@ https://ais-sa2.cdnstream1.com/2210_128.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/6751f88cb0ea335396bd27bca3477663.jpg" group-title="Radio",1000 Oldies (Radio ES)
 https://ais-sa2.cdnstream1.com/2209_128.mp3
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/681/bikini-fm-alicante.ce46955b.png" group-title="Radio",Bikini FM (Radio ES)
+https://stream.emisorasmusicales.net/listen/bikini_fm/bikinifm.mp3
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/58/3c/4337/c175.png" group-title="Radio",Cadena 100 (Radio ES)
 https://cadena100-cope-rrcast.flumotion.com/cope/cadena100.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/05bd76ebbabdf58b05c0f8a48c5d71cb.jpg" group-title="Radio",Cadena Nostalgia (Radio ES)
 https://azura.abcorp.es/radio/8040/live
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/065/canal-fiesta-radio.b7f1aeff.png" group-title="Radio",Canal Fiesta (Radio ES)
+https://rtva-live-radio.flumotion.com/rtva/cfr.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/5e625a9983bf0d6d2d05ccbc0869176c.jpg" group-title="Radio",Costa Del Mar Chillout  (Radio ES)
 https://radio4.cdm-radio.com:18020/stream-mp3-Chill
@@ -399,13 +405,16 @@ https://radio4.cdm-radio.com:18024/stream-mp3-Smooth
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1300764f97b7470bd8e03f15db92fc58.png" group-title="Radio",Costa Del Mar Zen (Radio ES)
 https://radio4.cdm-radio.com:18004/stream-mp3-Zen
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4zxdw3fhfuvp.png" group-title="Radio",Digital Hits (Radio ES)
+https://dhits.frilab.com:8443/dhits
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/98/a9/101334/3/c175.png" group-title="Radio",Elixir FM (Radio ES)
 https://radio.grupoelixir.es:9006/stream
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/52/46/40520/2/c175.png" group-title="Radio",Gozadera FM (Radio ES)
 https://azura.abcorp.es/radio/8030/live
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c1/fe/1645/1/c175.png" group-title="Radio",Ibiza (Radio ES)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/578/ibiza-global-radio.18d8463e.png" group-title="Radio",Ibiza (Radio ES)
 https://listenssl.ibizaglobalradio.com:8024/stream/1/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/7afdcb8d911360d88a6406dfbe75e7bf.png" group-title="Radio",Ibiza Dance (Radio ES)
@@ -426,29 +435,56 @@ https://radio2.vip-radios.fm:18036/stream-128kmp3-IbizaRelax
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/54350a3be75e4c1ac8963134866f46a3.png" group-title="Radio",Ibiza Smooth Jazz (Radio ES)
 https://radio2.vip-radios.fm:18033/stream-128kmp3-IbizaSmooth
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jD5daaPvhQ.jpg" group-title="Radio",Inolvidable FM (Radio ES)
+https://uk1.streamingpulse.com/ssl/inolvidablefm
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/cf/5c/14155/c175.png" group-title="Radio",Kiss FM (Radio ES)
 https://kissfm.kissfmradio.cires21.com/kissfm.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/e0/74/34190/2/c175.png" group-title="Radio",Loca Urban (Radio ES)
-https://s1.we4stream.com:2020/stream/locaurban
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/46cgsq27ge3l.png" group-title="Radio",La Flamenca (Radio ES)
+https://stream.mediasector.es/radio/8070/laflamenca-benidorm.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/523/la-jungla.ecebc282.jpg" group-title="Radio",La Jungla (Radio ES)
+https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3jk5k9pcxrp9.jpg" group-title="Radio",Los 40 (Radio ES)
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC_SC
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/29c223924c2b1dfec9ce8474a6b275df.jpg" group-title="Radio",Los 40 Classic (Radio ES)
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC_SC
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4c/ce/10732/1/c175.png" group-title="Radio",Los 40 Principales (Radio ES)
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/208452ec6bf7362628874839501fbc97.jpg" group-title="Radio",Los 40 Dance (Radio ES)
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wjjjFDCWEd.jpg" group-title="Radio",Los 40 Urban (Radio ES)
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN_SC
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/aX2S62S8Rm.png" group-title="Radio",Mariskal Rock (Radio ES)
+https://media.profesionalhosting.com:8047/stream
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d0e1e2b2dce91e16c1d2b3031856b802.jpg" group-title="Radio",Mega Hits (Radio ES)
 https://losmegaexitos.radioca.st/lms
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b7353a92833af59e68906ab25c13374c.jpg" group-title="Radio",Slow (Radio ES)
-http://stream.laut.fm/1_slowradio
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dQkptB2RDC.png" group-title="Radio",Mega Star FM (Radio ES)
+https://megastar-cope-rrcast.flumotion.com/cope/megastar.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/65nGRFgCMR.png" group-title="Radio",Nostalgia FM (Radio ES)
+https://streaming.shoutcast.com/nostalgia
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nqbacup824wj.jpg" group-title="Radio",Pure Ibiza (Radio ES)
+https://pureibizaradio.streaming-pro.com:8028/stream.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hp9JgkDT82.png" group-title="Radio",Radiolé (Radio ES)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLEAAC_SC
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vJu5Aejbzp.jpg" group-title="Radio",Rock Español (Radio ES)
+https://stream.zeno.fm/yqrfa0jvfjvuv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/14/79/14160/c175.png" group-title="Radio",Rock FM (Radio ES)
 https://rockfm-cope-rrcast.flumotion.com/cope/rockfm.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b7353a92833af59e68906ab25c13374c.jpg" group-title="Radio",Slow (Radio ES)
+http://stream.laut.fm/1_slowradio
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/5668.v5.png" group-title="Radio",Chante France (Radio FR)
 https://chantefrance.ice.infomaniak.ch/chantefrance-96.aac
