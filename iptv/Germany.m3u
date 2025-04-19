@@ -9,9 +9,6 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://feedlix.net/tv/de/zdf_hd.png" group-title="News",ZDF (geo)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
-#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://feedlix.net/tv/de/zdf_hd.png" group-title="News",ZDF HD (op.2)
-http://zdf-hls-15.akamaized.net/hls/live/2016498/de/low/master.m3u8
-
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://www.zdf.de/assets/2400-zdfinfo-100~768x432?cb=1599052544190" group-title="News",ZDF Info (geo)
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 
@@ -24,14 +21,8 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 tvg-id="ARTE.de" tvg-logo="https://feedlix.net/tv/de/arte_de.png" group-title="General",Arte HD (geo)
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
 
-#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="https://feedlix.net/tv/de/arte_de.png" group-title="General",Arte (op.2)
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-
 #EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://www.zdf.de/assets/2400-3sat-100~768x432?cb=1549376862930" group-title="General",3Sat (geo)
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-
-#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://www.zdf.de/assets/2400-3sat-100~768x432?cb=1549376862930" group-title="General",3Sat (op.2)
-http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/low/master.m3u8
 
 #EXTINF:-1 tvg-id="HR HD DE" tvg-logo="https://www.schwarzlichthelden.de/wp-content/uploads/2018/09/hr-fernsehen.png" group-title="General",HR Fernsehen
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
@@ -44,9 +35,6 @@ https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 
 #EXTINF:-1 tvg-id="MDF.1" tvg-logo="https://feedlix.net/tv/de/mdf1.png" group-title="General",MDF 1 Magdeburg
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KulturMD" tvg-logo="https://kulturmd.de/images/kulturmd/kmdfarbe.png#joomlaImage://local-images/kulturmd/kmdfarbe.png" group-title="Culture",Kultur Magdeburg
-http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Baden TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BadenTV_Logo_bis_Anfang_2017.tif/lossless-page1-220px-BadenTV_Logo_bis_Anfang_2017.tif.png" group-title="General",Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
@@ -129,24 +117,6 @@ http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u
 #EXTINF:-1 tvg-id="SaarlandFernsehen2.de" tvg-logo="https://www.kabel-helpdesk.de/logos/saarland_fernsehen_2.png" group-title="General",Saarland Fernsehen 2
 http://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/rtl.jpg" group-title="Entertainment",RTL
-https://s6.hopslan.com/rtlq1/tracks-v1a1/mono.m3u8?token=5a58c07b09c90cf8bb33027eddfd3f5f34b814a7-2d6477aedc440bfbfd2035c7cc81c5da-1717694018-1717683218
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/rtl2.png" group-title="Entertainment",RTL 2
-https://s6.hopslan.com/rtl2x1/tracks-v1a1/mono.m3u8?token=94101c1c2e38497bfa710cb155cc814a5eb9d5c4-2f3c7dcdcaf3d3fe9809e91a8bafccce-1717694157-1717683357
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.livehdtv.net/uploads/kanal/27436rtl-niitro.jpg" group-title="Entertainment",RTL Nitro
-https://s6.hopslan.com/nitrox1/tracks-v1a1/mono.m3u8?token=9414067446324d0d16cd1c4b6eb672a766230fc6-9126d39901125788628385807c81fb9b-1717694266-1717683466
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/sat1_de.png" group-title="Entertainment",Sat 1
-https://s6.hopslan.com/sat1x1/tracks-v1a1/mono.m3u8?token=33e1c260f93ff60f894e3a1564e5961e37ab5c0e-fe1a48890a40dcf7917d6c331c50c3f5-1717694345-1717683545
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/tele5.jpg" group-title="Entertainment",Tele 5
-https://s6.hopslan.com/tele5x1/tracks-v1a1/mono.m3u8?token=ec5d551156a420db2b5fec58e42cbf48620fd9c0-e3dfc4ff0f54c180990cc76f82a85267-1717694507-1717683707
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/vox.jpg" group-title="Entertainment",Vox
-https://s6.hopslan.com/voxx1/tracks-v1a1/mono.m3u8?token=5781dd1730907c7048e62b131cfbb390890e8428-da45925c6edf755a15eef5c5fee36d0a-1717694204-1717683404
-
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/Logo_RTL_Luxembourg.png" group-title="General",RTL Lux
 https://live-edge.rtl.lu/channel1/smil:channel1/1080p.m3u8
 
@@ -192,9 +162,6 @@ https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8
 #EXTINF:-1 tvg-id="oe24TV.de" tvg-logo="https://tvheute.at/images/channels/OE24TV--1746762434-01.png" group-title="News",OE24 TV
 https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-mp4a_128000_deu=20000.m3u8
 
-#EXTINF:-1 tvg-id="Euronews.de" tvg-logo="https://img.iol.pt/image/id/62c41c7c0cf26256cd2c16c8/1024.jpg" group-title="News",Euronews
-https://jmp2.uk/sam-DEBA1000003IM.m3u8
-
 #EXTINF:-1 tvg-id="BLOOM.meo.pt" tvg-logo="https://feedlix.net/tv/us/BloombergTV.us.png" group-title="News",Bloomberg TV Europe
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 
@@ -204,17 +171,14 @@ https://jmp2.uk/sam-DEAJ0500413A.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News" group-title="News",Fox News Now
 https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-de.jpg" group-title="News",RT DE HD
-https://rt-ger.gcdn.co/live/rtdeutsch/playlist_4500Kb.m3u8
-
 #EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg" group-title="News",RT News HD
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg" group-title="News",RT Español HD
+#EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg" group-title="News",RT Español HD (VPN)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary",RT Documentary HD
-http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary",RT Documentary HD (english)
+https://rumble.com/live-hls/6oyh3s/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="Documentary",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
@@ -225,32 +189,32 @@ https://jmp2.uk/sam-USBB52000022Q.m3u8
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/cbsn.us.png" group-title="News",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn.png" group-title="News",CGTN News
-https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTNHD.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.png" group-title="News",CGTN (english)
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 
-#EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTNFrancais.cn" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Français.png" group-title="News",CGTN (français)
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary (english)
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png" group-title="News",RTVE 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png" group-title="News" group-title="News",Press TV
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png" group-title="News",Press TV (english)
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 
 #EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/nhk_japan.png" group-title="News",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
 #EXTINF:-1 tvg-id="rbbBerlin.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rbb_fernsehen_HD_Logo_2017.svg/1280px-Rbb_fernsehen_HD_Logo_2017.svg.png" group-title="General",RBB Berlin HD (geo)
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
 
 #EXTINF:-1 tvg-id="rbbBerlin.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rbb_fernsehen_HD_Logo_2017.svg/1280px-Rbb_fernsehen_HD_Logo_2017.svg.png" group-title="General",RBB Brandenburg HD (geo)
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/de/Der_Aktionar.png" group-title="General",Der Aktionar TV
-https://live2.telvi.de/hls/aktionaertv_hd720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.kircheinbayern.de/images/bilder/logos/niederbayern.jpg" group-title="General",Niederbayern TV HD Deggendorf-Straubing
 https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/chunklist_b946000.m3u8
@@ -260,9 +224,6 @@ https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/chu
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.kircheinbayern.de/images/bilder/logos/niederbayern.jpg" group-title="General",Niederbayern TV Passau
 https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/chunklist_b946000.m3u8
-
-#EXTINF:-1 tvg-id="rheinmaintv.de" tvg-logo="https://feedlix.net/tv/de/rheinmain.jpg" group-title="General",Rheinmain TV Frankfurt
-https://58666775583d1.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8?&ref=www.rheinmaintv.de&seid=138092
 
 #EXTINF:-1 tvg-id="RNF.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rnf.png" group-title="General",RNF Rhein-Neckar HD
 https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
@@ -283,7 +244,7 @@ https://stream02.welocal.stream/stream/fhd-tvo_480355/ngrp:stream_all/chunklist_
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TV Mittelrhein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TV_Mittelrhein_Logo.svg/511px-TV_Mittelrhein_Logo.svg.png" group-title="General",TVM Mittelrhein HD
-https://live2.telvi.de/hls/tvm_hd720.m3u8
+https://58de7a369a9c4.streamlock.net/esm/tvmr_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Oberbayern.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png" group-title="General",RFO
 https://stream01.welocal.stream/stream/fhd-rfo_66876/ngrp:stream_all/chunklist_b3628000.m3u8
@@ -341,9 +302,6 @@ https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 
 #EXTINF:-1 tvg-id="62f4f4b88157cf00075c22db" tvg-logo="https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png" group-title="Movies",Horror
 https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
-
-#EXTINF:-1 tvg-id="5ce40e59246a395e9758923e" tvg-logo="https://images.pluto.tv/channels/5ce40e59246a395e9758923e/colorLogoPNG.png" group-title="Movies",Indies
-https://jmp2.uk/plu-5ce40e59246a395e9758923e.m3u8
 
 #EXTINF:-1 tvg-id="RBW" tvg-logo="https://rbwonline.de/img/ban1.png" group-title="General",RBW (geo)
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:rbw_high/chunklist_w1740043495.m3u8?ref=www.rbwonline.de
@@ -1008,23 +966,20 @@ https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/c6650538244e267e945bf5c45a4a4870.jpg" group-title="Radio",1 Oldies (Radio)
 http://stream.laut.fm/1-oldies/;stream.mp3
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/42760.v2.png" group-title="Radio",A State of Trance (Radio)
-http://138.201.252.25/trance
-
 #EXTINF:-1 tvg-logo="http://api.my-radios.com/images/thumb.php?countryCode=DE&name=14244-1430002.png&size=200" group-title="Radio",Big FM (Radio)
-http://streams.bigfm.de/bigfm-mp3-96
+http://streams.bigfm.de/bigfm-mp3
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/42852.v1.png" group-title="Radio",Classic Rock (Radio)
 https://classicrock.stream.laut.fm/classicrock
 
-#EXTINF:-1 tvg-logo="https://assets.radioplayer.org/276/2762592/600/600/kyafhsf4.png" group-title="Radio",Deluxe 2000 (Radio)
-https://audiostreams.deluxemusic.tv/2000/aac-64
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s282005/images/logod.png" group-title="Radio",Deluxe Easy (Radio)
+https://audiostreams.deluxemusic.tv/easy/mp3-192/tunein/
 
 #EXTINF:-1 tvg-logo="https://assets.radioplayer.org/276/2762083/600/600/kyagluck.png" group-title="Radio",Deluxe Lounge (Radio)
-https://audiostreams.deluxemusic.tv/lounge/aac-64
+https://audiostreams.deluxemusic.tv/lounge/mp3-192/tunein/
 
 #EXTINF:-1 tvg-logo="https://assets.radioplayer.org/276/2762074/600/600/kyahkie1.png" group-title="Radio",Deluxe Music (Radio)
-https://audiostreams.deluxemusic.tv/music/aac-64
+https://audiostreams.deluxemusic.tv/music/mp3-192/tunein/
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/44697.v1.png" group-title="Radio",Disco (Radio)
 https://disco.stream.laut.fm/disco
@@ -1107,9 +1062,6 @@ http://nrj.de/partyhits
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/logo_nrj_energy.png" group-title="Radio",Energy Pop (Radio)
 http://nrj.de/pop
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/logo_nrj_energy.png" group-title="Radio",Energy Romantic (Radio)
-http://nrj.de/romantic
-
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/logo_nrj_energy.png" group-title="Radio",Energy Rapus (Radio)
 http://nrj.de/rapus
 
@@ -1179,7 +1131,7 @@ https://bestofrockfm.stream.vip/rammstein/mp3-192
 #EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Soft.png" group-title="Radio",Rockland Best of Rock FM Soft (Radio)
 https://bestofrockfm.stream.vip/softrock/mp3-192
 
-#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Xmas.png" group-title="Radio",Rockland Best of Rock FM X-Mas (Radio)
+#EXTINF:-1 tvg-logo="https://www.deutsches-staedte-network.de/static_sites/albumartwork/BOR_600x600/Xmas.png" group-title="Radio",Rockland Best of Rock FM X-Mas (Radio DE)
 https://bestofrockfm.stream.vip/xmasrock/mp3-192
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radiorock.com.br/assets/player/img/icons/logo-bottom.png" group-title="Radio",89 FM Rock (Radio BR)
