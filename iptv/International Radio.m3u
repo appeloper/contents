@@ -282,7 +282,7 @@ http://nrj.de/lounge
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/logo_nrj_energy.png" group-title="Radio",Energy Love (Radio DE)
 http://nrj.de/love
 
-#EXTINF:-1 tvg-logo="https://www.ringier.com/sites/default/files/images/energy_0.jpg" group-title="Radio",Energy NRJ (Radio DE)
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/logo_nrj_energy.png" group-title="Radio",Energy NRJ (Radio DE)
 https://frontend.streamonkey.net/energy-digital/stream/mp3
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/logo_nrj_energy.png" group-title="Radio",Energy Oriental (Radio DE)
