@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RTP 1 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPHD_monocromaticoAzul_horiz_RGB.png" group-title="General",RTP 1 HD (geo)
-https://fullness.wideiptv.top/RTP1/index.fmp4.m3u8?token=ec1a2aba33da3494af9002593fcb4f141f297388-ccc5759874a55c48746a9e248b9cb6e7-1745112536-1745101736
+https://fullness.wideiptv.top/RTP1/index.fmp4.m3u8?token=34a04644632be9ee7d903110340d8629dac15e4b-bc86cd4224653172843da23f066507fb-1745165873-1745155073
 
 #EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 HD (geo)
-https://moonlight.wideiptv.top/RTP2/index.fmp4.m3u8?token=2b1511fb613d32bb3f614014023ebed85cdd478d-bcc7ba616742f0f203cded45dfab7414-1745112448-1745101648
+https://moonlight.wideiptv.top/RTP2/index.fmp4.m3u8?token=a017501c6e935756f29e4467442e64f39b9f8c09-b8e4ea7cd63358b5fd7ed68085d9d9f9-1745165826-1745155026
 
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3 (geo)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
