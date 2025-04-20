@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music",30A Music
 http://30a-tv.com/music.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/4fun-tv-logo-5EA29A36E0-seeklogo.com.png" group-title="Music",4Fun TV
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/35/2/4fun-logo-png_seeklogo-359022.png" group-title="Music",4Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/it/51radiotv.png" group-title="Music",51 Radio TV
