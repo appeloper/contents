@@ -393,6 +393,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a
 #EXTINF:-1 tvg-name="Tom & Jerry" tvg-logo="https://logo.iptveditor.com/tomejerry.png" group-title="Kids",Tom & Jerry
 http://45.134.141.161:2200/BRX/24HS_Tom_e_Jerry/index.m3u8
 
+#EXTINF:-1 tvg-name="picapau" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Woody_Woodpecker.png" group-title="Kids",Pica Pau
+http://45.134.141.161:2200/BRX/24HS_Pica-Pau_O_novo_show/index.m3u8
+
 #EXTINF:-1 tvg-name="Popeye" tvg-id="677d93f37bffa600080795e7" tvg-logo="https://images.pluto.tv/channels/677d93f37bffa600080795e7/colorLogoPNG.png" group-title="Kids",Popeye
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/677d93f37bffa600080795e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=inspirationiptv&deviceDNT=1
 
@@ -732,7 +735,7 @@ https://jmp2.uk/str-5297.m3u8
 #EXTINF:-1 channel-id="PlutoTV-6192396135f3910007fc5fc7" tvg-id="6192396135f3910007fc5fc7" tvg-logo="https://images.pluto.tv/channels/6192396135f3910007fc5fc7/colorLogoPNG.png" group-title="Music",Goldstar TV
 https://jmp2.uk/plu-6192396135f3910007fc5fc7.m3u8
 
-#EXTINF:-1 tvg-id="DEAK0500445A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500445A_20240321T045857SQUARE.png" group-title="Music",GoldStar TV Samsung
+#EXTINF:-1 tvg-id="DEAK0500445A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500445A_20240321T045857SQUARE.png" group-title="Music",GoldStar TV Goldies
 https://jmp2.uk/sam-DEAK0500445A.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-DEBA150003050" tvg-id="DEBA150003050" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20240321T045923SQUARE.png" group-title="Music",Deluxe Deutsch Pop
