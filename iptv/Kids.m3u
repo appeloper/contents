@@ -96,8 +96,8 @@ https://jmp2.uk/sam-USBC4400013R7.m3u8
 #EXTINF:-1  tvg-id="Boing.es" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Kids",Boing
 http://185.189.225.150:85/boing/index.m3u8
 
-#EXTINF:-1 channel-id="SamsungTVPlus-ESBA3300020W5" tvg-id="ESBA3300020W5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300020W5_20220914T041117SQUARE.png_20220914041117.png" group-title="Kids",Caillou
-https://jmp2.uk/sam-USBD50000048H.m3u8
+#EXTINF:-1  tvg-name="Caillou" tvg-id="FR4800002NE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4800002NE_20250121T012923SQUARE.png" tvg-chno="4775" group-title="Kids",Caillou (FR)
+https://jmp2.uk/sam-FR4800002NE.m3u8
 
 #EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://img3.static-ottera.com/prod/tg/linear_channel/logo/960x540/camp-spoopy-2021_1920-x-1080_option-5.jpg" group-title="Kids",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
