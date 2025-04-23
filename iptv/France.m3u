@@ -204,20 +204,14 @@ https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index-720
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tl7.fr/images/interface/bannerLogo.png" group-title="General",TL7 Loire
 https://usher.ttvnw.net/api/channel/hls/tl7direct.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiYWYyMDZiNzAtZjdiMi00ODFkLTk1YTEtMDI4NmFhOTFhMWJkIn0%3D&allow_source=true&browser_family=microsoft%20edge&browser_version=135.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=84384&parent_domains=twitchplayer&platform=web&play_session_id=99ba30a19a43c4b57fe3b8657d9a4050&player_backend=mediaplayer&player_version=1.40.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=e6badd30ab0b28c717e171f853d90e8bfe470939&supported_codecs=av1,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tl7direct%22%2C%22channel_id%22%3A1228881869%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22271f714ade4d465e%22%2C%22expires%22%3A1745357625%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2294.63.25.25%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/lmtv-sarthe_logo.jpg" group-title="General",LM TV Sarthe
-https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CoUG26PBAU8e2Mqmi9VgfiWnymVkIh7acHu-nn0F4vP9RYnq52OqGSE0MvwR-ldt9bGBOiJ9YLwmevAhwIiixtrqRdTvLSBKM2KIrjwQVicVS8LxV-zv9wnzJhC-zqn7XRZPN_5aY4jD1ab9oOkO56qFXUJZFr-A8oer4hp3YtNjfKolTvzWjEDMc4WeYw2VGggI3Y4Bz_0U5oIDXtZtpHBYF0x0LK3czwvSWXAkkpz1SXJYzNfVFweYHOcVWM_gy7GLY0PcMDvJtExGv9ZfBPdrpbRWBUdvWzNjxzPDTouqgeBfRBbg1Sm6r5eqZRsK5kK4IJomIfkbmaa7gquAdXwkB5sMfGEybRYFaNS2hApRcyy59NvoaUVfPujv0oKSCSxqczYQ_VqtxNW8DCosPBGPTfFsViobR3cWLkyI__hEZacnznkTMIAMfLFHXu7A7E7sY43HXD_zxWLmgbszLZcBP_vtc8QcP92OUnK6SgtdUtNbZr7yMk-34ZQHQGk1GlXvtY8GwoWLjYCaJN9IL89pJvU42qD_ybCIhMy-w9sLBV2HZzBEU1zwKxVunxFcZdQkH-8t4-GCZi6J39k82qFz3A3dGVe-8bF5EvzGTxYuFZ3UBGlqaQprpzpfPlp85TVr0aikEPlVn5_8PsZYz_sStI3YHWg5deccbqvNGXst1eC0_Rbf4WfVAscOTnU6rpWZkwhpKjHIljEEzQ2onn-jlMAeljK3Lav4eLuCbl4hANIybHMbjiSoJhsDE_2q_PWgsrON3G1kuAFrs4psn8xKYYOoe4QyxMUKPzRquvVVh21Sl0z17boTIB0Ki4UVwN4LZx6QamcO4uxOAFUauVQuZ2g000Bgeyu_RNunaf1Gvbp0EtGaLlk6ROQ8cDMAgpROqcUsoyKTNQkKhQrjNf6ZoRxTHYTNebq6F55_2wvtjFGITuHYhakYYwyBuq7ZpsTR1klewrSuD8dBpf7juHpcbf1_wQO65GIe-hRj9UoOAtYcQAKxryXq6u8fdmZIvt_nd-4ba0MaDPBhOEz28XuDatOUcSABKglldS13ZXN0LTEw3wU.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV7Colmar.fr.png" group-title="General",TV7 Colmar
 http://tv7.hdr-tv.com/live/tv7/livestream/chunklist_w1089291400.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/alpe-dhuez-televison.jpg" group-title="General",Alpe D'Huez TV
-https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://viamirabelle.tv/wp-content/uploads/2020/07/viamoselletv_header03.png" group-title="General",Vià Moselle
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/Telenantes.fr.png" group-title="General",Télé Nantes
-https://live-b.cf.dmcdn.net/sec2(uaG1tGsfkuZGLdvJJgUghJ56Z1RFO22aW3v3-aBCMXwWqhPcQvjRCTSB9Qlm6VH2SwW-C5uTnqg1LMsH4HHc1zv9XBMalLMhh2emTFz0MIE)/dm/3/x5so98l/d/live-1.m3u8#cell=lcfb
+https://www.dailymotion.com/cdn/live/video/x5so98l.m3u8?sec=0fC0NHqgtVN0QCA63mj9G8EBHHDyCEeMzAxhDu1d20aDFoMld0jKO7Vo8ZFJjoo836oKrS8eQP8S56XGsUl-dg&dmTs=434209&dmV1st=918230e4-85f4-d960-52a2-1b2ae0205f2e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV7Bordeaux.fr.png" group-title="General",TV7 Sudouest
 https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index-480p.m3u8
@@ -226,19 +220,25 @@ https://lives.digiteka.com/stream/17c6dea8-fb3f-46fe-b170-2ac88cd5667b/index-480
 https://tv3v.live-kd.com/live/tv3v/livestream/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hGEcXbk.png" group-title="General",Bip TV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/nancy-web.png" group-title="General",Nancy Web TV
-https://edge14.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.centraltv.fr/wp-content/uploads/tv-vendee.jpg" group-title="General",TV Vendée
-https://streamer01.myvideoplace.tv/streamer02/hls/VDE_EVEN_PAD_130923_medium/index.m3u8
+https://www.biptv.tv/live/biptvstream_orig/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/Monaco_info.jpg" group-title="General",Monaco Info
 https://webtv.monacoinfo.com/live/prod/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/Logo_RTL2_Lux.png" group-title="General",RTL2 (LU)
 https://live-edge.rtl.lu/channel1/smil:channel1/720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/4mg1tZ.png" group-title="Entertainment",Carac1 TV
+https://edge19.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/3xvq5S.png" group-title="Entertainment",Carac2 TV
+https://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/gLKGxW.png" group-title="Entertainment",Carac3 TV
+https://edge14.vedge.infomaniak.com/livecast/ik:lfmmd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/0NjmEl.png" group-title="General",Carac4 TV
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/be/Canal9_logo.gif" group-title="General",Canal 9 (CH)
 http://livehd.vedge.infomaniak.com/livecast/livehd/playlist.m3u8
@@ -249,23 +249,20 @@ https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LN24_-_Logo.png/480px-LN24_-_Logo.png" group-title="News",LN24 (BE)
 https://live-ln24.digiteka.com/1911668011/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlux.be/images/logo-TVLux-Naturellement-Proche-2017.png" group-title="General",TV Lux (BE)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvlux.be/images/logo-TVLux-Naturellement-Proche-2017.png" group-title="General",TV Lux (geo, BE)
 https://tvlocales-live.freecaster.com/95d2f631-8941-4efd-b223-0ebd56a033c4/95d2f631-8941-4efd-b223-0ebd56a033c4.isml/master.m3u8
 
-#EXTINF:-1 tvg-id="RTI1" tvg-logo="https://www.rti.info/images/white-logo.png" group-title="News",RTI Info (Côte d'Ivoire)
-https://vod.cf.dmcdn.net/sec2(mqPp_fmEO0hXJwNYZ_2YF7w7IItgDDtHCExdnLagsixBv0-cRBgOUqhZkFjL6cZua7akGOSZ5VBm25ok2jhq2N2oaLVKjxmmA3sySz2Z7Ph9bVp7demc5cBR19jA1-1H14nNOJf3UCrGlHYiZNsYkg)/video/026/397/546793620_mp4_h264_aac_hd_1.m3u8#cell=cf
-
 #EXTINF:-1 tvg-id="RTI1" tvg-logo="https://i.imgur.com/HwZMzDZ.png" group-title="Entertainment",RTI 1 HD (Côte d'Ivoire)
-https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
+https://klive.kaltura.com/s/env/d.live.nvp1/live/hls/p/6234172/e/1_etlyim67/tl/main/st/0/t/KhhcW0IXfo9b-bB9lhDwZQ/index-s32.m3u8?__hdnea__=st=1745358341~exp=1745444741~acl=/s/env/d.live.nvp1/live/hls/p/6234172/e/1_etlyim67/tl/main/st/0/t/KhhcW0IXfo9b-bB9lhDwZQ/index-s32.m3u8*~hmac=c9564ccf30c1708aea120995a529853a31ac65960a1c534ae6dcc59cae35c99d
 
 #EXTINF:-1 tvg-id="RTI2" tvg-logo="https://i.imgur.com/qMYL669.png" group-title="Entertainment",RTI 2 (Côte d'Ivoire)
-https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
+https://klive.kaltura.com/s/env/d.live.nvp1/live/hls/p/6234172/e/1_rno80x93/tl/main/st/0/t/O-dDfGZi5CGrGOneAYN9PA/index-s32.m3u8?__hdnea__=st=1745358389~exp=1745444789~acl=/s/env/d.live.nvp1/live/hls/p/6234172/e/1_rno80x93/tl/main/st/0/t/O-dDfGZi5CGrGOneAYN9PA/index-s32.m3u8*~hmac=ff9d3c626d267de2a1861fea23fd503ca5f44d7b17e661771325d8cca6d187e7
 
 #EXTINF:-1 tvg-id="LA3" tvg-logo="https://feedlix.net/tv/fr/rti-la3.png" group-title="Entertainment",La 3 (Côte d'Ivoire)
-https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
+https://klive.kaltura.com/s/env/d.live.nvp1/live/hls/p/6234172/e/1_tt4ntjxa/tl/main/st/0/t/RHBH4Z9oXN29czOfc3K5Tg/index-s32.m3u8?__hdnea__=st=1745358428~exp=1745444828~acl=/s/env/d.live.nvp1/live/hls/p/6234172/e/1_tt4ntjxa/tl/main/st/0/t/RHBH4Z9oXN29czOfc3K5Tg/index-s3*~hmac=d15507f179ccad2e8128abd4ef3a0c07789049e55ed62ee57b0c76e94e97eb89
 
 #EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/739696/horizontal/French-1480x840.1659539108.jpg" group-title="Religious",3ABN France
-https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/chunklist_w2138748138_b1928000_slen.m3u8
+https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SophiaTVFrancais.de" tvg-logo="" group-title="Religious",Sophia TV
 https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
@@ -279,50 +276,32 @@ https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/KTO_2012.jpg/revision/latest?cb=20150312180310" group-title="Religious",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2021/10/CINE-NANAR-LOGO-FINAL-OFFICIEL.png" group-title="Movies",Zylo Ciné Nanar
-https://zylo-cinenanar-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinenanar-rakuten/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.zylo.net/lib_CQIHzphjEKuSMtLz/dlhbidyhg8jubdca.jpg" group-title="Movies",Zylo Emotion' L
-https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/10/scream.png" group-title="Movies",Zylo ScreamIN
-https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/4mg1tZ.png" group-title="Movies",Carac1 TV
-https://edge17.vedge.infomaniak.com/livecast/rougetv/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/3xvq5S.png" group-title="Entertainment",Carac2 TV
-https://edge14.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/gLKGxW.png" group-title="General",Carac3 TV
-https://edge15.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://admin.senderinfo.de/images/0NjmEl.png" group-title="General",Carac4 TV
-https://edge12.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.agencecm.com/thumb/ar__x/f__png/h__430/q__90/w__800/src/fichier/rte/General/Pages-statiques/Le-meilleur-du-court-metrage-en-VOD-1.png" group-title="Movies",Bref Cinéma 100% Court Métrage
 https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/02/Entete-Univers-Cine.png" group-title="Movies",UniversCiné Le Meilleur du Cinéma
 https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/Rakuten-France-Top-Free.jpg" group-title="Movies",TV Films Français
-https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.fr" tvg-logo="https://babaktv.com/wp-content/uploads/2023/08/Rakuten-France-Action-Movies.jpg" group-title="Movies",TV Films Action
-https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/05/logo-rakuten-tv-drames.png" group-title="Movies",TV Films Drames
-https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/10/Entete-Rakuten-TV-Thrillers.png" group-title="Movies",TV Films Thriller
-https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/05/logo-rakuten-tv-romance.png" group-title="Movies",TV Romance
-https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.fr" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/05/logo-rakuten-tv-top-films.png" group-title="Movies",TV Top Films
-https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2023/08/Rakuten-France-Comedy-Movies-optimized.jpg?x81083" group-title="Movies",TV Films Comédie
+https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/Rakuten-France-Family-optimized.jpg?x81083" group-title="Movies",TV Films Famille
+https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://searchlogovector.com/wp-content/uploads/2018/09/rakuten-com-logo-vector.png" group-title="Movies",TV Séries Crime
+https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/05/logo-rakuten-tv-romance.png" group-title="Movies",TV Romance
+https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
 
 #EXTINF:-1 tvg-id="5f8ed168f72fcd0007e56269" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png" group-title="Movies",Ciné Rétro
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -330,11 +309,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f
 #EXTINF:-1 tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-title="Movies",TV Crime
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 channel-id="PlutoTV-60c3472a51a2050008dad272" tvg-id="60c3472a51a2050008dad272" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG.png" group-title="Movies",TV Thrillers
+https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/edito/attachment/animation/tile/LOGOSEULROLLING100pctDOCS.png" group-title="Documentary",100% Docs
 https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.france.tv/image/logo/1000/1000/s/l/q/b71a77b5-phpdzuqls.png" group-title="Documentary",Echappées Belles
-https://rakutenaa-botravail-echappeesbelles-rakuten-ccn98.amagi.tv/playlist/rakutenAA-botravail-echappeesbelles-rakuten/playlist.m3u8
+https://jmp2.uk/sam-FRBC3500002E4.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA100000404_20221026T004407SQUARE.png_20221026004407.png" group-title="Travel",Travel XP
 https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/playlist.m3u8
@@ -358,19 +340,19 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://rakutenaa-museumtv-fr-rakuten-nilyp.amagi.tv/playlist/rakutenAA-museumtv-fr-rakuten/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Gusto_TV_logo.jpg/800px-Gusto_TV_logo.jpg" group-title="Kitchen",TV Gusto
-https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f8ed48146ba9e00078424b6"tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" group-title="Kitchen",TV Cuisine
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tubefilter.com/wp-content/uploads/2020/07/weather-spy-1400x825.jpg" group-title="Weather",WeatherSpy
-https://jukin-weatherspy-4-fr.lg.wurl.tv/playlist.m3u8
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.peopleareawesome.com/cdn/shop/files/PAA_logo_6553187a-3e3d-44f4-a53c-d007a2ad49d5_410x.png" group-title="Entertainment",People are Awesome International
-https://jukin-peopleareawesome-international-4-fr.lg.wurl.tv/playlist.m3u8
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f8ecd336d64c9000754cdf1" tvg-logo="https://images.pluto.tv/channels/5f8ecd336d64c9000754cdf1/colorLogoPNG.png",The Pet Collective
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92b5fca869f00078f0162/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6617-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b4fceb2-10ba-4e0e-b055-2002afd89dc2
 
 #EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD
 https://install.akctvcontrol.com/speed/broadcast/138/file-3128k.m3u8
@@ -393,14 +375,11 @@ https://jmp2.uk/plu-5b329e0a7b9d8872aeb49ceb.m3u8
 #EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
 https://jmp2.uk/plu-599375885ceaac3cabccbed7.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/be/696px-Gulli_logo_2017.png/revision/latest?cb=20180705143108" group-title="Kids",Gulli
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Kids",Film Famille
+https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/featuredImage.jpg" group-title="Kids",Baby Shark TV
 https://newidco-babysharktv-1-fr.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.presse-citron.net/app/uploads/2020/02/rakuten-tv.jpg" group-title="Kids",Rakuten Family
-https://rakuten-family-7-fr.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="618e34ac4a270700077b1f32" tvg-logo="https://images.pluto.tv/channels/618e34ac4a270700077b1f32/colorLogoPNG.png" group-title="Kids",South Park
 https://jmp2.uk/plu-618e34ac4a270700077b1f32.m3u8
@@ -412,10 +391,10 @@ https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8
 https://jmp2.uk/plu-5f8ecb9524419b0007365a1c.m3u8
 
 #EXTINF:-1 tvg-id="5f92b625c1ffbc0007e60c37" tvg-logo="https://images.pluto.tv/channels/5f92b625c1ffbc0007e60c37/colorLogoPNG.png",Kids Classics
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a58dbf9cc82000868f0fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072639-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f64d55f0-5a5d-460e-9d8f-a12bb3309360
-
+https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
+	
 #EXTINF:-1 tvg-id="62f3e8ad2a8e8000077b013d" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png" group-title="Kids",Detective Conan
-https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 
 #EXTINF:-1 tvg-id="5f8ecb336537e8000764a17f" tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG.png" group-title="Kids",Pluto TV Junior
 https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8
@@ -429,8 +408,20 @@ https://jmp2.uk/plu-611e78c4954f250007ef7b84.m3u8
 #EXTINF:-1 tvg-id="60dc6937b450ad0007377e48" tvg-logo="https://images.pluto.tv/channels/60dc6937b450ad0007377e48/colorLogoPNG.png" group-title="Kids",Charlotte aux Fraises
 https://jmp2.uk/plu-60dc6937b450ad0007377e48.m3u8
 
-#EXTINF:-1 tvg-id="Caillou" tvg-logo="https://i.imgur.com/4zJqmw6.png",Caillou
-https://dhx-caillou-2-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Caillou" tvg-id="FR4800002NE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4800002NE_20250121T012923SQUARE.png" tvg-chno="4775" group-title="Kids",Caillou
+https://jmp2.uk/sam-FR4800002NE.m3u8
+
+#EXTINF:-1  tvg-name="Bob L'eponge" tvg-id="FRAJ3800010QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800010QO_20241106T142544SQUARE.png" tvg-chno="4811" group-title="Kids",Bob L'eponge
+https://jmp2.uk/sam-FRAJ3800010QO.m3u8
+
+#EXTINF:-1  tvg-name="Garfield" tvg-id="FRBB4600001MQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20250307T151932SQUARE.png" tvg-chno="4781" group-title="Kids",Garfield
+https://jmp2.uk/sam-FRBB4600001MQ.m3u8
+
+#EXTINF:-1  tvg-name="iCarly" tvg-id="FRAJ38000061J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000061J_20241106T142552SQUARE.png" tvg-chno="4825" group-title="Kids",iCarly
+https://jmp2.uk/sam-FRAJ38000061J.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-619cee9d5dc3ed0007d845c8" tvg-id="619cee9d5dc3ed0007d845c8" tvg-logo="https://images.pluto.tv/channels/619cee9d5dc3ed0007d845c8/colorLogoPNG.png" group-title="Kids",Les Razmoket
+https://jmp2.uk/plu-619cee9d5dc3ed0007d845c8.m3u8
 
 #EXTINF:-1 tvg-id="5f8ed52a62fa750007733239" tvg-logo="https://images.pluto.tv/channels/5f8ed52a62fa750007733239/colorLogoPNG.png",Kids Animation
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc42-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1894d5d0-76ab-4321-9f74-30abda806f6e
@@ -445,7 +436,7 @@ https://jmp2.uk/plu-60b4c17a81e29300071d3a39.m3u8
 https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.pngaaa.com/279/426279-middle.png" group-title="Kids",Yu-Gi-Oh
-https://fastmedia-yu-gi-oh-4-fr.rakuten.wurl.tv/playlist.m3u8
+https://jmp2.uk/plu-6130d9c712c2b000070abb50.m3u8
 
 #EXTINF:-1 tvg-id="5f8eccd81062c300078a11df" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" group-title="Sports",Gaming TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
