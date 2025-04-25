@@ -657,11 +657,14 @@ https://scdn.nrjaudio.fm/adwz1/fr/30085/mp3_128.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/6249.v11.png" group-title="Radio",RFM 80s (Radio FR)
 https://stream.rfm.fr/rfm-wr4.aac
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/QWeMtjqdj8.png" group-title="Radio",105 Classics (Radio IT)
-https://icy.unitedradio.it/105Classics.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/13587.v4.png" group-title="Radio",105 (Radio IT)
+https://icecast.unitedradio.it/Radio105.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/CaPJzfPUsB.png" group-title="Radio",105 Dance 90 (Radio IT)
 https://icy.unitedradio.it/105Dance90.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/QWeMtjqdj8.png" group-title="Radio",105 Classics (Radio IT)
+https://icy.unitedradio.it/105Classics.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/063/radio-105fm.9705b3b5.png" group-title="Radio",105 Hits (Radio IT)
 https://icy.unitedradio.it/105Hits.mp3
@@ -679,7 +682,31 @@ https://ice15.fluidstream.net/ballaballa.aac
 https://ice01.fluidstream.net/birikina
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/DUpAj8QVmN.png" group-title="Radio",Company (Radio IT)
-https://sphera.fluidstream.eu/company.aac
+https://sphera.fluidstream.eu/company.aac?FLID=6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/pZ5BVbuknk.jpg" group-title="Radio",Company 90s (Radio IT)
+https://sphera.fluidstream.eu/company90.mp3?FLID=6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/juyXSamdC4.png" group-title="Radio",Company Easy (Radio IT)
+https://sphera.fluidstream.eu/ceasy.aac?FLID=6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/ywCXRTaCse.jpg" group-title="Radio",Company Fitness (Radio IT)
+https://sphera.fluidstream.eu/companyfitness.mp3?FLID=6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/purxcavhd9rv.png" group-title="Radio",Company Global House (Radio IT)
+https://sphera.fluidstream.eu/companyhouse.mp3?FLID=6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/8Xpbs29bJx.png" group-title="Radio",Company Italia (Radio IT)
+https://sphera.fluidstream.eu/companyitalia.mp3?FLID=6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/C4u4qDJtr8.png" group-title="Radio",Company Reggaeton (Radio IT)
+https://sphera.fluidstream.eu/companyreggaetown.mp3?FLID=6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/TN9guruBrS.png" group-title="Radio",Company Rock (Radio IT)
+https://sphera.fluidstream.eu/companyrock.mp3?FLID=6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/H96VqNdG4G.jpg" group-title="Radio",Company Soundtrack (Radio IT)
+https://sphera.fluidstream.eu/company_soundtrack.mp3?FLID=6
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/18992.v2.png" group-title="Radio",Dancefloor 90s (Radio IT)
 http://streaming.radiodancefloor.it:443/;stream.nsv
@@ -717,23 +744,38 @@ http://wma02.fluidstream.net/RN1TV/livestream/chunklist_w860321532.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/18067.v5.png" group-title="Radio",Nuova San Giorgio (Radio IT)
 https://eu1.fastcast4u.com/proxy/eenter07?mp=/;
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/14037.v7.png" group-title="Radio",Otto FM Italy (Radio IT)
+https://klasse1.fluidstream.eu/rete8fm.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b76753db9d6121de7f08fcbb25b907c5.png" group-title="Radio",Radio One (Radio IT)
+https://hts04.brascast.com:8134/live
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/11107.v8.png" group-title="Radio",R101 (Radio IT)
 https://icecast.unitedradio.it/r101_mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/11863.v10.png" group-title="Radio",Rai 1 (Radio IT)
 https://icestreaming.rai.it/1.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/11860.v5.png" group-title="Radio",Rai Tutta Italiana (Radio IT)
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/11860.v5.png", group-title="Radio"Rai Tutta Italiana (Radio IT)
 https://icestreaming.rai.it/4.mp3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/radios-150px/sfLT5tVZWG.jpg" group-title="Radio",Relax (Radio IT)
 https://radiorelax.streamingmedia.it/play
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/49028.v1.png" group-title="Radio",Romantica 93.9 (Radio IT)
-http://5.196.75.187:8004/;
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/64621.v13.png" group-title="Radio",RTL 102.5 (Radio IT)
 https://streamingv2.shoutcast.com/rtl-1025
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/wYBJZXPMxh.png" group-title="Radio",RTL 102.5 Best (Radio IT)
+https://streamingv2.shoutcast.com/rtl-1025-best
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/mxfmfcanyvng.png" group-title="Radio",RTL 102.5 Bro&Sis (Radio IT)
+https://streamingv2.shoutcast.com/rtl-1025-napule
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/bvzcyqfydzlr.png" group-title="Radio",RTL 102.5 Doc (Radio IT)
+https://streamingv2.shoutcast.com/rtl-1025-doc
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/gxcplyh5xhgj.png" group-title="Radio",RTL 102.5 Napule (Radio IT)
+https://streamingv2.shoutcast.com/rtl-1025-napule
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/12129.v14.png" group-title="Radio",RTR 99 (Radio IT)
 https://rtr99.fluidstream.eu/rtr99.aac
