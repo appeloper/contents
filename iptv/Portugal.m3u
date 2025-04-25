@@ -4,7 +4,7 @@
 https://github.com/inspirationlinks/m3u/raw/live/Streams/rtp1.m3u8
 
 #EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 HD (geo)
-https://moonlight.wideiptv.top/RTP2/index.fmp4.m3u8?token=2dd281e067eb35405abca301cc00e2ac9731a308-fae843c94940dcce59086144552e6e07-1745545088-1745534288
+https://moonlight.wideiptv.top/RTP2/index.fmp4.m3u8?token=2bc225cd46c3e088f5a41024f944e42637578c9f-8ef644e7b11a207427c94248bea7ed5b-1745621307-1745610507
 
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3 (geo)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
