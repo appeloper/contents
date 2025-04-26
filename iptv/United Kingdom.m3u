@@ -171,17 +171,11 @@ https://waterbear-waterbear-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-waterb
 #EXTINF:-1 tvg-id="RakutenTV-UK_earth-touch-tv" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/22ca13ad-7247-47bb-b96c-70482ebe6d13.png" group-title="Documentary",Earth Touch TV
 https://earthtouch-earthtouch-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-earthtouch-rakutenA/CDN/master.m3u8?ads_amagi_channel=846&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=4784&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=4b98dfdd-2186-44bf-8a52-e01c9ccadc51&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-id="RakutenTV-UK_documentary" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/daeae6c6-7692-4c9e-b952-293dff1bae63-documentary-1649857075.png" group-title="Documentary",Documentary+
-https://0a2dd7d74cfa42c5aa476d3b6aecd12f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_DocumentaryPlus/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=4073&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=d8f129d2-cbe1-42e7-8b90-e89441799338&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=965
-
 #EXTINF:-1 tvg-id="623464d7185bef0007e337c0" tvg-logo="https://images.pluto.tv/channels/623464d7185bef0007e337c0/colorLogoPNG.png" group-title="Documentary",TV Adventure
 https://jmp2.uk/plu-623464d7185bef0007e337c0.m3u8
 
 #EXTINF:-1 tvg-id="5db0510962948d000961d3c6" tvg-logo="https://images.pluto.tv/channels/5db0510962948d000961d3c6/colorLogoPNG.png" group-title="Sports",TV Motor
 https://jmp2.uk/plu-5db0510962948d000961d3c6.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1650462700370030594/FUKrngVU_400x400.jpg" group-title="Family",AVF Family
-https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://feedlix.net/tv/uk/rakuten_travel.png" group-title="Travel",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -204,12 +198,8 @@ https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8
 #EXTINF:-1 channel-id="pluto-64c0d697b0cf5c000824e5d9" tvg-id="64c0d697b0cf5c000824e5d9" tvg-logo="https://images.pluto.tv/channels/64c0d697b0cf5c000824e5d9/colorLogoPNG.png" group-title="Documentary",UK TV Play Uncovered
 https://jmp2.uk/plu-64c0d697b0cf5c000824e5d9.m3u8
 
-#EXTINF:-1 channel-id="pluto-5ad8d1e9e738977e2c310925" tvg-id="5ad8d1e9e738977e2c310925" tvg-logo="https://images.pluto.tv/channels/5ad8d1e9e738977e2c310925/colorLogoPNG.png"
-group-title="Documentary",Voyager Documentaries
+#EXTINF:-1 channel-id="pluto-5ad8d1e9e738977e2c310925" tvg-id="5ad8d1e9e738977e2c310925" tvg-logo="https://images.pluto.tv/channels/5ad8d1e9e738977e2c310925/colorLogoPNG.png" group-title="Documentary",Voyager Documentaries
 https://jmp2.uk/plu-5ad8d1e9e738977e2c310925.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="RakutenTV-UK_great-british-menu" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e1aa67aa-2d09-4900-b650-c2463c0be0af.png" group-title="Kitchen",Great British Menu
 https://1170baa82b1343c29dbf352e2d1a61e5.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-gb_GreatBritishMenu/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=4431&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=61a76026-6267-4ee9-91cf-b71f19e1315e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1231
@@ -218,7 +208,7 @@ https://1170baa82b1343c29dbf352e2d1a61e5.mediatailor.us-east-1.amazonaws.com/v1/
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=4087&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=ed183a81-5820-43d4-83e4-2430784be067&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=858
 
 #EXTINF:-1 tvg-id="RakutenTV-UK_bon-appetit" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/8d937d2d-a19c-4271-a389-e2f1cc37e5fc-bon-appetit-1643643149.png" group-title="Kitchen",Bon Appetit
-https://bonappetit-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-condenast-rakuten/CDN/master.m3u8?ads_amagi_channel=744&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=3462&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=49f7d9d5-2371-46cf-a7bd-92b4ef95b1b9&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e6f38792075160007d85823" tvg-logo="https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png" tvg-chno="401" group-title="Kitchen",Hell's Kitchen
 https://jmp2.uk/plu-5e6f38792075160007d85823.m3u8
@@ -230,25 +220,22 @@ https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/chunklist_w322769213_b1928000_slen.m3u8
 
 #EXTINF:-1 tvg-logo="https://franciscanmissionaries.com/wp-content/uploads/2017/10/EWTN-Logo-White.png" group-title="Religious",EWTN
-https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://emanchannel.ams3.digitaloceanspaces.com/app/uploads/2022/01/07111555/unnamed-file-74-520x306.png" group-title="Religious",Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Sangat_TV_logo.png" group-title="Religious",Sangat Television
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/fd0eec9b334b4654b53b181eb93183dc/manifest.m3u8?p=79&s=1719159624&e=1719159744&h=181299300273185b301d27fb7fb49e42
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/uk/god_tv.png" group-title="Religious",GOD TV
-https://hls-live-web-media.cdn01.net/default/stream_50859.m3u8?8CxXEr2NvwmOxTX4SmWGw8YwLLCuwTHZvgdikRmQ1yuakd17ZfZ4609gZWT3hT4wv9D_k_Kaw0155hWHrLFDcm_pAUEb6x8z-P6kUoEF2bjsHho9kJpK7SM87yyYRzn3BwTEmPlagwx4fldkM_lnFUIeS716wNckK0cNNvQ6ZCcNDTcuV5PlrOH4IPq0nm8jdYgBV8GiDzE&channel_id=50859&source=WebApp&app_id=5282&device_id=1722925141-e33a51ee591d61c27a29cd93c4f1b8d9&lcp=2&client_id=107529975485223471&play_id=1719159919823691
+https://hls-live-stream-gc.cdn01.net/mpegts/232076_1278982/yIrbnILt6__-tS9HVgAKoQ/1745792979/media_mpegts_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mta.tv/sites/default/files/MTA2_Europe.png" group-title="Religious",MTA Europe
 https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Gemporia_tv_in.png" group-title="Shopping",Gemporia
-https://lo2-1.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
+https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/jewellery_maker.png" group-title="Shopping",Jewellery Maker
-https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m3u8
+https://lo3.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/qvc_uk.png" group-title="Shopping",QVC Live
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
@@ -265,8 +252,11 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.quackerfactory.com/wp-content/uploads/2016/02/Picture1-1.png" group-title="Shopping",QVC+
 https://qvcuk-live.akamaized.net/hls/live/2097112/qps/master.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://mma.prnewswire.com/media/1905810/The_Pet_Collective_Logo.jpg" group-title="Pets",The Pet Collective
+#EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="https://mma.prnewswire.com/media/1905810/The_Pet_Collective_Logo.jpg" group-title="Pets",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="https://mma.prnewswire.com/media/1905810/The_Pet_Collective_Logo.jpg" group-title="Pets",The Pet Collective 2
+https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 
 #EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD
 https://install.akctvcontrol.com/speed/broadcast/138/file-3128k.m3u8
@@ -288,9 +278,6 @@ https://jmp2.uk/plu-5b329e0a7b9d8872aeb49ceb.m3u8
 
 #EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
 https://jmp2.uk/plu-599375885ceaac3cabccbed7.m3u8
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/bbc_cbeebies_uk.png" group-title="Kids",CBeebies (geo)
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static2.wikia.nocookie.net/__cb20120506182316/logopedia/images/2/21/Beano1974.png" group-title="Kids",Beano TV
 https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
