@@ -111,10 +111,13 @@ https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3
 #EXTINF:-1 tvg-id="5e8db96bccae160007c71eec" tvg-logo="https://pbs.twimg.com/media/EX6OHGrWAAMFauO.jpg" group-title="Movies",Andromeda
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8db96bccae160007c71eec/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1  tvg-id="RakutenTVTopMovies.uk" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/05/logo-rakuten-tv-top-films.png" group-title="Movies",Top Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/0e69b2_d2a0c6bd19ad424fa273f037582d5628~mv2.png/v1/fill/w_200,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Bigtime_Logo_Farbe.png" group-title="Movies",Bigtime
+https://amogonetworx-bigtjme-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.uk" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/05/logo-rakuten-tv-top-films.png" group-title="Movies",Top Movies
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="https://cms.bbcstudios.com.au//sites/default/files/2024-08/BBC_DRAMA_Stacked_RGB_Full_Colour.png" group-title="Movies",BBC Drama
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.bbcstudios.com.au//sites/default/files/2024-08/BBC_DRAMA_Stacked_RGB_Full_Colour.png" group-title="Movies",BBC Drama
 https://amg00793-amg00793c42-rakuten-fr-5446.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramafrance-rakutenfr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.uk" tvg-logo="https://babaktv.com/wp-content/uploads/2023/05/Rakuten-TV-top-free.jpg" group-title="Movies",Action Movies
@@ -279,17 +282,20 @@ https://jmp2.uk/plu-5b329e0a7b9d8872aeb49ceb.m3u8
 #EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
 https://jmp2.uk/plu-599375885ceaac3cabccbed7.m3u8
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/bbc_cbeebies_uk.png" group-title="Kids",CBeebies (geo)
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://static2.wikia.nocookie.net/__cb20120506182316/logopedia/images/2/21/Beano1974.png" group-title="Kids",Beano TV
-https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg" group-title="Kids",3ABN Kids
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w1880211654_b1928000_slen.m3u8
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Teletubbies_Logo.png" group-title="Kids",Teletubbies
-https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
+https://jmp2.uk/sam-GB2400007FA.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.uk" tvg-logo="https://babaktv.com/wp-content/uploads/2023/05/Rakuten-TV-Family-UK.jpg" group-title="Kids",Rakuten Family
-https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://jmp2.uk/sam-GB2600017PX.m3u8
 
 #EXTINF:-1 tvg-id="612f761008a9e50007984ba0" tvg-logo="https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png" group-title="Kids",TV Animation
 https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
@@ -312,17 +318,17 @@ https://jmp2.uk/plu-5c363ac9e41be30cb6054c7c.m3u8
 #EXTINF:-1 tvg-id="5d765786aad587cf4d0e2bf6" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png" group-title="Kids",Inspector Gadget
 https://jmp2.uk/plu-5d765786aad587cf4d0e2bf6.m3u8
 
-#EXTINF:-1 tvg-logo="http://i0.kym-cdn.com/entries/icons/facebook/000/015/339/Robot_Chicken.jpg" group-title="Kids",24/7 Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_6.m3u8
+#EXTINF:-1 channel-id="GBBC430000128" tvg-id="GBBC430000128" tvg-chno="4799" tvg-name="POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC430000128_20250107T030729SQUARE.png" group-title="Kids",POP
+https://jmp2.uk/sam-GBBC430000128.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/168-1687921_samurai-jack-logo-samurai-jack-logo-png.png" group-title="Kids",24/7 Samurai Jack
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_6.m3u8
+#EXTINF:-1 channel-id="GB25000016G" tvg-id="GB25000016G" tvg-chno="4800" tvg-name="POP Up" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB25000016G_20250107T031202SQUARE.png" group-title="Kids",POP Up
+https://jmp2.uk/sam-GB25000016G.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/squidbillies.jpg" group-title="Kids",24/7 Squidbillies
-https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_6.m3u8
+#EXTINF:-1 tvg-name="Arthur" tvg-id="62556bfa3261a300076b0baa" tvg-logo="https://images.pluto.tv/channels/62556bfa3261a300076b0baa/colorLogoPNG.png" tvg-chno="880" group-title="Kids",Arthur
+https://jmp2.uk/plu-62556bfa3261a300076b0baa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath
-https://asp3.toonamiaftermath.com/livehttporigin/est/LE84DA-cEAlEX-chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 1
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVSports.uk" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/featuredImage.jpg" group-title="Sports",TV Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
