@@ -562,16 +562,16 @@ https://jmp2.uk/sam-ITBD51000010V.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 1
-https://asp6.toonamiaftermath.com/livehttporigin/radio/D01PdR-xgHKad-playlist.m3u8
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 2
-https://asp6.toonamiaftermath.com/livehttporigin/radio/D01PdR-xgHKad-playlist.m3u8?streamDelay=180
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=180
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 3
-https://asp6.toonamiaftermath.com/livehttporigin/radio/D01PdR-xgHKad-playlist.m3u8?streamDelay=120
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=120
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 4
-https://asp6.toonamiaftermath.com/livehttporigin/radio/D01PdR-xgHKad-playlist.m3u8?streamDelay=60
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=60
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f58965018411c0ef81df7c6b596ad54.jpg" group-title="Kids",Toonz Kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
