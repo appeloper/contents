@@ -342,6 +342,15 @@ https://jmp2.uk/plu-62556bfa3261a300076b0baa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 1
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 2
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=180
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 3
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=120
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 4
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=60
+
 #EXTINF:-1  tvg-id="talkSPORT.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png" group-title="Sports",TalkSPORT
 https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 
@@ -540,9 +549,6 @@ https://d1gblbamdkwl5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0031f1f8bad402b0f722e5c98cfaedc4.jpg" group-title="Music",Backstage
 https://d1w5xedouwkj5i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m8rzyzewdp4tz-prod/amgfusebackstage/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="Music",Afrobeats
-https://stream.ecable.tv/afrobeats/index.m3u8
-
 #EXTINF:-1 channel-id="SamsungTVPlus-ITBB1900001O3" tvg-id="ITBB1900001O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB1900001O3_20220404T005706SQUARE.png_20220404005708.png" group-title="Music",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8?ads_amagi_channel=717&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=2239&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=ff3b7719-0c29-4652-bed0-85d4296adbd0&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
@@ -552,16 +558,10 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Qwest Jazz and Beyond
 https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/toplatino.png" group-title="Music",Top Latino
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/chunklist_w1184348296.m3u8
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/karibena.png" group-title="Music",Karibeña TV
-https://streamtv.onliv3.online:1936/karibtv/karibtv_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/lamegamundial.png" group-title="Music",La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Music",Cadena Elite
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Music",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sol Música España" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Sol_Musica_Spain.jpg" group-title="Music",Sol Musica
@@ -572,6 +572,9 @@ https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/onfm_tv.jpg" group-title="Music",ON FM TV
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/karibena.png" group-title="Music",Karibeña TV
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/m2o_it_tv.png" group-title="Music",M2O TV
 https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
@@ -798,11 +801,8 @@ https://jmp2.uk/sam-USBD3500038R6.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/yuTj5JCUt18/hq720.jpg" group-title="Nature",Escapes
 https://escapes-escapes-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_1440,w_720,f_auto,q_auto/89844/naturevision_logo_jylzip.png" group-title="Nature",Naturevision
+#EXTINF:-1 tvg-logo="https://mobiletv.mobibase.com/html/logo/hd/channel_ld_573.png" group-title="Nature",Naturevision
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991197
-
-#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-logo="https://i.imgur.com/7XsqSSZ.png" group-title="Nature",Stingray Naturescape HD
-https://dai.google.com/linear/hls/pa/event/6RPZlzksTCyB1euPqLcBZQ/stream/44d71678-d67d-4370-b5dd-286a8a998814:BRU/variant/9a9b2bd00fce20b8043c3566233433cf/bandwidth/5711200.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/betterlife_tvs.png" group-title="Nature",Better Nature TV
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
@@ -813,11 +813,8 @@ https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/273/70s-80s-all-time-greatest.72faf0f0.jpg" group-title="Radio",70s 80s All Time Greatest (Radio)
 https://live.streamthe.world/70s80s
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/1018.v14.png",Capital FM (Radio)
-https://media-ssl.musicradio.com/Capital
-
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/1074.v7.png",Classic FM (Radio)
-https://media-ssl.musicradio.com/ClassicFM
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LcaRwmxgF9.png" group-title="Radio",Classic FM (Radio)
+https://media-the.musicradio.com/ClassicFM
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/DJa9MLsnqk.png" group-title="Radio",Classic Oldies (Radio)
 https://securestreams6.autopo.st:2453/stream
@@ -827,12 +824,6 @@ https://classicrock.streeemer.com/listen/classic_rock/radio.aac
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ewfckewzcrst.jpg" group-title="Radio",Dance Hits (Radio)
 https://listen.radioking.com/radio/1743/stream/125
-
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/7/43387.v7.png",Dance UK (Radio)
-https://dancestream.danceradiouk.com/;
-
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/1072.v6.png",Gold (Radio)
-https://media-ssl.musicradio.com/Gold
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ayywdbzmun4u.png" group-title="Radio",Greatist Hits Non-Stop (Radio)
 https://s8.myradiostream.com/58238/listen.mp3
@@ -908,9 +899,6 @@ https://listen-nation.sharp-stream.com/lovenation.mp3
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dd8u6fzczaz2.png" group-title="Radio",Nation Rocks (Radio)
 https://listen-nation.sharp-stream.com/nationrocks.mp3
-
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/964.v9.png",Smooth (Radio)
-https://media-ssl.musicradio.com/SmoothLondonMP3
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/12062.v16.png" group-title="Radio",Virgin (Radio)
 https://radio.virginradio.co.uk/stream
