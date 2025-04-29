@@ -4,7 +4,7 @@
 https://github.com/inspirationlinks/m3u/raw/live/Streams/rtp1.m3u8
 
 #EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 HD (geo)
-https://moonlight.wideiptv.top/RTP2/index.fmp4.m3u8?token=92aaec9599398c14e6ae83adfef37dbea05e549f-2093c093a5fbf234288c3538a898250a-1745801205-1745790405
+https://moonlight.wideiptv.top/RTP2/index.fmp4.m3u8?token=f2c6904423ecc31cec2320e0d4f6594c5761d0b6-9ddee935867df5515e9e1d23283791cc-1745950408-1745939608
 
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3 (geo)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
@@ -523,13 +523,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e1
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 2
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=60
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=180
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 3
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=120
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 4
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=180
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=60
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/ipapool.com/wp-content/uploads/2023/09/US_STVP_BilliardTV_ChannelTile_1000x1000_Square.jpg" group-title="Sports",Billiards TV
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
