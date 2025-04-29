@@ -39,6 +39,9 @@ http://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vod.salto.nl/data/media/logo/brasa-music" group-title="Music",Brasa Music TV
 https://salto-streams.nl/hls/sotv1_high.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/06/Brit-Asia-TV-logo.jpg" group-title="Music",Brit Asia TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/cadena_elite.png" group-title="Music",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
@@ -47,6 +50,9 @@ https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-ITBB1900001O3" tvg-id="ITBB1900001O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB1900001O3_20220404T005706SQUARE.png_20220404005708.png" group-title="Music",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8?ads_amagi_channel=717&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=2239&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=ff3b7719-0c29-4652-bed0-85d4296adbd0&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Music",CMC TV Music
+https://cmc-ono.amagi.tv/amRdirect/device[did]=%7BPSID%7D&us_privacy=1%2D%2D%2D&coppa=%7BCOPPA%7D)&uid=1hum7atep-gptl-57o-e4i2-zmqvote4zx/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-5f68f53eb1e5800007390bf8" tvg-id="5f68f53eb1e5800007390bf8" tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Music",CMT Equal Play
 https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
@@ -72,8 +78,14 @@ https://jmp2.uk/sam-ESBA1500001C4.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-DEBD3800001QD" tvg-id="DEBD3800001QD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3800001QD_20240131T032211SQUARE.png_20240131032211.png" group-title="Music",Deluxe RAP
 https://jmp2.uk/sam-DEBD3800001QD.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.allaccess.com/assets/img/editorial/raw/di/dittytvlogo2019.jpg" group-title="Music",Ditty TV
+https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
+
 #EXTINF:-1 channel-id="SamsungTVPlus-FRBC900001LB" tvg-id="FRBC900001LB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20230208T013112SQUARE.png_20230208013112.png" group-title="Music",Émotion
 https://jmp2.uk/sam-FRBC900001LB.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fevatv.com/wp-content/uploads/2022/08/feva-cover.png" group-title="Music",Feva Music
+https://d2y0xw9ugf4if7.cloudfront.net/scheduler/scheduleMaster/417.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/cf/cfc082217e29c2e541f5985ac000fa29.jpeg" group-title="Music",FS1 HD
 http://stream.fs1.tv:8080/hls/webstream.m3u8
@@ -267,6 +279,9 @@ https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakute
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/fe/71/96/fe7196e7-7d76-e34a-d6c9-29aabb514e1f/source/512x512bb.jpg" group-title="Music",Radio Azzurra TV
 https://video.azotosolutions.com:9553/radioazzurrarandazzo/radioazzurrarandazzo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.teambuildingradio.it/wp-content/uploads/2017/05/logo-radio-capital.jpg" group-title="Music",Radio Capital TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8	
+
 #EXTINF:-1 tvg-name="Radio Italia TV" tvg-logo="https://binaries.radioitalia.it/2021/05/12/063615653-efbd528b-265c-4a4f-9d16-097a5e855f37.jpg" group-title="Music",Radio Italia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
@@ -281,6 +296,9 @@ https://stream3.xdevel.com/video0s975521-196/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://storiaradiotv.files.wordpress.com/2017/11/radio-stereo-5.jpg" group-title="Music",Radio TV Stereo 5
 https://stream1.aswifi.it/stereo5/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiou.com/wp-content/uploads/2014/07/LogoFullsize140724-300x300.jpg" group-title="Music",Radio U TV
+https://1840571692.rsc.cdn77.org/1840571692/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Music",Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
