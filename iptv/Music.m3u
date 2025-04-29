@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music",30A Music
-http://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-id="30AMusic.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Music",30A Music Channel
+https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
+
+#EXTINF:-1 tvg-id="30ANashvilleCountry.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Music",30A Nashville Country Music
+https://hls.showfer.com/stream/63e7ca2d6e33cf5f07659f36/airy.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/35/2/4fun-logo-png_seeklogo-359022.png" group-title="Music",4Fun TV
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
