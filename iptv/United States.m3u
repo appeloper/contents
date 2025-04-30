@@ -10,7 +10,7 @@ https://nasa-i.akamaihd.net/hls/live/253566/NTV-Media/master.m3u8
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/university_california.jpg" group-title="Education",University of California TV
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/chunklist_w1212023073.m3u8International
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://ualr.edu/tv/files/2006/10/NEW_Channel_Icon_Text.png" group-title="Education",UALR University TV
 https://vbfast-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/chunklist.m3u8
@@ -207,10 +207,6 @@ https://jmp2.uk/plu-632b619c8d2a6c0007ff534e.m3u8
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/florida_channel.jpg" group-title="News",The Florida Channel
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/flavorIds/1_kw331s2y,1_w35b4ehn,1_dlqc8owo,1_14laa33i/a.m3u8?uiConfId=48703633&playSessionId=08647f2f-54c9-5593-fc36-37ae802ad37d:e1d4da14-b0a4-4705-a9bb-e2283c13ade5&referrer=aHR0cHM6Ly90aGVmbG9yaWRhY2hhbm5lbC5vcmcv&clientTag=html5:v7.116
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/35acf46bccd9f553b11b66ef1fa709c1fbd3a480c1d9394d3880e69911bafa2e.png" group-title="General",Beach TV Panama City
 https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
 
@@ -227,16 +223,13 @@ https://ad-playlistserver.aws.syncbak.com/playlist/13736725/master.m3u8?access_t
 https://632c1f303ef2e.streamlock.net/live/live/chunklist_w1328172334.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/GoodLife45.jpg" group-title="News",WTGL Good Life 45
-http://fss29.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/1586266_640x640.jpg" group-title="News",WHBR CTN33 Pensacola
-https://ctntv.getstreamhosting.com:1936/WHBR/WHBR/chunklist.m3u8
+#EXTINF:-1 tvg-id="WPBFDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC 25 West Palm Beach FL
+https://apollo.production-public.tubi.io/live/ac-wpbf.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/wfgc_palmbeach.png" group-title="General",WFGC CTN61 West Palm Beach
-https://ctntv.getstreamhosting.com:1936/WFGC/WFGC/chunklist_w150881091.m3u8
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/wbpi49.jpg" group-title="News",WBPI 49
-https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1233458/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-id="WPTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="News",WPTV News West Palm Beach FL
+https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ktoo.org/wp-content/uploads/2021/01/KTOO_Default-social-preview_3.png" group-title="General",KTOO 360 TV
 https://live-linear.global.ssl.fastly.net/persis/2147483647_KTOO360TV.stream_247/chunklist.m3u8
@@ -246,9 +239,6 @@ https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/miamifl/G2076_003/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HuFEXXs.png" group-title="Government",Miami Beach
 https://edge-f.swagit.com/live/miamibeachfl/live-1-a/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://askcbi.org/wp-content/uploads/2012/02/TSTV.jpg" group-title="Education",Texas Student TV
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://kleinsites.com/cmil/wp-content/blogs.dir/53/files/sites/53/2021/11/tutv-logo.png" group-title="General",Temple University TV
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/templeuni1/stream2/chunks.m3u8
@@ -340,41 +330,47 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.akaku.org/Channel55-147x150.png" group-title="Government",Akaku TV3 Hawaii
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/04/CINEVAULT-80.jpg" group-title="Movies",Cinevault 80s
-https://gsn-cinevault-80s-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200015M8_20240730T222520SQUARE.png" group-title="Movies",Cinevault Classics
+https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/7ef5e16ef5d95718b8e14b7bd657fa81/rokuFeed/assets/28f1ab81005f5c08bfce1fdce90d6127.jpg" group-title="Movies",Cinevault Westerns
-https://gsn-cinevault-westerns-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20240730T222508SQUARE.png" group-title="Movies",Cinevault Murder and Mayhem
+https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tv.mobistream.co.za/uploads/jpg/c3ef8d539f121af84408d61e672738d9.jpg" group-title="Movies",Rakuten Action Movies
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.uk" tvg-logo="https://babaktv.com/wp-content/uploads/2023/05/Rakuten-TV-top-free.jpg" group-title="Movies",Action Movies
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8?ads.RakutenTV.EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=15&ads.content_url=rakutentv&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_year=1970&ads.did=09bef241-987c-45b2-b024-acc61a336afa&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=uk&ads.os_language=&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_channel_name=action-rakuten-tv_uk&ads.rtv_content_id=6065&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271858&ads.streaming_id=91346b37-5cbb-499e-b5d1-734173f8b9ec&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6065&publishing_platform_id=5
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/rakuten_comedy.jpg",Rakuten Comedy Movies
-https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.uk" tvg-logo="https://babaktv.com/wp-content/uploads/2023/06/Rakuten-UK-Comedy-Movies.jpg" group-title="Movies",Comedy Movies
+https://jmp2.uk/sam-GB2600020OP.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/rakuten_drama.jpg",Rakuten Drama
-https://rakuten-drama-13-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/featuredImage.jpg" group-title="Movies",Classic Movies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d134a74ca91eedee1630faa/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d134a74ca91eedee1630faa&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=903&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/rakuten_family.jpg",Rakuten Family
-https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMovies.uk" tvg-logo="https://hitskeeper.com/sites/default/files/2020-01/featuredimage.jpg" group-title="Movies",TV Movies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/rakuten_romance.jpg",Rakuten Romance
-https://rakuten-romance-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5c5c31f2f21b553c1f673fb0" tvg-logo="https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png" group-title="Movies",TV Cult Films
+https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2023/10/Entete-Rakuten-TV-Thrillers.png",Rakuten Thriller
-https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5dbfedccc563080009b60f4a" tvg-logo="https://images.pluto.tv/channels/5dbfedccc563080009b60f4a/colorLogoPNG.png" group-title="Movies",TV Thrillers
+https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://babaktv.com/wp-content/uploads/2023/05/Rakuten-TV-top-free.jpg",Rakuten Top Free
-https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="612cda102f5f18000705e0bf" tvg-logo="https://images.pluto.tv/channels/612cda102f5f18000705e0bf/colorLogoPNG.png" group-title="Movies",TV Horror
+https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn6.aptoide.com/imgs/e/1/7/e178f644e62910139391db5c4f83877e_icon.png",Rakuten TV Shows
-https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/VxlYQBBWs-gQUX5LJZDrG63VFpKNmt7BBnPjd9143b38YQUIR5toM2_6BNZi9RMjvq_-rfzOHXI=s160-c-k-c0x00ffffff-no-rj" group-title="Movies",MovieDome
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png" group-title="Movies",Action Hollywood Movies
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmsdprb6sqz8bdil61k1zcy8bv2whim3g1os.png" group-title="Movies",My Time Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/0e69b2_4a6c74cba74f4c46b51593fd649cd922~mv2.jpg" group-title="Movies",Grjngo
+https://amogonetworx-grjngo-3-gb.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/18/Mad_TV_GSN_spoof_1.png" group-title="Entertainment",Gameshow Channel
-https://gsn-gameshowchannnel-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/10/24-Hour-Free-Movies-live-vipotv-america-english.png" group-title="Movies",24 Hour Free Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/256x144_230000/index.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6036e7c385749f00075dbd3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed47-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33f00d08-5ecc-4756-847e-6afcf19395bc
 
 #EXTINF:-1 tvg-id="TVSActionNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-action-network.jpg" group-title="Movies",TVS Action
 https://rpn.bozztv.com/gusa/gusa-tvsrarecollectibles/tracks-v1a1/index-1716938902-now.m3u8
@@ -414,9 +410,6 @@ https://rpn.bozztv.com/gusa/gusa-tvsfrontpagedetective/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.watchyour.tv/channels/logo/tvs-film-noir-network.jpg" group-title="Movies",TVS Film Noir
 https://rpn.bozztv.com/gusa/gusa-TVSFilmNoir/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://bx-tv.com/wp-content/uploads/2021/05/us-folk-tv.jpg" group-title="Movies",Folk TV
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVSTallyHo.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-tally-ho.jpg" group-title="Entertainment",TVS Tally Ho
 https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8
