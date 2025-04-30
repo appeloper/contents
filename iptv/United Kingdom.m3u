@@ -172,7 +172,7 @@ https://amogonetworx-grjngo-3-gb.lg.wurl.tv/playlist.m3u8
 https://f06cd57c1eeb48fd89b80d9ff8ae230f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_AdventureEarth/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=4739&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=0aa02f21-13d6-467e-be40-902135aea060&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1299
 
 #EXTINF:-1 tvg-id="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240415T233104SQUARE.png" group-title="Documentary",BBC Earth
-https://jmp2.uk/sam-USBD1700001RW.m3u8
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 #EXTINF:-1 cuid="529" tvg-name="BBC America East" tvg-id="bbc-america-east" tvg-logo="https://seeklogo.com/images/B/bbc-america-logo-1344C402CD-seeklogo.com.png" group-title="Documentary",BBC America East
 https://v18.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8
@@ -360,7 +360,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/chelsea_tv.png",Chelsea TV (geo)
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png",NBA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Sports",NBA TV
 https://v5.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTV-UK_dazn-women-s-football" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e6ca508c-b569-4bd5-b183-070f477b0076.png" group-title="Sports",DAZN Women's Football
