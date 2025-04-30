@@ -12,7 +12,7 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/university_california.jpg" group-title="Education",University of California TV
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://ualr.edu/tv/files/2006/10/NEW_Channel_Icon_Text.png" group-title="Education",UALR University TV
+#EXTINF:-1 tvg-logo="https://ualr.edu/global/images/ua-little-rock-logo-horizontal.svg" group-title="Education",UALR University TV
 https://vbfast-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/cbsn.us.png" group-title="News",CBS News
@@ -101,6 +101,12 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240319T022550SQUARE.png" group-title="News",BBC News
 https://jmp2.uk/sam-US4000033L.m3u8
+
+#EXTINF:-1 tvg-name="BBC News North America" tvg-id="bbc-news-north-america-hd" tvg-logo="https://pbs.twimg.com/profile_images/1288471278953869320/Ki2rybZI_400x400.jpg" group-title="News",BBC News North America
+https://v13.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 cuid="529" tvg-name="BBC America East" tvg-id="bbc-america-east" tvg-logo="https://seeklogo.com/images/B/bbc-america-logo-1344C402CD-seeklogo.com.png" group-title="Documentary",BBC America East
+https://v18.thetvapp.to/hls/BBCAmericaEast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240319T022317SQUARE.png" group-title="News",Sky News
 https://jmp2.uk/sam-USBB52000022Q.m3u8
@@ -456,116 +462,17 @@ https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
 #EXTINF:-1 tvg-id="TVSPortOCall.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-travel-network.jpg" group-title="Kitchen",TVS Port O Call
 https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2020/11/hunt-channel-vipo-tv.png" group-title="Fishing and Hunting",Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34929b38fd8794231ed1bb4f0f59a40c.jpg" group-title="Kitchen",Gusto TV
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/4542d9ab-6fc4-40da-bdf0-8ea8ad573c3c/1.m3u8
-
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://mma.prnewswire.com/media/1573599/Tastemade_logo.jpg" group-title="Kitchen",Tastemade
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d34bb9943578ac205e516d01a607443f.jpg" group-title="Kitchen",America's Test Kitchen
-https://jmp2.uk/sam-USBA3800002KI.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Kitchen",Cooking Panda
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/ul4Qbo06.png" group-title="Kitchen",Key TV
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="USBC44000226R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000226R_20240319T022148SQUARE.png" group-title="Kitchen",Bon Appétit
-https://jmp2.uk/sam-USBC44000226R.m3u8
-
-#EXTINF:-1 tvg-logo="https://st2.depositphotos.com/27269280/49205/v/450/depositphotos_492058210-stock-illustration-initial-monogram-alphabet-fork-spoon.jpg" group-title="Kitchen",New K Food
-https://newidco-newkfood-1-us.lg.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2019/05/buzzrtv.png" group-title="Entertainment",Buzzr TV
 https://buzzrota-ono.amagi.tv/playlist360p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="Travel",TV Travel
-https://jmp2.uk/plu-59c01b1953680139c6ae9d4d.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tastemade-travel/300x300_redbox.jpg" group-title="Travel",Tastemade Travel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23135/always-funny/thumbh_20231121_180938_270.png" group-title="Entertainment",Always Funny
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23108/craftsytv/thumbh_20240501_174141_270.jpg" group-title="Undefined",Craftsy TV
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6365779dde08f8eec6c3f21f.m3u8
-
-#EXTINF:-1 tvg-id="Denver8TV.us" tvg-logo="https://www.denvergov.org/files/assets/public/v/1/citywide-marketing/images/denver8tv-logo.jpg" group-title="Undefined",Denver 8 TV
-https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://ccxstudios.com/wp-content/uploads/2020/08/CCX-Studio-Home.png" group-title="Undefined",CCX Media 1 Minneapolis
+#EXTINF:-1 tvg-logo="http://ccxstudios.com/wp-content/uploads/2020/08/CCX-Studio-Home.png" group-title="General",CCX Media 1 Minneapolis
 https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://ccxstudios.com/wp-content/uploads/2020/08/CCX-Studio-Home.png" group-title="Undefined",CCX Media 2 Minneapolis
+#EXTINF:-1 tvg-logo="http://ccxstudios.com/wp-content/uploads/2020/08/CCX-Studio-Home.png" group-title="General",CCX Media 2 Minneapolis
 https://cablecast.nwct.org/live-11/live/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://ccxstudios.com/wp-content/uploads/2020/08/CCX-Studio-Home.png" group-title="Undefined",CCX Media 3 Minneapolis
+#EXTINF:-1 tvg-logo="http://ccxstudios.com/wp-content/uploads/2020/08/CCX-Studio-Home.png" group-title="General",CCX Media 3 Minneapolis
 https://cablecast.nwct.org/live-12/live/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/classic_arts_showcase.png" group-title="Arts",Classic Arts Showcase
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/betterlife_tvs.png" group-title="Health",Better Health TV
-https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
-
-#EXTINF:-1 tvg-id="USBA3000043LH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20240401T235525SQUARE.png" group-title="Documentary",Wild Life
-https://jmp2.uk/sam-USBA3000043LH.m3u8
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png" group-title="Documentary",Wild Earth
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8
-
-#EXTINF:-1 tvg-id="USBD35000428O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20240401T235354SQUARE.png" group-title="Documentary",History 365
-https://jmp2.uk/sam-USBD35000428O.m3u8
-
-#EXTINF:-1 tvg-id="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240415T233104SQUARE.png" group-title="Documentary",BBC Earth
-https://jmp2.uk/sam-USBD1700001RW.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUjFHcGJI2XS4hksDvaRQg2YdHlZtZop2f5A&s" group-title="Documentary",Xumo Free Nature And Wildlife TV
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951218
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/history_time.jpg" group-title="Documentary",History Time
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100008DP_20240401T235432SQUARE.png" group-title="Nature",Xplore
-https://jmp2.uk/sam-USBC2100008DP.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.pbs.org/contentchannels/39/9kmZbDILCvcwRrfGFCaUw.jpg?crop=1200x675&format=jpg" group-title="Nature",PBS Nature
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01597-wnetnewyorkpubl-pbsnature-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20240401T235527SQUARE.png" group-title="Nature",Love Nature
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20180522005378/en/658948/23/TFH_Logo_BlackRed.jpg" group-title="Home and Garden",At Home with Family Handyman
-https://jukin-homefamilyhandyman-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1925597/Tastemade_Home_Original__002_Logo.jpg" group-title="Home and Garden",Tastemade Home
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USAJ3000006X5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000006X5_20240319T022005SQUARE.png" group-title="Home and Garden",Home Made Nation
-https://jmp2.uk/sam-USAJ3000006X5.m3u8
-
-#EXTINF:-1 tvg-id="USBC21000142T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20240401T234358SQUARE.png" group-title="Home and Garden",Home Refresh
-https://jmp2.uk/sam-USBC21000142T.m3u8
-
-#EXTINF:-1 tvg-id="USBB3200024V5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200024V5_20240319T022030SQUARE.png" group-title="Home and Garden",Million Dollar Listing
-https://jmp2.uk/sam-USBB3200024V5.m3u8
-
-#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400020KC_20240319T021945SQUARE.png" group-title="Home and Garden",Tiny House Nation
-https://jmp2.uk/sam-USAJ3400020KC.m3u8
-
-#EXTINF:-1 tvg-id="USBC13000065U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC13000065U_20240319T022058SQUARE.png" group-title="Home and Garden",This Old House
-https://jmp2.uk/sam-USBC13000065U.m3u8
-
-#EXTINF:-1 tvg-id="USBC1300005T6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300005T6_20240319T022100SQUARE.png" group-title="Home and Garden",This Old House Makers
-https://jmp2.uk/sam-USBC1300005T6.m3u8
-
-#EXTINF:-1 tvg-id="USBD700022M5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700022M5_20240319T022226SQUARE.png" group-title="Home and Garden",Homeful
-https://jmp2.uk/sam-USBD700022M5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-global.website-files.com/5d6aae87e54b1ea9e05fe232/60d9145539b7401ca498ef02_Crimetime_Logo_2.png" group-title="Crime",Crimetime
 https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
@@ -588,13 +495,142 @@ https://jmp2.uk/sam-USBB3200018Q6.m3u8
 #EXTINF:-1 tvg-id="USAJ3504547A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504547A_20240319T021953SQUARE.png" group-title="Crime",The New Detectives
 https://jmp2.uk/sam-USAJ3504547A.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34929b38fd8794231ed1bb4f0f59a40c.jpg" group-title="Kitchen",Gusto TV
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=4087&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=ed183a81-5820-43d4-83e4-2430784be067&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=858
+
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://mma.prnewswire.com/media/1573599/Tastemade_logo.jpg" group-title="Kitchen",Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d34bb9943578ac205e516d01a607443f.jpg" group-title="Kitchen",America's Test Kitchen
+https://jmp2.uk/sam-USBA3800002KI.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Kitchen",Cooking Panda
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/watermarks/ul4Qbo06.png" group-title="Kitchen",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="USBC44000226R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000226R_20240319T022148SQUARE.png" group-title="Kitchen",Bon Appétit
+https://jmp2.uk/sam-USBC44000226R.m3u8
+
+#EXTINF:-1 tvg-logo="https://st2.depositphotos.com/27269280/49205/v/450/depositphotos_492058210-stock-illustration-initial-monogram-alphabet-fork-spoon.jpg" group-title="Kitchen",New K Food
+https://newidco-newkfood-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChefChampion.us" tvg-logo="https://i.imgur.com/15a9pG9.png" group-title="Kitchen",Chef Champion
+https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
+
+#EXTINF:-1 tvg-id="ChefRocShow.us" tvg-logo="https://i.imgur.com/vhVnAzE.png" group-title="Kitchen",Chef Roc Show
+https://bozztv.com/gusa/gusa-chefrock/index.m3u8
+
+#EXTINF:-1 tvg-id="CookingPanda.us" tvg-logo="https://i.imgur.com/bhY0Zcs.png" group-title="Kitchen",Cooking Panda
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+
+#EXTINF:-1 tvg-id="Foodies.us" tvg-logo="https://i.imgur.com/ff2kOul.png" group-title="Kitchen",Foodies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1858ec57-4da6-4f94-af3c-b2e9664fa9f4
+
+#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us" tvg-logo="https://i.imgur.com/WgN4T18.png" group-title="Kitchen",Gordon Ramsay's Hell's Kitchen
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291882-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c7ee55eb-3425-4f5e-a567-3a1ed6ca44ec
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="Travel",TV Travel
+https://jmp2.uk/plu-59c01b1953680139c6ae9d4d.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tastemade-travel/300x300_redbox.jpg" group-title="Travel",Tastemade Travel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Travel" tvg-id="59c01b1953680139c6ae9d4d" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" tvg-chno="3150" group-title="Travel",Pluto TV Travel
+https://jmp2.uk/plu-59c01b1953680139c6ae9d4d.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23135/always-funny/thumbh_20231121_180938_270.png" group-title="Entertainment",Always Funny
+https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23108/craftsytv/thumbh_20240501_174141_270.jpg" group-title="Undefined",Craftsy TV
+https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/classic_arts_showcase.png" group-title="Arts",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/betterlife_tvs.png" group-title="Health",Better Health TV
+https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
+
+#EXTINF:-1 tvg-name="Real Disaster Channel" tvg-id="64d2b6bf9b414d0008187d83" tvg-logo="https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/colorLogoPNG.png" tvg-chno="3105" group-title="Documentary",Real Disaster Channel
+https://jmp2.uk/plu-64d2b6bf9b414d0008187d83.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Science" tvg-id="563a970aa1a1f7fe7c9daad7" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" tvg-chno="3110" group-title="Documentary",Pluto TV Science
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUjFHcGJI2XS4hksDvaRQg2YdHlZtZop2f5A&s" group-title="Documentary",Xumo Free Nature And Wildlife TV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951218
+
+#EXTINF:-1 tvg-id="USBA3000043LH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20240401T235525SQUARE.png" group-title="Documentary",Wild Life
+https://jmp2.uk/sam-USBA3000043LH.m3u8
+
+#EXTINF:-1 tvg-id="USBD35000428O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20240401T235354SQUARE.png" group-title="Documentary",History 365
+https://jmp2.uk/sam-USBD35000428O.m3u8
+
+#EXTINF:-1 tvg-id="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240415T233104SQUARE.png" group-title="Documentary",BBC Earth
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUjFHcGJI2XS4hksDvaRQg2YdHlZtZop2f5A&s" group-title="Documentary",Xumo Free Nature And Wildlife TV
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951218
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/history_time.jpg" group-title="Documentary",History Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100008DP_20240401T235432SQUARE.png" group-title="Nature",Xplore
+https://jmp2.uk/sam-USBC2100008DP.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.pbs.org/contentchannels/39/9kmZbDILCvcwRrfGFCaUw.jpg?crop=1200x675&format=jpg" group-title="Nature",PBS Nature (geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01597-wnetnewyorkpubl-pbsnature-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PBS Antiques Roadshow" tvg-id="636c2b3c55d2e700074105c4" tvg-logo="https://images.pluto.tv/channels/636c2b3c55d2e700074105c4/colorLogoPNG.png" tvg-chno="3390" group-title="Antiques",PBS Antiques Roadshow
+https://jmp2.uk/plu-636c2b3c55d2e700074105c4.m3u8
+
+#EXTINF:-1 tvg-name="Antiques Road Trip" tvg-id="615b8ec39e878900073f419a" tvg-logo="https://images.pluto.tv/channels/615b8ec39e878900073f419a/colorLogoPNG.png" tvg-chno="3410" group-title="Antiques",Antiques Road Trip
+https://jmp2.uk/plu-615b8ec39e878900073f419a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20240401T235527SQUARE.png" group-title="Nature",Love Nature
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20180522005378/en/658948/23/TFH_Logo_BlackRed.jpg" group-title="Home and Garden",At Home with Family Handyman
+https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1925597/Tastemade_Home_Original__002_Logo.jpg" group-title="Home and Garden",Tastemade Home
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBD700022M5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700022M5_20240319T022226SQUARE.png" group-title="Home and Garden",Homeful
+https://jmp2.uk/plu-66df8aa7abec540008ca8cb6.m3u8
+
+#EXTINF:-1 tvg-name="This Old House" tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" tvg-chno="3310" group-title="Home and Garden",This Old House
+https://jmp2.uk/plu-5d51e791b7dba3b2ae990ab2.m3u8
+
+#EXTINF:-1 tvg-name="This Old House Makers Channel" tvg-id="6452c9465a0cd50008654fc1" tvg-logo="https://images.pluto.tv/channels/6452c9465a0cd50008654fc1/colorLogoPNG.png" tvg-chno="3312" group-title="Home and Garden",This Old House Makers Channel
+https://jmp2.uk/plu-6452c9465a0cd50008654fc1.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Home" tvg-id="6022bd17849c620007f43ae0" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" tvg-chno="3320" group-title="Home and Garden",Pluto TV Home
+https://jmp2.uk/plu-6022bd17849c620007f43ae0.m3u8
+
+#EXTINF:-1 tvg-name="Home Crashers" tvg-id="65654230c917a5000844ce96" tvg-logo="https://images.pluto.tv/channels/65654230c917a5000844ce96/colorLogoPNG.png" tvg-chno="3325" group-title="Home and Garden",Home Crashers
+https://jmp2.uk/plu-65654230c917a5000844ce96.m3u8
+
+#EXTINF:-1 tvg-name="Ultimate Builds" tvg-id="656542ae4261ca00082154a8" tvg-logo="https://images.pluto.tv/channels/656542ae4261ca00082154a8/colorLogoPNG.png" tvg-chno="3330" group-title="Home and Garden",Ultimate Builds
+https://jmp2.uk/plu-656542ae4261ca00082154a8.m3u8
+
+#EXTINF:-1 tvg-name="Rustic Retreats" tvg-id="6565430c9d5ac4000822f508" tvg-logo="https://images.pluto.tv/channels/6565430c9d5ac4000822f508/colorLogoPNG.png" tvg-chno="3335" group-title="Home and Garden",Rustic Retreats
+https://jmp2.uk/plu-6565430c9d5ac4000822f508.m3u8
+
+#EXTINF:-1 tvg-name="Tiny House Nation" tvg-id="601a0342dcf4370007566891" tvg-logo="https://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" tvg-chno="3360" group-title="Home and Garden",Tiny House Nation
+https://jmp2.uk/plu-601a0342dcf4370007566891.m3u8
+
+#EXTINF:-1 tvg-name="Home.Made.Nation" tvg-id="5dc1cb279c91420009db261d" tvg-logo="https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" tvg-chno="3370" group-title="Home and Garden",Home Made Nation
+https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/ctn.png" group-title="Religious",CTN TV
 https://ctntv.getstreamhosting.com:1936/CTNTV/CTNTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2020/11/ctn-lifrsty-vipotv.png" group-title="Religious",CTN Lifestyle TV
 https://ctntv.getstreamhosting.com:1936/Lifestyle/Lifestyle/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="News",CBN News
+#EXTINF:-1 tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png" group-title="Religious",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBNFamily.us" tvg-logo="https://image.roku.com/developer_channels/prod/b8a7fbc8508bddc8edc12b9edd8baccfed4287d230b63c3e750777d65dd9007d.png" group-title="Religious",CBN Family
