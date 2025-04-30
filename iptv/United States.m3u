@@ -1,13 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png" group-title="Science",NASA Public HD
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png" group-title="Science",NASA Public HD (geo)
+https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png" group-title="Science",NASA Media HD
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/NASAChannel.us.png" group-title="Science",NASA Media HD (geo)
+https://nasa-i.akamaihd.net/hls/live/253566/NTV-Media/master.m3u8
+
+#EXTINF:-1 tvg-id="NASATVISSViews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ISS_emblem.png/1200px-ISS_emblem.png" group-title="Science",ISS Views (geo)
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/university_california.jpg" group-title="Education",University of California TV
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/chunklist_w1212023073.m3u8
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/chunklist_w1212023073.m3u8International
 
 #EXTINF:-1 tvg-logo="http://ualr.edu/tv/files/2006/10/NEW_Channel_Icon_Text.png" group-title="Education",UALR University TV
 https://vbfast-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/chunklist.m3u8
@@ -58,7 +61,7 @@ https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nbc-news-2023-logo-6CFF9512D3-seeklogo.com.png" group-title="News",NBC News Now
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/2048px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Now
 https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -102,53 +105,56 @@ https://jmp2.uk/sam-US4000033L.m3u8
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240319T022317SQUARE.png" group-title="News",Sky News
 https://jmp2.uk/sam-USBB52000022Q.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Free-Speech-TV.webp" group-title="News" group-title="News",Free Speech TV
-https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
+#EXTINF:-1 channel-id="GB2600019ON" tvg-id="GB2600019ON" tvg-chno="4003" tvg-name="Euronews LIVE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600019ON_20250121T013040SQUARE.png" group-title="News",Euronews
+https://jmp2.uk/sam-GB2600019ON.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1027724048439156738/A7YOKx0Z_400x400.jpg" group-title="News",Infowars (only audio)
-https://freespeech.akamaized.net/hls/live/2024573/live2/audio_0_eng/audio_0_eng.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/France24.fr.png" group-title="News",France 24 (english)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/dw_en.png" group-title="News",DW
+#EXTINF:-1 tvg-id="DeutscheWelleEnglish.de" tvg-logo="https://feedlix.net/tv/de/dw_en.png" group-title="News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg" group-title="News" group-title="News",RT News HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="News",TV5 Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg" group-title="News",RT News HD (VPN)
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="RTESP.TV" tvg-logo="https://feedlix.net/tv/ru/rt-es.jpg" group-title="News",RT Español HD
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-ID="russia-today.info" tvg-logo="https://feedlix.net/tv/ru/rt-logo.jpg" group-title="News",RT News HD (op.2)
+https://rumble.com/live-hls/33aw1a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary" group-title="Documentary",RT Documentary HD (english)
-http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="RTDoc.tv" tvg-logo="https://feedlix.net/tv/ru/rt-doc.png" group-title="Documentary",RT Documentary HD (english)
+https://rumble.com/live-hls/6oyh3s/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/cn/cgtn_cn.png" group-title="News",CGTN News
-https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTNHD.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN.png" group-title="News",CGTN (english)
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 
-#EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTNDoc.TV" tvg-logo="https://feedlix.net/tv/cn/cgtn_cn_documentary.png" group-title="Documentary",CGTN Documentary (english)
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/672/933/png-transparent-india-today-television-channel-living-media-india-television-text-rectangle.png" group-title="News",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png" group-title="News",Press TV (english)
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/9806be74ba5860cbd39978bc9a53fcf9eca7aaf5bdf65d3d890d3c0b5ce3cc68.png" group-title="News",Free Speech TV
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/04.m3u8
+
+#EXTINF:-1 tvg-id="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1024px-TeleSUR-Logo.svg.png" group-title="News",TeleSur
+https://mblenmain01.telesur.ultrabase.net/mblivev3/audio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png" group-title="News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/asia_news.png" group-title="News",CNA NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/NDTV-24x7-logo-2.jpg" group-title="News",NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/de/nhk_japan.png" group-title="News",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/uk/asia_news.png" group-title="News",CNA NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://feedlix.net/tv/es/tve_canal_24horas.png" group-title="News",RTVE 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 tvg-id="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1024px-TeleSUR-Logo.svg.png" group-title="News",TeleSur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Press-TV.png" group-title="News" group-title="News",Press TV
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
-
-#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png" group-title="News",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="News",KERO 23 ABC
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
@@ -165,20 +171,11 @@ https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
 #EXTINF:-1 tvg-id="LasVegas13ActionNews.us" tvg-logo="https://newsroom.poshmark.com/wp-content/uploads/2019/05/KTNV-Las-Vegas.jpg" group-title="News",Las Vegas 13 Action News
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live
 
-#EXTINF:-1 tvg-id="NEWSNET.us" tvg-logo="https://newsnetnational.images.worldnow.com/images/24127333_G.png" group-title="News",News Net
-https://univtec.g-mana.live/media/f7a2e644-2023-4241-85a4-9da6eb98fb56/mainManifest.m3u8?player.ssid=4662bdac-4ab0-4e0f-9b9b-c2cb45593a30&player.w=1050&player.h=591&player.url=www.newsnetmedia.com
-
 #EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2020/06/Untitled-design-62.png" group-title="News",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8Etyyah27N4/hqdefault.jpg" group-title="News",WBRZ-TV Baton Rouge (geo)
-https://d1wdgbxqfhyvfu.cloudfront.net/wbrz-live-1/smil:wbrz-live.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Wccb-charlotte-cw-header-logo-395x41.png" group-title="News",WCCB News Charlotte
 https://univ.g-mana.live/media/0a52c4d8-ee1b-4b0f-9f4c-9beeeea39980/mainManifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/newschannel9.png" group-title="News",News Channel 9 ABC (geo)
-https://content-aeuf1.uplynk.com/channel/a4008fd8cf3e454a927406859636baae/d.m3u8?pbs=e1818dcd271141f699fe1a4220dccb9b
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/notv.png" group-title="News",NOTV HD New Orleans
 https://5ed325193d4e1.streamlock.net:444/LiveTV/NOTVHD/chunklist_w1570003858.m3u8
@@ -204,17 +201,15 @@ https://stream.swagit.com/live-edge/irvingtx/smil:std-4x3-1-a/chunklist_w9091013
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/mesquite_texas.png" group-title="General",Mesquite Texas TV
 https://edge-f.swagit.com/live/mesquitetx/smil:std-16x9-1-a/chunklist_b496000.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/seattle_channel.png" group-title="General",Seattle Channel
-https://cdn3.wowza.com/1/UFE5VjR0eVBzSkhP/YzVaUHpi/hls/lyftc6jx/720/chunklist.m3u8
+#EXTINF:-1 tvg-name="KIRO Seattle" tvg-id="632b619c8d2a6c0007ff534e" tvg-logo="https://images.pluto.tv/channels/632b619c8d2a6c0007ff534e/colorLogoPNG.png" tvg-chno="5240" group-title="Local News",KIRO Seattle
+https://jmp2.uk/plu-632b619c8d2a6c0007ff534e.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/florida_channel.jpg" group-title="News",The Florida Channel
 https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/flavorIds/1_kw331s2y,1_w35b4ehn,1_dlqc8owo,1_14laa33i/a.m3u8?uiConfId=48703633&playSessionId=08647f2f-54c9-5593-fc36-37ae802ad37d:e1d4da14-b0a4-4705-a9bb-e2283c13ade5&referrer=aHR0cHM6Ly90aGVmbG9yaWRhY2hhbm5lbC5vcmcv&clientTag=html5:v7.116
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/High_res_logo_april-300.jpg" group-title="General",30A TV
-https://30a-tv.com/my999.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/The-Beach-Show-259-Panama-City-Beach-Real-Estate4000-300x179.jpg" group-title="General",30A The Beach Show
-https://30a-tv.com/beachy.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/35acf46bccd9f553b11b66ef1fa709c1fbd3a480c1d9394d3880e69911bafa2e.png" group-title="General",Beach TV Panama City
 https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
@@ -270,38 +265,68 @@ https://selu-tv.cablecast.tv/live/stream-1/WIFI-1896k-720p/WIFI-1896k-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SLT8iSoDWZo/hqdefault.jpg" group-title="Government",Lex TV
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/darcizzle-poster-300x225.jpg" group-title="Fishing and Hunting",Fishing Outdoor Channel TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="News",30A ABC News
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+
+#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Entertainment",30A Darcizzle Offshore
 https://30a-tv.com/darcizzle.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/Investment-Pitch-Media-300x187.jpg" group-title="#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",",Investment Pitch News TV
+#EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Entertainment",30A Georgia Hollywood Review TV
+https://30a-tv.com/gh.m3u8
+
+#EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Sports",30A Golf Kingdom
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+
+#EXTINF:-1 tvg-id="30AInvestmentPitch.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Finance",30A Investment Pitch News
 https://www.30a-tv.com/InvPit.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2020/10/answers-roku-icon4-540.jpg" group-title="Undefined",Answers That Count
-https://30a-tv.com/atc.m3u8
-
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/12/HD_-1280px-W-x-720px-loomer-30a-tv-channel--300x169.png" group-title="Undefined",Loomered TV
-https://30a-tv.com/loomer.m3u8
-
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2020/03/nothing-slate-300x175.jpg" group-title="Undefined",Nothing Scripted 24-7 TV
-https://30a-tv.com/NothingScripted.m3u8
-
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2019/10/sidewalks-poster-300x225.jpg" group-title="Undefined",Sidewalks on 30A TV
-https://30a-tv.com/sidewalks.m3u8
-
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2020/05/Splash_HD_1280x720-300x169.png" group-title="Entertainment",Georgia Hollywood Review TV
-https://30a-tv.com/feeds/720p/47.m3u8
-
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2023/02/we-love-cars-tv.jpg" group-title="Undefined",We Love Cars
-https://30a-tv.com/feeds/720p/54.m3u8
-
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2022/11/beachy-45-play-screen.jpg" group-title="Undefined",The Beach Real Estate TV Show
-https://30a-tv.com/feeds/720p/42.m3u8
-
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2022/11/lionel-play-screen.jpg" group-title="Undefined",Lionel Nation TV
+#EXTINF:-1 tvg-id="30ALionelNation.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="General",30A Lionel Nation TV
 https://30a-tv.com/ln.m3u8
 
-#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2023/08/funny-videos_n-1024x576.png" group-title="Entertainment",Ridiculous TV
-https://30a-tv.com/feeds/720p/63.m3u8
+#EXTINF:-1 tvg-id="30ALoomeredTV.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="General",30A Loomered TV
+https://30a-tv.com/loomer.m3u8
+
+#EXTINF:-1 tvg-id="30ALuxeLifeDiscovered.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="General",30A Luxe Life Discovered
+https://30a-tv.com/feeds/vidaa/luxelife.m3u8
+
+#EXTINF:-1 tvg-id="30AMusic.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Music",30A Music Channel
+https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
+
+#EXTINF:-1 tvg-id="30ANashvilleCountry.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Music",30A Nashville Country Music
+https://hls.showfer.com/stream/63e7ca2d6e33cf5f07659f36/airy.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="News",30A Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="30ANothingScripted.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="General",30A Nothing Scripted TV
+https://30a-tv.com/NothingScripted.m3u8
+
+#EXTINF:-1 tvg-id="30ARidiculousTV.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Entertainment",30A Ridiculous TV
+https://30a-tv.com/feeds/vidaa/funnyvideos.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="General",30A Shopping Global
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+
+#EXTINF:-1 tvg-id="30ASidewalks.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Entertainment",30A Sidewalks
+https://30a-tv.com/sidewalks.m3u8
+
+#EXTINF:-1 tvg-id="30ATelevisionChannel.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Entertainment",30A Television Channel
+https://30a-tv.com/feeds/masters/30atv.m3u8
+
+#EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Entertainment",30A The Beach Show
+https://30a-tv.com/beachy.m3u8
+
+#EXTINF:-1 tvg-id="30ATheFirstTimers.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="General",30A The First Timers
+https://30a-tv.com/feeds/vidaa/firsttimers.m3u8
+
+#EXTINF:-1 tvg-id="30ATVClassicMovies.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Movies",30A TV Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+
+#EXTINF:-1 tvg-id="30ATvScifiSpooky.usTheBeachShow.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Documentary",30A TV SciFi & Spooky
+https://30a-tv.com/feeds/vidaa/scifi.m3u8
+
+#EXTINF:-1 tvg-id="30AWeLoveCars.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Sports",30A We Love Cars
+https://30a-tv.com/feeds/vidaa/cars.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/New_amgtv_top2.png" group-title="General",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
@@ -1089,8 +1114,11 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://radiou.com/wp-content/uploads/2014/07/LogoFullsize140724-300x300.jpg" group-title="Music",Radio U TV
 https://1840571692.rsc.cdn77.org/1840571692/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music",30A Music
+#EXTINF:-1 tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Music",30A Music
 http://30a-tv.com/music.m3u8
+
+#EXTINF:-1 tvg-id="30ANashvilleCountry.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Music",30A Nashville Country Music
+https://hls.showfer.com/stream/63e7ca2d6e33cf5f07659f36/airy.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Music",CMC TV Music
 https://cmc-ono.amagi.tv/amRdirect/device[did]=%7BPSID%7D&us_privacy=1%2D%2D%2D&coppa=%7BCOPPA%7D)&uid=1hum7atep-gptl-57o-e4i2-zmqvote4zx/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
