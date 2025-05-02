@@ -4,7 +4,7 @@
 https://github.com/inspirationlinks/m3u/raw/live/Streams/rtp1.m3u8
 
 #EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 HD (geo)
-https://moonlight.wideiptv.top/RTP2/index.fmp4.m3u8?token=882dcc5c16d47fd4ba3c7b49ee30a0ee7fc51215-afe7a84371c71d6a2ed0c37c2bbf2e40-1746128596-1746117796
+https://moonlight.wideiptv.top/RTP2/index.fmp4.m3u8?token=68f66884132211e1635c4ca6cef7c0c18a1d4953-a2970e4b74b590eab86cb5223f72cf63-1746220795-1746209995
 
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3 (geo)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
@@ -288,6 +288,9 @@ https://b3cc72d0160f4e168712e880c78c4dcc.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://condista.com/wp-content/uploads/2022/05/travel-xp-hd.jpg" group-title="Travel",Travel XP (espanol)
 https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 channel-id="5f32d432d612e50007e56133" tvg-id="5f32d432d612e50007e56133" tvg-chno="1154" tvg-name="Pluto TV Viagens" tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1732044191663.png" group-title="Travel",Pluto TV Viagens (PT)
+https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
+
 #EXTINF:-1 channel-id="PlutoTV-5dcddfbdb7cf0e0009ae09ea" tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Travel",Viajes
 https://jmp2.uk/plu-5dcddfbdb7cf0e0009ae09ea.m3u8
 
@@ -365,6 +368,9 @@ https://jmp2.uk/plu-5b329e0a7b9d8872aeb49ceb.m3u8
 
 #EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
 https://jmp2.uk/plu-599375885ceaac3cabccbed7.m3u8
+
+#EXTINF:-1 channel-id="61099df8cee03b00074b2ecf" tvg-id="61099df8cee03b00074b2ecf" tvg-chno="486" tvg-name="O Encantador de Cães" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="Pets",O Encantador de Cães
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 
 #EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://feedlix.net/tv/pt/ZigZag.png" group-title="Kids",Zig Zag (ocasional)
 https://streaming-live.rtp.pt/liverepeater/smil:zigzagHD.smil/chunklist_b290000_slpor.m3u8
@@ -537,6 +543,12 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfchannel.png" group-title="Sports",Surf Channel
 https://daiconnect.com/live/hls/tvup/rk-surfchannel/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=3740&ads_rtv_content_language=spa&ads_streaming_id=52c97d10-13ae-4216-bec5-0ba837edbd48&ads_tcs_channel_id=931&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
+#EXTINF:-1 channel-id="5f32d2db0af67400077f29c4" tvg-id="5f32d2db0af67400077f29c4" tvg-chno="827" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="Sports",Pluto TV Sports (PT)
+https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
+
+#EXTINF:-1 channel-id="65a6818c7bdc8d0008457b21" tvg-id="65a6818c7bdc8d0008457b21" tvg-chno="843" tvg-name="MAVTV Brasil" tvg-logo="https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG.png" group-title="Sports",MAVTV Brasil
+https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://entry.motorsport.tv/images/channel/id68/avatar/672bc4405081569476c07f483dbb6d838656b10e-300-300.jpg" group-title="Sports",Motorsport TV
 https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 
@@ -551,6 +563,9 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2900001LI_20230926T032241SQUARE.png_20230926032242.png" group-title="Sports", World Poker Tour
 https://jmp2.uk/sam-CHBD2900001LI.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Sports",NBA TV
+https://v5.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png",FIFA+ (PT)
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=edge-chromium&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gam_correlator=817032784347559&ads.gdpr_consent=CQED4hgQED4hgAcABBPTBDFsAP_gAEPgACiQKVsV5C5cTWFgcXp1QPsEeYUH1sAwgkAAABCBAqABCCAEMBQAgiAgMASABAACAAIAIBJBAQAkCAAEAEAAQAAAAABIIACAgBAIIABAABEBAABACAACAAAAAACIgAAVAAAAkAAAAFKEAEAAAAAAAkAAAAAAAAAAAAKABAAIAAIAAEAIACgAAAAAAAAAAAAAARAAAAkAAAAAAAAAAAAAABAQEAAAAAAgABeCisEMABAACwAKgAXAA4AB4AEAAJAAZQA0ADUAHAAPAAiABHACYAFKALgAugBiADQAG8APQAfgBCACGgEQARIAlgBhgDKAGaANEAc4A-AB-gEIAIsAR0AkoBdQDFAGvANwAcQA6gB_QD_gImAReAkQBKwCYgFIgK7AWwAvMBggDFgGWANVAayA8cB-4D-wI_gTeAnMBO4CioAA.f_wACHwAAAAA&ads.market=pt&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=ae94ace5-442f-458a-8084-ba580378c95f&ads.rtv_content_id=6130&ads.rtv_content_language=por&ads.rtvid=271863&ads.streaming_id=e15de15c-c02e-48df-8afc-f34eb723647a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1776
@@ -782,6 +797,12 @@ https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV (RO)
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 channel-id="66a01dcb8561260008b0a41d" tvg-id="66a01dcb8561260008b0a41d" tvg-chno="1503" tvg-name="MTV Classic" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="Music",MTV Classic
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+
+#EXTINF:-1 channel-id="66a01e07d2d50d0008100d6a" tvg-id="66a01e07d2d50d0008100d6a" tvg-chno="1504" tvg-name="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png" group-title="Music",MTV Rocks
+https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902SQUARE.png" group-title="Music",Vevo 2010s
 https://jmp2.uk/sam-USBD120002431.m3u8
