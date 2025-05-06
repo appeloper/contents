@@ -684,29 +684,29 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/526675/horizontal/3ABN--1480x840.1659535621.jpg" group-title="Religious",3ABN
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/530218/horizontal/International1480x840.1659537368.jpg" group-title="Religious",3ABN International
-https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/chunklist_w322769213_b1928000_slen.m3u8
-
 #EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/3084114/horizontal/2f6216c2-f160-4427-94ec-efac4c351be4.jpg",3ABN Canada
-https://3abn.bozztv.com/3abncanada/3ABN/SD480/SD480.m3u8
-
-#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/739696/horizontal/French-1480x840.1659539108.jpg" group-title="Religious",3ABN France
-https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/chunklist_w2138748138_b1928000_slen.m3u8
-
-#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/534693/horizontal/Latino1480x840.1659537624.jpg" group-title="Religious",3ABN Latino
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/chunklist_w161964424_b1928000_slen.m3u8
-
-#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/739766/horizontal/Russia-1480x840.1659538945.jpg" group-title="Religious",3ABN Russia
-https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/chunklist_w978266898_b1928000_slen.m3u8
+https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/530203/horizontal/D2D-1480x840.1659535818.jpg?auto=webp&width=700" group-title="Religious",3ABN Dare to Dream
-https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/chunklist_w86957213_b1928000_slen.m3u8
+https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/739696/horizontal/French-1480x840.1659539108.jpg" group-title="Religious",3ABN France
+https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/530218/horizontal/International1480x840.1659537368.jpg" group-title="Religious",3ABN International
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/534693/horizontal/Latino1480x840.1659537624.jpg" group-title="Religious",3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/531102/horizontal/Praise-Him1480x840.1659537466.jpg" group-title="Religious",3ABN Praise Him Music
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/527372/horizontal/Proclaim-1480x840.1659535750.jpg" group-title="Religious",3ABN Proclaim
-https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/chunklist_w330060329_b1928000_slen.m3u8
+https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/531102/horizontal/Praise-Him1480x840.1659537466.jpg" group-title="Religious",3ABN Music
-https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/chunklist_w476019436_b2128000_slen.m3u8
+#EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/images/programs/739766/horizontal/Russia-1480x840.1659538945.jpg" group-title="Religious",3ABN Russia
+https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/363ab328b7016878551f2fc04efe34262c18a93fd952c925ad07df1d9dc236e9.png" group-title="Religious",Harvest TV
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8
@@ -895,7 +895,7 @@ https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
 https://jmp2.uk/plu-667f3852efa2a10008e1e514.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.truli.com/sites/default/files/styles/400x225/public/3abn-800x450_0.jpg" group-title="Kids",3ABN Kids
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w1880211654_b1928000_slen.m3u8
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/us/toonami.png" group-title="Kids",Toonami Aftermath 1
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
