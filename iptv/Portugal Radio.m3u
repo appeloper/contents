@@ -63,20 +63,20 @@ https://stream-hls.bauermedia.pt/rcbrasil.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ybykwjqku6rh.png" group-title="Radio",Comercial Dance
 https://stream-hls.bauermedia.pt/rcdance.aac/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-ohw-1200x630.jpg" group-title="Radio",Comercial One Hit Wonders
-https://stream-hls.bauermedia.pt/rchit.aac/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Comercial-Kids.png" group-title="Radio",Comercial Kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Comercial-Kids.png" group-title="Radio",Comercial Kids (Radio PT)
 https://stream-hls.bauermedia.pt/rckids.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-portugal-1200x630.jpg" group-title="Radio",Comercial Tuga
-https://stream-hls.bauermedia.pt/rctuga.aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-ohw-1200x630.jpg" group-title="Radio",Comercial One Hit Wonders (Radio PT)
+https://stream-hls.bauermedia.pt/rchit.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q6clfyhqvcg5.png" group-title="Radio",Comercial Rock
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/q6clfyhqvcg5.png" group-title="Radio",Comercial Rock (Radio PT)
 https://stream-hls.bauermedia.pt/rcrock.aac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/9/79499.v7.png" group-title="Radio",Comercial Soft
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/9/79499.v7.png" group-title="Radio",Comercial Soft (Radio PT)
 https://stream-hls.bauermedia.pt/rcsoft.aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiocomercial.pt/upload/I/img-newlogorc-portugal-1200x630.jpg" group-title="Radio",Comercial Tuga (Radio PT)
+https://stream-hls.bauermedia.pt/rctuga.aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dianafm.com/wp-content/uploads/2016/03/diana_logo.png" group-title="Radio",Diana FM
 https://centova.radios.com.pt/proxy/460?mp=/stream
