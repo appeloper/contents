@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RTP 1 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPHD_monocromaticoAzul_horiz_RGB.png" group-title="General",RTP 1 HD (geo)
-https://github.com/inspirationlinks/m3u/raw/live/Streams/rtp1.m3u8
+https://fullness.wideiptv.top/RTP1/index.fmp4.m3u8?token=d31bb2c74185905d1f73f1026d4bca7e9b6992d5-eb9329e4edf18c85d8c19e6efb86fac9-1746901174-1746890374
 
 #EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 HD (geo)
-https://moonlight.wideiptv.top/RTP2/index.fmp4.m3u8?token=502d5b4b1dd61cfc55fdd92206b279ca87aced31-f8e8ff54debaf1a39a870ef38f67d313-1746840874-1746830074
+https://moonlight.wideiptv.top/RTP2/index.fmp4.m3u8?token=549fb1cc002eb26eb7308225206fb47c89592236-61f0750c81febd5b4d9f75221804e2cc-1746901098-1746890298
 
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP3_positivo_horiz_RGB.png" group-title="News",RTP 3 (geo)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/29a34c67836621.Y3JvcCw4MzIsNjUxLDM1LDA.jpg" group-title="General",CMTV
-https://moonlight.wideiptv.top/CMTVPT/index.fmp4.m3u8?token=16c35f7bf4b7d1ea85bf3fe2230375fa29e2582e-d61d88c87c8650004cb8083bc79e7b33-1746840908-1746830108
+https://moonlight.wideiptv.top/CMTVPT/index.fmp4.m3u8?token=6607a70efdb40cadd8e03b18e545ce054bfae2c5-1f2fa1cfa4a90a86d96cbcd0b309d0e0-1746902006-1746891206
 
 #EXTINF:-1 tvg-id="VmaisTVI.pt" tvg-logo="https://mediacapitalcomercial.pt/wp-content/uploads/CAPAS-SITE-COMERCIAL-V-3.jpg" group-title="Entertainment",V+ TVI
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
