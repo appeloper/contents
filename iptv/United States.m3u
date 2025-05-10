@@ -771,6 +771,9 @@ https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-consumer-direct.jpg" group-title="Sports",TVS Consumer Direct
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/44e94b30-41a7-4179-a484-a978da7eb0e7/TPC_PLEX_CHANNEL-LOGOS_COLOR.png" group-title="Pets",Plex Pet Collective
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5f170d61b898490041b49369.m3u8
+
 #EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="https://mma.prnewswire.com/media/1905810/The_Pet_Collective_Logo.jpg" group-title="Pets",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
