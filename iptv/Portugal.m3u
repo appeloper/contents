@@ -546,6 +546,9 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/surfchannel.png" group-title="Sports",Surf Channel
 https://daiconnect.com/live/hls/tvup/rk-surfchannel/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=3740&ads_rtv_content_language=spa&ads_streaming_id=52c97d10-13ae-4216-bec5-0ba837edbd48&ads_tcs_channel_id=931&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/nitro-circus-logo-png_seeklogo-512302.png" group-title="Sports",Bike
+https://amg13231-amg13231c1-xiaomi-international-2911.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-xiaomiinternational/playlist.m3u8
+
 #EXTINF:-1 channel-id="5f32d2db0af67400077f29c4" tvg-id="5f32d2db0af67400077f29c4" tvg-chno="827" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="Sports",Pluto TV Sports (PT)
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
 
