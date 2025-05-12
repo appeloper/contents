@@ -696,6 +696,12 @@ https://59ec5453559f0.streamlock.net/miamitvmystery/miamitvmystery/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/a2i_music.jpg" group-title="Music",A2i Music
 https://stream.sen-gt.com/A2iMusic/myStream/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="30AMusic.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Music",30A Music Channel
+https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
+
+#EXTINF:-1 tvg-id="30ANashvilleCountry.us" tvg-logo="https://30a-tv.com/wp-content/uploads/2024/06/logo-30a-tv-com-2024.png" group-title="Music",30A Nashville Country Music
+https://hls.showfer.com/stream/63e7ca2d6e33cf5f07659f36/airy.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.teambuildingradio.it/wp-content/uploads/2017/05/logo-radio-capital.jpg" group-title="Music",Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8	
 
@@ -704,9 +710,6 @@ https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FRBC900001LB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20230208T013112SQUARE.png_20230208013112.png" group-title="Music",Émotion
 https://jmp2.uk/sam-FRBC900001LB.m3u8
-
-#EXTINF:-1 tvg-id="625e810f0035910007da288b" tvg-logo="https://images.pluto.tv/channels/625e810f0035910007da288b/colorLogoPNG.png" group-title="Music",Summer Hits
-https://jmp2.uk/plu-625e810f0035910007da288b.m3u8
 
 #EXTINF:-1 tvg-id="619b80acac5329000740c022" tvg-logo="https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png" group-title="Music",Love Songs
 https://jmp2.uk/plu-619b80acac5329000740c022.m3u8
@@ -717,17 +720,14 @@ https://tvm3.vedge.infomaniak.com/livecast/tvm3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.allaccess.com/assets/img/editorial/raw/di/dittytvlogo2019.jpg" group-title="Music",Ditty TV
 https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://radiou.com/wp-content/uploads/2014/07/LogoFullsize140724-300x300.jpg",Radio U TV
-https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://radiou.com/wp-content/uploads/2014/07/LogoFullsize140724-300x300.jpg" group-title="Music",Radio U TV
+https://1840571692.rsc.cdn77.org/1840571692/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music",30A Music
-http://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Music",CMC TV Music
+https://cmc-ono.amagi.tv/amRdirect/device[did]=%7BPSID%7D&us_privacy=1%2D%2D%2D&coppa=%7BCOPPA%7D)&uid=1hum7atep-gptl-57o-e4i2-zmqvote4zx/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Music",CMC Music
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Music",CMC-USA
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 tvg-name="CMT Equal Play" tvg-id="5f68f53eb1e5800007390bf8" tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" tvg-chno="4680" group-title="Music",CMT Equal Play
+https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8
 
 #EXTINF:-1 tvg-id="64240d3d466225000827412b" tvg-logo="https://images.pluto.tv/channels/64240d3d466225000827412b/colorLogoPNG.png" group-title="Music",Qello Concerts
 https://jmp2.uk/plu-64240d3d466225000827412b.m3u8
@@ -744,47 +744,53 @@ https://jmp2.uk/plu-64240ccfaa2d690008dc4406.m3u8
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/06/Brit-Asia-TV-logo.jpg" group-title="Music",Brit Asia TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/toplatino.png" group-title="Music",Top Latino
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/chunklist_w1184348296.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efd5ffbcb87e64e8de9354ef207a97b6.jpg" group-title="Music",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/karibena.png" group-title="Music",Karibeña TV
-https://streamtv.onliv3.online:1936/karibtv/karibtv_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9274ced11768aab7ef96be3a7875727.jpg" group-title="Music",Stingray Pop Adult
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3023
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/219e8c232cd51df76182fee9cf2e90ba.jpg" group-title="Music", Stingray Remembers 80s
+https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/306ee143a9a210ab3a9b1247c90c8265.jpg" group-title="Music", Stingray Classic Rock
+https://d1gblbamdkwl5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rlxixsm66esse/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0031f1f8bad402b0f722e5c98cfaedc4.jpg" group-title="Music",Backstage
+https://d1w5xedouwkj5i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m8rzyzewdp4tz-prod/amgfusebackstage/playlist.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-ITBB1900001O3" tvg-id="ITBB1900001O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB1900001O3_20220404T005706SQUARE.png_20220404005708.png" group-title="Music",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8?ads_amagi_channel=717&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=2239&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=ff3b7719-0c29-4652-bed0-85d4296adbd0&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 channel-id="pluto-64240d00dbdaaa00085bc5e2" tvg-id="64240d00dbdaaa00085bc5e2" tvg-logo="https://images.pluto.tv/channels/64240d00dbdaaa00085bc5e2/colorLogoPNG.png" group-title="Music",CMusic
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d00dbdaaa00085bc5e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c9ccb53e-620e-11ef-b11f-5e151e6e439f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0864c78c-bab0-4409-bc59-b5376c638f28&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/lamegamundial.png" group-title="Music",La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="https://bit.ly/31s29L6" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Music",Cadena Elite
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cadenaelite.es/img/logoMenu.png" group-title="Music",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sol Música España" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Sol_Musica_Spain.jpg" group-title="Music",Sol Musica
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
-#EXTINF:-1 tvg-name="Activa TV España" tvg-logo="https://www.totalmedios.com/img/noticias/2020/08/5f27fe0cb92c4__236x150.jpg" group-title="Music",Activa TV
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-
-#EXTINF:-1 tvg-name="Molahits TV España" tvg-logo="https://feedlix.net/tv/mus/MolaTv.png" group-title="Music",Mola TV Hits
-https://ventdelnord.tv:8080/mola/directe.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/top_music.jpg" group-title="Music",Music Top
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/onfm_tv.jpg" group-title="Music",ON FM TV
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/karibena.png" group-title="Music",Karibeña TV
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/m2o_it_tv.png" group-title="Music",M2O TV
 https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/vintage_music.png" group-title="Music",Vintage Music TV
-https://storage.viewtvgroup.com/vintagetv/GeneSimmonsNickyHornePresents/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Music",Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/retro_plus.png" group-title="Music",Retro Plus Classic
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/jukebox-tv.jpg",Jukebox Radio TV
 https://5926fc9c7c5b2.streamlock.net/9108/9108/chunklist_w191251077.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/music_box.png",Music Box Gold
-https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/1mushd.jpg",1 Music HD
 http://hz1.teleport.cc/HLS/HD.m3u8
@@ -807,11 +813,14 @@ http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One HD 4
 http://rtmp.one.by:1200
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="Music",Trace Latina
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+#EXTINF:-1 channel-id="GBBD19000026B" tvg-id="GBBD19000026B" tvg-chno="4716" tvg-name="Trace UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD19000026B_20250107T030813SQUARE.png" group-title="Music",Trace UK
+https://jmp2.uk/sam-GBBD19000026B.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="Music",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 channel-id="GBBC900001SC" tvg-id="GBBC900001SC" tvg-chno="4717" tvg-name="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900001SC_20250107T025823SQUARE.png" group-title="Music",Trace Urban
+https://jmp2.uk/sam-GBBC900001SC.m3u8
+
+#EXTINF:-1 tvg-id="TraceHits.uk" tvg-logo="https://i.imgur.com/Vvxz6KX.png" group-title="Music",Trace Hits
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/nrg91.png" group-title="Music",NRG 91 TV
 http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
@@ -825,14 +834,17 @@ https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/baraza.png" group-title="Music",Baraza HD TV
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Music",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-DEBA150003050" tvg-id="DEBA150003050" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20240321T045923SQUARE.png" group-title="Music",Deluxe Deutsch Pop
+https://jmp2.uk/sam-DEBA150003050.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-DEAH3904006A" tvg-id="DEAH3904006A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20240321T045850SQUARE.png" group-title="Music",Deluxe Lounge HD
+https://jmp2.uk/sam-DEAH3904006A.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-DEBD3800001QD" tvg-id="DEBD3800001QD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD3800001QD_20240131T032211SQUARE.png_20240131032211.png" group-title="Music",Deluxe RAP
+https://jmp2.uk/sam-DEBD3800001QD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.infosat.de/sites/default/files/news/ockostar655440.jpg" group-title="Music",Ocko Star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/f5/c3/1818/2/c175.png" group-title="Music",21 Radio TV Rock'n Pop
-https://live.creacast.com/radio21/smil:radio21.smil/chunklist_w758890797_b628000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/NOW_70s.png" group-title="Music",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
@@ -843,11 +855,20 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/NOW_90s.png" group-title="Music",Now 90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/rock_serbia.jpg" group-title="Music",Rock and Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rockland TV-Mainz" tvg-logo="https://www.rockland.de/fileadmin/_processed_/e/6/csm_Rockland-Radio_TV_Logo_dfaa5c5b6e.png" group-title="Music",Rockland Radio TV 
-https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w2125207797_b2628000.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ndlOHVEr0utSM2aG9C1iCvG-OYKj83xXQyR6Y55DKt9A=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Rockola tv
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/2.m3u8
+
+#EXTINF:-1 tvg-name="Rock TV" tvg-id="ITBC1100011RK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png" group-title="Music",ROCK TV
+https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rocktv" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music",Rock TV 2
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV (RO)
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png",Vevo 2K
 https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
