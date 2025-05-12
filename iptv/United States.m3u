@@ -1011,6 +1011,9 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chu
 #EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/603d35f3-bea2-4f06-b179-1a98c0adf534/Untitled_15.png" group-title="Sports",Racing America
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/nitro-circus-logo-png_seeklogo-512302.png" group-title="Sports",Bike
+https://amg13231-amg13231c1-xiaomi-international-2911.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-xiaomiinternational/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f84c7517-eb5c-4613-b37d-7f5dae5894d7/Snowboarder_Transparent_-_Geoff_Clark.png" group-title="Sports",Snowboarder
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-656fbac9dbcce28c3a417419.m3u8
 
@@ -1050,17 +1053,14 @@ https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png" group-title="Sports",Strongman Champions
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/27e36afa-f885-4d90-9a7e-1568f45878c2/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="Sports",TNA Wrestling Channel
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7eafb87f-2f32-4289-a80d-faf1cdfef1d7/Skate_Dark_BG_-_Geoff_Clark.png" group-title="Sports",Transworld Skateboarding
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-656fb965cb7e8e6a9bc3f370.m3u8
+https://amg13231-amg13231c2-xiaomi-international-2913.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-xiaomiinternational/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f676bd67-0e26-4cd3-88dd-46fca5130bee/Plex_billiard__1500x1000__color_rdxfds.png" group-title="Sports",Billiard TV
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c.m3u8
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6334a8e48a7b2a349d903b8c.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a74fdfd7-528c-4800-b1f4-c3721b1c246f/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png" group-title="Sports",Pickle TV
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-63ec0b739866d8d2120ac759" tvg-id="647f8d22a2fc3fadb4721685-63ec0b739866d8d2120ac759" tvg-name="PickleTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a74fdfd7-528c-4800-b1f4-c3721b1c246f/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png" group-title="Sports",PickleTV
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63ec0b739866d8d2120ac759.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://strongmancl.com/wp-content/uploads/2019/08/SCL-logo.png" group-title="Sports",Strong Mans Champion League
 https://rightsboosterltd-scl-1-us.lg.wurl.tv/playlist.m3u8
