@@ -852,18 +852,6 @@ https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-DEBC21000022L" tvg-id="DEBC21000022L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20230412T042621SQUARE.png_20230412042621.png" group-title="Music",Vevo Schlager Pop
 https://jmp2.uk/sam-DEBC21000022L.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Music",KPOP Music TV
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-
-#EXTINF:-1 channel-id="SamsungTVPlus-CABD1200034DU" tvg-id="CABD1200034DU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200034DU_20240313T064738SQUARE.png" group-title="Music",Stingray Today's K-Pop
-https://jmp2.uk/sam-CABD1200034DU.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/V2Beat.tv.png" group-title="Music",V2Beat
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/2556.gif" group-title="Music",Visual Radio
-http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240401T235855SQUARE.png" group-title="Music",XITE 80s Flashback
 https://jmp2.uk/sam-CABB2600017ZU.m3u8
 
@@ -929,9 +917,6 @@ https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee" tvg-logo="https://www.dancetv.net/img/icons/channels/algorhythm.jpg" group-title="Music",DanceTV Algorhythm
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
-
-#EXTINF:-1 tvg-id="BestofDanceTV.ee" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" :http-referrer="" :http-user-agent="",DanceTV Best
-https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-id="DanceTVChillAF.ee" tvg-logo="https://www.dancetv.net/img/icons/channels/chill-af.jpg" group-title="Music",DanceTV Chill AF
 https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
