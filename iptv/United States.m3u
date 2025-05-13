@@ -1353,74 +1353,92 @@ https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 #EXTINF:-1 channel-id="66a01e07d2d50d0008100d6a" tvg-id="66a01e07d2d50d0008100d6a" tvg-chno="1504" tvg-name="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png" group-title="Music",MTV Rocks
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
 
-#EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png",Vevo 2K
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902SQUARE.png" group-title="Music",Vevo 2010s
+https://jmp2.uk/sam-USBD120002431.m3u8
+
+#EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Music",Vevo 2K
 https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f32f26bcd8aea00071240e5" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png",Vevo '70s
+#EXTINF:-1 channel-id="pluto-5f32f26bcd8aea00071240e5" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Music",Vevo '70s
 https://jmp2.uk/plu-5f32f26bcd8aea00071240e5.m3u8
 
-#EXTINF:-1 channel-id="pluto-5fd7b8bf927e090007685853" tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png",Vevo '80s
+#EXTINF:-1 channel-id="pluto-5fd7b8bf927e090007685853" tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music",Vevo '80s
 https://jmp2.uk/plu-5fd7b8bf927e090007685853.m3u8
 
-#EXTINF:-1 channel-id="pluto-5fd7bb1f86d94a000796e2c2" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png",Vevo '90s
+#EXTINF:-1 channel-id="pluto-5fd7bb1f86d94a000796e2c2" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Music",Vevo '90s
 https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2.m3u8
 
-#EXTINF:-1 channel-id="pluto-5da0d75e84830900098a1ea0" tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png",Vevo Country
+#EXTINF:-1 channel-id="pluto-5da0d75e84830900098a1ea0" tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Music",Vevo Country
 https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
 
-#EXTINF:-1 channel-id="pluto-64d161c93c785e0008df575e" tvg-id="64d161c93c785e0008df575e" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png",Vevo Íconos Latinos
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD1200008GL" tvg-id="USBD1200008GL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20240520T212908SQUARE.png" group-title="Music",Vevo Features
+https://jmp2.uk/sam-USBD1200008GL.m3u8
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC3600002EK" tvg-id="USBC3600002EK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20240520T212910SQUARE.png" group-title="Music",Vevo Hip-Hop
+https://jmp2.uk/sam-USBC3600002EK.m3u8
+
+#EXTINF:-1 channel-id="pluto-64d161c93c785e0008df575e" tvg-id="64d161c93c785e0008df575e" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" group-title="Music",Vevo Íconos Latinos
 https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
 
-#EXTINF:-1 channel-id="pluto-5da0d64d0e8a62000964ebe4" tvg-id="5da0d64d0e8a62000964ebe4" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png",Vevo Latino
-https://jmp2.uk/plu-5da0d64d0e8a62000964ebe4.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC3600015GF" tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20240520T212912SQUARE.png" group-title="Music",Vevo Latino
+https://jmp2.uk/sam-USBC3600015GF.m3u8
 
-#EXTINF:-1 channel-id="pluto-5d93b635b43dd1a399b39eee" tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png",Vevo Pop
+#EXTINF:-1 channel-id="pluto-5d93b635b43dd1a399b39eee" tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music",Vevo Pop
 https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f32f397795b750007706448" tvg-id="5f32f397795b750007706448" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png",Vevo Reggaeton & Trap
-https://jmp2.uk/plu-5f32f397795b750007706448.m3u8
-
-#EXTINF:-1 channel-id="pluto-61d4b38226b8a50007fe03a6" tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png",Vevo Retro Rock
+#EXTINF:-1 channel-id="pluto-61d4b38226b8a50007fe03a6" tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="Music",Vevo Retro Rock
 https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 
-#EXTINF:-1 channel-id="pluto-5da0d83f66c9700009b96d0e" tvg-id="5da0d83f66c9700009b96d0e" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png",Vevo R&B
+#EXTINF:-1 channel-id="pluto-5da0d83f66c9700009b96d0e" tvg-id="5da0d83f66c9700009b96d0e" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Music",Vevo R&B
 https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
 
-#EXTINF:-1 channel-id="pluto-61d4c2817a823d00070ba53e" tvg-id="61d4c2817a823d00070ba53e" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png",Vevo True School Hip-Hop
-https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-DEBC21000022L" tvg-id="DEBC21000022L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20230412T042621SQUARE.png_20230412042621.png" group-title="Music",Vevo Schlager Pop
+https://jmp2.uk/sam-DEBC21000022L.m3u8
 
-#EXTINF:-1 tvg-id="CABB2600017ZU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600017ZU_20240702T044756SQUARE.png" group-title="Music",XITE 80s Flashback
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240401T235855SQUARE.png" group-title="Music",XITE 80s Flashback
 https://jmp2.uk/sam-CABB2600017ZU.m3u8
 
-#EXTINF:-1 tvg-id="CABB2600018T4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600018T4_20240702T044758SQUARE.png" group-title="Music",XITE 90s Throwback
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240401T235856SQUARE.png" group-title="Music",XITE 90s Throwback
 https://jmp2.uk/sam-CABB2600018T4.m3u8
 
-#EXTINF:-1 tvg-id="CABD1200038NZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200038NZ_20231114T233340SQUARE.png_20231114233341.png" group-title="Music",XITE Hits
-https://jmp2.uk/sam-CABD1200038NZ.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240401T235814SQUARE.png" group-title="Music",XITE Celebrates
+https://jmp2.uk/sam-CABD17000043J.m3u8
 
-#EXTINF:-1 tvg-id="CABD120001993" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD120001993_20231114T233335SQUARE.png_20231114233336.png" group-title="Music",XITE Country Today
-https://jmp2.uk/sam-CABD120001993.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Music",XITE Classic Country
+https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
 
-#EXTINF:-1 tvg-id="CABD1200023UJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200023UJ_20240520T212052SQUARE.png" group-title="Music",XITE Classic Country
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240401T235722SQUARE.png" group-title="Music",XITE Country's Finest
 https://jmp2.uk/sam-CABD1200023UJ.m3u8
 
-#EXTINF:-1 tvg-id="CABD1200021MS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200021MS_20240520T212050SQUARE.png" group-title="Music",XITE R&B Classic Jams
-https://jmp2.uk/sam-CABD1200021MS.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240401T235720SQUARE.png" group-title="Music",XITE Country Today
+https://jmp2.uk/sam-CABD120001993.m3u8
 
-#EXTINF:-1 tvg-id="CABB26000054K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000054K_20240520T212056SQUARE.png" group-title="Music",XITE Rock x Metal
-https://jmp2.uk/sam-CABB26000054K.m3u8
+#EXTINF:-1 channel-id="PlutoTV-623b93628e6ded0007337d4d" tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="Music",XITE Gospel
+https://jmp2.uk/plu-623b93628e6ded0007337d4d.m3u8
 
-#EXTINF:-1 tvg-id="CABD1200039HG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200039HG_20231114T233342SQUARE.png_20231114233343.png" group-title="Music",XITE Icons
-https://jmp2.uk/sam-CABD1200039HG.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA22000070N_20240402T133359SQUARE.png" group-title="Music",XITE Hits
+https://jmp2.uk/sam-DEBA2200007V6.m3u8
 
-#EXTINF:-1 tvg-id="CABB2600004RZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600004RZ_20231024T231929SQUARE.png_20231024231930.png" group-title="Music",XITE Just Chill
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240401T235851SQUARE.png" group-title="Music",XITE Just Chill
 https://jmp2.uk/sam-CABB2600004RZ.m3u8
 
-#EXTINF:-1 tvg-id="CABD12000207Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD12000207Z_20231114T233345SQUARE.png_20231114233346.png" group-title="Music",XITE Only Love
-https://jmp2.uk/sam-CABD12000207Z.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240401T235728SQUARE.png" group-title="Music",XITE Nuevo Latino
+https://jmp2.uk/sam-USBD3300007PB.m3u8
 
-#EXTINF:-1 tvg-id="CABD17000043J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD17000043J_20240702T044800SQUARE.png" group-title="Music",XITE Celebrates
-https://jmp2.uk/sam-CABD17000043J.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240401T235731SQUARE.png" group-title="Music",XITE R&B Classic Jams
+https://jmp2.uk/sam-CABD1200021MS.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="Music",XITE Rock
+https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBB2300004KV" tvg-id="USBB2300004KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="Music",XITE Rock x Metal
+https://jmp2.uk/sam-USBB2300004KV.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240401T235853SQUARE.png" group-title="Music",XITE Rock On
+https://jmp2.uk/sam-CABB26000054K.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240401T235733SQUARE.png" group-title="Music",XITE Siempre Latino
+https://jmp2.uk/sam-USBD3300010L9.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Music",KPOP Music TV
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
@@ -1442,9 +1460,6 @@ https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee" tvg-logo="https://www.dancetv.net/img/icons/channels/algorhythm.jpg" group-title="Music",DanceTV Algorhythm
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
-
-#EXTINF:-1 tvg-id="BestofDanceTV.ee" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music" :http-referrer="" :http-user-agent="",DanceTV Best
-https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-id="DanceTVChillAF.ee" tvg-logo="https://www.dancetv.net/img/icons/channels/chill-af.jpg" group-title="Music",DanceTV Chill AF
 https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
@@ -1481,6 +1496,15 @@ https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/IHeartRadio_Logo.svg/1200px-IHeartRadio_Logo.svg.png" group-title="Radio",iHeartRadio Country (Radio)
 https://iheart-iheartcountry-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/IHeartRadio_Logo.svg/1200px-IHeartRadio_Logo.svg.png" group-title="Radio",iHeartRadio Alternative (Radio)
+https://iheart-iheartaltradio-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/IHeartRadio_Logo.svg/1200px-IHeartRadio_Logo.svg.png" group-title="Radio",iHeartRadio Beso (Radio)
+https://iheart-iheartlatinohits-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/IHeartRadio_Logo.svg/1200px-IHeartRadio_Logo.svg.png" group-title="Radio",iHeartRadio Hip-Hop (Radio)
+https://iheart-iheartthebeat-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/jB4AJycGCT.png" group-title="Radio",1 FM Absolutely Country Hits (Radio)
 https://strm112.1.fm/acountry_mobile_mp3
