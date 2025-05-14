@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="RTP 1 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPHD_monocromaticoAzul_horiz_RGB.png" group-title="General",RTP 1 HD (geo)
-https://fullness.wideiptv.top/RTP1/index.fmp4.m3u8?token=6af369fe80ef307ba35eb9016a4350f259304cd3-f39fad02b4280e5cd3f5a3e3b4475852-1747183305-1747172505
+https://fullness.wideiptv.top/RTP1/index.fmp4.m3u8?token=32366d5c1f093d4672466bf07470fb7714ec0bf9-e8e2f38291c78d44c36a30da4b6ea989-1747264606-1747253806
 
 #EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp2_negativoAmarelo_horiz_RGB.png" group-title="General",RTP 2 HD (geo)
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/chunklist_b2540000_slpor.m3u8
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/29a34c67836621.Y3JvcCw4MzIsNjUxLDM1LDA.jpg" group-title="General",CMTV
-https://moonlight.wideiptv.top/CMTVPT/index.fmp4.m3u8?token=603d0827b59e4d6e8ceffa71fd3e85d7e1fb6c77-96fe20febf5bf339d0a65cf238feb803-1747183263-1747172463
+https://moonlight.wideiptv.top/CMTVPT/index.fmp4.m3u8?token=02ccb30bf39771070a635d62a9b5753e34a382cd-abbd06c83843a7cc165d6950c3fe7017-1747264655-1747253855
 
 #EXTINF:-1 tvg-id="VmaisTVI.pt" tvg-logo="https://mediacapitalcomercial.pt/wp-content/uploads/CAPAS-SITE-COMERCIAL-V-3.jpg" group-title="Entertainment",V+ TVI
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
