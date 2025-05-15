@@ -892,7 +892,7 @@ https://stream-icy.bauermedia.pt/m80.mp3
 https://stream-icy.bauermedia.pt/m8060.aac
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_70s.png" group-title="Radio",M80 70's (Radio PT)
-https://stream-icy.bauermedia.pt/m8070.aac/playlist.m3u8
+https://stream-icy.bauermedia.pt/m8070.aac
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_80s.png" group-title="Radio",M80 80's (Radio PT)
 https://stream-icy.bauermedia.pt/m8080.aac
@@ -903,11 +903,17 @@ https://stream-icy.bauermedia.pt/m8090.aac
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_ballads.png" group-title="Radio",M80 Ballads (Radio PT)
 https://stream-icy.bauermedia.pt/m80ballads.aac
 
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_brasil.png" group-title="Radio",M80 Brasil (Radio PT)
+https://stream-icy.bauermedia.pt/m80brasil.aac
+
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_dance.png" group-title="Radio",M80 Dance (Radio PT)
 https://stream-icy.bauermedia.pt/m80dance.aac
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_disco.png" group-title="Radio",M80 Disco (Radio PT)
 https://stream-icy.bauermedia.pt/m80disco.aac
+
+#EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_indie.png" group-title="Radio",M80 Indie (Radio PT)
+https://stream-icy.bauermedia.pt/m80indie.aac
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_pop.png" group-title="Radio",M80 Pop (Radio PT)
 https://stream-icy.bauermedia.pt/m80pop.aac
