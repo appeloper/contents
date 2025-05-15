@@ -90,7 +90,7 @@ https://rogers-hls.leanstream.co/rogers/tor981.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/chkbkh5gjvpz.jpg" group-title="Radio",Adult Hits (Radio CA)
 https://ice1.streeemer.com:8020/radio.aac
 
-https://static.mytuner.mobi/media/tvos_radios/609/americas-country.ab6bc362.png" group-title="Radio",America's Country (Radio CA)
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/609/americas-country.ab6bc362.png" group-title="Radio",America's Country (Radio)
 https://ais-sa2.cdnstream1.com/1976_128.mp3
 
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/a1e4477d5fe9cb4beb300f03a2793674.jpg" group-title="Radio",Bellissima Relax (Radio CA)
