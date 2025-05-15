@@ -1047,6 +1047,12 @@ https://maggie.torontocast.com:2020/stream/vibrazionirockradio
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/37605.v7.png" group-title="Radio",98.1 CHFI (Radio)
 https://rogers-hls.leanstream.co/rogers/tor981.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/chkbkh5gjvpz.jpg" group-title="Radio",Adult Hits (Radio)
+https://ice1.streeemer.com:8020/radio.aac
+
+https://static.mytuner.mobi/media/tvos_radios/609/americas-country.ab6bc362.png" group-title="Radio",America's Country (Radio)
+https://ais-sa2.cdnstream1.com/1976_128.mp3
+
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/a1e4477d5fe9cb4beb300f03a2793674.jpg" group-title="Radio",Bellissima Relax (Radio)
 https://listen.openstream.co/3607/audio
 
@@ -1059,8 +1065,17 @@ https://usa17.fastcast4u.com/proxy/gebacher?mp=/1
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/reaarvmfwejy.jpg" group-title="Radio",Classic Metal (Radio)
 http://quincy.torontocast.com:2100/stream
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/23491.v4.png" group-title="Radio",Classic Rock (Radio)
-http://listen.classicrock109.com:10042/;
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/23491.v4.png" group-title="Radio",Classic Rock 109 (Radio)
+https://broadcast.classicrock109.com/cr109
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/azuxm5stfyca.png" group-title="Radio",Classic Rock HD (Radio)
+https://hdradioclassicrock-rfritschka.radioca.st/;
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/106/chuc-fm-classic-rock-1079.a34e8fc3.png" group-title="Radio",Classic Rock FM 107.9 (Radio)
+https://mybroadcasting.streamb.live/SB00337
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/674/dance-machine.c990d6cc.png" group-title="Radio",Dance Machine (Radio)
+https://edm.streeemer.com/listen/edm/radio.aac
 
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/1ac490bb6dfc4c18b3f9b55bf19f3c9d.jpg group-title="Radio",Fresh 104,3 FM (Radio)
 http://live.leanstream.co/CKWSFM
@@ -1068,8 +1083,11 @@ http://live.leanstream.co/CKWSFM
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/s2Ucb3yrK3.jpg" group-title="Radio",Gritty Rock (Radio)
 https://www.radioking.com/play/gritty-rock/224413
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/13094.v10.png" group-title="Radio",Hits 93 Toronto (Radio)
-https://listen.radioking.com/radio/75868/stream/113899
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ftnjunvfujey.jpg" group-title="Radio",iRock 247 (Radio)
+https://streamer.radio.co/s493283a7e/listen
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/94534.v5.png" group-title="Radio",Jack FM Vancouver (Radio)
+https://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/12186.v12.png" group-title="Radio",Kiss 92.5 (Radio)
 https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
@@ -1077,20 +1095,23 @@ https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/af12ec30e98a272009bf80f920fb9f76.png" group-title="Radio",Love Moments (Radio)
 https://listen.openstream.co/6390/audio
 
-#EXTINF:-1 tvg-logo="https://liveradioca.com/uploads/img/montreal-s-reggae-station-1radio-ca.png" group-title="Radio",Montreal’s Reggae (Radio)
-https://streams.1radio.ca/reggae
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/584/luna-fm-world.e5678316.png" group-title="Radio",Luna FM (Radio)
+https://stream.lunafm.net/listen/lunaworld/radio.aac
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/020/massive-dance-radio.2d9bed22.png" group-title="Radio",Massive Dance (Radio)
+https://kathy.torontocast.com:4405/stream
 
 #EXTINF:-1 tvg-logo="https://liveradioca.com/uploads/img/nitty-gritty-music-radio.jpg" group-title="Radio",Nitty-Gritty Music (Radio)
 https://cast1.torontocast.com:1405/stream
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/716/oldies-america.5860af13.jpg" group-title="Radio",Oldies America (Radio)
+https://s9.citrus3.com:8398/stream
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/5/21615.v6.png" group-title="Radio",Q107 (Radio)
 https://live.leanstream.co/CILQFM-MP3?
 
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f6843b9b1ebe86c3c86ed96cf4cbf895.png" group-title="Radio",RdMix Classic Rock (Radio)
 https://cast1.torontocast.com:4610/stream
-
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f7ac9ec77991b94f51dcf8bc02edbd41.jpg" group-title="Radio",RdMix Eurodance 90s (Radio)
-https://maggie.torontocast.com:8046/strea
 
 #EXTINF:-1 tvg-logo="https://radiosuitenetwork.torontocast.stream/wp-content/uploads/2021/09/reggae.jpg" group-title="Radio",Reggae Chill Cafe (Radio)
 https://maggie.torontocast.com:8104/stream
@@ -1112,3 +1133,9 @@ https://rawlco.leanstream.co/CHUPFM?args=web_01
 
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/9a40db0394caa77bd2a7f6a44ca20886.png" group-title="Radio",Techno FM (Radio)
 https://stream.techno.fm/radio320.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wjnknbauqyhr.png" group-title="Radio",Today's Hits (Radio)
+https://ice1.streeemer.com:8030/radio.aac
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CVLCsPWA9T.png" group-title="Radio",Vibration Country (Radio CA)
+http://play.quebec-country.com/
