@@ -13,7 +13,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 #EXTINF:-1 tvg-name="BBC News North America" tvg-id="bbc-news-north-america-hd" tvg-logo="https://pbs.twimg.com/profile_images/1288471278953869320/Ki2rybZI_400x400.jpg" group-title="News",BBC News North America
-https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
 
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240319T022317SQUARE.png" group-title="News",Sky News
 https://jmp2.uk/sam-USBB52000022Q.m3u8
@@ -31,7 +31,7 @@ https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 https://jmp2.uk/sam-GB2600016U8.m3u8
 
 #EXTINF:-1 tvg-name="Fox News" tvg-id="fox-news" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/08/Fox-News-Channel-Emblem-1024x576.png" group-title="News",Fox News
-https://tvpass.org/live/FoxNewsChannel/hd
+https://tvpass.org/live/FoxNewsChannel/sd
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/cbsn.us.png" group-title="News",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
@@ -175,7 +175,7 @@ https://f06cd57c1eeb48fd89b80d9ff8ae230f.mediatailor.us-east-1.amazonaws.com/v1/
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 #EXTINF:-1 cuid="529" tvg-name="BBC America East" tvg-id="bbc-america-east" tvg-logo="https://seeklogo.com/images/B/bbc-america-logo-1344C402CD-seeklogo.com.png" group-title="Documentary",BBC America East
-https://tvpass.org/live/BBCAmericaEast/hd
+https://tvpass.org/live/BBCAmericaEast/sd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUjFHcGJI2XS4hksDvaRQg2YdHlZtZop2f5A&s" group-title="Documentary",Xumo Free Nature And Wildlife TV
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951218
@@ -361,7 +361,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Sports",NBA TV
-https://tvpass.org/live/NBATV/hd
+https://tvpass.org/live/NBATV/sd
 
 #EXTINF:-1 tvg-id="RakutenTV-UK_dazn-women-s-football" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e6ca508c-b569-4bd5-b183-070f477b0076.png" group-title="Sports",DAZN Women's Football
 https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8?ads_amagi_channel=855&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=5029&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=2dce0380-7a76-4411-acdb-85da64d2790b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
