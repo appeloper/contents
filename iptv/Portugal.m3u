@@ -574,7 +574,7 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 https://jmp2.uk/sam-CHBD2900001LI.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Sports",NBA TV
-https://tvpass.org/live/NBATV/sd
+https://tvpass.org/live/NBATV/hd
 
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="Sports",FIFA+ (PT)
 https://f7ccf7fc.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/a8f6d167-2207-49bd-9cd7-eab1a1bcfb53/2.m3u8
@@ -1125,53 +1125,6 @@ https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Grande Norte (Sintra)
 https://video-auth1.iol.pt/beachcam/praiagrande/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Grande Sul (Sintra)
-https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Guincho Norte
-https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Guincho Sul
-https://video-auth1.iol.pt/beachcam/praiaguinchosul/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Homem do Leme (Porto)
-https://video-auth1.iol.pt/beachcam/bchomemdoleme/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Jardim do Mar (Funchal)
-https://video-auth1.iol.pt/beachcam/madeirajardimdomar/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Lágide Cantinho da baía (Peniche)
-https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Lagoa de Albufeira (Sesimbra)
-https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Lagoa de Santo André (Santiago do Cacém)
-https://video-auth1.iol.pt/beachcam/bcsantoandre/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Leça da Palmeira
-https://video-auth1.iol.pt/beachcam/lecadapalmeira/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia da Luz
-https://video-auth1.iol.pt/beachcam/luz/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia das Maçãs (Sintra)
-https://video-auth1.iol.pt/beachcam/praiadasmacas/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Matadouro (Mafra)
-https://video-auth1.iol.pt/beachcam/matadouroskatepark/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Matosinhos
-https://video-auth1.iol.pt/beachcam/matosinhos/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia do Meco
-https://video-auth1.iol.pt/beachcam/bcmeco/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia Meia Praia (Lagos)
-https://video-auth1.iol.pt/beachcam/meiapraia/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia de Mira
-https://video-auth1.iol.pt/beachcam/bcmira/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/meo_beachcam.png" group-title="WebCam",Praia das Moitas (Cascais)
 https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
