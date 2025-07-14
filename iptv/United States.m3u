@@ -111,7 +111,7 @@ https://tvpass.org/live/BBCAmericaEast/hd
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240319T022317SQUARE.png" group-title="News",Sky News
 https://jmp2.uk/sam-USBB52000022Q.m3u8
 
-#EXTINF:-1 channel-id="GB2600019ON" tvg-id="GB2600019ON" tvg-chno="4003" tvg-name="Euronews LIVE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600019ON_20250121T013040SQUARE.png" group-title="News",Euronews
+#EXTINF:-1 channel-id="GB2600019ON" tvg-id="GB2600019ON" tvg-chno="4003" tvg-name="Euronews" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600019ON_20250121T013040SQUARE.png" group-title="News",Euronews
 https://jmp2.uk/sam-GB2600019ON.m3u8
 
 #EXTINF:-1 tvg-id="DeutscheWelleEnglish.de" tvg-logo="https://feedlix.net/tv/de/dw_en.png" group-title="News",DW English
@@ -375,13 +375,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiao
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/0e69b2_4a6c74cba74f4c46b51593fd649cd922~mv2.jpg" group-title="Movies",Grjngo
 https://amogonetworx-grjngo-3-gb.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Movies",Cinemax
+#EXTINF:-1 tvg-name="Cinemax" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Movies",Cinemax
 https://tvpass.org/live/CinemaxEast/hd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="Movies",AMC
+#EXTINF:-1 tvg-name="AMC" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="Movies",AMC
 https://tvpass.org/live/AMCEast/hd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://static.wixstatic.com/media/d11d26_8fb3e6fd0ca6495885c4338539172c69~mv2.jpg" group-title="Movies",Turner Classic
+#EXTINF:-1 tvg-name="Turner Classic" tvg-id="" tvg-logo="https://static.wixstatic.com/media/d11d26_8fb3e6fd0ca6495885c4338539172c69~mv2.jpg" group-title="Movies",Turner Classic
 https://tvpass.org/live/TCMEast/hd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/18/Mad_TV_GSN_spoof_1.png" group-title="Entertainment",Gameshow Channel
@@ -486,7 +486,7 @@ https://cablecast.nwct.org/live-12/live/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets-global.website-files.com/5d6aae87e54b1ea9e05fe232/60d9145539b7401ca498ef02_Crimetime_Logo_2.png" group-title="Crime",Crimetime
 https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Crime",Crime and Investigation
+#EXTINF:-1 tvg-name="Crime and Investigation" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Crime",Crime and Investigation
 https://tvpass.org/live/CrimePlusInvestigation/hd
 
 #EXTINF:-1 tvg-id="USBB5200022PY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200022PY_20240319T022109SQUARE.png" group-title="Crime",Crimes Cults Killers
@@ -561,16 +561,16 @@ https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/history_time.jpg" group-title="History",History Time
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/804/149/png-clipart-history-history-channel-icons-logos-emojis-iconic-brands-thumbnail.png" group-title="History",History Channel
+#EXTINF:-1 tvg-name="History Channel" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/804/149/png-clipart-history-history-channel-icons-logos-emojis-iconic-brands-thumbnail.png" group-title="History",History Channel
 https://tvpass.org/live/HistoryEast/hd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Science-Channel-Logo.jpg" group-title="Science",Science
+#EXTINF:-1 tvg-name="Science" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Science-Channel-Logo.jpg" group-title="Science",Science
 https://tvpass.org/live/Science/hd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://wallpapers.com/images/hd/national-geographic-wild-logo-01b75pw43p5z75yb-2.jpg" group-title="Documentary",National Geographic Wild
+#EXTINF:-1 tvg-name="National Geographic Wild" tvg-id="" tvg-logo="https://wallpapers.com/images/hd/national-geographic-wild-logo-01b75pw43p5z75yb-2.jpg" group-title="Documentary",National Geographic Wild
 https://tvpass.org/live/NationalGeographicWildEast/hd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
+#EXTINF:-1 tvg-name="Animal Planet" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
 https://tvpass.org/live/AnimalPlanetEast/hd
 
 #EXTINF:-1 tvg-name="Real Disaster Channel" tvg-id="64d2b6bf9b414d0008187d83" tvg-logo="https://images.pluto.tv/channels/64d2b6bf9b414d0008187d83/colorLogoPNG.png" tvg-chno="3105" group-title="Documentary",Real Disaster Channel
@@ -600,7 +600,7 @@ https://jmp2.uk/plu-59c01b1953680139c6ae9d4d.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Travel" tvg-id="59c01b1953680139c6ae9d4d" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" tvg-chno="3150" group-title="Travel",Pluto TV Travel
 https://jmp2.uk/plu-59c01b1953680139c6ae9d4d.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/800px-2018_Travel_Channel_logo.svg.png" group-title="Travel",Travel US
+#EXTINF:-1 tvg-name="Travel US" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/800px-2018_Travel_Channel_logo.svg.png" group-title="Travel",Travel US
 https://tvpass.org/live/TravelChannelEast/hd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20240401T235527SQUARE.png" group-title="Nature",Love Nature
@@ -855,10 +855,10 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Kids",123GO!
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Kids",Nickelodeon
 https://tvpass.org/live/NickelodeonEast/hd
 
-#EXTINF:-1 channel-id="US3400003HI" tvg-id="US3400003HI" tvg-chno="3670" tvg-name="ducktv" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400003HI_20241119T020447SQUARE.png" group-title="Kids",Duck TV
+#EXTINF:-1 channel-id="US3400003HI" tvg-id="US3400003HI" tvg-chno="3670" tvg-name="Duck TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400003HI_20241119T020447SQUARE.png" group-title="Kids",Duck TV
 https://jmp2.uk/sam-US3400003HI.m3u8
 
 #EXTINF:-1 tvg-name="Nickelodeon Pluto TV" tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" tvg-chno="3770" group-title="Kids",Nickelodeon Pluto TV
@@ -1065,7 +1065,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63ec0b739866d8d2120ac759.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://strongmancl.com/wp-content/uploads/2019/08/SCL-logo.png" group-title="Sports",Strong Mans Champion League
 https://rightsboosterltd-scl-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://www.downrange.tv/blog/wp-content/uploads/2013/01/OClogo.jpg" group-title="Sports",Outdoor Channel
+#EXTINF:-1 tvg-name="Outdoor Channel" tvg-id="" tvg-logo="https://www.downrange.tv/blog/wp-content/uploads/2013/01/OClogo.jpg" group-title="Sports",Outdoor Channel
 https://tvpass.org/live/OutdoorChannel/hd
 
 #EXTINF:-1 tvg-id="CABD1200008JG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200008JG_20231229T002804SQUARE.png_20231229002805.png" group-title="Sports",FIFA+
@@ -1335,13 +1335,13 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/rock_serbia.jpg" group-title="Music",Rock and Roll
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ndlOHVEr0utSM2aG9C1iCvG-OYKj83xXQyR6Y55DKt9A=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Rockola tv
+#EXTINF:-1 tvg-name="Rockola tv" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ndlOHVEr0utSM2aG9C1iCvG-OYKj83xXQyR6Y55DKt9A=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Rockola tv
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/2.m3u8
 
 #EXTINF:-1 tvg-name="Rock TV" tvg-id="ITBC1100011RK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png" group-title="Music",ROCK TV
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rocktv" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music",Rock TV 2
+#EXTINF:-1 tvg-name="Rock TV 2" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music",Rock TV 2
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV (RO)
