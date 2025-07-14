@@ -3,9 +3,6 @@
 #EXTINF:-1  tvg-name="ADN [FR]" tvg-id="CHBD5100001EF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD5100001EF_20250107T025428SQUARE.png" tvg-chno="4196" group-title="Anime",ADN [FR]
 https://jmp2.uk/sam-CHBD5100001EF.m3u8
 
-#EXTINF:-1  tvg-name="Yu-Gi-Oh!" tvg-id="CHBD1400003NE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1400003NE_20250107T025628SQUARE.png" tvg-chno="4192" group-title="Anime",Yu-Gi-Oh!
-https://jmp2.uk/sam-CHBD1400003NE.m3u8
-
 #EXTINF:-1  tvg-name="More than Sports TV" tvg-id="CHBD2600011YG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600011YG_20250107T025534SQUARE.png" tvg-chno="4607" group-title="Auto & Motor",More than Sports TV
 https://jmp2.uk/sam-CHBD2600011YG.m3u8
 
@@ -17,9 +14,6 @@ https://jmp2.uk/sam-CH330000132.m3u8
 
 #EXTINF:-1  tvg-name="Homicide [FR]" tvg-id="CHBC4000003K9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC4000003K9_20250107T031508SQUARE.png" tvg-chno="4312" group-title="Crime",Homicide [FR]
 https://jmp2.uk/sam-CHBC4000003K9.m3u8
-
-#EXTINF:-1  tvg-name="Top Serien" tvg-id="CHBA3300026CA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300026CA_20250326T013159SQUARE.png" tvg-chno="4294" group-title="Crime",Top Serien
-https://jmp2.uk/sam-CHBA3300026CA.m3u8
 
 #EXTINF:-1  tvg-name="CURIOSITY Now" tvg-id="CHBD1400001NP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD1400001NP_20250107T025444SQUARE.png" tvg-chno="4419" group-title="Dokus & Wissen",CURIOSITY Now
 https://jmp2.uk/sam-CHBD1400001NP.m3u8
@@ -87,9 +81,6 @@ https://jmp2.uk/sam-CHBA1000007U6.m3u8
 #EXTINF:-1  tvg-name="Freitag Nacht News" tvg-id="CH2600008L1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600008L1_20250117T134652SQUARE.png" tvg-chno="4205" group-title="Entertainment",Freitag Nacht News
 https://jmp2.uk/sam-CH2600008L1.m3u8
 
-#EXTINF:-1  tvg-name="Hell's Kitchen" tvg-id="CHBD26000017A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD26000017A_20250107T025519SQUARE.png" tvg-chno="4073" group-title="Entertainment",Hell's Kitchen
-https://jmp2.uk/sam-CHBD26000017A.m3u8
-
 #EXTINF:-1  tvg-name="Hudson & Rex" tvg-id="CH48000025D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH48000025D_20250218T040710SQUARE.png" tvg-chno="4234" group-title="Entertainment",Hudson & Rex
 https://jmp2.uk/sam-CH48000025D.m3u8
 
@@ -116,9 +107,6 @@ https://jmp2.uk/sam-CH500003EH.m3u8
 
 #EXTINF:-1  tvg-name="RMC Story" tvg-id="CH500002H2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH500002H2_20250107T031525SQUARE.png" tvg-chno="4040" group-title="Entertainment",RMC Story
 https://jmp2.uk/sam-CH500002H2.m3u8
-
-#EXTINF:-1  tvg-name="Stars in Gefahr" tvg-id="CHBB49000054U" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB49000054U_20250107T025605SQUARE.png" tvg-chno="4207" group-title="Entertainment",Stars in Gefahr
-https://jmp2.uk/sam-CHBB49000054U.m3u8
 
 #EXTINF:-1  tvg-name="The Pet Collective" tvg-id="CHAJ3200003RF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ3200003RF_20250107T025342SQUARE.png" tvg-chno="4168" group-title="Entertainment",The Pet Collective
 https://jmp2.uk/sam-CHAJ3200003RF.m3u8
@@ -192,26 +180,11 @@ https://jmp2.uk/sam-CHAK3504514A.m3u8
 #EXTINF:-1  tvg-name="Scream'IN [FR]" tvg-id="CHBB46000021V" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB46000021V_20250107T031532SQUARE.png" tvg-chno="4955" group-title="Filme",Scream'IN [FR]
 https://jmp2.uk/sam-CHBB46000021V.m3u8
 
-#EXTINF:-1  tvg-name="Starke Frauen" tvg-id="CH200001G5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH200001G5_20250207T094645SQUARE.png" tvg-chno="4866" group-title="Filme",Starke Frauen
-https://jmp2.uk/sam-CH200001G5.m3u8
-
-#EXTINF:-1  tvg-name="Top Filme" tvg-id="CHBD5000002CB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD5000002CB_20250107T025615SQUARE.png" tvg-chno="4870" group-title="Filme",Top Filme
-https://jmp2.uk/sam-CHBD5000002CB.m3u8
-
 #EXTINF:-1  tvg-name="Top Filme - Rakuten TV" tvg-id="CH2600006TR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH2600006TR_20250107T025618SQUARE.png" tvg-chno="4879" group-title="Filme",Top Filme - Rakuten TV
 https://jmp2.uk/sam-CH2600006TR.m3u8
 
-#EXTINF:-1  tvg-name="Top Sci" tvg-id="CH23000031M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CH23000031M_20250107T025620SQUARE.png" tvg-chno="4948" group-title="Filme",Top Sci-Fi
-https://jmp2.uk/sam-CH23000031M.m3u8
-
-#EXTINF:-1  tvg-name="wedo movies" tvg-id="CHBA3300023SN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA3300023SN_20250107T025420SQUARE.png" tvg-chno="4872" group-title="Filme",wedo movies
-https://jmp2.uk/sam-CHBA3300023SN.m3u8
-
 #EXTINF:-1  tvg-name="Chefclub TV [FR]" tvg-id="CHBB3900006JN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB3900006JN_20250107T031447SQUARE.png" tvg-chno="4525" group-title="Food & Travel",Chefclub TV [FR]
 https://jmp2.uk/sam-CHBB3900006JN.m3u8
-
-#EXTINF:-1  tvg-name="Echappées belles & co [FR]" tvg-id="CHBC40000027S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC40000027S_20250107T031454SQUARE.png" tvg-chno="4538" group-title="Food & Travel",Echappées belles & co [FR]
-https://jmp2.uk/sam-CHBC40000027S.m3u8
 
 #EXTINF:-1  tvg-name="Just Cooking" tvg-id="CHAJ0500443A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500443A_20250107T025123SQUARE.png" tvg-chno="4519" group-title="Food & Travel",Just Cooking
 https://jmp2.uk/sam-CHAJ0500443A.m3u8
@@ -236,9 +209,6 @@ https://jmp2.uk/sam-CHBD2600010Q6.m3u8
 
 #EXTINF:-1  tvg-name="iCarly" tvg-id="CHAJ700006QR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700006QR_20250107T025417SQUARE.png" tvg-chno="4823" group-title="Kids",iCarly
 https://jmp2.uk/sam-CHAJ700006QR.m3u8
-
-#EXTINF:-1  tvg-name="LooLoo Kids" tvg-id="CHBD4700001DY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD4700001DY_20250107T025532SQUARE.png" tvg-chno="4775" group-title="Kids",LooLoo Kids
-https://jmp2.uk/sam-CHBD4700001DY.m3u8
 
 #EXTINF:-1  tvg-name="Nick Pluto TV" tvg-id="CHAJ700003CV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700003CV_20250107T025220SQUARE.png" tvg-chno="4829" group-title="Kids",Nick Pluto TV
 https://jmp2.uk/sam-CHAJ700003CV.m3u8
@@ -300,9 +270,6 @@ https://jmp2.uk/sam-CHBD2000023S.m3u8
 #EXTINF:-1  tvg-name="Baywatch" tvg-id="CHBD2600009ZC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600009ZC_20250107T025436SQUARE.png" tvg-chno="4231" group-title="Serien",Baywatch
 https://jmp2.uk/sam-CHBD2600009ZC.m3u8
 
-#EXTINF:-1  tvg-name="Comedy & Shows" tvg-id="CHBB4900004VT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB4900004VT_20250107T025450SQUARE.png" tvg-chno="4253" group-title="Serien",Comedy & Shows
-https://jmp2.uk/sam-CHBB4900004VT.m3u8
-
 #EXTINF:-1  tvg-name="Fréquence Novelas [FR]" tvg-id="CHBC800006EP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBC800006EP_20250107T031503SQUARE.png" tvg-chno="4265" group-title="Serien",Fréquence Novelas [FR]
 https://jmp2.uk/sam-CHBC800006EP.m3u8
 
@@ -330,9 +297,6 @@ https://jmp2.uk/sam-CHAJ700007XE.m3u8
 #EXTINF:-1  tvg-name="Pluto TV Sitcoms" tvg-id="CHAK3504505A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAK3504505A_20250107T025251SQUARE.png" tvg-chno="4255" group-title="Serien",Pluto TV Sitcoms
 https://jmp2.uk/sam-CHAK3504505A.m3u8
 
-#EXTINF:-1  tvg-name="Spannung & Emotionen" tvg-id="CHBB4900003F5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB4900003F5_20250107T025554SQUARE.png" tvg-chno="4240" group-title="Serien",Spannung & Emotionen
-https://jmp2.uk/sam-CHBB4900003F5.m3u8
-
 #EXTINF:-1  tvg-name="Zee One" tvg-id="CHBD27000011N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD27000011N_20250107T025630SQUARE.png" tvg-chno="4242" group-title="Serien",Zee One
 https://jmp2.uk/sam-CHBD27000011N.m3u8
 
@@ -345,9 +309,6 @@ https://jmp2.uk/sam-CHBD26000130C.m3u8
 #EXTINF:-1  tvg-name="Motorvision Classic" tvg-id="CHBD2600012Y6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2600012Y6_20250107T025539SQUARE.png" tvg-chno="4662" group-title="Sport",Motorvision Classic
 https://jmp2.uk/sam-CHBD2600012Y6.m3u8
 
-#EXTINF:-1  tvg-name="Sport 1 Motor" tvg-id="CHBD2300001ZB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2300001ZB_20250107T025556SQUARE.png" tvg-chno="4658" group-title="Sport",Sport 1 Motor
-https://jmp2.uk/sam-CHBD2300001ZB.m3u8
-
 #EXTINF:-1  tvg-name="Sportdigital Free" tvg-id="CHAJ0500433A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ0500433A_20250107T025313SQUARE.png" tvg-chno="4611" group-title="Sport",Sportdigital Free
 https://jmp2.uk/sam-CHAJ0500433A.m3u8
 
@@ -359,9 +320,6 @@ https://jmp2.uk/sam-CHBA3300011A6.m3u8
 
 #EXTINF:-1  tvg-name="Tennis Channel" tvg-id="CHBA22000080G" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBA22000080G_20250107T025336SQUARE.png" tvg-chno="4605" group-title="Sport",Tennis Channel
 https://jmp2.uk/sam-CHBA22000080G.m3u8
-
-#EXTINF:-1  tvg-name="World of Freesports - WoF" tvg-id="CHBD5000001T0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD5000001T0_20250107T025625SQUARE.png" tvg-chno="4675" group-title="Sport",World of Freesports - WoF
-https://jmp2.uk/sam-CHBD5000001T0.m3u8
 
 #EXTINF:-1  tvg-name="World Poker Tour" tvg-id="CHBD2900001LI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2900001LI_20250107T025623SQUARE.png" tvg-chno="4677" group-title="Sport",World Poker Tour
 https://jmp2.uk/sam-CHBD2900001LI.m3u8
