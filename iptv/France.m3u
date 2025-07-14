@@ -45,16 +45,16 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=
 #EXTINF:-1 tvg-id="BFMNormandie.fr"tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/07/Entete-BFM-Alsace.png" group-title="News",BFM Normandie
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1 tvg-name="BFM NICE COTE D AZUR" tvg-id="BFM.NICE.COTE.D&apos;AZUR.fr" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/BFMtv.png" group-title="News",BFM Nice Cote D Azur
+#EXTINF:-1 tvg-name="BFM BFM Nice Cote D Azur" tvg-id="BFM.NICE.COTE.D&apos;AZUR.fr" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/BFMtv.png" group-title="News",BFM Nice Cote D Azur
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1 tvg-name="BFM NORMANDIE" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/BFMtv.png" group-title="News",BFM Normandie
+#EXTINF:-1 tvg-name="BFM Normandie" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/BFMtv.png" group-title="News",BFM Normandie
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1 tvg-name="BFM TECH AND CO" tvg-id="BFM.DICI.HAUTE-PROVENCE.fr" tvg-logo="https://logo.iptveditor.com/bfmtech&co.png" group-title="News",BFM Tech
+#EXTINF:-1 tvg-name="BFM Tech" tvg-id="BFM.DICI.HAUTE-PROVENCE.fr" tvg-logo="https://logo.iptveditor.com/bfmtech&co.png" group-title="News",BFM Tech
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1 tvg-name="BFM TOULON VAR" tvg-id="BFM.TOULON.VAR.fr" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/BFMtv.png" group-title="News",BFM Toulon
+#EXTINF:-1 tvg-name="BFM Toulon" tvg-id="BFM.TOULON.VAR.fr" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/m3u/live/LogosTv/BFMtv.png" group-title="News",BFM Toulon
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
 
 #EXTINF:-1 tvg-name="BFM Grands Reportages" tvg-id="20240319T052333SQUARE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20240319T052333SQUARE.png" group-title="News",BFM Grands Reportages
@@ -180,13 +180,13 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://i.imgur.com/h53nsyJ.png" group-title="Documentary",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 
-#EXTINF:-1 tvg-name="RMC MYSTERE" tvg-id="FR300006GF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png" tvg-chno="4034" group-title="Documentary",RMC Mystere
+#EXTINF:-1 tvg-name="RMC Mystere" tvg-id="FR300006GF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300006GF_20241106T142644SQUARE.png" tvg-chno="4034" group-title="Documentary",RMC Mystere
 https://jmp2.uk/sam-FR300006GF.m3u8
 
-#EXTINF:-1 tvg-name="RMC alerte secours" tvg-id="FR30000271" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20240319T052348SQUARE.png" group-title="Documentary",RMC Alerte Secours
+#EXTINF:-1 tvg-name="RMC Alerte Secours" tvg-id="FR30000271" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR30000271_20240319T052348SQUARE.png" group-title="Documentary",RMC Alerte Secours
 https://ddt6vdovkiskj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jompzy8pen6vl/index.m3u8
 
-#EXTINF:-1 tvg-name="RMC MECANIC 🇫🇷" tvg-id="20240319T052336SQUARE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20240319T052336SQUARE.png" group-title="Documentary",RMC Mecanic
+#EXTINF:-1 tvg-name="RMC Mecanic" tvg-id="20240319T052336SQUARE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300003ZB_20240319T052336SQUARE.png" group-title="Documentary",RMC Mecanic
 https://d3bb0xy15a32jc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3gcgvdj5b4sla/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC Wow" tvg-id="FR300001M1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300001M1_20241015T042812SQUARE.png" tvg-chno="4032" group-title="Documentary",RMC Wow
@@ -630,7 +630,7 @@ https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png" group-title="Music",DBM TV
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/MyTF12019Bleu.svg/1024px-MyTF12019Bleu.svg.png" group-title="Music",TF1 Chante
+#EXTINF:-1 tvg-name="TF1 Chante" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/MyTF12019Bleu.svg/1024px-MyTF12019Bleu.svg.png" group-title="Music",TF1 Chante
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/chante.m3u8
 
 #EXTINF:-1 tvg-id="FRBC900001LB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20230208T013112SQUARE.png_20230208013112.png" group-title="Music",Émotion
@@ -666,13 +666,13 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="Activa TV España" tvg-logo="https://www.totalmedios.com/img/noticias/2020/08/5f27fe0cb92c4__236x150.jpg" group-title="Music",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
-#EXTINF:-1 tvg-name="Molahits TV España" tvg-logo="https://feedlix.net/tv/mus/MolaTv.png" group-title="Music",Mola TV Hits
+#EXTINF:-1 tvg-name="Mola Hits TV" tvg-logo="https://feedlix.net/tv/mus/MolaTv.png" group-title="Music",Mola TV Hits
 https://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 tvg-name="La Urban TV España" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LusstsFeKa.png" group-title="Music",La Urban
+#EXTINF:-1 tvg-name="La Urban" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LusstsFeKa.png" group-title="Music",La Urban
 https://www.urbanrevolution.es:8443/live/TV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Verbena TV España" tvg-logo="https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg" group-title="Music",Verbena FM TV
+#EXTINF:-1 tvg-name="Verbena FM TV" tvg-logo="https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg" group-title="Music",Verbena FM TV
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/portal_foxmix.jpg" group-title="Music",Portal Foxmix TV
@@ -753,13 +753,13 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/rock_serbia.jpg" group-title="Music",Rock and Roll
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ndlOHVEr0utSM2aG9C1iCvG-OYKj83xXQyR6Y55DKt9A=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Rockola tv
+#EXTINF:-1 tvg-name="Rockola TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ndlOHVEr0utSM2aG9C1iCvG-OYKj83xXQyR6Y55DKt9A=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Rockola tv
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/2.m3u8
 
 #EXTINF:-1 tvg-name="Rock TV" tvg-id="ITBC1100011RK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png" group-title="Music",ROCK TV
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rocktv" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music",Rock TV 2
+#EXTINF:-1 tvg-name="Rock TV 2" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music",Rock TV 2
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV (RO)
