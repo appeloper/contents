@@ -6,14 +6,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 #EXTINF:-1 tvg-id="" tvg-logo="",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
-#EXTINF:-1 tvg-id="" tvg-logo="",New Brasil
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",Homeful
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Pluto TV MasterChef
-https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Sony One Shark Tank
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
@@ -23,15 +17,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2e
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Canal UOL
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Canal UOL alt
-https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Canal Empreender
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t36qky98i4sus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Fashion TV International
-https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Hollywire
 https://di1slo8304ver.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bg9yxt784ebvh-ssai-prd/playlist.m3u8
@@ -87,9 +72,6 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047f
 #EXTINF:-1 tvg-id="" tvg-logo="",Qwest TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",Trace Brasil
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",The Pet Collective
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
 
@@ -99,26 +81,11 @@ https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Just for Laughs Gags
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",Chive TV
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_chivetv_001.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",The AFV Family Channel
-https://d12f70rc9elynx.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",Smithsonian Channel
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=PSID&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="" tvg-logo="",2549 Sony One - Emoções
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Revry
-https://revry-brazil.akamaized.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Revry alt
-https://dletvjdknba4f.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Dark Matter TV
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Grjngo
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
