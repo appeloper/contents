@@ -78,7 +78,7 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 #EXTINF:-1 tvg-id="NDR.de" tvg-logo="https://feedlix.net/tv/de/NDR_Fernsehen_2017.png" group-title="General",NDR HD Niedersachsen
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 
-#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern Ⓖ" tvg-logo="https://feedlix.net/tv/de/NDR_Fernsehen_2017.png" group-title="General",NDR Mecklenburg-Vorpommern
+#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern" tvg-logo="https://feedlix.net/tv/de/NDR_Fernsehen_2017.png" group-title="General",NDR Mecklenburg-Vorpommern
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 
 #EXTINF:-1 tvg-name="NDR Schleswig-Holstein" tvg-logo="https://feedlix.net/tv/de/NDR_Fernsehen_2017.png" group-title="General",NDR Schleswig-Holstein
@@ -588,7 +588,7 @@ https://jmp2.uk/sam-DEAJ70000561.m3u8
 #EXTINF:-1  tvg-name="StoryZoo & Friends" tvg-id="DE3200003U8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3200003U8_20250107T024734SQUARE.png" tvg-chno="4779" group-title="Kids",StoryZoo & Friends
 https://jmp2.uk/sam-DE3200003U8.m3u8
 
-#EXTINF:-1  tvg-name="CAR CITY ADVENTURES" tvg-id="DE2000004BG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000004BG_20250107T024816SQUARE.png" tvg-chno="4777" group-title="Kids",CAR CITY ADVENTURES
+#EXTINF:-1  tvg-name="Car City Adventures" tvg-id="DE2000004BG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000004BG_20250107T024816SQUARE.png" tvg-chno="4777" group-title="Kids",CAR CITY ADVENTURES
 https://jmp2.uk/sam-DE2000004BG.m3u8
 
 #EXTINF:-1  tvg-name="LooLoo Kids" tvg-id="DEBD4700001UN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD4700001UN_20250107T024337SQUARE.png" tvg-chno="4775" group-title="Kids",LooLoo Kids
@@ -624,19 +624,19 @@ https://jmp2.uk/sam-DEBA3300019EB.m3u8
 #EXTINF:-1 tvg-id="WomensSportsNetwork.us" tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="Sports",Women's Sports Network
 https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8
 
-#EXTINF:-1 channel-id="667c0111fc3a4600087283c2-de" tvg-id="667c0111fc3a4600087283c2" tvg-chno="278" tvg-name="European League of Football" tvg-logo="https://images.pluto.tv/channels/667c0111fc3a4600087283c2/colorLogoPNG.png" group-title="Sports",European League of Football
+#EXTINF:-1 channel-id="667c0111fc3a4600087283c2-de" tvg-id="667c0111fc3a4600087283c2" tvg-chno="278" tvg-name=""="European League of Football" tvg-logo="https://images.pluto.tv/channels/667c0111fc3a4600087283c2/colorLogoPNG.png" group-title="Sports",European League of Football
 https://jmp2.uk/plu-667c0111fc3a4600087283c2.m3u8
 
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://feedlix.net/tv/es/real_madrid_tv_es.png" group-title="Sports",Real Madrid TV HD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
-#EXTINF:-1 channel-id="64b67f0424ade50008a3be17-de" tvg-id="64b67f0424ade50008a3be17" tvg-chno="91" tvg-name="DAZN Darts x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Sports",DAZN Darts
+#EXTINF:-1 channel-id="64b67f0424ade50008a3be17-de" tvg-id="64b67f0424ade50008a3be17" tvg-chno="91" tvg-name="DAZN Darts" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Sports",DAZN Darts
 https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 
-#EXTINF:-1 channel-id="6683f7fe36a2f9000804940c-de" tvg-id="6683f7fe36a2f9000804940c" tvg-chno="112" tvg-name="DAZN Handball x Pluto TV" tvg-logo="https://images.pluto.tv/channels/6683f7fe36a2f9000804940c/colorLogoPNG.png" group-title="Sports",DAZN Handball
+#EXTINF:-1 channel-id="6683f7fe36a2f9000804940c-de" tvg-id="6683f7fe36a2f9000804940c" tvg-chno="112" tvg-name="DAZN Handball" tvg-logo="https://images.pluto.tv/channels/6683f7fe36a2f9000804940c/colorLogoPNG.png" group-title="Sports",DAZN Handball
 https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8
 
-#EXTINF:-1 channel-id="64afe50c5dc16600087f3227-de" tvg-id="64afe50c5dc16600087f3227" tvg-chno="95" tvg-name="DAZN Heldinnen x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png" group-title="Sports",DAZN Heldinnen
+#EXTINF:-1 channel-id="64afe50c5dc16600087f3227-de" tvg-id="64afe50c5dc16600087f3227" tvg-chno="95" tvg-name="DAZN Heldinnen" tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png" group-title="Sports",DAZN Heldinnen
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/us/RedBullTv.png" group-title="Sports",Red Bull HD
@@ -879,13 +879,13 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/rock_serbia.jpg" group-title="Music",Rock and Roll
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ndlOHVEr0utSM2aG9C1iCvG-OYKj83xXQyR6Y55DKt9A=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Rockola tv
+#EXTINF:-1 tvg-name="Rockola tv" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ndlOHVEr0utSM2aG9C1iCvG-OYKj83xXQyR6Y55DKt9A=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Rockola tv
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/2.m3u8
 
 #EXTINF:-1 tvg-name="Rock TV" tvg-id="ITBC1100011RK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png" group-title="Music",ROCK TV
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rocktv" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music",Rock TV 2
+#EXTINF:-1 tvg-name="Rock TV 2" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music",Rock TV 2
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV (RO)
