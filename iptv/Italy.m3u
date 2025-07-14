@@ -39,7 +39,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-name="TVE Int. Europa" tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="News",TVE Int. Europa
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="euronews-live-it" tvg-name="Euronews DIRETTA" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2022/12/euronews-logo-our-brands-neon-300x132.png" group-title="News",Euronews
+#EXTINF:-1 tvg-id="euronews-live-it" tvg-name="Euronews" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2022/12/euronews-logo-our-brands-neon-300x132.png" group-title="News",Euronews
 https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiNDRhYTM5Y2UtNTNlYS00ZDQ4LTkzYTItOWIzNDVkOGY4MWQxIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
 
 #EXTINF:-1 tvg-id="DeutscheWelleEnglish.de" tvg-logo="https://feedlix.net/tv/de/dw_en.png" group-title="News",DW English
@@ -432,10 +432,10 @@ https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-chno=39 tvg-id="comicita-piccante-movies" tvg-name="Comicità Piccante Movies" tvg-logo="https://www.minervapictures.com/wp-content/uploads/2025/04/CP_BANNER.png" group-title="Movies",Comicità Piccante Movies
 https://7f495636.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0NpbmVtYVNlZ3JldG9fSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-chno=50 tvg-id="western-e-peplum" tvg-name="CineWestern" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8DSqtLDYR2xB1e6wcyNX-G7SaNtrkn1hDhA&s" group-title="Movies",Cine Western
+#EXTINF:-1 tvg-chno=50 tvg-id="western-e-peplum" tvg-name="Cine Western" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8DSqtLDYR2xB1e6wcyNX-G7SaNtrkn1hDhA&s" group-title="Movies",Cine Western
 https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="real-life-pluto-tv" tvg-name="" tvg-logo="https://i.imgur.com/FpwqJYw.png" group-title="Reality",Real Life
+#EXTINF:-1 tvg-id="real-life-pluto-tv" tvg-name="Real Life" tvg-logo="https://i.imgur.com/FpwqJYw.png" group-title="Reality",Real Life
 https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MDip78GJA0k/hqdefault.jpg" group-title="Nature",Tele Ambiente
@@ -468,7 +468,7 @@ https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="" tvg-logo="https://gustotv.com/wp-content/uploads/2024/01/ChTile_1920x1080_png.png" group-title="Kitchen",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="brindiamo" tvg-name="" tvg-logo="https://ornellafado.com/wp-content/uploads/2020/10/ARTWORK-SAMSUNG-POSTERS--1024x576.png" group-title="Kitchen",Brindiamo!
+#EXTINF:-1 tvg-id="brindiamo" tvg-name="Brindiamo!" tvg-logo="https://ornellafado.com/wp-content/uploads/2020/10/ARTWORK-SAMSUNG-POSTERS--1024x576.png" group-title="Kitchen",Brindiamo!
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB8&ads._fw_content_genre=food+%26+drink&ads._fw_content_language=it&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=Brindiamo%21&ads.csid=zeus_it_okproductionsbrindiamotv_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=it&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3783&ads.rakuten_streaming_id=b60437d6-10cd-4b3f-930d-f5cc0b95ad21&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883014&ads.xumo_contentId=2791&ads.xumo_contentName=OKProductionsBrindiamoTV&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2791&ads.xumo_providerName=OKProductionsBrindiamoTV&ads.xumo_streamId=88883014
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Home and Garden",Home and Garden (geo)
@@ -564,10 +564,10 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
 #EXTINF:-1 tvg-id="ITBC4700001E6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700001E6_20221214T045010SQUARE.png_20221214045011.png" group-title="Kids",DuckTV
 https://jmp2.uk/sam-ITBC4700001E6.m3u8
 
-#EXTINF:-1 tvg-id="mr-bean-it" tvg-name="" tvg-logo="https://i.pinimg.com/1200x/9a/54/c4/9a54c45f5c9de64ccd95909f8e08a401.jpg" group-title="Kids",Mr. Bean
+#EXTINF:-1 tvg-id="mr-bean-it" tvg-name="Mr. Bean" tvg-logo="https://i.pinimg.com/1200x/9a/54/c4/9a54c45f5c9de64ccd95909f8e08a401.jpg" group-title="Kids",Mr. Bean
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8?ads_amagi_channel=932&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=it&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6166&ads_rtv_content_language=ita&ads_rtvid=271861&ads_streaming_id=a87e84b4-3149-48c0-9f64-4fadb0c40e55&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
-#EXTINF:-1 tvg-id="wb-teletubbies-it" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/57/Teletubbies_logo.png" group-title="Kids",Teletubbies
+#EXTINF:-1 tvg-id="wb-teletubbies-it" tvg-name="Teletubbies" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/57/Teletubbies_logo.png" group-title="Kids",Teletubbies
 https://jmp2.uk/sam-IT480000143.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/it/boing_it.jpg" group-title="Kids",Boing
@@ -585,7 +585,7 @@ https://newidco-babysharktv-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="yu-gi-oh-it" tvg-logo="https://clipground.com/images/yu-gi-oh-logo.png" group-title="Kids,Yu-Gi-Oh!
 https://jmp2.uk/plu-63eb82e24e83e70008ab735f.m3u8
 
-#EXTINF:-1 tvg-id="super-spongebob-pluto-tv" tvg-name="" tvg-logo="https://i.imgur.com/vFiwODM.png" group-title="Kids",Super! Spongebob
+#EXTINF:-1 tvg-id="super-spongebob-pluto-tv" tvg-name="Super! Spongebob" tvg-logo="https://i.imgur.com/vFiwODM.png" group-title="Kids",Super! Spongebob
 https://jmp2.uk/sam-ITAJ380000343.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://eu1-prod-images.disco-api.com/2024/06/27/d3ebd2a3-6596-3640-8556-9ac8b146053f.png" group-title="Kids",K2 (geo)
@@ -630,7 +630,7 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-logo="https://i.imgur.com/2ByDyzL.png" group-title="Sports",Nautical Channel
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Italian Fishing TV" tvg-id="IT600001L6" tvg-logo="https://logo.iptveditor.com/italianfishing.png" group-title="Sports",Italia Pesca TV
+#EXTINF:-1 tvg-name="Italian Fishing TV" tvg-id="IT600001L6" tvg-logo="https://logo.iptveditor.com/italianfishing.png" group-title="Sports",Italia Fishing TV
 https://d2n1ucuifwse4q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5nki8b8udz6dm/index.m3u8
 
 #EXTINF:-1 tvg-id="TRSport.it" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="Sports",TR Sport
@@ -651,7 +651,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunk
 #EXTINF:-1 tvg-id="WorldofFreesports.pl" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/07/World-of-Freesports.jpg" group-title="Sports",World of Freesports
 https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
 
-#EXTINF:-1 tvg-id="world-poker-tour-pluto-tv" tvg-name="" tvg-logo="https://wptmedia.wpt.com/wp-content/uploads/2016/09/Main-WPT-Logo.jpg" group-title="Sports",World Poker Tour
+#EXTINF:-1 tvg-id="world-poker-tour-pluto-tv" tvg-name="World Poker Tour" tvg-logo="https://wptmedia.wpt.com/wp-content/uploads/2016/09/Main-WPT-Logo.jpg" group-title="Sports",World Poker Tour
 https://jmp2.uk/sam-CHBD2900001LI.m3u8
 
 #EXTINF:-1 tvg-id="billiards-tv" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/01/World-Billiards-TV_Logo_sml.png" group-title="Sports",World Billiards TV
@@ -975,13 +975,13 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/mus/rock_serbia.jpg" group-title="Music",Rock and Roll
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ndlOHVEr0utSM2aG9C1iCvG-OYKj83xXQyR6Y55DKt9A=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Rockola tv
+#EXTINF:-1 tvg-name="Rockola tv" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ndlOHVEr0utSM2aG9C1iCvG-OYKj83xXQyR6Y55DKt9A=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Rockola tv
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/2.m3u8
 
 #EXTINF:-1 tvg-name="Rock TV" tvg-id="ITBC1100011RK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png" group-title="Music",ROCK TV
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rocktv" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music",Rock TV 2
+#EXTINF:-1 tvg-name="Rock TV 2" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music",Rock TV 2
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV (RO)
