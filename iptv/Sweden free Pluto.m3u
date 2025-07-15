@@ -1,43 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-name="Avatar" tvg-id="61c180a38bb1830008e402fa" tvg-logo="https://images.pluto.tv/channels/61c180a38bb1830008e402fa/colorLogoPNG.png" tvg-chno="912" group-title="Anime",Avatar
-https://jmp2.uk/plu-61c180a38bb1830008e402fa.m3u8
-
 #EXTINF:-1  tvg-name="Inazuma Eleven" tvg-id="646cc49681844c000974af84" tvg-logo="https://images.pluto.tv/channels/646cc49681844c000974af84/colorLogoPNG.png" tvg-chno="916" group-title="Anime",Inazuma Eleven
 https://jmp2.uk/plu-646cc49681844c000974af84.m3u8
 
 #EXTINF:-1  tvg-name="Yu-Gi-Oh!" tvg-id="642aedfeb065d900086681ea" tvg-logo="https://images.pluto.tv/channels/642aedfeb065d900086681ea/colorLogoPNG.png" tvg-chno="920" group-title="Anime",Yu-Gi-Oh!
 https://jmp2.uk/plu-642aedfeb065d900086681ea.m3u8
 
-#EXTINF:-1  tvg-name="Big Time Rush" tvg-id="6537ab9e90a74c000853b294" tvg-logo="https://images.pluto.tv/channels/6537ab9e90a74c000853b294/colorLogoPNG.png" tvg-chno="949" group-title="Barn",Big Time Rush
-https://jmp2.uk/plu-6537ab9e90a74c000853b294.m3u8
-
-#EXTINF:-1  tvg-name="Blaze och monstermaskinerna" tvg-id="61c183595d85c00007cd713c" tvg-logo="https://images.pluto.tv/channels/61c183595d85c00007cd713c/colorLogoPNG.png" tvg-chno="952" group-title="Barn",Blaze och monstermaskinerna
-https://jmp2.uk/plu-61c183595d85c00007cd713c.m3u8
-
-#EXTINF:-1  tvg-name="Bubble Guppies" tvg-id="63c6aa224faf1c0007b4b45b" tvg-logo="https://images.pluto.tv/channels/63c6aa224faf1c0007b4b45b/colorLogoPNG.png" tvg-chno="955" group-title="Barn",Bubble Guppies
-https://jmp2.uk/plu-63c6aa224faf1c0007b4b45b.m3u8
-
-#EXTINF:-1  tvg-name="Dora TV" tvg-id="61c18431f5bb3e00072e91bb" tvg-logo="https://images.pluto.tv/channels/61c18431f5bb3e00072e91bb/colorLogoPNG.png" tvg-chno="958" group-title="Barn",Dora TV
-https://jmp2.uk/plu-61c18431f5bb3e00072e91bb.m3u8
-
-#EXTINF:-1  tvg-name="Familjen Thunderman" tvg-id="61780c88a3580d00089679a6" tvg-logo="https://images.pluto.tv/channels/61780c88a3580d00089679a6/colorLogoPNG.png" tvg-chno="970" group-title="Barn",Familjen Thunderman
-https://jmp2.uk/plu-61780c88a3580d00089679a6.m3u8
-
-#EXTINF:-1  tvg-name="Henry Danger" tvg-id="61e064b4fbbcc60007ffbecd" tvg-logo="https://images.pluto.tv/channels/61e064b4fbbcc60007ffbecd/colorLogoPNG.png" tvg-chno="967" group-title="Barn",Henry Danger
-https://jmp2.uk/plu-61e064b4fbbcc60007ffbecd.m3u8
-
 #EXTINF:-1  tvg-name="iCarly" tvg-id="61c185049e0bde0007820039" tvg-logo="https://images.pluto.tv/channels/61c185049e0bde0007820039/colorLogoPNG.png" tvg-chno="946" group-title="Barn",iCarly
 https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
-
-#EXTINF:-1  tvg-name="Lugn i stormen" tvg-id="630485fcb9884200074f6044" tvg-logo="https://images.pluto.tv/channels/630485fcb9884200074f6044/colorLogoPNG.png" tvg-chno="943" group-title="Barn",Lugn i stormen
-https://jmp2.uk/plu-630485fcb9884200074f6044.m3u8
-
-#EXTINF:-1  tvg-name="Nick Ukraine" tvg-id="61c18d66d21a6600078cfcd1" tvg-logo="https://images.pluto.tv/channels/61c18d66d21a6600078cfcd1/colorLogoPNG.png" tvg-chno="964" group-title="Barn",Nick Ukraine
-https://jmp2.uk/plu-61c18d66d21a6600078cfcd1.m3u8
-
-#EXTINF:-1  tvg-name="Paw Patrol" tvg-id="61c181899e0bde0007820035" tvg-logo="https://images.pluto.tv/channels/61c181899e0bde0007820035/colorLogoPNG.png" tvg-chno="931" group-title="Barn",Paw Patrol
-https://jmp2.uk/plu-61c181899e0bde0007820035.m3u8
 
 #EXTINF:-1  tvg-name="Pluto TV Barn" tvg-id="61c0b6f028e94c000782684a" tvg-logo="https://images.pluto.tv/channels/61c0b6f028e94c000782684a/colorLogoPNG.png" tvg-chno="937" group-title="Barn",Pluto TV Barn
 https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
@@ -45,20 +15,11 @@ https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
 #EXTINF:-1  tvg-name="Pluto TV För de yngsta" tvg-id="61c0b7eb8929e40007ff5125" tvg-logo="https://images.pluto.tv/channels/61c0b7eb8929e40007ff5125/colorLogoPNG.png" tvg-chno="940" group-title="Barn",Pluto TV För de yngsta
 https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8
 
-#EXTINF:-1  tvg-name="Sam & Cat" tvg-id="65c5f2ab3ba51e000842511e" tvg-logo="https://images.pluto.tv/channels/65c5f2ab3ba51e000842511e/colorLogoPNG.png" tvg-chno="947" group-title="Barn",Sam & Cat
-https://jmp2.uk/plu-65c5f2ab3ba51e000842511e.m3u8
-
-#EXTINF:-1  tvg-name="School of Rock" tvg-id="6620f976307fa300080645c1" tvg-logo="https://images.pluto.tv/channels/6620f976307fa300080645c1/colorLogoPNG.png" tvg-chno="933" group-title="Barn",School of Rock
-https://jmp2.uk/plu-6620f976307fa300080645c1.m3u8
-
 #EXTINF:-1  tvg-name="SvampBob Fyrkant" tvg-id="61c0ba0816e2fd00086cb6b1" tvg-logo="https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png" tvg-chno="925" group-title="Barn",SvampBob Fyrkant
 https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
 
 #EXTINF:-1  tvg-name="Totally Turtles" tvg-id="61c185e36faf920007f04b6e" tvg-logo="https://images.pluto.tv/channels/61c185e36faf920007f04b6e/colorLogoPNG.png" tvg-chno="961" group-title="Barn",Totally Turtles
 https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
-
-#EXTINF:-1  tvg-name="Victorious" tvg-id="652d211b9c7aeb00084a48f4" tvg-logo="https://images.pluto.tv/channels/652d211b9c7aeb00084a48f4/colorLogoPNG.png" tvg-chno="928" group-title="Barn",Victorious
-https://jmp2.uk/plu-652d211b9c7aeb00084a48f4.m3u8
 
 #EXTINF:-1  tvg-name="Are You The One?" tvg-id="61c0ac242bb0cf0007015f89" tvg-logo="https://images.pluto.tv/channels/61c0ac242bb0cf0007015f89/colorLogoPNG.png" tvg-chno="332" group-title="Det bästa från MTV",Are You The One?
 https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8
@@ -68,9 +29,6 @@ https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8
 
 #EXTINF:-1  tvg-name="Catfish" tvg-id="61780d4267bf4d00077ddd73" tvg-logo="https://images.pluto.tv/channels/61780d4267bf4d00077ddd73/colorLogoPNG.png" tvg-chno="308" group-title="Det bästa från MTV",Catfish
 https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8
-
-#EXTINF:-1  tvg-name="Catfish: De största bedragarna" tvg-id="678e28a15225b515b4630651" tvg-logo="https://images.pluto.tv/channels/678e28a15225b515b4630651/colorLogoPNG.png" tvg-chno="309" group-title="Det bästa från MTV",Catfish: De största bedragarna
-https://jmp2.uk/plu-678e28a15225b515b4630651.m3u8
 
 #EXTINF:-1  tvg-name="Ex On The Beach" tvg-id="61c09072a09bbe00078f5692" tvg-logo="https://images.pluto.tv/channels/61c09072a09bbe00078f5692/colorLogoPNG.png" tvg-chno="335" group-title="Det bästa från MTV",Ex On The Beach
 https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8
@@ -122,9 +80,6 @@ https://jmp2.uk/plu-662a26cb5a402e00086b2801.m3u8
 
 #EXTINF:-1  tvg-name="Smithsonian Channel Selects" tvg-id="61fb9907b1b78d000717ed9f" tvg-logo="https://images.pluto.tv/channels/61fb9907b1b78d000717ed9f/colorLogoPNG.png" tvg-chno="714" group-title="Dokumentärer",Smithsonian Channel Selects
 https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
-
-#EXTINF:-1  tvg-name="World War TV" tvg-id="677d3ad04bd63600082f7c54" tvg-logo="https://images.pluto.tv/channels/677d3ad04bd63600082f7c54/colorLogoPNG.png" tvg-chno="707" group-title="Dokumentärer",World War TV
-https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
 
 #EXTINF:-1  tvg-name="Baywatch" tvg-id="664c9068f9992200084273ee" tvg-logo="https://images.pluto.tv/channels/664c9068f9992200084273ee/colorLogoPNG.png" tvg-chno="474" group-title="Drama",Baywatch
 https://jmp2.uk/plu-664c9068f9992200084273ee.m3u8
@@ -249,9 +204,6 @@ https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8
 #EXTINF:-1  tvg-name="Tosh.0" tvg-id="65e97856ec9fda0008cb453c" tvg-logo="https://images.pluto.tv/channels/65e97856ec9fda0008cb453c/colorLogoPNG.png" tvg-chno="617" group-title="Komedi",Tosh.0
 https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8
 
-#EXTINF:-1  tvg-name="Zoey 101" tvg-id="6458e7c32858cb0008e22e98" tvg-logo="https://images.pluto.tv/channels/6458e7c32858cb0008e22e98/colorLogoPNG.png" tvg-chno="625" group-title="Komedi",Zoey 101
-https://jmp2.uk/plu-6458e7c32858cb0008e22e98.m3u8
-
 #EXTINF:-1  tvg-name="Broad City" tvg-id="65cba7b1ec452d0008acbed8" tvg-logo="https://images.pluto.tv/channels/65cba7b1ec452d0008acbed8/colorLogoPNG.png" tvg-chno="35" group-title="Kvinnor i fokus",Broad City
 https://jmp2.uk/plu-65cba7b1ec452d0008acbed8.m3u8
 
@@ -273,9 +225,6 @@ https://jmp2.uk/plu-66d714d815d2c60008cec6d2.m3u8
 #EXTINF:-1  tvg-name="Hell's Kitchen" tvg-id="61c1871dac860c0007684974" tvg-logo="https://images.pluto.tv/channels/61c1871dac860c0007684974/colorLogoPNG.png" tvg-chno="383" group-title="Mat & livsstil",Hell's Kitchen
 https://jmp2.uk/plu-61c1871dac860c0007684974.m3u8
 
-#EXTINF:-1  tvg-name="Mannen som talar med hundar" tvg-id="6501ae4998020f00085040ed" tvg-logo="https://images.pluto.tv/channels/6501ae4998020f00085040ed/colorLogoPNG.png" tvg-chno="405" group-title="Mat & livsstil",Mannen som talar med hundar
-https://jmp2.uk/plu-6501ae4998020f00085040ed.m3u8
-
 #EXTINF:-1  tvg-name="Project Runway" tvg-id="62724c8465731f0007b6cd86" tvg-logo="https://images.pluto.tv/channels/62724c8465731f0007b6cd86/colorLogoPNG.png" tvg-chno="387" group-title="Mat & livsstil",Project Runway
 https://jmp2.uk/plu-62724c8465731f0007b6cd86.m3u8
 
@@ -285,14 +234,8 @@ https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
 #EXTINF:-1  tvg-name="Tareq Taylor's Nordic Cookery" tvg-id="63c95491808b740007608a74" tvg-logo="https://images.pluto.tv/channels/63c95491808b740007608a74/colorLogoPNG.png" tvg-chno="403" group-title="Mat & livsstil",Tareq Taylor's Nordic Cookery
 https://jmp2.uk/plu-63c95491808b740007608a74.m3u8
 
-#EXTINF:-1  tvg-name="MTV Biggest Pop" tvg-id="669799e0cd0d310008259652" tvg-logo="https://images.pluto.tv/channels/669799e0cd0d310008259652/colorLogoPNG.png" tvg-chno="853" group-title="Musik",MTV Biggest Pop
-https://jmp2.uk/plu-669799e0cd0d310008259652.m3u8
-
 #EXTINF:-1  tvg-name="MTV Classic" tvg-id="6329cf28ef924b00078a9dc1" tvg-logo="https://images.pluto.tv/channels/6329cf28ef924b00078a9dc1/colorLogoPNG.png" tvg-chno="852" group-title="Musik",MTV Classic
 https://jmp2.uk/plu-6329cf28ef924b00078a9dc1.m3u8
-
-#EXTINF:-1  tvg-name="MTV Flow Latino" tvg-id="66979aacfe11e500083a5c07" tvg-logo="https://images.pluto.tv/channels/66979aacfe11e500083a5c07/colorLogoPNG.png" tvg-chno="860" group-title="Musik",MTV Flow Latino
-https://jmp2.uk/plu-66979aacfe11e500083a5c07.m3u8
 
 #EXTINF:-1  tvg-name="MTV Love Music" tvg-id="638f2e6c7a07960007e52913" tvg-logo="https://images.pluto.tv/channels/638f2e6c7a07960007e52913/colorLogoPNG.png" tvg-chno="858" group-title="Musik",MTV Love Music
 https://jmp2.uk/plu-638f2e6c7a07960007e52913.m3u8
@@ -306,14 +249,8 @@ https://jmp2.uk/plu-65ba4b563af63d0008504d4f.m3u8
 #EXTINF:-1  tvg-name="MTV Rocks" tvg-id="638f2e8fedb23c000859345e" tvg-logo="https://images.pluto.tv/channels/638f2e8fedb23c000859345e/colorLogoPNG.png" tvg-chno="856" group-title="Musik",MTV Rocks
 https://jmp2.uk/plu-638f2e8fedb23c000859345e.m3u8
 
-#EXTINF:-1  tvg-name="MTV Spankin' New" tvg-id="6697996814a2bb00082b5b3a" tvg-logo="https://images.pluto.tv/channels/6697996814a2bb00082b5b3a/colorLogoPNG.png" tvg-chno="879" group-title="Musik",MTV Spankin' New
-https://jmp2.uk/plu-6697996814a2bb00082b5b3a.m3u8
-
 #EXTINF:-1  tvg-name="MTV Unplugged" tvg-id="61c0aec95deef000075acd09" tvg-logo="https://images.pluto.tv/channels/61c0aec95deef000075acd09/colorLogoPNG.png" tvg-chno="873" group-title="Musik",MTV Unplugged
 https://jmp2.uk/plu-61c0aec95deef000075acd09.m3u8
-
-#EXTINF:-1  tvg-name="Yo! MTV" tvg-id="66979a4646762a00080c890d" tvg-logo="https://images.pluto.tv/channels/66979a4646762a00080c890d/colorLogoPNG.png" tvg-chno="867" group-title="Musik",Yo! MTV
-https://jmp2.uk/plu-66979a4646762a00080c890d.m3u8
 
 #EXTINF:-1  tvg-name="Bloomberg TV+" tvg-id="61de8fa251cca800076dde41" tvg-logo="https://images.pluto.tv/channels/61de8fa251cca800076dde41/colorLogoPNG.png" tvg-chno="908" group-title="Nyheter",Bloomberg TV+
 https://jmp2.uk/plu-61de8fa251cca800076dde41.m3u8
@@ -530,9 +467,6 @@ https://jmp2.uk/plu-65df1200f7f0af0008c24a98.m3u8
 
 #EXTINF:-1  tvg-name="DAZN Combat" tvg-id="64805755536e0c0008a19fa1" tvg-logo="https://images.pluto.tv/channels/64805755536e0c0008a19fa1/colorLogoPNG.png" tvg-chno="765" group-title="Sport",DAZN Combat
 https://jmp2.uk/plu-64805755536e0c0008a19fa1.m3u8
-
-#EXTINF:-1  tvg-name="DAZN Women's Football" tvg-id="64a283c6aab9ce0008cff278" tvg-logo="https://images.pluto.tv/channels/64a283c6aab9ce0008cff278/colorLogoPNG.png" tvg-chno="760" group-title="Sport",DAZN Women's Football
-https://jmp2.uk/plu-64a283c6aab9ce0008cff278.m3u8
 
 #EXTINF:-1  tvg-name="DFB Play TV" tvg-id="66461f433d173b000805eeeb" tvg-logo="https://images.pluto.tv/channels/66461f433d173b000805eeeb/colorLogoPNG.png" tvg-chno="763" group-title="Sport",DFB Play TV
 https://jmp2.uk/plu-66461f433d173b000805eeeb.m3u8
