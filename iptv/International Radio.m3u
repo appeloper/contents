@@ -21,8 +21,8 @@ https://radio2.vip-radios.fm:18009/stream-128kmp3-BossaNovaBrazil
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/356f9caa2d1f30417989e88aaa57fa23.jpg" group-title="Radio",Box Mix (Radio BR)
 https://stm16.xcast.com.br:7446/stream/;stream.mp3
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.radios.com.br/radio/xl/radio11152_1674740005.png" group-title="Radio",Capital FM (Radio BR)
-https://ice.fabricahost.com.br/capitalfmsp
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radio.pt/100/classic-hits-brasil.jpeg?version=3d210fa1fdb93f46765326062e545a02" group-title="Radio",Classic Hits Brasil (Radio BR)
+https://stream.zeno.fm/ak2b4bhaps8uv
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/996bf57ba5e5a2fdfc82f5107c4819fe.jpg" group-title="Radio",Classic Hits (Radio BR)
 https://player.srvaudio.com.br/player-ssl/9790/
@@ -31,7 +31,7 @@ https://player.srvaudio.com.br/player-ssl/9790/
 https://stream.vagalume.fm/hls/1470161190169185/aac.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/53916.v11.png" group-title="Radio",Das Antigas (Radio BR)
-http://stream.radiodasantigas.com.br:9992/;stream.nsv
+https://streaming.brazink.com/?p=9992/stream/1/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/br/deep_house_mix.png" group-title="Radio",Deep House Mix (Radio BR)
 https://stream.vagalume.fm/hls/1470426692759789/aac.m3u8
@@ -57,8 +57,8 @@ https://ice.fabricahost.com.br/metropolitana985sp
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/br/musica_brasileira_electro.png" group-title="Radio",Música Brasileira Electrónica (Radio BR)
 https://stream.vagalume.fm/hls/152911357157777/aac.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/d5e3bdbf69b875325c12662bffe9c8ae.jpg" group-title="Radio",On FM (Radio BR)
-https://cast4.hoost.com.br:20214/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.radios.com.br/radio/lg/radio268068_1750960262.jpg" group-title="Radio",On FM (Radio BR)
+https://centova1.smghosting.com.br/proxy/onfm/stream?1752616025250
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/b3d9829ade350e79f8c45d83ae53f607.jpg" group-title="Radio",Pop e Rock (Radio BR)
 http://cast2.youngtech.radio.br:8160/radio
@@ -249,8 +249,8 @@ http://streams.bigfm.de/bigfm-mp3-96
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/2/42852.v1.png" group-title="Radio",Classic Rock (Radio DE)
 https://classicrock.stream.laut.fm/classicrock
 
-#EXTINF:-1 tvg-logo="https://assets.radioplayer.org/276/2762592/600/600/kyafhsf4.png" group-title="Radio",Deluxe 2000 (Radio DE)
-https://audiostreams.deluxemusic.tv/2000/aac-64
+#EXTINF:-1 tvg-logo="https://assets.radioplayer.org/276/2762592/600/600/kyafhsf4.png" group-title="Radio",Deluxe Easy (Radio DE)
+https://audiostreams.deluxemusic.tv/easy/aac-64
 
 #EXTINF:-1 tvg-logo="https://assets.radioplayer.org/276/2762083/600/600/kyagluck.png" group-title="Radio",Deluxe Lounge (Radio DE)
 https://audiostreams.deluxemusic.tv/lounge/aac-64
