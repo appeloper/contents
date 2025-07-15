@@ -3,17 +3,11 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/es/3ABNKids.png" group-title="Kids",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
-#EXTINF:-1 channel-id="PlutoTV-656e28dd57fe4a0008819c3d" tvg-id="656e28dd57fe4a0008819c3d" tvg-logo="https://images.pluto.tv/channels/656e28dd57fe4a0008819c3d/colorLogoPNG.png" group-title="Kids",A Aventureira
-https://jmp2.uk/plu-656e28dd57fe4a0008819c3d.m3u8
-
 #EXTINF:-1 tvg-id="ABCMESydney.au" tvg-logo="https://i.imgur.com/6NyFLAm.png" group-title="Kids",ABC Me
 https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1  tvg-id="AfarinBaxcha.iq" tvg-logo="https://afarin.tv/images/baxcha.png" group-title="Kids",Afarin Baxcha
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.roku.com/developer_channels/prod/0ed1a91bab8197aa79aad9b50e9235d6ec20b5494d217b9689da037624c213f6.png" group-title="Kids",Ahlulbayt TV
-https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD (Dog TV)
 https://install.akctvcontrol.com/speed/broadcast/138/file-3128k.m3u8
@@ -34,61 +28,73 @@ https://jmp2.uk/sam-USBD3300019OU.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Kids",Anime All Day
-https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png" group-title="Kids",Anime TV
-https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8
+https://jmp2.uk/plu-667195b3efa2a10008bb631e.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/o4F6BrdDFB0/hqdefault.jpg" group-title="Kids",Arthur
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62556bfa3261a300076b0baa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://jmp2.uk/plu-62556bfa3261a300076b0baa.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-63dd5c904e83e700088fb68a" tvg-id="63dd5c904e83e700088fb68a" tvg-logo="https://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="Kids",As Tartarugas Ninja (PT)
 https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8
 
-#EXTINF:-1 channel-id="PlutoTV-61373f1a12dd9f00077dcd6f" tvg-id="61373f1a12dd9f00077dcd6f" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Kids",As Tortugas Ninja (ES)
+#EXTINF:-1 channel-id="PlutoTV-61373f1a12dd9f00077dcd6f" tvg-id="61373f1a12dd9f00077dcd6f" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Kids",Las Tortugas Ninja (ES)
 https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8
 
-#EXTINF:-1 channel-id="PlutoTV-61373c865ed5810007173fbc" tvg-id="61373c865ed5810007173fbc" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="Kids",Avatar Kids (ES)
+#EXTINF:-1 channel-id="656df599c0fc8800089c75ab-gb" tvg-id="656df599c0fc8800089c75ab" tvg-chno="460" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" group-title="Kids",Avatar (EN)
+https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
+
+#EXTINF:-1 channel-id="61373c865ed5810007173fbc-es" tvg-id="61373c865ed5810007173fbc" tvg-chno="510" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="Kids",Avatar (ES)
 https://jmp2.uk/plu-61373c865ed5810007173fbc.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Avatar-the-Last-Airbender-Symbol.png" group-title="Kids",Avatar Kids (EN)
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656df599c0fc8800089c75ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="600adbdf8c554e00072125c9-de" tvg-id="600adbdf8c554e00072125c9" tvg-chno="323" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/600adbdf8c554e00072125c9/colorLogoPNG.png" group-title="Kids",Avatar (DE)
+https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8
+
+#EXTINF:-1 channel-id="60b4c17a81e29300071d3a39-fr" tvg-id="60b4c17a81e29300071d3a39" tvg-chno="1120" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/60b4c17a81e29300071d3a39/colorLogoPNG.png" group-title="Kids",Avatar (FR)
+https://jmp2.uk/plu-60b4c17a81e29300071d3a39.m3u8
+
+#EXTINF:-1 channel-id="6759eeb1bd523200083b4f29-br" tvg-id="6759eeb1bd523200083b4f29" tvg-chno="1443" tvg-name="Avatar: A lenda de Aang" tvg-logo="https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png" group-title="Kids",Avatar: A lenda de Aang
+https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
+
+#EXTINF:-1 channel-id="6759ee82bd523200083b4f0f-mx" tvg-id="6759ee82bd523200083b4f0f" tvg-chno="1443" tvg-name="Avatar: La Leyenda de Aang" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" group-title="Kids",Avatar: La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 
 #EXTINF:-1 tvg-id="USBD350002338" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002338_20240401T235452SQUARE.png" group-title="Kids",Baby Einstein
 https://jmp2.uk/sam-USBD350002338.m3u8
 
-#EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png" group-title="Kids",BabyFirst
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 channel-id="5f4fb4cf605ddf000748e16f-br" tvg-id="5f4fb4cf605ddf000748e16f" tvg-chno="1415" tvg-name="Babyfirst" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Kids",Babyfirst (PT)
+https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
 
-#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.pinimg.com/474x/f8/1c/33/f81c336e7ba44795062593264a90d3cf.jpg" group-title="Kids",Baby Shark TV
-https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="5ebac49ce4dc8b00078b23bc-mx" tvg-id="5ebac49ce4dc8b00078b23bc" tvg-chno="1415" tvg-name="Babyfirst" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Kids",Babyfirst (ES)
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/f8/1c/33/f81c336e7ba44795062593264a90d3cf.jpg" group-title="Kids",Baby Shark TV 2
-https://newidco-babysharktv-1-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="60faffc3fbbc120007fc4376-us" tvg-id="60faffc3fbbc120007fc4376" tvg-chno="3760" tvg-name="Baby Shark TV" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG.png" group-title="Kids",Baby Shark TV (EN)
+https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/474x/f8/1c/33/f81c336e7ba44795062593264a90d3cf.jpg" group-title="Kids",Baby Shark TV 3
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951209
+#EXTINF:-1 channel-id="63da6bcd60bc8f0008a5d364-br" tvg-id="63da6bcd60bc8f0008a5d364" tvg-chno="1410" tvg-name="Baby Shark TV" tvg-logo="https://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="Kids",Baby Shark TV (PT)
+https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
+
+#EXTINF:-1 channel-id="619d5e6a093e7c0007489211-mx" tvg-id="619d5e6a093e7c0007489211" tvg-chno="1410" tvg-name="Baby Shark TV" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Kids",Baby Shark TV (ES)
+https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8
 
 #EXTINF:-1 tvg-id="Balapan.kz" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="Kids",Balapan TV
-https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/tracks-v4a1/mono.ts.m3u8
+
+#EXTINF:-1 channel-id="USBD490000209-us" tvg-id="USBD490000209" tvg-chno="3613" tvg-name="Barbie and Friends" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD490000209_20241104T163538SQUARE.png" group-title="Kids",Barbie and Friends
+https://jmp2.uk/sam-USBD490000209.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/assets/asset/XM0GWNND634OHQ/600x337.jpg" group-title="Kids",Barney TV (Xumo TV)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951148
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/95C3A69E-55D2-4550-B3A4-B83B02A22152.png" group-title="Kids",Barney and Friends
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ac405b3874370007419b7f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://jmp2.uk/sam-US300001UO.m3u8
 
 #EXTINF:-1 channel-id="samsung-US800003JM" tvg-id="US800003JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240709T002122SQUARE.png" group-title="Kids",BBC Kids
 https://jmp2.uk/sam-US800003JM.m3u8
 
-#EXTINF:-1 channel-id="samsung-GBBA330002536" tvg-id="GBBA330002536" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA330002536_20220914T041001SQUARE.png_20220914041001.png" group-title="Kids",Beano TV
-https://jmp2.uk/sam-GBBA330002536.m3u8
-
-#EXTINF:-1  tvg-id="BebecitoBumysusamigos.us" tvg-logo="https://i.imgur.com/bTXIYic.png" group-title="Kids",Bebecito Bum y sus amigos
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85e80dc7-d7c2-49ee-b346-20b976b1db9b
-
-#EXTINF:-1 channel-id="PlutoTV-62545c0b002f4b0007688b61" tvg-id="62545c0b002f4b0007688b61" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Kids",Bob Esponja Calça Quadrada
+#EXTINF:-1 channel-id="62545c0b002f4b0007688b61-br" tvg-id="62545c0b002f4b0007688b61" tvg-chno="1460" tvg-name="Bob Esponja Calça Quadrada" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Kids",Bob Esponja Calça Quadrada (PT)
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+
+#EXTINF:-1 channel-id="6254598f5083f800076d8563-mx" tvg-id="6254598f5083f800076d8563" tvg-chno="1460" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1750086210946.png" group-title="Kids",Bob Esponja Pantalones Cuadrados (ES)
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBC4400013R7" tvg-id="USBC4400013R7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400013R7_20240819T165356SQUARE.png" group-title="Kids",Bob the Builder
 https://jmp2.uk/sam-USBC4400013R7.m3u8
