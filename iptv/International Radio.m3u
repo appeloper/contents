@@ -423,6 +423,18 @@ https://ais-sa2.cdnstream1.com/2209_128.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/58/3c/4337/c175.png" group-title="Radio",Cadena 100 (Radio ES)
 https://cadena100-cope-rrcast.flumotion.com/cope/cadena100.mp3
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cadenaelite.es/images/canales/eliteDance.jpg" group-title="Radio",Cadena Elite Dance (Radio ES)
+https://streaming2.elitecomunicacion.es/proxy/elitedance/stream
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cadenaelite.es/images/canales/eliteLove.jpg" group-title="Radio",Cadena Elite Love (Radio ES)
+https://streaming2.elitecomunicacion.es/proxy/elitelove/stream
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cadenaelite.es/images/canales/eliteOldies.jpg" group-title="Radio",Cadena Elite Oldies (Radio ES)
+https://streaming2.elitecomunicacion.es/proxy/eliteoldies/stream
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cadenaelite.es/images/canales/eliteUrban.jpg" group-title="Radio",Cadena Elite Urban (Radio ES)
+https://streaming2.elitecomunicacion.es/proxy/eliteurban/stream
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/05bd76ebbabdf58b05c0f8a48c5d71cb.jpg" group-title="Radio",Cadena Nostalgia (Radio ES)
 https://azura.abcorp.es/radio/8040/live
 
