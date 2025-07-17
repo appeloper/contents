@@ -46,13 +46,10 @@ https://salto-streams.nl/hls/sotv1_high.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/cadena_elite.png" group-title="Music",Cadena Elite
-https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-5f779951372da90007fd45e8" tvg-id="5f779951372da90007fd45e8" tvg-logo="https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Music",Classica
 https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
-
-#EXTINF:-1 channel-id="SamsungTVPlus-ITBB1900001O3" tvg-id="ITBB1900001O3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB1900001O3_20220404T005706SQUARE.png_20220404005708.png" group-title="Music",Clubbing TV
-https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8?ads_amagi_channel=717&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=2239&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=ff3b7719-0c29-4652-bed0-85d4296adbd0&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Music",CMC TV Music
 https://cmc-ono.amagi.tv/amRdirect/device[did]=%7BPSID%7D&us_privacy=1%2D%2D%2D&coppa=%7BCOPPA%7D)&uid=1hum7atep-gptl-57o-e4i2-zmqvote4zx/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
@@ -288,9 +285,6 @@ http://rtmp.one.by:1200
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One SD 4
 http://hz1.teleport.cc/HLS/SD.m3u8
 
-#EXTINF:-1 tvg-logo="https://shkabaj.net/tv/img/tv_opoja.png" group-title="Music",Opoja TV HD
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/1mushd.jpg" group-title="Music",Первый Музыкальный 1 HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 
@@ -348,7 +342,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-name="Rock TV" tvg-id="ITBC1100011RK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png" group-title="Music",ROCK TV
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Rocktv" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music",Rock TV 2
+#EXTINF:-1 tvg-name="Rocktv" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music",Rock TV MK
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" group-title="Music",Rock TV (RO)
@@ -356,6 +350,9 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-name="RTL 102.5 Italia" tvg-logo="https://www.rotas.com/wp-content/uploads/2018/02/Logo-RTL-banner.jpg" group-title="Music",RTL 102.5 Italia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saga_Music_Haryanvi.png" group-title="Music",Saga Music Haryanvi
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://citytraffic.ru/old/upload/1488369339.jpg" group-title="Music",Шансон Радио TB
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
@@ -465,9 +462,6 @@ https://jmp2.uk/sam-FRBD1900013CB.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000165E_20240227T221224SQUARE.png_20240227221225.png" group-title="Music",Vevo Country
 https://jmp2.uk/sam-CABC52000165E.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20230412T042621SQUARE.png_20230412042621.png" group-title="Music",Vevo Features
-https://jmp2.uk/sam-USBD1200008GL.m3u8
-
 #EXTINF:-1 channel-id="SamsungTVPlus-USBC3600002EK" tvg-id="USBC3600002EK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20240520T212910SQUARE.png" group-title="Music",Vevo Hip-Hop
 https://jmp2.uk/sam-USBC3600002EK.m3u8
 
@@ -563,3 +557,6 @@ https://jmp2.uk/sam-USBD3300010L9.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-668678bc0642e500080f90c6" tvg-id="668678bc0642e500080f90c6" tvg-logo="https://images.pluto.tv/channels/668678bc0642e500080f90c6/colorLogoPNG.png" group-title="Music",Yo! MTV 
 https://jmp2.uk/plu-668678bc0642e500080f90c6.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
