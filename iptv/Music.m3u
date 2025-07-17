@@ -99,6 +99,9 @@ https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 #EXTINF:-1 tvg-id="DanceTVTechnoWarehouse.ee" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music",DanceTV Techno Warehouse
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 
+#EXTINF:-1 channel-id="GBBD3000004VR" tvg-id="GBBD3000004VR" tvg-chno="4744" tvg-name="Def Jam" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000004VR_20250107T030629SQUARE.png" group-title="Music",Def Jam
+https://jmp2.uk/sam-GBBD3000004VR.m3u8
+
 #EXTINF:-1 channel-id="SamsungTVPlus-DEBA150003050" tvg-id="DEBA150003050" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20240321T045923SQUARE.png" group-title="Music",Deluxe Deutsch Pop
 https://jmp2.uk/sam-DEBA150003050.m3u8
 
@@ -129,6 +132,9 @@ https://jmp2.uk/sam-DEAK0500445A.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-DEAK0500445A" tvg-id="DEAK0500445A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500445A_20240321T045857SQUARE.png" group-title="Music",GoldStar TV (CH)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6192396135f3910007fc5fc7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc841a93-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=75107b1a-6063-4c0b-ba4a-37ea8ecf5809&serverSideAds=false
 
+#EXTINF:-1 channel-id="ITBC11000108G" tvg-id="ITBC11000108G" tvg-chno="4748" tvg-name="Hip Hop TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000108G_20241022T051632SQUARE.png" group-title="Music",Hip Hop TV
+https://jmp2.uk/sam-ITBC11000108G.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/jukebox-tv.jpg" group-title="Music",Jukebox Radio TV
 https://5926fc9c7c5b2.streamlock.net/9108/9108/chunklist_w191251077.m3u8
 
@@ -137,6 +143,9 @@ https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/82/Kiss_TV_%282014-.n.v.%29.png" group-title="Music",Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 channel-id="IT39000028R" tvg-id="IT39000028R" tvg-chno="4723" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT39000028R_20241105T025410SQUARE.png" group-title="Music",K-POP by CJ ENM
+https://jmp2.uk/sam-IT39000028R.m3u8
 
 #EXTINF:-1 tvg-logo="https://zuendel-branding.com/media/krone_hit_1_small.jpg" group-title="Music",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
@@ -284,6 +293,9 @@ http://rtmp.one.by:1200
 
 #EXTINF:-1 tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",One SD 4
 http://hz1.teleport.cc/HLS/SD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://oxys.group/app/oxygen_music_logo_vignetta_2eqnxqmk.png" group-title="Music",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/ru/1mushd.jpg" group-title="Music",Первый Музыкальный 1 HD
 http://hz1.teleport.cc/HLS/HD.m3u8
@@ -489,23 +501,38 @@ https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20230412T042621SQUARE.png_20230412042621.png" group-title="Music",Vevo Schlager Pop
 https://jmp2.uk/sam-DEBC21000022L.m3u8
 
-#EXTINF:-1 channel-id="PlutoTV-6076cd1df8576d0007c82193" tvg-id="6076cd1df8576d0007c82193" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Music",VH1 Classics
-https://jmp2.uk/plu-6076cd1df8576d0007c82193.m3u8
-
-#EXTINF:-1 tvg-id="6552085aab05240008b05f6c" tvg-logo="https://images.pluto.tv/channels/6552085aab05240008b05f6c/colorLogoPNG.png" group-title="Music",VH1+ Back to 90's
+#EXTINF:-1 channel-id="6552085aab05240008b05f6c-it" tvg-id="6552085aab05240008b05f6c" tvg-chno="925" tvg-name="VH1+ Back to 90's" tvg-logo="https://images.pluto.tv/channels/6552085aab05240008b05f6c/colorLogoPNG.png" group-title="Music",VH1+ Back to 90's
 https://jmp2.uk/plu-6552085aab05240008b05f6c.m3u8
 
-#EXTINF:-1 tvg-id="63724270c7c2360007b170e8" tvg-logo="https://images.pluto.tv/channels/63724270c7c2360007b170e8/colorLogoPNG.png" group-title="Music",VH1+ Canzoni Italiane
+#EXTINF:-1 channel-id="63724270c7c2360007b170e8-it" tvg-id="63724270c7c2360007b170e8" tvg-chno="945" tvg-name="VH1+ Canzoni Italiane" tvg-logo="https://images.pluto.tv/channels/63724270c7c2360007b170e8/colorLogoPNG.png" group-title="Music",VH1+ Canzoni Italiane
 https://jmp2.uk/plu-63724270c7c2360007b170e8.m3u8
 
-#EXTINF:-1 tvg-id="65e5d9d2ec9fda0008c35f91" tvg-logo="https://images.pluto.tv/channels/65e5d9d2ec9fda0008c35f91/colorLogoPNG.png" group-title="Music",VH1+ Dance
+#EXTINF:-1 channel-id="6076cd1df8576d0007c82193-es" tvg-id="6076cd1df8576d0007c82193" tvg-chno="620" tvg-name="VH1 Classics ES" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Music",VH1 Classics (ES)
+https://jmp2.uk/plu-6076cd1df8576d0007c82193.m3u8
+
+#EXTINF:-1 channel-id="667d3794ca746800086962c7-fr" tvg-id="667d3794ca746800086962c7" tvg-chno="1530" tvg-name="VH1+ Classics FR" tvg-logo="https://images.pluto.tv/channels/667d3794ca746800086962c7/colorLogoPNG.png" group-title="Music",VH1+ Classics (FR)
+https://jmp2.uk/plu-667d3794ca746800086962c7.m3u8
+
+#EXTINF:-1 channel-id="6690f892d51259000880d1c4-it" tvg-id="6690f892d51259000880d1c4" tvg-chno="940" tvg-name="VH1+ Classici IT" tvg-logo="https://images.pluto.tv/channels/6690f892d51259000880d1c4/colorLogoPNG.png" group-title="Music",VH1+ Classici (IT)
+https://jmp2.uk/plu-6690f892d51259000880d1c4.m3u8
+
+#EXTINF:-1 channel-id="65e5d9d2ec9fda0008c35f91-it" tvg-id="65e5d9d2ec9fda0008c35f91" tvg-chno="935" tvg-name="VH1+ Dance" tvg-logo="https://images.pluto.tv/channels/65e5d9d2ec9fda0008c35f91/colorLogoPNG.png" group-title="Music",VH1+ Dance
 https://jmp2.uk/plu-65e5d9d2ec9fda0008c35f91.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="Music",VH1+ Music Legends
+#EXTINF:-1 channel-id="62e8cc10ca869f00078efca8-it" tvg-id="62e8cc10ca869f00078efca8" tvg-chno="920" tvg-name="VH1+ Music Legends" tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" group-title="Music",VH1+ Music Legends
 https://jmp2.uk/plu-62e8cc10ca869f00078efca8.m3u8
 
-#EXTINF:-1 tvg-id="636a4173e34fd50007534542" tvg-logo="https://images.pluto.tv/channels/636a4173e34fd50007534542/colorLogoPNG.png" group-title="Music",VH1+ Rock!
+#EXTINF:-1 channel-id="66abefe5d2d50d00082c7d12-us" tvg-id="66abefe5d2d50d00082c7d12" tvg-chno="1675" tvg-name="VH1 Queens of Reality" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png" group-title="Music",VH1 Queens of Reality
+https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
+
+#EXTINF:-1 channel-id="6447d08f2858cb0008b9957c-fr" tvg-id="6447d08f2858cb0008b9957c" tvg-chno="1515" tvg-name="VH1+ Rock FR" tvg-logo="https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png" group-title="Music",VH1+ Rock (FR)
+https://jmp2.uk/plu-6447d08f2858cb0008b9957c.m3u8
+
+#EXTINF:-1 channel-id="636a4173e34fd50007534542-it" tvg-id="636a4173e34fd50007534542" tvg-chno="930" tvg-name="VH1+ Rock! IT" tvg-logo="https://images.pluto.tv/channels/636a4173e34fd50007534542/colorLogoPNG.png" group-title="Music",VH1+ Rock! (IT)
 https://jmp2.uk/plu-636a4173e34fd50007534542.m3u8
+
+#EXTINF:-1 channel-id="626180ec537f210007e94b52-it" tvg-id="626180ec537f210007e94b52" tvg-chno="52" tvg-name="VH1+ Summer Vibes" tvg-logo="https://images.pluto.tv/channels/626180ec537f210007e94b52/colorLogoPNG.png" group-title="Music",VH1+ Summer Vibes
+https://jmp2.uk/plu-626180ec537f210007e94b52.m3u8
 
 #EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/2556.gif" group-title="Music",Visual Radio
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
