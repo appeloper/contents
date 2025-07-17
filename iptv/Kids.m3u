@@ -261,7 +261,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1 tvg-id="MNetKids.mk" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="Kids",M-Net Kids
 http://ares.mnet.mk/hls/mnet-kids.m3u8
 
-#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="kids",Magic Kids
+#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Kids",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 3 EUR
@@ -381,7 +381,7 @@ https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-logo="https://i.imgur.com/S31utcQ.png" group-title="Kids",Pluto TV Animé Acción (ES)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:-1 channel-id="604b79c558393100078faeef-br" tvg-id="604b79c558393100078faeef" tvg-chno="1254" tvg-name="Pluto TV Anime Ação PT" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="Brazil", Pluto TV Anime Ação (PT)
+#EXTINF:-1 channel-id="604b79c558393100078faeef-br" tvg-id="604b79c558393100078faeef" tvg-chno="1254" tvg-name="Pluto TV Anime Ação PT" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="Kids", Pluto TV Anime Ação (PT)
 https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
 
 #EXTINF:-1 channel-id="67ed8c15c84f951267dbebc2-us" tvg-id="67ed8c15c84f951267dbebc2" tvg-chno="3986" tvg-name="Pluto TV Anime Comedy" tvg-logo="https://images.pluto.tv/channels/67ed8c15c84f951267dbebc2/colorLogoPNG_1746815802607.png" group-title="Kids",Pluto TV Anime Comedy
@@ -582,7 +582,7 @@ https://jmp2.uk/sam-GB2400007FA.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies (IT)
 https://jmp2.uk/sam-IT480000143.m3u8
 
-#EXTINF:-1 channel-id="DE4800001Y8-de" tvg-id="DE4800001Y8" tvg-chno="4773" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800001Y8_20250120T075841SQUARE.png" group-title="kids",Teletubbies (DE)
+#EXTINF:-1 channel-id="DE4800001Y8-de" tvg-id="DE4800001Y8" tvg-chno="4773" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4800001Y8_20250120T075841SQUARE.png" group-title="Kids",Teletubbies (DE)
 https://jmp2.uk/sam-DE4800001Y8.m3u8
 
 #EXTINF:-1 channel-id="USBD3500015R5-us" tvg-id="USBD3500015R5" tvg-chno="3642" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500015R5_20250121T101050SQUARE.png" group-title="Kids,Teletubbies
