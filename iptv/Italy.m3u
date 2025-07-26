@@ -396,10 +396,10 @@ https://chili-chiliindimenticabili-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.chili.com/images/web/logoChili.png" group-title="Movies",Chili Velvet
 https://chili-chilivelvet-1-it.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="PlutoTV-608aa3c446d73500075f0e24" tvg-id="608aa3c446d73500075f0e24" tvg-logo="https://images.pluto.tv/channels/608aa3c446d73500075f0e24/colorLogoPNG.png" group-title="Film",Film Classici
+#EXTINF:-1 channel-id="PlutoTV-608aa3c446d73500075f0e24" tvg-id="608aa3c446d73500075f0e24" tvg-logo="https://images.pluto.tv/channels/608aa3c446d73500075f0e24/colorLogoPNG.png" group-title="Movies",Film Classici
 https://jmp2.uk/plu-608aa3c446d73500075f0e24.m3u8
 
-#EXTINF:-1 channel-id="PlutoTV-608aa7d8359b270007861489" tvg-id="608aa7d8359b270007861489" tvg-logo="https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png" group-title="Film",Cinema Italiano
+#EXTINF:-1 channel-id="PlutoTV-608aa7d8359b270007861489" tvg-id="608aa7d8359b270007861489" tvg-logo="https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png" group-title="Movies",Cinema Italiano
 https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
 
 #EXTINF:-1 tvg-chno=0 tvg-id="top-movies-rakuten-tv" tvg-name="Film Top - Rakuten TV" tvg-logo="https://appstv-static-content-prod.wuaki.tv/images/720p/UI30_about_us-logo.70c3538baaaa2c6937b498be48c7e456.png" group-title="Movies",Film Top
@@ -603,7 +603,7 @@ https://jmp2.uk/sam-ITBD51000010V.m3u8
 #EXTINF:-1 tvg-id="IT700004X4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700004X4_20240611T062036SQUARE.png" group-title="Kids",Pocoyo
 https://jmp2.uk/sam-IT700004X4.m3u8
 
-#EXTINF:-1 channel-id="PlutoTV-6093f6f8351eb0000754afb8" tvg-id="6093f6f8351eb0000754afb8" tvg-logo="https://images.pluto.tv/channels/6093f6f8351eb0000754afb8/colorLogoPNG.png" group-title="Bambini",Super! Star
+#EXTINF:-1 channel-id="PlutoTV-6093f6f8351eb0000754afb8" tvg-id="6093f6f8351eb0000754afb8" tvg-logo="https://images.pluto.tv/channels/6093f6f8351eb0000754afb8/colorLogoPNG.png" group-title="Kids",Super! Star
 https://jmp2.uk/plu-6093f6f8351eb0000754afb8.m3u8
 
 #EXTINF:-1 tvg-id="ITAJ3800010RX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800010RX_20220404T005813SQUARE.png_20220404005815.png" group-title="Kids",Super Pop
