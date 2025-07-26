@@ -87,7 +87,7 @@ https://jmp2.uk/sam-CA4600005WZ.m3u8
 #EXTINF:-1  tvg-name="CBC News Saskatchewan" tvg-id="CA46000116C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA46000116C_20250401T004738SQUARE.png" tvg-chno="1133" group-title="News",CBC News Saskatchewan
 https://jmp2.uk/sam-CA46000116C.m3u8
 
-#EXTINF:-1  tvg-name="CBC News Toronto" tvg-id="CA1500002Q4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500002Q4_20250401T004706SQUARE.png" tvg-chno="1134" group-title="Newsn",CBC News Toronto
+#EXTINF:-1  tvg-name="CBC News Toronto" tvg-id="CA1500002Q4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1500002Q4_20250401T004706SQUARE.png" tvg-chno="1134" group-title="News",CBC News Toronto
 https://jmp2.uk/sam-CA1500002Q4.m3u8
 
 #EXTINF:-1  tvg-name="CBC News Windsor" tvg-id="CA4600015MG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA4600015MG_20250401T004741SQUARE.png" tvg-chno="1135" group-title="News",CBC News Windsor
@@ -303,7 +303,7 @@ https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
 #EXTINF:-1 tvg-id="62ea3f8a38acc80007072d26" tvg-logo="https://images.pluto.tv/channels/62ea3f8a38acc80007072d26/colorLogoPNG.png" group-title="Movies",Horror Movies
 https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
 
-#EXTINF:-1 tvg-id="62e92178946c8000079a3160" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png" group-title="Comedy",TV Comedy
+#EXTINF:-1 tvg-id="62e92178946c8000079a3160" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png" group-title="Movies",TV Comedy
 https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
 
 #EXTINF:-1 tvg-id="5c5c31f2f21b553c1f673fb0" tvg-logo="https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png" group-title="Movies",TV Cult Films
