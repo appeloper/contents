@@ -51,10 +51,10 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 #EXTINF:-1 tvg-id="TVI HD.pt" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png" group-title="General",TVI (op.2)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
 
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/29a34c67836621.Y3JvcCw4MzIsNjUxLDM1LDA.jpg" group-title="General",CMTV
-https://moonlight.wideiptv.top/CMTVPT/index.fmp4.m3u8?token=9e60220b03ccb52965b30274f4c03a177faf14ed-b4f9252271c273d1c99f5e3d6bf94abd-1749417159-1749406359
+#EXTINF:-1 tvg-id="VmaisTVI.pt" tvg-logo="https://www.i3radio.com/userfiles-aplin/avatars/oie_0roa4f07pxn9-473401046.jpg" group-title="Entertainment",TVI V+
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VmaisTVI.pt" tvg-logo="https://mediacapitalcomercial.pt/wp-content/uploads/CAPAS-SITE-COMERCIAL-V-3.jpg" group-title="Entertainment",V+ TVI
+#EXTINF:-1 tvg-id="VmaisTVI.pt" tvg-logo="https://feedlix.net/tv/pt/tvi-ficcao.jpg" group-title="Entertainment",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVI Reality HD.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png" group-title="Entertainment",TVI Reality
@@ -62,6 +62,9 @@ https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 
 #EXTINF:-1 tvg-id="Porto Canal HD.pt" tvg-logo="https://feedlix.net/tv/pt/porto_canal.png" group-title="General",Porto Canal
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/rfp-tv.jpg" group-title="Regional",RFP TV (Folclore TV)
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Famatv.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg" group-title="General",Fama TV
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
@@ -688,7 +691,7 @@ https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/nasci_para_cantar.png" group-title="Music",Nasci para Cantar
-https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w510217612.m3u8
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd719ac59e43e0d13ae9154b18782f50.jpg" group-title="Music",TV Muzangala
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1968234030.m3u8
