@@ -87,20 +87,8 @@ https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr_360p/playlis
 #EXTINF:-1 tvg-id="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Movies",MyTime Movie Network (BR)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Darkflix.png" group-title="Movies",Darkflix
-https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cinemonde.png" group-title="Movies",Cinemonde
-https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosCine.pt.png" group-title="Movies",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="Movies",Gospel Movie TV
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/ame/classiquetv.png" group-title="Movies",Classique TV
-https://stmv1.srvif.com/classique/classique/chunklist_w1130333035.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Movies",Cine Ação
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=56&deviceId=5f120f41b7d403000783a6d6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
@@ -144,8 +132,11 @@ https://run-th-br-lgchannels.otteravision.com/run/th_br/th_br.m3u8
 #EXTINF:-1 tvg-id="action-rakuten-tv" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Movies",Acción (ES)
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=e86d5d63-520f-48c6-a793-073bb3cac45e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6069&publishing_platform_id=5
 
-#EXTINF:-1 channel-id="PlutoTV-645a309c5a0cd5000873f609" tvg-id="645a309c5a0cd5000873f609" tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png" group-title="Movies",Catástrofes
+#EXTINF:-1 channel-id="645a309c5a0cd5000873f609" tvg-id="645a309c5a0cd5000873f609" tvg-chno="204" tvg-name="Pluto TV Catástrofes" tvg-logo="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png" group-title="Movies",Pluto TV Catástrofes (ES)
 https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-65a69ef53af63d000825e0ee" tvg-id="65a69ef53af63d000825e0ee" tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG.png" group-title="Cinéma",Pluto TV Catastrophe (FR)
+https://jmp2.uk/plu-65a69ef53af63d000825e0ee.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-61373bb45168fe000773eecd" tvg-id="61373bb45168fe000773eecd" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="Movies",Cine Clásico
 https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
@@ -300,17 +291,14 @@ https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="5f32d432d612e50007e56133" tvg-id="5f32d432d612e50007e56133" tvg-chno="1154" tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1732044191663.png" group-title="Travel",Pluto TV Viagens (PT)
 https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
 
-#EXTINF:-1 channel-id="PlutoTV-5dcddfbdb7cf0e0009ae09ea" tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Travel",Viajes
-https://jmp2.uk/plu-5dcddfbdb7cf0e0009ae09ea.m3u8
+#EXTINF:-1 channel-id="PlutoTV-5dcddfbdb7cf0e0009ae09ea" tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Travel",Viajes (ES)
+https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
 
 #EXTINF:0 channel-id="bbc-earth" channel-number="3560" tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" tvc-guide-title="BBC Earth" group-title="Documentary",BBC Earth
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ba859734-12f9-11f0-a6bb-39c8c137afbb&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5b0fa2d8-5392-47d7-8868-0bccc59234ab&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="PlutoTV-5ddc266f80e3550009136843" tvg-id="5ddc266f80e3550009136843" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Documentary",Pluto TV Aventura
 https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
-
-#EXTINF:-1 channel-id="PlutoTV-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png" group-title="Documentary",Pluto TV Ciencia
-https://jmp2.uk/plu-5dd8364ea1d6780009929902.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-6474aadc8e3c0a0008b98493" tvg-id="6474aadc8e3c0a0008b98493" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="Documentary",Pluto TV Curiosidade
 https://jmp2.uk/plu-6474aadc8e3c0a0008b98493.m3u8
@@ -319,7 +307,7 @@ https://jmp2.uk/plu-6474aadc8e3c0a0008b98493.m3u8
 https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-5dd6ab8056beb000091fc6b6" tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Hogar
-https://jmp2.uk/plu-5dd6ab8056beb000091fc6b6.m3u8
+https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-65786abdb3801200084c593a" tvg-id="65786abdb3801200084c593a" tvg-logo="https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Homeful
 https://jmp2.uk/plu-65786abdb3801200084c593a.m3u8
@@ -330,14 +318,14 @@ https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="Documentary",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 channel-id="GBBB5000002PL" tvg-id="GBBB5000002PL" tvg-chno="4486" tvg-name="Wild Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="Documentary",Wild Planet
-https://jmp2.uk/sam-GBBB5000002PL.m3u8
+#EXTINF:-1 channel-id="GBBB5000002PL" tvg-id="GBBB5000002PL" tvg-chno="4486" tvg-name="Wild Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="Documentary",Wild Earth
+https://jmp2.uk/sam-ESBA330004121.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUjFHcGJI2XS4hksDvaRQg2YdHlZtZop2f5A&s" group-title="Documentary",Xumo Free Nature And Wildlife TV
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951218
 
-#EXTINF:-1 tvg-logo="https://www.tubefilter.com/wp-content/uploads/2020/07/weather-spy.jpg",WeatherSpy
-https://beaece44.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/c5c5a0f9-1397-463d-8c87-20abac869180/0.m3u8
+#EXTINF:-1 tvg-logo="https://www.tubefilter.com/wp-content/uploads/2020/07/weather-spy.jpg",WeatherSpy (EN)
+https://beaece44.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/4b02ec9f-215c-4271-b9c5-7d1d236fcfb7/0.m3u8
 
 #EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Kitchen",TV Cocina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
