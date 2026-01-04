@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="" tvg-logo="",Sky News Now (Australia)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",Bloomberg TV
-https://bloomberg-bloomberg-2-au.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",Breaking News by LeadStory
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
 
@@ -41,9 +38,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-sam
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Naturetime
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Bloomberg Originals
-https://bloomberg-quicktake-1-au.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Wonder
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-wonder-samsungau/playlist.m3u8
@@ -117,9 +111,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvau-samsungau/pla
 #EXTINF:-1 tvg-id="" tvg-logo="",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",Red Bull TV
-https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",MTRSPT 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
 
@@ -128,9 +119,6 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Stingray Naturescape (Temp from Xiaomi)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6280
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Fireplace 4K
-https://d27omhseb6pn06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5dtvkvuar6h4t/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Vevo Pop
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
