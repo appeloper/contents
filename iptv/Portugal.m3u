@@ -747,6 +747,9 @@ http://rtmp.one.by:1200
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="Music",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-66be8cd4871131188099527e" tvg-id="647f8d22a2fc3fadb4721685-66be8cd4871131188099527e" tvg-name="TRACE UK" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23feecc3-94f6-49b7-98e6-1828f42695ea/1500X1000_PNG_w_transparent_background__Logo_suitable_for_dark_backgrounds__-_Pierre_Gournay.png" group-title="Music",Trace UK
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-66be8cd4871131188099527e.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 
