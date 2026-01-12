@@ -744,6 +744,12 @@ http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="" tvg-logo="http://feedlix.net/tv/ru/one_hd_music.jpg" group-title="Music",One HD 4
 http://rtmp.one.by:1200
 
+#EXTINF:-1 tvg-logo="https://cdn.chili.com/images/web/logoChili.png" group-title="Music",Chili Hip Hop TV
+https://chili-hiphop-tv-1-it.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.chili.com/images/web/logoChili.png" group-title="Music",Chili Rock TV
+https://chili-rock-tv-1-it.xiaomi.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/trace.png" group-title="Music",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
@@ -867,11 +873,17 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:0 channel-id="vevo-true-school-hip-hop" channel-number="4720" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Music",Vevo True School Hip-Hop
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=98003376-6314-11ef-9459-9e11b16f4a50&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b16099b4-c5df-458f-83fd-589cae47e957&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/00bd2605d1cd1b7c1ed310062964e7252aa4f2bff032bf16e59fc077963a4a87.png" group-title="Music",Xite
+https://xite-germany-lg.amagi.tv/playlist.m3u8
+
 #EXTINF:0 channel-id="xite-classic-country" channel-number="4690" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Music",XITE Classic Country
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=980031a0-6314-11ef-a39a-9e11b16f4a50&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5c593f93-c97f-4dae-bd45-437f8588a39a&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="xite-gospel" channel-number="4800" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="Music",XITE Gospel
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623b93628e6ded0007337d4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=980037fe-6314-11ef-90bb-9e11b16f4a50&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f228b376-ed9d-4f33-8b57-04aaa919727e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/00bd2605d1cd1b7c1ed310062964e7252aa4f2bff032bf16e59fc077963a4a87.png" group-title="Music",Xite Hits
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 
 #EXTINF:0 channel-id="xite-rock" channel-number="4750" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="Music",XITE Rock x Metal
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9800352e-6314-11ef-9e72-9e11b16f4a50&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=58961457-e3a7-4661-a29a-28144b910819&userId=&serverSideAds=true
