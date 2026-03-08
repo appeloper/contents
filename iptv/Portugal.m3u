@@ -36,7 +36,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTINF:-1 tvg-id="SIC HD.pt" tvg-logo="https://feedlix.net/tv/pt/Sic.pt.png" group-title="General",SIC (op.2)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 
-#EXTINF:-1 tvg-id="SIC Notícias HD.pt" tvg-logo="https://feedlix.net/tv/pt/SicNoticias.pt.png" group-title="News",SIC Notícias (geo)
+#EXTINF:-1 tvg-id="SIC Notícias HD.pt" tvg-logo="https://feedlix.net/tv/pt/SicNoticias.pt.png" group-title="News",SIC Notícias (DRM encrypted)
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
 #EXTINF:-1 tvg-id="SIC Opto HD.pt" tvg-logo="https://opto.sic.pt/_nuxt/icons/icon_512x512.feb7bd.png" group-title="Entertainment",SIC Opto HD
@@ -49,10 +49,7 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
 #EXTINF:-1 tvg-id="TVI HD.pt" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png" group-title="General",TVI (geo)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-
-#EXTINF:-1 tvg-id="TVI HD.pt" tvg-logo="https://feedlix.net/tv/pt/Tvi.pt.png" group-title="General",TVI (op.2)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
+https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjYgODo5OjI0IFBNJmhhc2hfdmFsdWU9SUJ1T2pKSjQ2SEExWVNFSWRyRkovQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTkyYmU5YTdjLWFjMzgtNDc5OC1hYWE5LTMxNzYyYWJlMzNlZA==
 
 #EXTINF:-1 tvg-id="VmaisTVI.pt" tvg-logo="https://www.i3radio.com/userfiles-aplin/avatars/oie_0roa4f07pxn9-473401046.jpg" group-title="Entertainment",TVI V+
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
@@ -73,7 +70,7 @@ https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/afmo/Tvm1.mz.png" group-title="General",TVM Moçambique
-http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w1637960336_b714000_slpor.m3u8
+http://online.tvm.co.mz:1935/live/Channel1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85622a63246e88cadd968505db88bcf7.jpg" group-title="General",TV Zimbo HD Angola
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/tracks-v1/index.fmp4.m3u8
@@ -85,7 +82,7 @@ https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ARTV" tvg-logo="https://feedlix.net/tv/pt/Artv.pt.png" group-title="Parliament",AR TV
-https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr_360p/playlist.m3u8
+https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Movies",MyTime Movie Network (BR)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
@@ -210,26 +207,14 @@ https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w166153924_b413000_
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvmana-mocambique.com/wp-content/uploads/2023/05/LOGO_TV_MOZ.png" group-title="Religious",TV Maná Moçambique
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w738321579_b413000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore10/avatars/84/5f/19/sobrenaturaltv_partnerlogo_1693326992.jpg" group-title="Religious",Sobrenatural TV - Igreja Online
-https://36723.global.ssl.fastly.net/5d714f6a0bd97874e36f14e4/live_43f24df056e711ec8a98fbc0216fffd2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore10/avatars/84/5f/19/sobrenaturaltv_partnerlogo_1693326992.jpg" group-title="Religious",Away TV
-https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore10/avatars/84/5f/19/sobrenaturaltv_partnerlogo_1693326992.jpg" group-title="Religious",Sobrenatural TV - ADBtv
-https://36723.global.ssl.fastly.net/5d714f6a0bd97874e36f14e4/live_fb0bd5501f3111efa26bbdf96dc3f28e/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cache07.stormap.sapo.pt/vidstore10/avatars/84/5f/19/sobrenaturaltv_partnerlogo_1693326992.jpg" group-title="Religious",Sobrenatural TV - Super Kids TV
-https://36723.global.ssl.fastly.net/5d714f6a0bd97874e36f14e4/live_794ce570231611efa30259ba16b2b590/index.m3u8
-
 #EXTINF:-1 tvg-id="TVGAL.TV" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GALICIATV.png" group-title="Regional",TV Galicia (ES)
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Extremadura.TV" tvg-logo="https://feedlix.net/tv/es/canal_extremadura.jpg" group-title="Regional",Extremadura TV (ES)
-https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="CanalsurA.TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1d/Canal_sur_andalucia-01-1.png/revision/latest?cb=20181014214307" group-title="Regional",Canal Sur Andalucia (ES)
-https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202_1.m3u8
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://feedlix.net/tv/es/tve1.png" group-title="General",La 1 HD (geo ES)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -265,7 +250,7 @@ https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1024px-TeleSUR-Logo.svg.png" group-title="News",TeleSur (ES)
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HispanTV.png" group-title="News",HispanTV
 https://live.presstv.ir/hls/hispantv_2_482/index.m3u8
@@ -283,7 +268,7 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://fox-foxNewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://feedlix.net/tv/afmo/AlJazeeraEnglish.qa.png" group-title="News",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/rakuten_doc.jpg" group-title="Documentary",Rakuten Documentários (legendado PT)
 https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
@@ -303,59 +288,68 @@ https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="5f32d432d612e50007e56133" tvg-id="5f32d432d612e50007e56133" tvg-chno="1154" tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG_1732044191663.png" group-title="Travel",Pluto TV Viagens (PT)
 https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
 
-#EXTINF:-1 channel-id="PlutoTV-5dcddfbdb7cf0e0009ae09ea" tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png" group-title="Travel",Viajes (ES)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c9ccb53e-620e-11ef-b11f-5e151e6e439f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0864c78c-bab0-4409-bc59-b5376c638f28&userId=&serverSideAds=true
+#EXTINF:-1 channel-id="5f1213ba0ecebc00070e170f" tvg-id="5f1213ba0ecebc00070e170f" tvg-chno="477" tvg-name="Pluto TV Natureza" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Natureza", Pluto TV Natureza
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
 
-#EXTINF:0 channel-id="bbc-earth" channel-number="3560" tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" tvc-guide-title="BBC Earth" group-title="Documentary",BBC Earth
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ba859734-12f9-11f0-a6bb-39c8c137afbb&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5b0fa2d8-5392-47d7-8868-0bccc59234ab&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="pluto-tv-animais" tvg-logo="http://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="Documentary",Pluto TV Animais
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
 
-#EXTINF:-1 channel-id="PlutoTV-5ddc266f80e3550009136843" tvg-id="5ddc266f80e3550009136843" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Documentary",Pluto TV Aventura
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c9ccb53e-620e-11ef-b11f-5e151e6e439f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0864c78c-bab0-4409-bc59-b5376c638f28&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="PlutoTV-6474aadc8e3c0a0008b98493" tvg-id="6474aadc8e3c0a0008b98493" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" group-title="Documentary",Pluto TV Curiosidade
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97fe3666-6314-11ef-9f29-9e11b16f4a50&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6f1a9a2b-9cc9-438f-a4de-c5f3d00aa797&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="PlutoTV-61cd7b49543066000713b620" tvg-id="61cd7b49543066000713b620" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documentary",Pluto TV Historia
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61cd7b49543066000713b620/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97fe3666-6314-11ef-9f29-9e11b16f4a50&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6f1a9a2b-9cc9-438f-a4de-c5f3d00aa797&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="PlutoTV-5dd6ab8056beb000091fc6b6" tvg-id="5dd6ab8056beb000091fc6b6" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Hogar
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c9ccb53e-620e-11ef-b11f-5e151e6e439f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0864c78c-bab0-4409-bc59-b5376c638f28&userId=&serverSideAds=true
-
-#EXTINF:-1 channel-id="PlutoTV-65786abdb3801200084c593a" tvg-id="65786abdb3801200084c593a" tvg-logo="https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Homeful
-https://jmp2.uk/plu-65786abdb3801200084c593a.m3u8
+#EXTINF:-1 tvg-id="pluto-tv-curiosidade" tvg-logo="http://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG_1732044385150.png" group-title="Documentary",Pluto TV Curiosidade
+https://jmp2.uk/plu-6474aadc8e3c0a0008b98493.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-5fac52f142044f00078e2a51" tvg-id="5fac52f142044f00078e2a51" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="Documentary",Pluto TV Mistérios
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65786abdb3801200084c593a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97fe3666-6314-11ef-9f29-9e11b16f4a50&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6f1a9a2b-9cc9-438f-a4de-c5f3d00aa797&userId=&serverSideAds=true
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="Documentary",TV5 Monde Info
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 channel-id="PlutoTV-61cd7b49543066000713b620" tvg-id="61cd7b49543066000713b620" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documentary",Pluto TV Historia
+https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
+
+#EXTINF:-1 channel-id="690dd10a37b131228d76d5b1" tvg-id="690dd10a37b131228d76d5b1" tvg-chno="451" tvg-name="El Mueble" tvg-logo="https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/colorLogoPNG_1764966923664.png" group-title="Lifestyle",El Mueble
+https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
+
+#EXTINF:-1 channel-id="PlutoTV-65786abdb3801200084c593a" tvg-id="65786abdb3801200084c593a" tvg-logo="https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png" group-title="Lifestyle",Homeful
+https://jmp2.uk/plu-65786abdb3801200084c593a.m3u8
+
+#EXTINF:0 channel-id="bbc-earth" channel-number="3560" tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" tvc-guide-title="BBC Earth" group-title="Documentary",BBC Earth (EN)
+https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
 
 #EXTINF:-1 channel-id="GBBB5000002PL" tvg-id="GBBB5000002PL" tvg-chno="4486" tvg-name="Wild Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB5000002PL_20250107T025838SQUARE.png" group-title="Documentary",Wild Planet
 https://jmp2.uk/rok-7b9a45d26315568a98a2b136972bde8d.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/fr/TV5MondeInfo.fr.png" group-title="Documentary",TV5 Monde Info (FR)
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUjFHcGJI2XS4hksDvaRQg2YdHlZtZop2f5A&s" group-title="Documentary",Xumo Free Nature And Wildlife TV
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951218
 
-#EXTINF:-1 tvg-logo="https://www.tubefilter.com/wp-content/uploads/2020/07/weather-spy.jpg",WeatherSpy (EN)
-https://beaece44.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/4b02ec9f-215c-4271-b9c5-7d1d236fcfb7/0.m3u8
+#EXTINF:-1 tvg-id="weather-spy-new" tvg-name="weather-spy-new" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5e9b49bb-f481-40ee-8dac-dd9341ff52f9.jpeg" group-title="Documentary",WeatherSpy
+https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5155&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=3e87eb46-8b21-47da-ac13-c4848ff0a6f2&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1143
 
-#EXTINF:-1 tvg-id="5f1acdaa8ba90f0007d5e760" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Kitchen",TV Cocina
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 tvg-id="weather-spy-new" tvg-name="weather-spy-new" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5e9b49bb-f481-40ee-8dac-dd9341ff52f9.jpeg" group-title="Documentary",WeatherSpy (op.2)
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://images.fubo.tv/station_logos/TastemadeEnEspanol_m.png" group-title="Kitchen",Tastemade (ES)
+#EXTINF:-1 channel-id="5f1ef23020a5ac0007e5e8ea" tvg-id="5f1ef23020a5ac0007e5e8ea" tvg-chno="1199" tvg-name="Pluto TV Cozinha" tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Cozinha
+https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
+
+#EXTINF:-1 channel-id="5f1acdaa8ba90f0007d5e760" tvg-id="5f1acdaa8ba90f0007d5e760" tvg-chno="450" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Cocina
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://images.fubo.tv/station_logos/TastemadeEnEspanol_m.png" group-title="Lifestyle",Tastemade (ES)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeenespanol-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34929b38fd8794231ed1bb4f0f59a40c.jpg" group-title="Kitchen",Gusto TV (EN)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34929b38fd8794231ed1bb4f0f59a40c.jpg" group-title="Lifestyle",Gusto TV (EN)
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=4114&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=394a148d-283c-4361-9e3d-81e7f0c725be&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=858
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ly1o2e9.jpg" group-title="Pets",Animais de Estimação TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=505&deviceId=5f515ebac01c0f00080e8439&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1 channel-id="5f515ebac01c0f00080e8439" tvg-id="5f515ebac01c0f00080e8439" tvg-chno="1014" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="Pets",Animais de Estimação
+https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 
 #EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="https://mma.prnewswire.com/media/1905810/The_Pet_Collective_Logo.jpg" group-title="Pets",The Pet Collective
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="https://mma.prnewswire.com/media/1905810/The_Pet_Collective_Logo.jpg" group-title="Pets",The Pet Collective 2
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c9ccb53e-620e-11ef-b11f-5e151e6e439f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0864c78c-bab0-4409-bc59-b5376c638f28&userId=&serverSideAds=true
+#EXTINF:-1 channel-id="5ebacbcae43a6d000787b88e-mx" tvg-id="5ebacbcae43a6d000787b88e" tvg-chno="1014" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png" group-title="Mexico", The Pet Collective 2 (ES)
+https://jmp2.uk/plu-5ebacbcae43a6d000787b88e.m3u8
+
+#EXTINF:-1 channel-id="5bb1ad55268cae539bcedb08-us" tvg-id="5bb1ad55268cae539bcedb08" tvg-chno="3620" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="United States", The Pet Collective 3 (EN)
+https://jmp2.uk/plu-5bb1ad55268cae539bcedb08.m3u8
 
 #EXTINF:-1 tvg-id="AKCTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L.png" group-title="Pets",AKC TV HD
 https://install.akctvcontrol.com/speed/broadcast/138/file-3128k.m3u8
@@ -369,14 +363,11 @@ https://install.akctvcontrol.com/speed/broadcast/139/file-3128k.m3u8
 #EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Pets",AKC Irish Setter Club of ANS HD
 https://install.akctvcontrol.com/speed/broadcast/141/file-3128k.m3u8
 
-#EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Pets",Dogs 24/7
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97ff069a-6314-11ef-bda6-9e11b16f4a50&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cb8682b0-f541-4a71-9fbd-b624f6fe523e&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="599375885ceaac3cabccbed7" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pets",Cats 24/7
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97ff0726-6314-11ef-b4b4-9e11b16f4a50&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8aa7e79-4d67-4947-81dc-787c04e450c6&userId=&serverSideAds=true
-
 #EXTINF:-1 channel-id="61099df8cee03b00074b2ecf" tvg-id="61099df8cee03b00074b2ecf" tvg-chno="486" tvg-name="O Encantador de Cães" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="Pets",O Encantador de Cães
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97fe3666-6314-11ef-9f29-9e11b16f4a50&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6f1a9a2b-9cc9-438f-a4de-c5f3d00aa797&userId=&serverSideAds=true
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+
+#EXTINF:-1 channel-id="60e45687313c5f0007bc8e94-es" tvg-id="60e45687313c5f0007bc8e94" tvg-chno="161" tvg-name="El encantador de perros" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="Pets",El encantador de Perros
+https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
 
 #EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://feedlix.net/tv/pt/ZigZag.png" group-title="Kids",Zig Zag (ocasional)
 https://streaming-live.rtp.pt/liverepeater/smil:zigzagHD.smil/chunklist_b290000_slpor.m3u8
