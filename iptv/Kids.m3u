@@ -333,9 +333,6 @@ https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
 #EXTINF:-1 channel-id="611e6a9b4bb5790007a6f0f8-fr" tvg-id="611e6a9b4bb5790007a6f0f8" tvg-chno="530" tvg-name="Pluto TV Retro Toons FR" tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" group-title="Kids",Pluto TV Retro Toons (FR)
 https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
 
-#EXTINF:-1 channel-id="610c09219fc0430007a3fce6-es" tvg-id="610c09219fc0430007a3fce6" tvg-chno="518" tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="Kids",Rugrats
-https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
-
 #EXTINF:-1 tvg-id="652557d93fd33c000802f995" tvg-logo="https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG.png" group-title="Kids",Pluto TV Super Kids
 https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
 
@@ -368,6 +365,9 @@ https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Robocar_Poli_Logo.png" group-title="Kids",Robocar Poli
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5482
+
+#EXTINF:-1 channel-id="610c09219fc0430007a3fce6-es" tvg-id="610c09219fc0430007a3fce6" tvg-chno="518" tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" group-title="Kids",Rugrats
+https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 
 #EXTINF:-1 channel-id="d1bfe824cfee5369a493d7a8bbd96ec1" tvg-id="d1bfe824cfee5369a493d7a8bbd96ec1" tvg-chno="403" tvg-name="Ryan and Friends" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d1bfe824cfee5369a493d7a8bbd96ec1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661554205530_RYAN_AND_FRIENDS_260x147.png" group-title="Kids",Ryan and Friends
 https://jmp2.uk/rok-d1bfe824cfee5369a493d7a8bbd96ec1.m3u8
