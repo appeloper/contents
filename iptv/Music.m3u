@@ -105,8 +105,6 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-logo="https://zuendel-branding.com/media/krone_hit_1_small.jpg" group-title="Music",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6196c8c01d310bf925e02615" tvg-id="647f8d22a2fc3fadb4721685-6196c8c01d310bf925e02615" tvg-name="Music Legends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png" group-title="Music",Legends
-
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/lfmtv.png" group-title="Music",LFM TV
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 
