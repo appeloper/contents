@@ -285,13 +285,13 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://storiaradiotv.files.wordpress.com/2017/11/radio-stereo-5.jpg" group-title="Music",Stereo 5 TV
 https://stream1.aswifi.it/stereo5/live/index.m3u8
 
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498" tvg-id="5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498" tvg-name="Alternative" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Music",Stingray Alternative
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png" group-title="Music",Stingray Alternative
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8
 
-#EXTINF:-1 channel-id="73991aa61267bcc005a855c7b6303afc" tvg-id="73991aa61267bcc005a855c7b6303afc" tvg-chno="1074" tvg-name="Stingray Cityscapes" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/73991aa61267bcc005a855c7b6303afc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260327511_StingrayCityscapes_HUDlogo_centered_260x147.png" group-title="Music",Stingray Cityscapes
+#EXTINF:-1 channel-id="73991aa61267bcc005a855c7b6303afc" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/73991aa61267bcc005a855c7b6303afc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260327511_StingrayCityscapes_HUDlogo_centered_260x147.png" group-title="Music",Stingray Cityscapes
 https://jmp2.uk/rok-73991aa61267bcc005a855c7b6303afc.m3u8
 
-#EXTINF:-1 channel-id="f8f717f72440fb688192f83faa71a8ab" tvg-id="f8f717f72440fb688192f83faa71a8ab" tvg-chno="1073" tvg-name="Stingray Cozy Cafe" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f8f717f72440fb688192f83faa71a8ab/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260347726_CozyCafe_HUDlogo_centered_260x147.png" group-title="Music",Stingray Cozy Cafe
+#EXTINF:-1 channel-id="f8f717f72440fb688192f83faa71a8ab" tvg-id="f8f717f72440fb688192f83faa71a8ab" tvg-chno="1073"  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f8f717f72440fb688192f83faa71a8ab/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260347726_CozyCafe_HUDlogo_centered_260x147.png" group-title="Music",Stingray Cozy Cafe
 https://jmp2.uk/rok-f8f717f72440fb688192f83faa71a8ab.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002623_20240401T235649SQUARE.png" group-title="Music",Stingray Classica
@@ -300,7 +300,7 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20240401T235647SQUARE.png" group-title="Music",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-62fbf197c67d52bddf74cc87" tvg-id="647f8d22a2fc3fadb4721685-62fbf197c67d52bddf74cc87" tvg-name="Stingray CMusic" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90f3fa8c-fe2b-4716-8fa9-62cf90940c68/Stingray_CMusic_logo_light.png" group-title="Music",Stingray CMusic
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-62fbf197c67d52bddf74cc87" tvg-logo="https://provider-static.plex.tv/epg/cms/production/90f3fa8c-fe2b-4716-8fa9-62cf90940c68/Stingray_CMusic_logo_light.png" group-title="Music",Stingray CMusic
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62fbf197c67d52bddf74cc87.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20240401T235651SQUARE.png" group-title="Music",Stingray DJAZZ
@@ -309,7 +309,7 @@ https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20240401T235654SQUARE.png" group-title="Music",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491" tvg-id="5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491" tvg-name="Euro Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="Music",Stingray Euro Hits
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="Music",Stingray Euro Hits
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491.m3u8
 
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58" tvg-id="5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="Music",Stingray Exitos del Momento
