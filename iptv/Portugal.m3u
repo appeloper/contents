@@ -84,7 +84,13 @@ https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTV" tvg-logo="https://feedlix.net/tv/pt/Artv.pt.png" group-title="Parliament",AR TV
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Movies",MyTime Movie Network (BR)
+#EXTINF:-1 tvg-name="Cine Catástrofe" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3946-294x165-FFFFFF.jpg" group-title="Movies",Cine Catástrofe (PT-BR)
+https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/index.m3u8
+
+#EXTINF:-1 tvg-name="Classique TV.pt" tvg-logo="https://televisao.tv/images/classique-tv.jpg" group-title="Movies",Classique TV (PT-BR)
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTime Movie Network" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/My-Time-Movie-Network.png" group-title="Movies",MyTime Movie Network (PT-BR)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://feedlix.net/tv/pt/KuriakosCine.pt.png" group-title="Movies",Kuriakos Cine
@@ -221,6 +227,9 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-1 tvg-id="LA 2" tvg-logo="https://feedlix.net/tv/es/tve2.png" group-title="General",La 2 (geo ES)
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 tvg-name="TV BRICS.pt" tvg-logo="https://www.akado.ru/upload/image/all/BRICS-1100%D1%85400.png" group-title="News",TV BRICS (PT-BR)
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="News",Euronews
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
