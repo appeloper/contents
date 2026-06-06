@@ -21,7 +21,7 @@ http://radiocast.rtp.pt/antena280a.mp3
 #EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png" group-title="Radio PT" radio="true",Antena 3
 http://radiocast.rtp.pt/antena380a.mp3
 
-#EXTINF:-1 tvg-logo="https://www.radioatlantida.net/wp-content/uploads/2019/10/logo.jpg" group-title="Radio PT" radio="true",Atlantida
+#EXTINF:-1 tvg-logo="https://www.radio.pt/300/atlandida.png" group-title="Radio PT" radio="true",Atlantida
 https://cast1.lunabroadcasting.net/listen/atlantida/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://radiobatida.com/imagens/3108f80772909f00e0c68585038c53fc.png" group-title="Radio PT" radio="true",Batida FM
@@ -46,7 +46,7 @@ https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8
 https://stream-hls.bauermedia.pt/cidlatina.aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/EN6YEx4trm.png" group-title="Radio PT" radio="true",Classic Rock
-https://online2.classicrock.pt/stream2
+https://online.classicrock.pt/;
 
 #EXTINF:-1 tvg-logo="https://radiocomercial.pt/images/logo_big.png" group-title="Radio PT" radio="true",Comercial
 https://stream-icy.bauermedia.pt/comercial.mp3
@@ -118,7 +118,7 @@ https://stream-icy.bauermedia.pt/m80disco.aac
 https://stream-icy.bauermedia.pt/m80indie.aac
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_pop.png" group-title="Radio PT" radio="true",M80 Pop
-https://stream-icy.bauermedia.pt/m80pop.aac
+https://stream-hls.rayo.pt/m80pop.aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_pt.png" group-title="Radio PT" radio="true",M80 Portugal
 https://stream-icy.bauermedia.pt/m80nacional.aac
@@ -128,6 +128,9 @@ https://stream-icy.bauermedia.pt/m80rock.aac
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/pt/radio_m80_soul.png" group-title="Radio PT" radio="true",M80 Soul
 https://stream-icy.bauermedia.pt/m80soul.aac
+
+#EXTINF:-1 tvg-logo="https://m80.pt/images/radios/m80-top-one.png" group-title="Radio PT" radio="true",M80 Top One
+https://stream-hls.rayo.pt/m80topone.aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hLdfPxTAXc.png" group-title="Radio PT" radio="true",Marginal
 https://radios.justweb.pt/8034/stream
@@ -220,7 +223,7 @@ https://29043.live.streamtheworld.com/RFM_PORTUGALAAC
 https://cast2.hoost.com.br:20063/stream
 
 #EXTINF:-1 tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo_xmas.png" group-title="Radio PT" radio="true",Sines (Stream Radio PT)
-https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/chunklist_w1533853848_b4500000_slen.m3u8
+https://cdn146-fra.azotosolutions.com:8443/cdnedge19/smil:live19.smil/chunklist_w625149255_b4692000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/8d7c165452658fc0d38a56a4133c82f6.jpg" group-title="Radio PT" radio="true",Smooth FM
 https://stream-icy.bauermedia.pt/smooth.mp3
