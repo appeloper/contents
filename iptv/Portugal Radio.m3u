@@ -135,10 +135,10 @@ https://stream-hls.rayo.pt/m80topone.aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hLdfPxTAXc.png" group-title="Radio PT" radio="true",Marginal
 https://radios.justweb.pt/8034/stream
 
-#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/logo_megafm_new.png" group-title="Radio PT" radio="true",Mega Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/be/Log%C3%B3tipo_da_Mega_Hits.png" group-title="Radio PT" radio="true",Mega Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITSAAC.aac
 
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/e/5/de5c79b747e468a8a7718608927a8bcd_icon.png" group-title="Radio PT" radio="true",Meo Sudoeste
+#EXTINF:-1 tvg-logo="https://www.radio.pt/300/meosudoeste.png" group-title="Radio PT" radio="true",Meo Sudoeste
 http://centova.radios.pt:8495/stream/1/
 
 #EXTINF:-1 tvg-logo="https://radionoar.pt/wp-content/uploads/2024/02/RadioNoAr_LOGO-BRANCO-copy-2.png" group-title="Radio PT" radio="true",No Ar 107.8 FM
@@ -210,7 +210,7 @@ https://22353.live.streamtheworld.com/RFM_LATINASAAC.aac
 #EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Novas_sharefb.jpg" group-title="Radio PT" radio="true",RFM Novas
 https://25283.live.streamtheworld.com/RFM_FRESCASAAC.aac
 
-#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Oceano-Pacifico_sharefb.jpg" group-title="Radio PT" radio="true",RFM Oceano Pacifico
+#EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Oceano-pacifico_sharefb.jpg" group-title="Radio PT" radio="true",RFM Oceano Pacifico
 https://playerservices.streamtheworld.com/api/livestream-redirect/OCEANPACIFICAAC_SC
 
 #EXTINF:-1 tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/RFM-Rocks_sharefb.jpg" group-title="Radio PT" radio="true",RFM Rock
@@ -225,7 +225,7 @@ https://cast2.hoost.com.br:20063/stream
 #EXTINF:-1 tvg-logo="https://radiosines.sapo.pt/assets/dist/img/logo_xmas.png" group-title="Radio PT" radio="true",Sines (Stream Radio PT)
 https://cdn146-fra.azotosolutions.com:8443/cdnedge19/smil:live19.smil/chunklist_w625149255_b4692000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/8d7c165452658fc0d38a56a4133c82f6.jpg" group-title="Radio PT" radio="true",Smooth FM
+#EXTINF:-1 tvg-logo="https://myradioonline.pt/public/uploads/radio_img/smooth-fm/fb_cover.jpg" group-title="Radio PT" radio="true",Smooth FM
 https://stream-icy.bauermedia.pt/smooth.mp3
 
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/UpAScsBkG7.png" group-title="Radio PT" radio="true",Toca a Dançar
