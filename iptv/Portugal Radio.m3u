@@ -4,7 +4,7 @@
 http://rs2.ptservidor.com:8003/stream?type=.mp3
 
 #EXTINF:-1 tvg-logo="http://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png" group-title="Radio PT" radio="true",A Radio Rock - Super FM
-https://play.radioregional.pt:8210/stream/2/;/stream.mp3
+https://play.radioregional.pt:8210/stream/2/;
 
 #EXTINF:-1 tvg-logo="http://www.amalia.fm/wp-content/uploads/2014/08/radioamalialogo.png" group-title="Radio PT" radio="true",Amália
 http://link.radios.pt/amalia?1487014253471.mp3
