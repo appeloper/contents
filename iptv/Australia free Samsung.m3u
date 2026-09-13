@@ -6,9 +6,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau
 #EXTINF:-1 tvg-id="" tvg-logo="",Breaking News by LeadStory
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",Baywatch
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",The Wicked Tuna Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
 
@@ -33,9 +30,6 @@ https://all3media-four-in-a-bed-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",History Hit Channel
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",WaterBear
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungau/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",Naturetime
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 
@@ -56,9 +50,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Mytime Movie Network
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Entertainment Hub
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01447-samsungau-enthub-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Failarmy
 https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
@@ -90,9 +81,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-sams
 #EXTINF:-1 tvg-id="" tvg-logo="",INWILD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",Tastemade International
-https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="",Travel XP
 https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
 
@@ -119,27 +107,6 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Stingray Naturescape (Temp from Xiaomi)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6280
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Vevo Pop
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Vevo Retro Rock
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Vevo 2K
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Vevo Country
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Vevo 70s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Vevo 80s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Vevo 90s
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Stingray Karaoke (Temp from Xiaomi)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6281
