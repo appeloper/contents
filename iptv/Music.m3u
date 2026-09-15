@@ -34,7 +34,7 @@ https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/chunklist.
 http://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/06/Brit-Asia-TV-logo.jpg" group-title="Music",Brit Asia TV
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/18183450-d1b3-4028-937b-1627126f0e16/0.m3u8
+https://hls.autopo.st/hls/britasiatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://feedlix.net/tv/es/cadena_elite.png" group-title="Music",Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
@@ -55,7 +55,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
 #EXTINF:-1 tvg-id="DanceTVChillAF.ee" tvg-logo="https://www.dancetv.net/img/icons/channels/chill-af.jpg" group-title="Music",DanceTV Chill AF Downtempo
-ttps://mbit1.worldcast.tv:9443/dancetelevisioneight/stream_0.m3u8
+https://mbit1.worldcast.tv:9443/dancetelevisioneight/stream_0.m3u8
 
 #EXTINF:-1 tvg-id="DanceTVDeepHouseDistrict.ee" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music",DanceTV Deep House District
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
@@ -63,14 +63,14 @@ https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="DanceTVHouseFloor.ee" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music",DanceTV House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 
-#EXTINF:-1 tvg-id="DanceTVEDMMainstage.ee" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music",DanceTV Mainstream EDM
-https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+#EXTINF:-1 tvg-id="DanceTVEDMMainstage.ee" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music",DanceTV Mainstade
+https://mbit1.worldcast.tv:9443/dancetelevisionseven/stream_1.m3u8
 
 #EXTINF:-1 tvg-id="DanceTVMelodicTech.ee" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music",DanceTV Melodic Tech
 https://mbit1.worldcast.tv:9443/dancetelevisionnine/stream_0.m3u8
 
 #EXTINF:-1 tvg-id="DanceTVMinimalTech.ee" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music",DanceTV Minimal Tech
-https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+https://mbit1.worldcast.tv:9443/dancetelevisionsix/stream_1.m3u8
 
 #EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee" tvg-logo="https://www.dancetv.net/img/icons/channels/algorhythm.jpg" group-title="Music",DanceTV Tech House Terrace
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
@@ -90,23 +90,14 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw528_sh297_sx0_sy179_sr16x9_nu2/picture/original/2024/06/dlx-rap-406432.png" group-title="Music",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.allaccess.com/assets/img/editorial/raw/di/dittytvlogo2019.jpg" group-title="Music",Ditty TV
-https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fevatv.com/wp-content/uploads/2022/08/feva-cover.png" group-title="Music",Feva Music
 https://d2y0xw9ugf4if7.cloudfront.net/scheduler/scheduleMaster/417.m3u8
-
-#EXTINF:-1 tvg-id="flamenco-auditorio" tvg-name="Flamenco Auditorio" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/02365da1-268e-42e2-8fe2-5d6486ac5ddc.jpeg" group-title="Music",Flamenco Auditorio
-https://daiconnect.com/live/hls/tvup/rk-flamenco/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5965&ads_rtv_content_language=spa&ads_streaming_id=0ffbd01f-e516-4d80-ba70-92def2dfbea7&ads_tcs_channel_id=5127&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/cf/cfc082217e29c2e541f5985ac000fa29.jpeg" group-title="Music",FS1 TV HD
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/immagini/jukebox-tv.jpg" group-title="Music",Jukebox Radio TV
 https://5926fc9c7c5b2.streamlock.net/9108/9108/chunklist_w191251077.m3u8
-
-#EXTINF:-1 tvg-logo="https://feedlix.net/tv/mus/karibena.png" group-title="Music" group-title="Music",Karibeña TV
-https://luna-1-video.mediaserver.digital/karibenatv_685a-pe-a5676-584412/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/82/Kiss_TV_%282014-.n.v.%29.png" group-title="Music",Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
@@ -163,7 +154,7 @@ https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1574980809127141376/sTw4-M6__400x400.jpg" group-title="Music",New KPOP
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+https://d3fo5l6kdk2w79.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-to32qiaqd9f4c/ca31abe3-2fcc-47eb-a5eb-6cd0236a9789/0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/NOW_70s.png" group-title="Music",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
@@ -240,9 +231,6 @@ https://stream3.xdevel.com/video0s975521-196/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://storiaradiotv.files.wordpress.com/2017/11/radio-stereo-5.jpg" group-title="Music",Radio TV Stereo 5
 https://stream1.aswifi.it/stereo5/live/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiou.com/wp-content/uploads/2014/07/LogoFullsize140724-300x300.jpg" group-title="Music",Radio U TV
-https://1840571692.rsc.cdn77.org/1840571692/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="Music",Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -250,7 +238,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_8.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_ndlOHVEr0utSM2aG9C1iCvG-OYKj83xXQyR6Y55DKt9A=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Rockola tv
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/RRGB35Q/6BF095EB3851/m.m3u8
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/3e36d2cc-fee9-4c79-9ee6-8d7c2431b15b/4.m3u8
 
 #EXTINF:-1 tvg-name="Rock TV" tvg-id="ITBC1100011RK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png" group-title="Music",ROCK TV
 https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
@@ -290,9 +278,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8
 
 #EXTINF:-1 channel-id="73991aa61267bcc005a855c7b6303afc" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/73991aa61267bcc005a855c7b6303afc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260327511_StingrayCityscapes_HUDlogo_centered_260x147.png" group-title="Music",Stingray Cityscapes
 https://jmp2.uk/rok-73991aa61267bcc005a855c7b6303afc.m3u8
-
-#EXTINF:-1 channel-id="f8f717f72440fb688192f83faa71a8ab" tvg-id="f8f717f72440fb688192f83faa71a8ab" tvg-chno="1073"  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f8f717f72440fb688192f83faa71a8ab/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260347726_CozyCafe_HUDlogo_centered_260x147.png" group-title="Music",Stingray Cozy Cafe
-https://jmp2.uk/rok-f8f717f72440fb688192f83faa71a8ab.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002623_20240401T235649SQUARE.png" group-title="Music",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
@@ -357,9 +342,6 @@ https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20240401T235710SQUARE.png" group-title="Music",Stingray Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 channel-id="8b564fb868f8f1d49a1986123724ef18" tvg-id="8b564fb868f8f1d49a1986123724ef18" tvg-chno="1072" tvg-name="Stingray Stargaze" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8b564fb868f8f1d49a1986123724ef18/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260428060_StingrayStargaze_HUDlogo_centered_260x147.png" group-title="Music",Stingray Stargaze
-https://jmp2.uk/rok-8b564fb868f8f1d49a1986123724ef18.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200032N6_20240227T221221SQUARE.png_20240227221222.png" group-title="Music",Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 
@@ -371,9 +353,6 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-62ee72cc271f393d2d9f7098" tvg-id="647f8d22a2fc3fadb4721685-62ee72cc271f393d2d9f7098" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca8ce15a-6f58-4602-9d8c-d66bb894d7a2/Y2K.png" group-title="Music",Stingray Y2K
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62ee72cc271f393d2d9f7098.m3u8
-
-#EXTINF:-1 channel-id="79876f8f79d0394ba8982259393e5e32" tvg-id="79876f8f79d0394ba8982259393e5e32" tvg-chno="1071" tvg-name="Stingray Zen Life" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/79876f8f79d0394ba8982259393e5e32/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750260443435_StingrayZENlife_HUDlogo_centered_260x147.png" group-title="Music",Stingray Zen Life
-https://jmp2.uk/rok-79876f8f79d0394ba8982259393e5e32.m3u8
 
 #EXTINF:-1 channel-id="pluto-6568a78d635c3c0008765f41" tvg-id="6568a78d635c3c0008765f41" tvg-logo="https://images.pluto.tv/channels/6568a78d635c3c0008765f41/colorLogoPNG.png" group-title="Music",Thats Rock
 https://jmp2.uk/plu-6568a78d635c3c0008765f41.m3u8
@@ -411,14 +390,8 @@ https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
 #EXTINF:-1 channel-id="5da0d75e84830900098a1ea0-us" tvg-id="5da0d75e84830900098a1ea0" tvg-chno="4700" tvg-name="Vevo Country" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Music",Vevo Country
 https://jmp2.uk/plu-5da0d75e84830900098a1ea0.m3u8
 
-#EXTINF:-1 channel-id="8dc44c8fdea45f039c68f75bda233850" tvg-id="8dc44c8fdea45f039c68f75bda233850" tvg-chno="1136" tvg-name="Vevo Hip-Hop" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8dc44c8fdea45f039c68f75bda233850/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113465461_Info_HUD_Logo_260X147_center_%25283%2529.png" group-title="Music",Vevo Hip-Hop
-https://jmp2.uk/rok-8dc44c8fdea45f039c68f75bda233850.m3u8
-
 #EXTINF:-1 channel-id="64d161c93c785e0008df575e-us" tvg-id="64d161c93c785e0008df575e" tvg-chno="4590" tvg-name="Vevo Íconos Latinos" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" group-title="Music",Vevo Íconos Latinos
 https://jmp2.uk/plu-64d161c93c785e0008df575e.m3u8
-
-#EXTINF:-1 channel-id="0d5283959d3a59bf87411e7077fd9e58" tvg-id="0d5283959d3a59bf87411e7077fd9e58" tvg-chno="1103" tvg-name="Vevo Latino" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0d5283959d3a59bf87411e7077fd9e58/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113444761_Info_HUD_Logo_260X147_center_%252815%2529.png" group-title="Music",Vevo Latino
-https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8
 
 #EXTINF:-1 channel-id="5d93b635b43dd1a399b39eee-us" tvg-id="5d93b635b43dd1a399b39eee" tvg-chno="4760" tvg-name="Vevo Pop" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music",Vevo Pop
 https://jmp2.uk/plu-5d93b635b43dd1a399b39eee.m3u8
@@ -428,9 +401,6 @@ https://jmp2.uk/plu-5da0d83f66c9700009b96d0e.m3u8
 
 #EXTINF:-1 channel-id="64dab5fe35425100080e2991-us" tvg-id="64dab5fe35425100080e2991" tvg-chno="4580" tvg-name="Vevo Regional Mexicano" tvg-logo="https://images.pluto.tv/channels/64dab5fe35425100080e2991/colorLogoPNG.png" group-title="Music",Vevo Regional Mexicano
 https://jmp2.uk/plu-64dab5fe35425100080e2991.m3u8
-
-#EXTINF:-1 channel-id="60db737695c95b599dad50d2c5595fe3" tvg-id="60db737695c95b599dad50d2c5595fe3" tvg-chno="1101" tvg-name="Vevo Reggaeton & Trap" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/60db737695c95b599dad50d2c5595fe3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113591743_Info_HUD_Logo_260X147_center_%25281%2529_%25281%2529.png" group-title="Music",Vevo Reggaeton & Trap
-https://jmp2.uk/rok-60db737695c95b599dad50d2c5595fe3.m3u8
 
 #EXTINF:-1 channel-id="61d4b38226b8a50007fe03a6-us" tvg-id="61d4b38226b8a50007fe03a6" tvg-chno="4740" tvg-name="Vevo Rock" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG_1748797615724.png" group-title="Music",Vevo Rock
 https://jmp2.uk/plu-61d4b38226b8a50007fe03a6.m3u8
